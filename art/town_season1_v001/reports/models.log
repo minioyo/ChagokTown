@@ -1,0 +1,82 @@
+BlenderMCP addon registered
+BlenderMCP addon unregistered
+INFO Draco is available, use library at C:\Users\hy\AppData\Local\Programs\Blender Foundation\blender-5.2.3-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at C:\Users\hy\AppData\Local\Programs\Blender Foundation\blender-5.2.3-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+23:57:29 | INFO: Starting glTF 2.0 export
+23:57:29 | INFO: Extracting primitive: Cube.054
+23:57:29 | INFO: Primitives created: 1
+23:57:29 | INFO: Finished glTF 2.0 export in 0.02498626708984375 s
+00:01.750  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+
+MODEL_COMPLETE cathedral_level_1 2100
+23:57:32 | INFO: Starting glTF 2.0 export
+23:57:32 | INFO: Extracting primitive: Cube.290
+23:57:32 | INFO: Primitives created: 1
+23:57:32 | INFO: Finished glTF 2.0 export in 0.025922298431396484 s
+
+MODEL_COMPLETE cathedral_level_2 5718
+23:57:35 | INFO: Starting glTF 2.0 export
+23:57:35 | INFO: Extracting primitive: Cube.696
+23:57:35 | INFO: Primitives created: 1
+23:57:35 | INFO: Finished glTF 2.0 export in 0.0707693099975586 s
+
+MODEL_COMPLETE cathedral_level_3 6730
+23:57:36 | INFO: Starting glTF 2.0 export
+23:57:36 | INFO: Extracting primitive: Cube.1005
+23:57:36 | INFO: Primitives created: 1
+23:57:36 | INFO: Finished glTF 2.0 export in 0.05967211723327637 s
+
+MODEL_COMPLETE inn_level_1 2316
+23:57:38 | INFO: Starting glTF 2.0 export
+23:57:38 | INFO: Extracting primitive: Cube.1266
+23:57:38 | INFO: Primitives created: 1
+23:57:38 | INFO: Finished glTF 2.0 export in 0.07594513893127441 s
+
+MODEL_COMPLETE inn_level_2 4140
+23:57:40 | INFO: Starting glTF 2.0 export
+23:57:41 | INFO: Extracting primitive: Cube.1632
+23:57:41 | INFO: Primitives created: 1
+23:57:41 | INFO: Finished glTF 2.0 export in 0.09785151481628418 s
+
+MODEL_COMPLETE inn_level_3 4532
+23:57:41 | INFO: Starting glTF 2.0 export
+23:57:41 | INFO: Extracting primitive: Cube.1900
+23:57:41 | INFO: Primitives created: 1
+23:57:41 | INFO: Finished glTF 2.0 export in 0.10656142234802246 s
+
+MODEL_COMPLETE watermill_level_1 2580
+23:57:43 | INFO: Starting glTF 2.0 export
+23:57:43 | INFO: Extracting primitive: Cube.2103
+23:57:43 | INFO: Primitives created: 1
+23:57:43 | INFO: Finished glTF 2.0 export in 0.12168288230895996 s
+
+MODEL_COMPLETE watermill_level_2 3944
+23:57:46 | INFO: Starting glTF 2.0 export
+23:57:47 | INFO: Extracting primitive: Cube.2393
+23:57:47 | INFO: Primitives created: 1
+23:57:47 | INFO: Finished glTF 2.0 export in 0.14624619483947754 s
+
+MODEL_COMPLETE watermill_level_3 4776
+23:57:47 | INFO: Starting glTF 2.0 export
+23:57:47 | INFO: Extracting primitive: Cube.2634
+23:57:47 | INFO: Primitives created: 1
+23:57:47 | INFO: Finished glTF 2.0 export in 0.14183688163757324 s
+
+MODEL_COMPLETE farmstead_level_1 2272
+23:57:49 | INFO: Starting glTF 2.0 export
+23:57:49 | INFO: Extracting primitive: Cube.2844
+23:57:49 | INFO: Primitives created: 1
+23:57:50 | INFO: Finished glTF 2.0 export in 0.17226433753967285 s
+
+MODEL_COMPLETE farmstead_level_2 3824
+23:57:54 | INFO: Starting glTF 2.0 export
+23:57:54 | INFO: Extracting primitive: Cube.3181
+23:57:54 | INFO: Primitives created: 1
+23:57:54 | INFO: Finished glTF 2.0 export in 0.19223594665527344 s
+
+MODEL_COMPLETE farmstead_level_3 5884
+Info: Saved as "season1_models.blend"
+TWELVE_MODELS_COMPLETE
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

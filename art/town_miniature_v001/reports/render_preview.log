@@ -1,0 +1,28 @@
+00:00.703  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_miniature_v001\blend\chagok_town_miniature_v001.blend"
+BlenderMCP addon registered
+REOPEN_OK 839 objects
+00:00.828  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+RENDER_DEVICE GPU [('NVIDIA GeForce RTX 3060', 'CUDA', True), ('AMD Ryzen 7 5800X 8-Core Processor', 'CPU', False), ('NVIDIA GeForce RTX 3060', 'OPTIX', True)]
+00:14.453  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_miniature_v001\renders\01_diorama.png'
+RENDERED 01_diorama.png
+00:28.125  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_miniature_v001\renders\02_diorama_reverse.png'
+RENDERED 02_diorama_reverse.png
+00:33.031  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_miniature_v001\renders\asset_house.png'
+RENDERED asset_house.png
+00:37.813  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_miniature_v001\renders\asset_cafe.png'
+RENDERED asset_cafe.png
+00:42.938  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_miniature_v001\renders\asset_flower_shop.png'
+RENDERED asset_flower_shop.png
+00:47.375  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_miniature_v001\renders\asset_round_tree.png'
+RENDERED asset_round_tree.png
+00:51.906  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_miniature_v001\renders\asset_wood_bench.png'
+RENDERED asset_wood_bench.png
+00:56.188  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_miniature_v001\renders\asset_street_lamp.png'
+RENDERED asset_street_lamp.png
+01:10.750  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_miniature_v001\renders\03_asset_set.png'
+RENDERED 03_asset_set.png
+RENDER_BATCH_COMPLETE all
+BlenderMCP addon unregistered
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

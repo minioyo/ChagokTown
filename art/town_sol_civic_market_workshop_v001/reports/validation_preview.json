@@ -1,0 +1,463 @@
+{
+  "blend_reopened": true,
+  "source_scenes": 24,
+  "protected_files_unchanged": 146,
+  "font_objects": 0,
+  "brown_window_backing_objects": 0,
+  "models": {
+    "town_hall_level_1": {
+      "reimport_passed": true,
+      "triangles": 3360,
+      "meshes": 1,
+      "materials": 1,
+      "primitives": 1,
+      "vertex_color_count": 8,
+      "palette_matches_source": true,
+      "per_corner_color_matches_source": true,
+      "geometry_and_winding_match_source": true,
+      "raw_glb_normals_finite_and_unit": true,
+      "normal_length_min": 0.9999999405881617,
+      "normal_length_max": 1.000000120382225,
+      "imported_normals_finite_and_unit": true,
+      "degenerate_triangles": 0,
+      "source_outward_closed_components": 85,
+      "bounds_error_m": 0.0,
+      "ground_error_m": 0.0,
+      "bounds_min": [
+        -1.6150000095367432,
+        -1.625,
+        0.0
+      ],
+      "bounds_max": [
+        1.7049999237060547,
+        1.3650001287460327,
+        3.1500000953674316
+      ],
+      "common_lot_passed": true,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions_m": [
+        3.319999933242798,
+        2.9900001287460327,
+        3.1500000953674316
+      ],
+      "opaque": true,
+      "backface_culling": true,
+      "textures": 0,
+      "bytes": 202044,
+      "sha256": "7768cf4de4a6acb2f6ea896557174343d09b2ae5967789e548b662dd66e9e2b6"
+    },
+    "grocer_level_1": {
+      "reimport_passed": true,
+      "triangles": 3336,
+      "meshes": 1,
+      "materials": 1,
+      "primitives": 1,
+      "vertex_color_count": 14,
+      "palette_matches_source": true,
+      "per_corner_color_matches_source": true,
+      "geometry_and_winding_match_source": true,
+      "raw_glb_normals_finite_and_unit": true,
+      "normal_length_min": 0.9999999327832795,
+      "normal_length_max": 1.0000001315682359,
+      "imported_normals_finite_and_unit": true,
+      "degenerate_triangles": 0,
+      "source_outward_closed_components": 64,
+      "bounds_error_m": 0.0,
+      "ground_error_m": 0.0,
+      "bounds_min": [
+        -1.659999966621399,
+        -1.6050000190734863,
+        0.0
+      ],
+      "bounds_max": [
+        1.774999976158142,
+        1.3400001525878906,
+        2.5834500789642334
+      ],
+      "common_lot_passed": true,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions_m": [
+        3.434999942779541,
+        2.945000171661377,
+        2.5834500789642334
+      ],
+      "opaque": true,
+      "backface_culling": true,
+      "textures": 0,
+      "bytes": 185004,
+      "sha256": "e2c6fef2fd0acffc5b4a13afece12d6f883b4ddcb24c4a97909a7354b247cc61"
+    },
+    "workshop_level_1": {
+      "reimport_passed": true,
+      "triangles": 2660,
+      "meshes": 1,
+      "materials": 1,
+      "primitives": 1,
+      "vertex_color_count": 11,
+      "palette_matches_source": true,
+      "per_corner_color_matches_source": true,
+      "geometry_and_winding_match_source": true,
+      "raw_glb_normals_finite_and_unit": true,
+      "normal_length_min": 0.9999999194010755,
+      "normal_length_max": 1.0000001085236288,
+      "imported_normals_finite_and_unit": true,
+      "degenerate_triangles": 0,
+      "source_outward_closed_components": 65,
+      "bounds_error_m": 0.0,
+      "ground_error_m": 0.0,
+      "bounds_min": [
+        -1.4598586559295654,
+        -1.6200000047683716,
+        0.0
+      ],
+      "bounds_max": [
+        1.5150001049041748,
+        1.3650001287460327,
+        3.0950000286102295
+      ],
+      "common_lot_passed": true,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions_m": [
+        2.9748587608337402,
+        2.9850001335144043,
+        3.0950000286102295
+      ],
+      "opaque": true,
+      "backface_culling": true,
+      "textures": 0,
+      "bytes": 161288,
+      "sha256": "1c1ea39e3fea027e4ca0c03400c0917257c67ae2356a9662a6c75709c39f5a8c"
+    },
+    "town_hall_level_2": {
+      "reimport_passed": true,
+      "triangles": 4020,
+      "meshes": 1,
+      "materials": 1,
+      "primitives": 1,
+      "vertex_color_count": 10,
+      "palette_matches_source": true,
+      "per_corner_color_matches_source": true,
+      "geometry_and_winding_match_source": true,
+      "raw_glb_normals_finite_and_unit": true,
+      "normal_length_min": 0.9999999401907869,
+      "normal_length_max": 1.000000120382225,
+      "imported_normals_finite_and_unit": true,
+      "degenerate_triangles": 0,
+      "source_outward_closed_components": 104,
+      "bounds_error_m": 0.0,
+      "ground_error_m": 0.0,
+      "bounds_min": [
+        -1.815000057220459,
+        -2.244999885559082,
+        0.0
+      ],
+      "bounds_max": [
+        1.9049999713897705,
+        1.4450000524520874,
+        3.4200000762939453
+      ],
+      "common_lot_passed": true,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions_m": [
+        3.7200000286102295,
+        3.6899999380111694,
+        3.4200000762939453
+      ],
+      "opaque": true,
+      "backface_culling": true,
+      "textures": 0,
+      "bytes": 241040,
+      "sha256": "f5e30683594c249f1061f3e4189cdff60c760defd092eec1be8bf1da0f3cde82"
+    },
+    "grocer_level_2": {
+      "reimport_passed": true,
+      "triangles": 4932,
+      "meshes": 1,
+      "materials": 1,
+      "primitives": 1,
+      "vertex_color_count": 15,
+      "palette_matches_source": true,
+      "per_corner_color_matches_source": true,
+      "geometry_and_winding_match_source": true,
+      "raw_glb_normals_finite_and_unit": true,
+      "normal_length_min": 0.9999999459829562,
+      "normal_length_max": 1.0000001315682359,
+      "imported_normals_finite_and_unit": true,
+      "degenerate_triangles": 0,
+      "source_outward_closed_components": 95,
+      "bounds_error_m": 0.0,
+      "ground_error_m": 0.0,
+      "bounds_min": [
+        -1.8899999856948853,
+        -2.5399999618530273,
+        0.0
+      ],
+      "bounds_max": [
+        1.9499999284744263,
+        1.4250000715255737,
+        2.6944689750671387
+      ],
+      "common_lot_passed": true,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions_m": [
+        3.8399999141693115,
+        3.965000033378601,
+        2.6944689750671387
+      ],
+      "opaque": true,
+      "backface_culling": true,
+      "textures": 0,
+      "bytes": 269952,
+      "sha256": "48f6d6a8bf5c1b7b9baa0469ea7a154c0c8227d90dd688c5ace81e3ccadfef67"
+    },
+    "workshop_level_2": {
+      "reimport_passed": true,
+      "triangles": 3320,
+      "meshes": 1,
+      "materials": 1,
+      "primitives": 1,
+      "vertex_color_count": 13,
+      "palette_matches_source": true,
+      "per_corner_color_matches_source": true,
+      "geometry_and_winding_match_source": true,
+      "raw_glb_normals_finite_and_unit": true,
+      "normal_length_min": 0.9999999396491104,
+      "normal_length_max": 1.0000001085236288,
+      "imported_normals_finite_and_unit": true,
+      "degenerate_triangles": 0,
+      "source_outward_closed_components": 80,
+      "bounds_error_m": 0.0,
+      "ground_error_m": 0.0,
+      "bounds_min": [
+        -1.6749999523162842,
+        -2.444999933242798,
+        0.0
+      ],
+      "bounds_max": [
+        1.6749999523162842,
+        1.4250000715255737,
+        3.2350001335144043
+      ],
+      "common_lot_passed": true,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions_m": [
+        3.3499999046325684,
+        3.8700000047683716,
+        3.2350001335144043
+      ],
+      "opaque": true,
+      "backface_culling": true,
+      "textures": 0,
+      "bytes": 200888,
+      "sha256": "5f21644678293071b92af5e0081a8a51b847e1093a6b06c6d7c37706d39cdf28"
+    },
+    "town_hall_level_3": {
+      "reimport_passed": true,
+      "triangles": 6516,
+      "meshes": 1,
+      "materials": 1,
+      "primitives": 1,
+      "vertex_color_count": 10,
+      "palette_matches_source": true,
+      "per_corner_color_matches_source": true,
+      "geometry_and_winding_match_source": true,
+      "raw_glb_normals_finite_and_unit": true,
+      "normal_length_min": 0.9999999187899451,
+      "normal_length_max": 1.000000120382225,
+      "imported_normals_finite_and_unit": true,
+      "degenerate_triangles": 0,
+      "source_outward_closed_components": 151,
+      "bounds_error_m": 0.0,
+      "ground_error_m": 0.0,
+      "bounds_min": [
+        -1.8900001049041748,
+        -2.2850000858306885,
+        0.0
+      ],
+      "bounds_max": [
+        1.9800000190734863,
+        1.4850001335144043,
+        5.509999752044678
+      ],
+      "common_lot_passed": true,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions_m": [
+        3.870000123977661,
+        3.7700002193450928,
+        5.509999752044678
+      ],
+      "opaque": true,
+      "backface_culling": true,
+      "textures": 0,
+      "bytes": 383792,
+      "sha256": "37229a7bd8a10afdcef84de230394554240ce7beb24787ad39948aa568643757"
+    },
+    "grocer_level_3": {
+      "reimport_passed": true,
+      "triangles": 6664,
+      "meshes": 1,
+      "materials": 1,
+      "primitives": 1,
+      "vertex_color_count": 16,
+      "palette_matches_source": true,
+      "per_corner_color_matches_source": true,
+      "geometry_and_winding_match_source": true,
+      "raw_glb_normals_finite_and_unit": true,
+      "normal_length_min": 0.9999999420422697,
+      "normal_length_max": 1.0000001315682359,
+      "imported_normals_finite_and_unit": true,
+      "degenerate_triangles": 0,
+      "source_outward_closed_components": 129,
+      "bounds_error_m": 0.0,
+      "ground_error_m": 0.0,
+      "bounds_min": [
+        -1.8899999856948853,
+        -2.5899999141693115,
+        0.0
+      ],
+      "bounds_max": [
+        1.9900000095367432,
+        1.4750001430511475,
+        3.920423984527588
+      ],
+      "common_lot_passed": true,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions_m": [
+        3.8799999952316284,
+        4.065000057220459,
+        3.920423984527588
+      ],
+      "opaque": true,
+      "backface_culling": true,
+      "textures": 0,
+      "bytes": 365484,
+      "sha256": "716d97cc401e8664f6b627f764937cae5b31f1823e7d0633b99aaa38c2fe4c4b"
+    },
+    "workshop_level_3": {
+      "reimport_passed": true,
+      "triangles": 5448,
+      "meshes": 1,
+      "materials": 1,
+      "primitives": 1,
+      "vertex_color_count": 14,
+      "palette_matches_source": true,
+      "per_corner_color_matches_source": true,
+      "geometry_and_winding_match_source": true,
+      "raw_glb_normals_finite_and_unit": true,
+      "normal_length_min": 0.9999999326425519,
+      "normal_length_max": 1.0000001123186495,
+      "imported_normals_finite_and_unit": true,
+      "degenerate_triangles": 0,
+      "source_outward_closed_components": 128,
+      "bounds_error_m": 0.0,
+      "ground_error_m": 0.0,
+      "bounds_min": [
+        -1.9650001525878906,
+        -2.505000114440918,
+        0.0
+      ],
+      "bounds_max": [
+        2.2950000762939453,
+        1.4850001335144043,
+        4.081117630004883
+      ],
+      "common_lot_passed": true,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions_m": [
+        4.260000228881836,
+        3.9900002479553223,
+        4.081117630004883
+      ],
+      "opaque": true,
+      "backface_culling": true,
+      "textures": 0,
+      "bytes": 329640,
+      "sha256": "c5a0cd9b58118e03d2874830babafbdcacfa17b90ebcb6e8bc42173bfc0f5893"
+    }
+  },
+  "renders_use_delivered_glbs": true,
+  "all_passed": true,
+  "render_device": "GPU",
+  "preview_only": true
+}

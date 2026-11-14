@@ -1,0 +1,154 @@
+{
+  "raw": "art\\raw\\taeo\\taeo_neutral_v002.png",
+  "export": "art\\export\\taeo\\taeo_neutral_v002.png",
+  "source": "art\\source\\taeo\\taeo_neutral_v002.aseprite",
+  "size": [
+    1024,
+    1536
+  ],
+  "png_mode": "RGBA",
+  "aseprite_header": {
+    "frames": 1,
+    "width": 1024,
+    "height": 1536,
+    "color_depth_bits": 32
+  },
+  "alpha_range": [
+    0,
+    254
+  ],
+  "alpha_changed_pixels": 0,
+  "visible_rgba_changed_pixels": 0,
+  "fully_transparent_rgb_changed_pixels": 0,
+  "all_rgba_bytes_equal": true,
+  "fully_transparent_pixels": 1138867,
+  "partly_transparent_pixels": 433997,
+  "fully_opaque_pixels": 0,
+  "distinct_alpha_values": 255,
+  "alpha_bounds": {
+    "1": [
+      0,
+      35,
+      912,
+      1456
+    ],
+    "8": [
+      225,
+      231,
+      784,
+      1454
+    ],
+    "128": [
+      226,
+      232,
+      783,
+      1453
+    ],
+    "250": [
+      229,
+      233,
+      782,
+      1452
+    ]
+  },
+  "corner_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "png_metadata_keys": [
+    "srgb"
+  ],
+  "sha256": {
+    "art\\raw\\taeo\\taeo_neutral_v002.png": "0f8759deed27f26a337190d24c5833e3255b4a246b070b55220afed1442960b5",
+    "art\\source\\taeo\\taeo_neutral_v002.aseprite": "47ce3cd2da56b497bd2a7ecedd330835cf3a83c3c1a5b50402168e591bc382a4",
+    "art\\export\\taeo\\taeo_neutral_v002.png": "73550a87763e19e254dbee3b0801531f13565dc0fe3194c6447c6e720bcedce0"
+  },
+  "color_samples": {
+    "hair": {
+      "xy": [
+        512,
+        350
+      ],
+      "rgba": [
+        74,
+        65,
+        71,
+        254
+      ]
+    },
+    "skin": {
+      "xy": [
+        512,
+        600
+      ],
+      "rgba": [
+        252,
+        213,
+        184,
+        254
+      ]
+    },
+    "hoodie": {
+      "xy": [
+        400,
+        900
+      ],
+      "rgba": [
+        63,
+        62,
+        84,
+        253
+      ]
+    },
+    "headphone": {
+      "xy": [
+        460,
+        790
+      ],
+      "rgba": [
+        117,
+        108,
+        113,
+        253
+      ]
+    },
+    "trousers": {
+      "xy": [
+        580,
+        1220
+      ],
+      "rgba": [
+        109,
+        98,
+        105,
+        254
+      ]
+    },
+    "shoes": {
+      "xy": [
+        410,
+        1420
+      ],
+      "rgba": [
+        237,
+        224,
+        214,
+        253
+      ]
+    },
+    "outline": {
+      "xy": [
+        320,
+        900
+      ],
+      "rgba": [
+        26,
+        26,
+        27,
+        253
+      ]
+    }
+  }
+}

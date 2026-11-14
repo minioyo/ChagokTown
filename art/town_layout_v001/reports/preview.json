@@ -1,0 +1,211 @@
+{
+  "preview": true,
+  "source_glbs_unchanged": {
+    "town_house_florist_v001\\exports\\house_level_1.glb": "99c0262a63cdf07906b01026a8f3162a71877bfeca7f43977ec8f343a0e54eff",
+    "town_cafe_v003\\exports\\cafe_level_1.glb": "42258e14a3829c425361433dce8a7677d2817268ce71be154a7e97e8e362f0b1",
+    "town_house_florist_v001\\exports\\house_level_2.glb": "3091c4ea3d36df724421f75c0cdea04b8ca635cd4dadfbeb4efb2ffcc8309cdd",
+    "town_house_florist_v001\\exports\\florist_level_1.glb": "cc36005386ec5edd290a650b4a1745b5c4b52e421d375502223913432df055e8",
+    "town_sol_civic_market_workshop_v001\\exports\\town_hall_level_1.glb": "7768cf4de4a6acb2f6ea896557174343d09b2ae5967789e548b662dd66e9e2b6",
+    "town_sol_bakery_bookshop_v001\\exports\\bookshop_level_1.glb": "768c43cedad30a6e20a052cb1b20957262383edcfb62f4ff88a46c446a21fce0",
+    "town_cafe_v003\\exports\\cafe_level_2.glb": "f7fdcf503e0c19cbb4d483c0b29998f5976d909a7f5743749b6c369aea87cf68",
+    "town_sol_bakery_bookshop_v001\\exports\\bakery_level_2.glb": "9f4fe8052d2e056ec5aa5ca8041c9652a01eedc9ada3a9b06435eba50c5db230",
+    "town_house_florist_v001\\exports\\house_level_3.glb": "4bb6e3a5c5792d776f3249616bd2077f56863905834a5facbac9ceba928b74c8",
+    "town_house_florist_v001\\exports\\florist_level_3.glb": "e7959239d6a643c0c011bd5943b75a65219bce5e6de106cb287f402dc854533d",
+    "town_sol_civic_market_workshop_v001\\exports\\town_hall_level_3.glb": "37229a7bd8a10afdcef84de230394554240ce7beb24787ad39948aa568643757",
+    "town_sol_bakery_bookshop_v001\\exports\\bookshop_level_3.glb": "9e94f3a521bf15949b0f1a176d8e8968a256b0fc3b036a7a8d737124272c52d8",
+    "town_sol_civic_market_workshop_v001\\exports\\workshop_level_3.glb": "c5a0cd9b58118e03d2874830babafbdcacfa17b90ebcb6e8bc42173bfc0f5893",
+    "town_cafe_v003\\exports\\cafe_level_3.glb": "ac041e8d7f3772ba13902269dc840a879463b53112a9717ca9408eddbe66c5e3",
+    "town_sol_bakery_bookshop_v001\\exports\\bakery_level_3.glb": "c0705d78d7a2ef4b83542f8b9f20657d0fa1b0a667018e793676a8f3fde69c37",
+    "town_sol_civic_market_workshop_v001\\exports\\grocer_level_3.glb": "716d97cc401e8664f6b627f764937cae5b31f1823e7d0633b99aaa38c2fe4c4b"
+  },
+  "missing_models": [],
+  "render_device": "GPU",
+  "stages": {
+    "early": {
+      "building_and_garden": {
+        "mesh_objects": 20,
+        "triangles": 7980,
+        "vertices": 8043,
+        "materials": 4,
+        "bounds_min": [
+          -13.100000381469727,
+          -6.300000190734863,
+          -0.01000000536441803
+        ],
+        "bounds_max": [
+          11.0,
+          8.300000190734863,
+          3.325000047683716
+        ],
+        "dimensions": [
+          24.100000381469727,
+          14.600000381469727,
+          3.335000053048134
+        ]
+      },
+      "environment": {
+        "mesh_objects": 1,
+        "triangles": 12624,
+        "vertices": 7028,
+        "materials": 1,
+        "bounds_min": [
+          -18.600000381469727,
+          -12.699999809265137,
+          -1.1299999952316284
+        ],
+        "bounds_max": [
+          18.600000381469727,
+          13.300000190734863,
+          3.570000171661377
+        ],
+        "dimensions": [
+          37.20000076293945,
+          26.0,
+          4.700000166893005
+        ]
+      },
+      "slots": {
+        "home": 1,
+        "coffee": 1
+      }
+    },
+    "growing": {
+      "building_and_garden": {
+        "mesh_objects": 12,
+        "triangles": 24064,
+        "vertices": 27852,
+        "materials": 8,
+        "bounds_min": [
+          -13.100000381469727,
+          -6.420000076293945,
+          -0.01000000536441803
+        ],
+        "bounds_max": [
+          11.0,
+          8.765000343322754,
+          3.5840001106262207
+        ],
+        "dimensions": [
+          24.100000381469727,
+          15.1850004196167,
+          3.5940001159906387
+        ]
+      },
+      "environment": {
+        "mesh_objects": 1,
+        "triangles": 12624,
+        "vertices": 7028,
+        "materials": 1,
+        "bounds_min": [
+          -18.600000381469727,
+          -12.699999809265137,
+          -1.1299999952316284
+        ],
+        "bounds_max": [
+          18.600000381469727,
+          13.300000190734863,
+          3.570000171661377
+        ],
+        "dimensions": [
+          37.20000076293945,
+          26.0,
+          4.700000166893005
+        ]
+      },
+      "slots": {
+        "home": 2,
+        "flowers": 1,
+        "hall": 1,
+        "books": 1,
+        "coffee": 2,
+        "bread": 2
+      }
+    },
+    "mature": {
+      "building_and_garden": {
+        "mesh_objects": 8,
+        "triangles": 52464,
+        "vertices": 60954,
+        "materials": 8,
+        "bounds_min": [
+          -13.265000343322754,
+          -6.599999904632568,
+          -7.450580596923828e-09
+        ],
+        "bounds_max": [
+          11.1899995803833,
+          8.885000228881836,
+          5.509999752044678
+        ],
+        "dimensions": [
+          24.454999923706055,
+          15.485000133514404,
+          5.509999759495258
+        ]
+      },
+      "environment": {
+        "mesh_objects": 1,
+        "triangles": 12624,
+        "vertices": 7028,
+        "materials": 1,
+        "bounds_min": [
+          -18.600000381469727,
+          -12.699999809265137,
+          -1.1299999952316284
+        ],
+        "bounds_max": [
+          18.600000381469727,
+          13.300000190734863,
+          3.570000171661377
+        ],
+        "dimensions": [
+          37.20000076293945,
+          26.0,
+          4.700000166893005
+        ]
+      },
+      "slots": {
+        "home": 3,
+        "flowers": 3,
+        "hall": 3,
+        "books": 3,
+        "craft": 3,
+        "coffee": 3,
+        "bread": 3,
+        "market": 3
+      }
+    }
+  },
+  "environment_edit": {
+    "mesh_objects": 190,
+    "triangles": 12624,
+    "vertices": 7028,
+    "materials": 15,
+    "bounds_min": [
+      -18.600000381469727,
+      -12.699999809265137,
+      -1.1299999952316284
+    ],
+    "bounds_max": [
+      18.600000381469727,
+      13.300000190734863,
+      3.570000171661377
+    ],
+    "dimensions": [
+      37.20000076293945,
+      26.0,
+      4.700000166893005
+    ]
+  },
+  "environment_glb": {
+    "bytes": 617500,
+    "mesh_objects": 1,
+    "primitives": 1,
+    "materials": 1,
+    "triangles": 12624,
+    "vertices": 12277,
+    "textures": 0,
+    "all_primitives_have_vertex_color": true
+  },
+  "note": "Offline scene and geometry only. Android, Pleos and vehicle performance untested."
+}

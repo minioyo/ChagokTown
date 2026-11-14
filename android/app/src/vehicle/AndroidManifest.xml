@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Odometer read (a normal permission, confirmed on the Pleos Connect emulator). -->
+    <uses-permission android:name="pleos.car.permission.CAR_DRIVE" />
+    <!-- Location is read only when the user links the current place; requested at runtime when location is turned on. -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-feature android:name="android.hardware.type.automotive" android:required="true" />
+
+    <application>
+        <uses-library android:name="android.car" android:required="false" />
+    </application>
+</manifest>

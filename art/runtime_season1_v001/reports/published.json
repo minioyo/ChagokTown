@@ -1,0 +1,372 @@
+[
+  {
+    "path": "layout/season1_town.json",
+    "sha256": "e723c66ca7ad07c9e7d01f06d0db3ec2bc4e91315a087968ccb1899ef90ac091",
+    "bytes": 8392
+  },
+  {
+    "path": "models/season1_v001/bakery_level_1.glb",
+    "sha256": "05d8dc4d634dcf03c189aba39572d1a182101cb1b25f20b4e18ce3b93a780fa9",
+    "bytes": 145528
+  },
+  {
+    "path": "thumbnails/season1_v001/bakery_level_1.png",
+    "sha256": "c9d7238d3e2ea270fb96fb1abf7522100bcb2cfaee1f53a9f4b72c3f9be1e433",
+    "bytes": 63310
+  },
+  {
+    "path": "models/season1_v001/bakery_level_2.glb",
+    "sha256": "225673a82e44bc58654b5f5de9d77903d645eb62b21ecd33565730b81627ac21",
+    "bytes": 218812
+  },
+  {
+    "path": "thumbnails/season1_v001/bakery_level_2.png",
+    "sha256": "2282d6a7bc3daba936368e5b28cbe84f54b72f4be8b5bcb4569b1a16459fbbe5",
+    "bytes": 78520
+  },
+  {
+    "path": "models/season1_v001/bakery_level_3.glb",
+    "sha256": "0d7bdb5717ea18a0d62196390dd82a902428639fbd519475bd31dd59a58183d2",
+    "bytes": 292728
+  },
+  {
+    "path": "thumbnails/season1_v001/bakery_level_3.png",
+    "sha256": "865dd9793ff7ab298b1b1f824e84c7af0b9669d37072a0fe4c09eec1c664703a",
+    "bytes": 103659
+  },
+  {
+    "path": "models/season1_v001/bookshop_level_1.glb",
+    "sha256": "3fa8d6dba62b672469e90938b92b85bbd3995e0c710b416cef36362af59b0444",
+    "bytes": 116840
+  },
+  {
+    "path": "thumbnails/season1_v001/bookshop_level_1.png",
+    "sha256": "abb77036ef61b11249a4ba9ac087956c63bfc43abd0801765d4b7adf431d1477",
+    "bytes": 53804
+  },
+  {
+    "path": "models/season1_v001/bookshop_level_2.glb",
+    "sha256": "2ace3f0b4dbf3d74c4924a3793efa8188be7e0a9fc82954a67b1fe8cb0f290b4",
+    "bytes": 245340
+  },
+  {
+    "path": "thumbnails/season1_v001/bookshop_level_2.png",
+    "sha256": "070c48e34fcd9fdf7ff108081ac1afc71a40e5eb55a071a12b1b1212c3068c5c",
+    "bytes": 64736
+  },
+  {
+    "path": "models/season1_v001/bookshop_level_3.glb",
+    "sha256": "7c1ba786fb243b89c6817dae41610907e2eeed5a688971a57e0b9f8e08e41dd6",
+    "bytes": 339072
+  },
+  {
+    "path": "thumbnails/season1_v001/bookshop_level_3.png",
+    "sha256": "3af5e7822f8985c186a616bc84428752a3bce9f3d5dc475160d9d3532797b9fb",
+    "bytes": 87864
+  },
+  {
+    "path": "models/season1_v001/cafe_level_1.glb",
+    "sha256": "8155082268acf45ba659abad04ca70c7b352840a98d9421d63b34ebc215d3479",
+    "bytes": 132228
+  },
+  {
+    "path": "thumbnails/season1_v001/cafe_level_1.png",
+    "sha256": "c7558ebde2fb404ddc10c399475866a71ed6b9191f550e73eb98ae3f883b41ce",
+    "bytes": 65069
+  },
+  {
+    "path": "models/season1_v001/cafe_level_2.glb",
+    "sha256": "8bdfa2ee1ec81bdd25095cb39f162d3100d4c8858fdd9c45ff8053b57343c974",
+    "bytes": 218380
+  },
+  {
+    "path": "thumbnails/season1_v001/cafe_level_2.png",
+    "sha256": "1469fe8445ddbaed8ba61b62de556cb8e00bfcdc29bd1e01a8f638dd5c604931",
+    "bytes": 72596
+  },
+  {
+    "path": "models/season1_v001/cafe_level_3.glb",
+    "sha256": "86e32b221fd91dc2ab2680a6629e80a023af670592c0c4847a9e3349d433e856",
+    "bytes": 312340
+  },
+  {
+    "path": "thumbnails/season1_v001/cafe_level_3.png",
+    "sha256": "973e3f41da20520212aad9f7d31088e695668165fdc68ce330c2c0a42266848c",
+    "bytes": 104275
+  },
+  {
+    "path": "models/season1_v001/florist_level_1.glb",
+    "sha256": "faadad53008829a7de0f0952aa4c58a80e149ea706a42cbc35c524f9e99a3411",
+    "bytes": 150312
+  },
+  {
+    "path": "thumbnails/season1_v001/florist_level_1.png",
+    "sha256": "056e74abd6bce92059c3268927c8903b11a5abb9c51c220a0483ca22b2fdac20",
+    "bytes": 89669
+  },
+  {
+    "path": "models/season1_v001/florist_level_2.glb",
+    "sha256": "a48d6241a8aa471ed40de5f27d0bc277b1efca38c10c082f4d487bc187c2ec68",
+    "bytes": 277440
+  },
+  {
+    "path": "thumbnails/season1_v001/florist_level_2.png",
+    "sha256": "5386dfc02b262db7bdd52f8620a7c558a0118e84529bbe76a9ac5f415ebd491e",
+    "bytes": 103066
+  },
+  {
+    "path": "models/season1_v001/florist_level_3.glb",
+    "sha256": "cddc3909b4268050dc95285d3f6beab8c418a84498e2cadfbdeea83754b22381",
+    "bytes": 330140
+  },
+  {
+    "path": "thumbnails/season1_v001/florist_level_3.png",
+    "sha256": "ce7f2485ebd89933242a219e1efcd2165157447da8a64f5c4d55800af245c32e",
+    "bytes": 117985
+  },
+  {
+    "path": "models/season1_v001/grocer_level_1.glb",
+    "sha256": "dd6b180d6061b491fea651f4c63edf67707c5c7f9e84423737fe8cdae290b998",
+    "bytes": 116784
+  },
+  {
+    "path": "thumbnails/season1_v001/grocer_level_1.png",
+    "sha256": "54f4639e59c3943d54b0cb2f9f922d34c26b738e2c20fa726878995e0c938ef7",
+    "bytes": 74784
+  },
+  {
+    "path": "models/season1_v001/grocer_level_2.glb",
+    "sha256": "734694965b20eddb07e072298ce41cacd9591cae9ba768d485edd27433fe86b6",
+    "bytes": 189556
+  },
+  {
+    "path": "thumbnails/season1_v001/grocer_level_2.png",
+    "sha256": "c963dde10a541ed254800fd09302bb2cbc6a56609336ac111ae11ff743753908",
+    "bytes": 88763
+  },
+  {
+    "path": "models/season1_v001/grocer_level_3.glb",
+    "sha256": "4797151d21d93c0301c750dab347040df1d5207f0bb3d05ca9368608df23a2b4",
+    "bytes": 244788
+  },
+  {
+    "path": "thumbnails/season1_v001/grocer_level_3.png",
+    "sha256": "00110859344c88ce60a1a4f4804ad1a530fead5a9a3d10dca5099379e4281a64",
+    "bytes": 107632
+  },
+  {
+    "path": "models/season1_v001/house_level_1.glb",
+    "sha256": "5a9a6c5e7eb35572985ec84d25f154e60ee36ca93a7f796474cf0e9429b58a73",
+    "bytes": 132044
+  },
+  {
+    "path": "thumbnails/season1_v001/house_level_1.png",
+    "sha256": "13c940b0f2bd1da5503d66b2daafee213826bef8b7b4fa216104e4d680a92289",
+    "bytes": 68704
+  },
+  {
+    "path": "models/season1_v001/house_level_2.glb",
+    "sha256": "42c510a2dab839aefe96cdf97ae02323b69d3da6b9734959795cae0aa19a7b06",
+    "bytes": 167288
+  },
+  {
+    "path": "thumbnails/season1_v001/house_level_2.png",
+    "sha256": "0ddca427a753702a3a5a2dd2801d9592c2155d28f7922abff9711eb04b5fe5a3",
+    "bytes": 77803
+  },
+  {
+    "path": "models/season1_v001/house_level_3.glb",
+    "sha256": "f5ce933bc562fb908c591df5834cba8103ccf28c32a216dd3f71d5a7660ccb97",
+    "bytes": 217692
+  },
+  {
+    "path": "thumbnails/season1_v001/house_level_3.png",
+    "sha256": "629589f1ae7f6215f1332d6fecd8b4721d8756a4353ed3978d2e23b48434405f",
+    "bytes": 105154
+  },
+  {
+    "path": "models/season1_v001/town_hall_level_1.glb",
+    "sha256": "69844aa97dee72a955e99a09d9675546a101bfe707b0b0c338e214c2896a0d3b",
+    "bytes": 136704
+  },
+  {
+    "path": "thumbnails/season1_v001/town_hall_level_1.png",
+    "sha256": "96ae5e0fb20b723691b86f462cbd7d16f0bfef1067287c2d2c43c1915bb81abd",
+    "bytes": 59811
+  },
+  {
+    "path": "models/season1_v001/town_hall_level_2.glb",
+    "sha256": "4f3fa27dd15eac80e118ebec3dd4f23c5af0e6ea70a981a5b6c1e7291ec4ebdc",
+    "bytes": 168148
+  },
+  {
+    "path": "thumbnails/season1_v001/town_hall_level_2.png",
+    "sha256": "051f0a00306f20dc976499b09309fe5de14022c82f7c656c18f211400df4cf55",
+    "bytes": 68676
+  },
+  {
+    "path": "models/season1_v001/town_hall_level_3.glb",
+    "sha256": "1b3fe7ab47d5aa5af6f2541f0b203b37c2cdcf14a1eb15102208a7910f68b138",
+    "bytes": 273224
+  },
+  {
+    "path": "thumbnails/season1_v001/town_hall_level_3.png",
+    "sha256": "3e6d37d48b5138f6930dae37fa11ab5afe705cde5d731c10bd89ca68bcf8135c",
+    "bytes": 93040
+  },
+  {
+    "path": "models/season1_v001/workshop_level_1.glb",
+    "sha256": "986caefb4193d7fa323be7413d6f5d9371acb19619caf8258f16ddb8b0c4975f",
+    "bytes": 108164
+  },
+  {
+    "path": "thumbnails/season1_v001/workshop_level_1.png",
+    "sha256": "59cc8426a5a74b11281f0067ef776993e77e724806f969ca8b1e11c3bc4f8bf7",
+    "bytes": 64993
+  },
+  {
+    "path": "models/season1_v001/workshop_level_2.glb",
+    "sha256": "c0cfdb57895e3b5a7975f5b49f10e28c178dd17cff7ed6711c9674d6da171a66",
+    "bytes": 143292
+  },
+  {
+    "path": "thumbnails/season1_v001/workshop_level_2.png",
+    "sha256": "f566a2e9d5845d13b2e06187a04302db39d579d2a136d63099b0707b6d4c206a",
+    "bytes": 75099
+  },
+  {
+    "path": "models/season1_v001/workshop_level_3.glb",
+    "sha256": "d1fa5c1938ad42dc11aa6b82d95dde1dc5d3fde16d8c1ec4b3f57c5254da00fa",
+    "bytes": 206060
+  },
+  {
+    "path": "thumbnails/season1_v001/workshop_level_3.png",
+    "sha256": "d1b83e2f21edcb88c281be18c8ae9d1ea5d1ea58a52e88c9cb7c69ca49295f17",
+    "bytes": 102202
+  },
+  {
+    "path": "models/season1_v001/cathedral_level_1.glb",
+    "sha256": "7bed9661fe664e7515e092cbfddcbada29bf1f0e167791eb5cb1a469491b975c",
+    "bytes": 126524
+  },
+  {
+    "path": "thumbnails/season1_v001/cathedral_level_1.png",
+    "sha256": "dbd7ea8df5394b5ee16a72859cb9bba0c966c08286e552fce06db80d9d304267",
+    "bytes": 49886
+  },
+  {
+    "path": "models/season1_v001/cathedral_level_2.glb",
+    "sha256": "8f386a818db0e200817aeb53f4dd378ee2c309126e6cd2c716f1d6e373c7a66e",
+    "bytes": 285092
+  },
+  {
+    "path": "thumbnails/season1_v001/cathedral_level_2.png",
+    "sha256": "ffde107d10b1fc78c08ad4396cf6674ef94ca5b3a6617c2761485e7691beba10",
+    "bytes": 71428
+  },
+  {
+    "path": "models/season1_v001/cathedral_level_3.glb",
+    "sha256": "63c5e7f2fbedb41231fc9ebae0464e005bad9fa347bdb835ae8e59522ffb8614",
+    "bytes": 332204
+  },
+  {
+    "path": "thumbnails/season1_v001/cathedral_level_3.png",
+    "sha256": "70ee00a5abc905c31fe758d84951735fe1a8b30318d1f7e3ffdc79b01d3f4d5b",
+    "bytes": 83367
+  },
+  {
+    "path": "models/season1_v001/inn_level_1.glb",
+    "sha256": "0e95bbacb2fa50029cc5c1701d97025f87ab4f21d7731ee2c79afd5707d10372",
+    "bytes": 149988
+  },
+  {
+    "path": "thumbnails/season1_v001/inn_level_1.png",
+    "sha256": "08026e94cd28c9f714ed5c636b8366cc145adda259bab9f3d0860b6d5ed841c5",
+    "bytes": 60252
+  },
+  {
+    "path": "models/season1_v001/inn_level_2.glb",
+    "sha256": "5e169e4f38476f2ab3a7f6cd8ea37917b1a13e6b4df8a16befa596df8eb1fd24",
+    "bytes": 251324
+  },
+  {
+    "path": "thumbnails/season1_v001/inn_level_2.png",
+    "sha256": "b60cc3fc38f250746632047e75ef25776266bb9853aebeae8b5ebdb5e1d7073a",
+    "bytes": 92986
+  },
+  {
+    "path": "models/season1_v001/inn_level_3.glb",
+    "sha256": "c61743d3a5c1763d86b2dea697673c4723a59d11e53185f8a64978cf7ae68e09",
+    "bytes": 281568
+  },
+  {
+    "path": "thumbnails/season1_v001/inn_level_3.png",
+    "sha256": "a1e0852caebe563bb945f3ab628bc9bccaec96bd2562effa080e0e3426dc64aa",
+    "bytes": 111689
+  },
+  {
+    "path": "models/season1_v001/watermill_level_1.glb",
+    "sha256": "becd166e10f570813d7a9c5dc0b7cf837f0519ec42863daf5c85642f2dfc86ca",
+    "bytes": 155968
+  },
+  {
+    "path": "thumbnails/season1_v001/watermill_level_1.png",
+    "sha256": "caa7ad324f8aa16c9ebb7de9b5e0925926911ac3fdf65c76509b880ded9ce349",
+    "bytes": 72257
+  },
+  {
+    "path": "models/season1_v001/watermill_level_2.glb",
+    "sha256": "57dd2b2399b421ebe56d52ef09d0b59bc3be696dd478a5c64b8ded2df3dfa525",
+    "bytes": 221160
+  },
+  {
+    "path": "thumbnails/season1_v001/watermill_level_2.png",
+    "sha256": "7515547d7a0c3766f89bb6a7d8ee6205b5395ddfe6afe06c8497f8a72c157eec",
+    "bytes": 86944
+  },
+  {
+    "path": "models/season1_v001/watermill_level_3.glb",
+    "sha256": "2934380a52a4374608d55c969030a6adcdd672a8e70caaef2946416f74659d7f",
+    "bytes": 282960
+  },
+  {
+    "path": "thumbnails/season1_v001/watermill_level_3.png",
+    "sha256": "f9625e003ddbc4ea3ba7ee355ab471dabbd986d6bb4b06eeb773ed15f71ee438",
+    "bytes": 107056
+  },
+  {
+    "path": "models/season1_v001/farmstead_level_1.glb",
+    "sha256": "ff3d5f336cf036082627c638ce4d59112c4031dba99a71f44e8bc1c2988cef6e",
+    "bytes": 144240
+  },
+  {
+    "path": "thumbnails/season1_v001/farmstead_level_1.png",
+    "sha256": "43fc5751827ad8eb3810e0c1ca2c64e7dc1cf7b2a6dba0f3855fdd94ffecf149",
+    "bytes": 63402
+  },
+  {
+    "path": "models/season1_v001/farmstead_level_2.glb",
+    "sha256": "cbb9a6717ad84827293cf072ca94dd52b380ad9f1d89646f9dc8bb59652567c3",
+    "bytes": 240676
+  },
+  {
+    "path": "thumbnails/season1_v001/farmstead_level_2.png",
+    "sha256": "847aaadef6e9bfc85cb60a7c6259e01f9347f0e652b86aaa89794e4f2344aa6e",
+    "bytes": 86944
+  },
+  {
+    "path": "models/season1_v001/farmstead_level_3.glb",
+    "sha256": "284bf502365f662a083d0f32ff74f57df933da2f23f70f9fbafe997b6c9f9aa9",
+    "bytes": 365256
+  },
+  {
+    "path": "thumbnails/season1_v001/farmstead_level_3.png",
+    "sha256": "f94fba1fe7d4de09a53d162c49ab8a5ef2ef5cf7385e28e6a4e96c4cb15d8f03",
+    "bytes": 112803
+  },
+  {
+    "path": "models/season1_v001/town_environment.glb",
+    "sha256": "d5e5780ffc34d979e963bc2ba7304fd1337b27fe9768950da20e7655d2c24793",
+    "bytes": 878332
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "bakery": {
+    "source": {
+      "mesh_objects": 1,
+      "triangles": 7172,
+      "vertices": 8221,
+      "materials": 1,
+      "bounds_min": [
+        -1.8950001001358032,
+        -2.700000047683716,
+        0.0
+      ],
+      "bounds_max": [
+        2.1299996376037598,
+        1.5250000953674316,
+        4.565923690795898
+      ],
+      "dimensions": [
+        4.024999737739563,
+        4.2250001430511475,
+        4.565923690795898
+      ]
+    },
+    "baked": {
+      "mesh_objects": 1,
+      "triangles": 7172,
+      "vertices": 8221,
+      "materials": 1,
+      "bounds_min": [
+        -1.8950001001358032,
+        -2.700000047683716,
+        0.0
+      ],
+      "bounds_max": [
+        2.1299996376037598,
+        1.5250000953674316,
+        4.565923690795898
+      ],
+      "dimensions": [
+        4.024999737739563,
+        4.2250001430511475,
+        4.565923690795898
+      ]
+    },
+    "glb": {
+      "bytes": 409276,
+      "mesh_objects": 1,
+      "primitives": 1,
+      "materials": 1,
+      "triangles": 7172,
+      "vertices": 8289,
+      "textures": 0,
+      "all_primitives_have_vertex_color": true
+    },
+    "appearance_geometry_preserved": true
+  },
+  "bookshop": {
+    "source": {
+      "mesh_objects": 15,
+      "triangles": 7920,
+      "vertices": 9225,
+      "materials": 5,
+      "bounds_min": [
+        -1.7382514476776123,
+        -2.875,
+        0.0
+      ],
+      "bounds_max": [
+        1.9184000492095947,
+        1.5250000953674316,
+        7.453914165496826
+      ],
+      "dimensions": [
+        3.656651496887207,
+        4.400000095367432,
+        7.453914165496826
+      ]
+    },
+    "baked": {
+      "mesh_objects": 1,
+      "triangles": 7920,
+      "vertices": 9225,
+      "materials": 1,
+      "bounds_min": [
+        -1.7382514476776123,
+        -2.875,
+        0.0
+      ],
+      "bounds_max": [
+        1.9184000492095947,
+        1.5250000953674316,
+        7.453914165496826
+      ],
+      "dimensions": [
+        3.656651496887207,
+        4.400000095367432,
+        7.453914165496826
+      ]
+    },
+    "glb": {
+      "bytes": 474508,
+      "mesh_objects": 1,
+      "primitives": 1,
+      "materials": 1,
+      "triangles": 7920,
+      "vertices": 9669,
+      "textures": 0,
+      "all_primitives_have_vertex_color": true
+    },
+    "appearance_geometry_preserved": true
+  }
+}

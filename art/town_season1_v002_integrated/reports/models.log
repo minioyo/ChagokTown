@@ -1,0 +1,153 @@
+BlenderMCP addon registered
+BlenderMCP addon unregistered
+NORMALIZED cafe_level_1 2460
+NORMALIZED cafe_level_2 4256
+NORMALIZED cafe_level_3 6056
+NORMALIZED house_level_1 2296
+NORMALIZED house_level_2 3000
+NORMALIZED house_level_3 3856
+NORMALIZED florist_level_1 2584
+NORMALIZED florist_level_2 5172
+NORMALIZED florist_level_3 6120
+NORMALIZED bakery_level_1 2536
+NORMALIZED bakery_level_2 3936
+NORMALIZED bakery_level_3 5560
+NORMALIZED bookshop_level_1 1816
+NORMALIZED bookshop_level_2 4060
+NORMALIZED bookshop_level_3 5862
+NORMALIZED town_hall_level_1 2232
+NORMALIZED town_hall_level_2 3020
+NORMALIZED town_hall_level_3 4988
+NORMALIZED grocer_level_1 2056
+NORMALIZED grocer_level_2 3588
+NORMALIZED grocer_level_3 4688
+NORMALIZED workshop_level_1 1736
+NORMALIZED workshop_level_2 2396
+NORMALIZED workshop_level_3 3484
+INFO Draco is available, use library at C:\Users\hy\AppData\Local\Programs\Blender Foundation\blender-5.2.3-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at C:\Users\hy\AppData\Local\Programs\Blender Foundation\blender-5.2.3-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+02:06:36 | INFO: Starting glTF 2.0 export
+02:06:36 | INFO: Extracting primitive: Cube.030
+02:06:36 | INFO: Primitives created: 1
+02:06:36 | INFO: Finished glTF 2.0 export in 0.34813761711120605 s
+
+02:06:36 | INFO: Starting glTF 2.0 export
+02:06:36 | INFO: Extracting primitive: Cube.098
+02:06:36 | INFO: Primitives created: 1
+02:06:36 | INFO: Finished glTF 2.0 export in 0.19538497924804688 s
+
+02:06:36 | INFO: Starting glTF 2.0 export
+02:06:36 | INFO: Extracting primitive: Cube.189
+02:06:36 | INFO: Primitives created: 1
+02:06:36 | INFO: Finished glTF 2.0 export in 0.17260956764221191 s
+
+02:06:36 | INFO: Starting glTF 2.0 export
+02:06:37 | INFO: Extracting primitive: Cube.304
+02:06:37 | INFO: Primitives created: 1
+02:06:37 | INFO: Finished glTF 2.0 export in 0.1695725917816162 s
+
+02:06:37 | INFO: Starting glTF 2.0 export
+02:06:37 | INFO: Extracting primitive: Cube.440
+02:06:37 | INFO: Primitives created: 1
+02:06:37 | INFO: Finished glTF 2.0 export in 0.16253900527954102 s
+
+02:06:37 | INFO: Starting glTF 2.0 export
+02:06:37 | INFO: Extracting primitive: Cube.608
+02:06:37 | INFO: Primitives created: 1
+02:06:37 | INFO: Finished glTF 2.0 export in 0.1640455722808838 s
+
+02:06:37 | INFO: Starting glTF 2.0 export
+02:06:37 | INFO: Extracting primitive: Cube.763
+02:06:37 | INFO: Primitives created: 1
+02:06:37 | INFO: Finished glTF 2.0 export in 0.19108867645263672 s
+
+02:06:37 | INFO: Starting glTF 2.0 export
+02:06:37 | INFO: Extracting primitive: Cube.896
+02:06:37 | INFO: Primitives created: 1
+02:06:37 | INFO: Finished glTF 2.0 export in 0.17923474311828613 s
+
+02:06:37 | INFO: Starting glTF 2.0 export
+02:06:37 | INFO: Extracting primitive: Cube.1052
+02:06:37 | INFO: Primitives created: 1
+02:06:37 | INFO: Finished glTF 2.0 export in 0.16563963890075684 s
+
+02:06:37 | INFO: Starting glTF 2.0 export
+02:06:38 | INFO: Extracting primitive: Cube.1204
+02:06:38 | INFO: Primitives created: 1
+02:06:38 | INFO: Finished glTF 2.0 export in 0.1678781509399414 s
+
+02:06:38 | INFO: Starting glTF 2.0 export
+02:06:38 | INFO: Extracting primitive: Cube.1359
+02:06:38 | INFO: Primitives created: 1
+02:06:38 | INFO: Finished glTF 2.0 export in 0.17116308212280273 s
+
+02:06:38 | INFO: Starting glTF 2.0 export
+02:06:38 | INFO: Extracting primitive: Cube.1561
+02:06:38 | INFO: Primitives created: 1
+02:06:38 | INFO: Finished glTF 2.0 export in 0.16431283950805664 s
+
+02:06:38 | INFO: Starting glTF 2.0 export
+02:06:38 | INFO: Extracting primitive: Cube.1741
+02:06:38 | INFO: Primitives created: 1
+02:06:38 | INFO: Finished glTF 2.0 export in 0.19126319885253906 s
+
+02:06:38 | INFO: Starting glTF 2.0 export
+02:06:38 | INFO: Extracting primitive: Cube.1914
+02:06:38 | INFO: Primitives created: 1
+02:06:38 | INFO: Finished glTF 2.0 export in 0.1723487377166748 s
+
+02:06:38 | INFO: Starting glTF 2.0 export
+02:06:39 | INFO: Extracting primitive: Cube.2182
+02:06:39 | INFO: Primitives created: 1
+02:06:39 | INFO: Finished glTF 2.0 export in 0.16846871376037598 s
+
+02:06:39 | INFO: Starting glTF 2.0 export
+02:06:39 | INFO: Extracting primitive: Cube.2413
+02:06:39 | INFO: Primitives created: 1
+02:06:39 | INFO: Finished glTF 2.0 export in 0.16055774688720703 s
+
+02:06:39 | INFO: Starting glTF 2.0 export
+02:06:39 | INFO: Extracting primitive: Cube.2564
+02:06:39 | INFO: Primitives created: 1
+02:06:39 | INFO: Finished glTF 2.0 export in 0.1507730484008789 s
+
+02:06:39 | INFO: Starting glTF 2.0 export
+02:06:39 | INFO: Extracting primitive: Cube.2758
+02:06:39 | INFO: Primitives created: 1
+02:06:39 | INFO: Finished glTF 2.0 export in 0.20269179344177246 s
+
+02:06:39 | INFO: Starting glTF 2.0 export
+02:06:39 | INFO: Extracting primitive: Cube.2921
+02:06:39 | INFO: Primitives created: 1
+02:06:39 | INFO: Finished glTF 2.0 export in 0.16680645942687988 s
+
+02:06:39 | INFO: Starting glTF 2.0 export
+02:06:39 | INFO: Extracting primitive: Cube.3041
+02:06:39 | INFO: Primitives created: 1
+02:06:39 | INFO: Finished glTF 2.0 export in 0.1549668312072754 s
+
+02:06:39 | INFO: Starting glTF 2.0 export
+02:06:40 | INFO: Extracting primitive: Cube.3212
+02:06:40 | INFO: Primitives created: 1
+02:06:40 | INFO: Finished glTF 2.0 export in 0.16134858131408691 s
+
+02:06:40 | INFO: Starting glTF 2.0 export
+02:06:40 | INFO: Extracting primitive: Cube.3367
+02:06:40 | INFO: Primitives created: 1
+02:06:40 | INFO: Finished glTF 2.0 export in 0.16663813591003418 s
+
+02:06:40 | INFO: Starting glTF 2.0 export
+02:06:40 | INFO: Extracting primitive: Cube.3492
+02:06:40 | INFO: Primitives created: 1
+02:06:40 | INFO: Finished glTF 2.0 export in 0.1766343116760254 s
+
+02:06:40 | INFO: Starting glTF 2.0 export
+02:06:40 | INFO: Extracting primitive: Cube.3676
+02:06:40 | INFO: Primitives created: 1
+02:06:40 | INFO: Finished glTF 2.0 export in 0.16295099258422852 s
+
+Info: Saved as "integrated_models.blend"
+NORMALIZATION_COMPLETE 259
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

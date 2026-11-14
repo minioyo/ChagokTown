@@ -1,0 +1,619 @@
+{
+  "sourceSha256": "d6c4128a395d4afa9409a53a7863144de7751c3979df3460c312a7c92786340c",
+  "sourceScene": "AFTER roof tones • final",
+  "roads": [
+    {
+      "node": "Road_06",
+      "plots": [
+        "bakery"
+      ]
+    },
+    {
+      "node": "Road_07",
+      "plots": [
+        "bakery",
+        "bookshop",
+        "cafe",
+        "cathedral",
+        "farmstead",
+        "florist",
+        "grocer",
+        "home",
+        "home_upper_east",
+        "home_upper_west",
+        "inn",
+        "town_hall",
+        "watermill",
+        "workshop"
+      ]
+    },
+    {
+      "node": "Road_08",
+      "plots": [
+        "bakery",
+        "bookshop",
+        "cafe",
+        "cathedral",
+        "farmstead",
+        "florist",
+        "grocer",
+        "home_upper_east",
+        "home_upper_west",
+        "inn",
+        "town_hall",
+        "watermill"
+      ]
+    },
+    {
+      "node": "Road_09",
+      "plots": [
+        "bakery",
+        "bookshop",
+        "cafe",
+        "cathedral",
+        "farmstead",
+        "florist",
+        "grocer",
+        "home_upper_east",
+        "home_upper_west",
+        "inn",
+        "town_hall",
+        "watermill",
+        "workshop"
+      ]
+    },
+    {
+      "node": "Road_10",
+      "plots": [
+        "bakery",
+        "watermill"
+      ]
+    },
+    {
+      "node": "Road_11",
+      "plots": [
+        "bookshop"
+      ]
+    },
+    {
+      "node": "Road_12",
+      "plots": [
+        "bookshop",
+        "cafe",
+        "cathedral",
+        "farmstead",
+        "florist",
+        "grocer",
+        "home_upper_east",
+        "home_upper_west",
+        "inn",
+        "town_hall"
+      ]
+    },
+    {
+      "node": "Road_13",
+      "plots": [
+        "bookshop",
+        "cafe",
+        "cathedral",
+        "florist",
+        "home_upper_east",
+        "inn",
+        "town_hall"
+      ]
+    },
+    {
+      "node": "Road_14",
+      "plots": [
+        "bookshop",
+        "cathedral",
+        "florist",
+        "home_upper_east",
+        "inn",
+        "town_hall"
+      ]
+    },
+    {
+      "node": "Road_15",
+      "plots": [
+        "bookshop",
+        "florist"
+      ]
+    },
+    {
+      "node": "Road_16",
+      "plots": [
+        "cafe"
+      ]
+    },
+    {
+      "node": "Road_17",
+      "plots": [
+        "cathedral"
+      ]
+    },
+    {
+      "node": "Road_18",
+      "plots": [
+        "cathedral",
+        "home_upper_east",
+        "inn",
+        "town_hall"
+      ]
+    },
+    {
+      "node": "Road_19",
+      "plots": [
+        "cathedral",
+        "home_upper_east",
+        "town_hall"
+      ]
+    },
+    {
+      "node": "Road_20",
+      "plots": [
+        "cathedral",
+        "home_upper_east",
+        "town_hall"
+      ]
+    },
+    {
+      "node": "Road_21",
+      "plots": [
+        "farmstead"
+      ]
+    },
+    {
+      "node": "Road_22",
+      "plots": [
+        "farmstead",
+        "grocer",
+        "home_upper_west"
+      ]
+    },
+    {
+      "node": "Road_23",
+      "plots": [
+        "farmstead",
+        "home_upper_west"
+      ]
+    },
+    {
+      "node": "Road_24",
+      "plots": [
+        "florist"
+      ]
+    },
+    {
+      "node": "Road_25",
+      "plots": [
+        "grocer"
+      ]
+    },
+    {
+      "node": "Road_26",
+      "plots": [
+        "home"
+      ]
+    },
+    {
+      "node": "Road_27",
+      "plots": [
+        "home_upper_east"
+      ]
+    },
+    {
+      "node": "Road_28",
+      "plots": [
+        "home_upper_east",
+        "town_hall"
+      ]
+    },
+    {
+      "node": "Road_29",
+      "plots": [
+        "home_upper_west"
+      ]
+    },
+    {
+      "node": "Road_30",
+      "plots": [
+        "inn"
+      ]
+    },
+    {
+      "node": "Road_31",
+      "plots": [
+        "town_hall"
+      ]
+    },
+    {
+      "node": "Road_32",
+      "plots": [
+        "watermill"
+      ]
+    },
+    {
+      "node": "Road_33",
+      "plots": [
+        "workshop"
+      ]
+    }
+  ],
+  "objects": [
+    "Integrated • continuous terrain",
+    "Shared court • cathedral",
+    "Shared court • market",
+    "Stream • continuous water",
+    "Shared alley • Market to cathedral lane",
+    "Shared alley • Village arrival",
+    "REUSED • Tree • warm trunk.031",
+    "REUSED • Tree • branch.031",
+    "REUSED • Tree • rounded canopy.093",
+    "REUSED • Tree • rounded canopy.094",
+    "REUSED • Tree • rounded canopy.095",
+    "REUSED • Tree • warm trunk.032",
+    "REUSED • Tree • branch.032",
+    "REUSED • Tree • rounded canopy.096",
+    "REUSED • Tree • rounded canopy.097",
+    "REUSED • Tree • rounded canopy.098",
+    "REUSED • Tree • warm trunk.033",
+    "REUSED • Tree • branch.033",
+    "REUSED • Tree • rounded canopy.099",
+    "REUSED • Tree • rounded canopy.100",
+    "REUSED • Tree • rounded canopy.101",
+    "REUSED • Tree • warm trunk.034",
+    "REUSED • Tree • branch.034",
+    "REUSED • Tree • rounded canopy.102",
+    "REUSED • Tree • rounded canopy.103",
+    "REUSED • Tree • rounded canopy.104",
+    "REUSED • Tree • warm trunk.035",
+    "REUSED • Tree • branch.035",
+    "REUSED • Tree • rounded canopy.105",
+    "REUSED • Tree • rounded canopy.106",
+    "REUSED • Tree • rounded canopy.107",
+    "REUSED • Tree • warm trunk.036",
+    "REUSED • Tree • branch.036",
+    "REUSED • Tree • rounded canopy.108",
+    "REUSED • Tree • rounded canopy.109",
+    "REUSED • Tree • rounded canopy.110",
+    "REUSED • Tree • warm trunk.037",
+    "REUSED • Tree • branch.037",
+    "REUSED • Tree • rounded canopy.111",
+    "REUSED • Tree • rounded canopy.112",
+    "REUSED • Tree • rounded canopy.113",
+    "REUSED • Tree • warm trunk.038",
+    "REUSED • Tree • branch.038",
+    "REUSED • Tree • rounded canopy.114",
+    "REUSED • Tree • rounded canopy.115",
+    "REUSED • Tree • rounded canopy.116",
+    "Upper court • shallow stair tread",
+    "Upper court • shallow stair tread.001",
+    "Upper court • shallow stair tread.002",
+    "Shared alley • bookshop L3 door",
+    "Shared alley • inn L3 door",
+    "Shared alley • cafe L3 door",
+    "Shared alley • bakery L3 door",
+    "Shared alley • florist L3 door",
+    "Shared alley • home_entry L3 door",
+    "Shared alley • town_hall L3 door",
+    "Shared alley • cathedral L3 door",
+    "Shared alley • grocer L3 door",
+    "Shared alley • workshop L3 door",
+    "Shared alley • home_upper_west L3 door",
+    "Shared alley • home_upper_east L3 door",
+    "Shared alley • watermill L3 door",
+    "Shared alley • farmstead L3 door"
+  ],
+  "triangles": 37787,
+  "meshes": 34,
+  "sha256": "f77cb81b7f09548b32b85a96518713c142b531487f8dc91c0371baec82e7ab2b",
+  "reimportMaxTriangleCoordinateErrorMetres": 9.999999999976694e-05,
+  "graph": [
+    {
+      "route": "Market to cathedral lane",
+      "from": 0.0,
+      "to": 2.397597555972801,
+      "plots": [
+        "bookshop",
+        "cafe",
+        "cathedral",
+        "florist",
+        "home_upper_east",
+        "inn",
+        "town_hall"
+      ]
+    },
+    {
+      "route": "Market to cathedral lane",
+      "from": 2.397597555972801,
+      "to": 3.8361560895564817,
+      "plots": [
+        "bookshop",
+        "cathedral",
+        "florist",
+        "home_upper_east",
+        "inn",
+        "town_hall"
+      ]
+    },
+    {
+      "route": "Market to cathedral lane",
+      "from": 3.8361560895564817,
+      "to": 6.2337536455292835,
+      "plots": [
+        "cathedral",
+        "home_upper_east",
+        "inn",
+        "town_hall"
+      ]
+    },
+    {
+      "route": "Market to cathedral lane",
+      "from": 6.2337536455292835,
+      "to": 10.244063825462156,
+      "plots": [
+        "cathedral",
+        "home_upper_east",
+        "town_hall"
+      ]
+    },
+    {
+      "route": "Market to cathedral lane",
+      "from": 10.244063825462156,
+      "to": 10.730740887748619,
+      "plots": [
+        "cathedral"
+      ]
+    },
+    {
+      "route": "Village arrival",
+      "from": 0.0,
+      "to": 3.740190597367293,
+      "plots": [
+        "bakery",
+        "bookshop",
+        "cafe",
+        "cathedral",
+        "farmstead",
+        "florist",
+        "grocer",
+        "home",
+        "home_upper_east",
+        "home_upper_west",
+        "inn",
+        "town_hall",
+        "watermill",
+        "workshop"
+      ]
+    },
+    {
+      "route": "Village arrival",
+      "from": 3.740190597367293,
+      "to": 5.884734948725538,
+      "plots": [
+        "bakery",
+        "bookshop",
+        "cafe",
+        "cathedral",
+        "farmstead",
+        "florist",
+        "grocer",
+        "home_upper_east",
+        "home_upper_west",
+        "inn",
+        "town_hall",
+        "watermill",
+        "workshop"
+      ]
+    },
+    {
+      "route": "Village arrival",
+      "from": 5.884734948725538,
+      "to": 7.861585133829596,
+      "plots": [
+        "bakery",
+        "bookshop",
+        "cafe",
+        "cathedral",
+        "farmstead",
+        "florist",
+        "grocer",
+        "home_upper_east",
+        "home_upper_west",
+        "inn",
+        "town_hall",
+        "watermill"
+      ]
+    },
+    {
+      "route": "Village arrival",
+      "from": 7.861585133829596,
+      "to": 9.681001866853565,
+      "plots": [
+        "bookshop",
+        "cafe",
+        "cathedral",
+        "farmstead",
+        "florist",
+        "grocer",
+        "home_upper_east",
+        "home_upper_west",
+        "inn",
+        "town_hall"
+      ]
+    },
+    {
+      "route": "Village arrival",
+      "from": 9.681001866853565,
+      "to": 10.169137963841852,
+      "plots": [
+        "bookshop",
+        "cafe",
+        "cathedral",
+        "florist",
+        "home_upper_east",
+        "inn",
+        "town_hall"
+      ]
+    },
+    {
+      "route": "bookshop L3 door",
+      "from": 0.0,
+      "to": 0.4872149992623843,
+      "plots": [
+        "bookshop"
+      ]
+    },
+    {
+      "route": "bookshop L3 door",
+      "from": 0.4872149992623843,
+      "to": 4.318298619320817,
+      "plots": [
+        "bookshop",
+        "florist"
+      ]
+    },
+    {
+      "route": "inn L3 door",
+      "from": 0.0,
+      "to": 4.677684132041072,
+      "plots": [
+        "inn"
+      ]
+    },
+    {
+      "route": "cafe L3 door",
+      "from": 0.0,
+      "to": 2.605869776403642,
+      "plots": [
+        "cafe"
+      ]
+    },
+    {
+      "route": "bakery L3 door",
+      "from": 0.0,
+      "to": 1.0508220089491942,
+      "plots": [
+        "bakery"
+      ]
+    },
+    {
+      "route": "bakery L3 door",
+      "from": 1.0508220089491942,
+      "to": 2.426826508120657,
+      "plots": [
+        "bakery",
+        "watermill"
+      ]
+    },
+    {
+      "route": "florist L3 door",
+      "from": 0.0,
+      "to": 4.659509110927095,
+      "plots": [
+        "florist"
+      ]
+    },
+    {
+      "route": "home_entry L3 door",
+      "from": 0.0,
+      "to": 1.4934597122089603,
+      "plots": [
+        "home"
+      ]
+    },
+    {
+      "route": "town_hall L3 door",
+      "from": 0.0,
+      "to": 2.110580458171384,
+      "plots": [
+        "town_hall"
+      ]
+    },
+    {
+      "route": "town_hall L3 door",
+      "from": 2.110580458171384,
+      "to": 6.136959411115361,
+      "plots": [
+        "home_upper_east",
+        "town_hall"
+      ]
+    },
+    {
+      "route": "cathedral L3 door",
+      "from": 0.0,
+      "to": 1.2915142964992763,
+      "plots": [
+        "cathedral"
+      ]
+    },
+    {
+      "route": "grocer L3 door",
+      "from": 0.0,
+      "to": 2.124375473781388,
+      "plots": [
+        "grocer"
+      ]
+    },
+    {
+      "route": "grocer L3 door",
+      "from": 2.124375473781388,
+      "to": 8.360758366138363,
+      "plots": [
+        "farmstead",
+        "grocer",
+        "home_upper_west"
+      ]
+    },
+    {
+      "route": "workshop L3 door",
+      "from": 0.0,
+      "to": 0.9659912330258198,
+      "plots": [
+        "workshop"
+      ]
+    },
+    {
+      "route": "home_upper_west L3 door",
+      "from": 0.0,
+      "to": 14.931421471090577,
+      "plots": [
+        "home_upper_west"
+      ]
+    },
+    {
+      "route": "home_upper_west L3 door",
+      "from": 14.931421471090577,
+      "to": 20.245534182059007,
+      "plots": [
+        "farmstead",
+        "home_upper_west"
+      ]
+    },
+    {
+      "route": "home_upper_east L3 door",
+      "from": 0.0,
+      "to": 6.266662971024386,
+      "plots": [
+        "home_upper_east"
+      ]
+    },
+    {
+      "route": "watermill L3 door",
+      "from": 0.0,
+      "to": 10.270005786444573,
+      "plots": [
+        "watermill"
+      ]
+    },
+    {
+      "route": "farmstead L3 door",
+      "from": 0.0,
+      "to": 7.417648431760937,
+      "plots": [
+        "farmstead"
+      ]
+    }
+  ]
+}

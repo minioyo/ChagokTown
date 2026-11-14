@@ -1,0 +1,41 @@
+{
+  "source36GlbsAndBlendUnchanged": true,
+  "plotsMatchApprovedCoordinates": true,
+  "thumbnailsUseExactRuntimeInputs": true,
+  "stageCounts": {
+    "1": {
+      "buildingTriangles": 27764,
+      "environmentTriangles": 37787,
+      "totalTriangles": 65551
+    },
+    "2": {
+      "buildingTriangles": 44701,
+      "environmentTriangles": 37787,
+      "totalTriangles": 82488
+    },
+    "3": {
+      "buildingTriangles": 59214,
+      "environmentTriangles": 37787,
+      "totalTriangles": 97001
+    }
+  },
+  "runtimeFilesBytes": 11596816,
+  "apk": [
+    {
+      "flavor": "demo",
+      "bytes": 66567406,
+      "sha256": "6eb4dc08ec57ab787b1e8c54c5d351df43584aed79c7a912c60555453100389d",
+      "models": 37,
+      "thumbnails": 36,
+      "all74PublishedFilesMatch": true
+    },
+    {
+      "flavor": "vehicle",
+      "bytes": 66534638,
+      "sha256": "c1c08a5ef3faec530c6a00c35e179a336c53a1cf99fedd4e688eb601127702b3",
+      "models": 37,
+      "thumbnails": 36,
+      "all74PublishedFilesMatch": true
+    }
+  ]
+}

@@ -1,0 +1,2630 @@
+{
+  "models": {
+    "cafe_level_1": {
+      "type": "cafe",
+      "level": 1,
+      "editable": {
+        "mesh_objects": 54,
+        "triangles": 2460,
+        "vertices": 1334,
+        "materials": 14,
+        "bounds_min": [
+          -1.3749715089797974,
+          -1.6425000429153442,
+          0.0
+        ],
+        "bounds_max": [
+          1.6196000576019287,
+          1.174971580505371,
+          2.884999990463257
+        ],
+        "dimensions": [
+          2.994571566581726,
+          2.8174716234207153,
+          2.884999990463257
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 2460,
+        "vertices": 1334,
+        "materials": 1,
+        "bounds_min": [
+          -1.3749715089797974,
+          -1.6425000429153442,
+          0.0
+        ],
+        "bounds_max": [
+          1.6196000576019287,
+          1.174971580505371,
+          2.884999990463257
+        ],
+        "dimensions": [
+          2.994571566581726,
+          2.8174716234207153,
+          2.884999990463257
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 54,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            0.72,
+            -1.11
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            -0.51,
+            -1.1,
+            1.17
+          ],
+          "width": 1.0,
+          "height": 1.16
+        },
+        {
+          "xyz": [
+            0,
+            -1.275,
+            1.38
+          ],
+          "width": 1.0,
+          "height": 1.06
+        }
+      ],
+      "glb": {
+        "bytes": 140784,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 2460,
+        "vertices": 2802,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "cafe_level_2": {
+      "type": "cafe",
+      "level": 2,
+      "editable": {
+        "mesh_objects": 84,
+        "triangles": 4256,
+        "vertices": 2290,
+        "materials": 16,
+        "bounds_min": [
+          -1.6249715089797974,
+          -2.5299999713897705,
+          0.0
+        ],
+        "bounds_max": [
+          2.0615742206573486,
+          1.3249715566635132,
+          2.884999990463257
+        ],
+        "dimensions": [
+          3.686545729637146,
+          3.8549715280532837,
+          2.884999990463257
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 4256,
+        "vertices": 2290,
+        "materials": 1,
+        "bounds_min": [
+          -1.6249715089797974,
+          -2.5299999713897705,
+          0.0
+        ],
+        "bounds_max": [
+          2.0615742206573486,
+          1.3249715566635132,
+          2.884999990463257
+        ],
+        "dimensions": [
+          3.686545729637146,
+          3.8549715280532837,
+          2.884999990463257
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 84,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            1.0,
+            -1.26
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            -0.51,
+            -1.25,
+            1.17
+          ],
+          "width": 1.34,
+          "height": 1.37
+        },
+        {
+          "xyz": [
+            0,
+            -1.525,
+            1.38
+          ],
+          "width": 1.18,
+          "height": 1.06
+        }
+      ],
+      "glb": {
+        "bytes": 236176,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 4256,
+        "vertices": 4725,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "cafe_level_3": {
+      "type": "cafe",
+      "level": 3,
+      "editable": {
+        "mesh_objects": 140,
+        "triangles": 6056,
+        "vertices": 3302,
+        "materials": 19,
+        "bounds_min": [
+          -2.049999952316284,
+          -3.0999999046325684,
+          0.0
+        ],
+        "bounds_max": [
+          2.161574125289917,
+          1.374971628189087,
+          5.167500019073486
+        ],
+        "dimensions": [
+          4.211574077606201,
+          4.474971532821655,
+          5.167500019073486
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 6056,
+        "vertices": 3302,
+        "materials": 1,
+        "bounds_min": [
+          -2.049999952316284,
+          -3.0999999046325684,
+          0.0
+        ],
+        "bounds_max": [
+          2.161574125289917,
+          1.374971628189087,
+          5.167500019073486
+        ],
+        "dimensions": [
+          4.211574077606201,
+          4.474971532821655,
+          5.167500019073486
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 140,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            1.0,
+            -1.31
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            -0.51,
+            -1.3,
+            1.17
+          ],
+          "width": 1.34,
+          "height": 1.37
+        },
+        {
+          "xyz": [
+            0,
+            -1.625,
+            1.38
+          ],
+          "width": 1.18,
+          "height": 1.06
+        },
+        {
+          "xyz": [
+            0,
+            -1.635,
+            3.38
+          ],
+          "width": 0.92,
+          "height": 0.85
+        }
+      ],
+      "glb": {
+        "bytes": 338804,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 6056,
+        "vertices": 6812,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "house_level_1": {
+      "type": "house",
+      "level": 1,
+      "editable": {
+        "mesh_objects": 75,
+        "triangles": 2296,
+        "vertices": 1296,
+        "materials": 12,
+        "bounds_min": [
+          -1.430460810661316,
+          -1.600000023841858,
+          0.0
+        ],
+        "bounds_max": [
+          1.4702000617980957,
+          1.315000057220459,
+          3.2750000953674316
+        ],
+        "dimensions": [
+          2.9006608724594116,
+          2.915000081062317,
+          3.2750000953674316
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 2296,
+        "vertices": 1296,
+        "materials": 1,
+        "bounds_min": [
+          -1.4304606914520264,
+          -1.600000023841858,
+          0.0
+        ],
+        "bounds_max": [
+          1.4702000617980957,
+          1.315000057220459,
+          3.2750000953674316
+        ],
+        "dimensions": [
+          2.900660753250122,
+          2.915000081062317,
+          3.2750000953674316
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 75,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            0.57,
+            -1.105
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            -0.61,
+            -1.1,
+            1.35
+          ],
+          "width": 0.7,
+          "height": 0.82
+        },
+        {
+          "xyz": [
+            0,
+            -1.15,
+            1.42
+          ],
+          "width": 0.8,
+          "height": 0.91
+        }
+      ],
+      "glb": {
+        "bytes": 147124,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 2296,
+        "vertices": 2968,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "house_level_2": {
+      "type": "house",
+      "level": 2,
+      "editable": {
+        "mesh_objects": 95,
+        "triangles": 3000,
+        "vertices": 1688,
+        "materials": 16,
+        "bounds_min": [
+          -1.6052238941192627,
+          -1.9900000095367432,
+          0.0
+        ],
+        "bounds_max": [
+          1.727799892425537,
+          1.3900001049041748,
+          3.5840001106262207
+        ],
+        "dimensions": [
+          3.3330237865448,
+          3.380000114440918,
+          3.5840001106262207
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 3000,
+        "vertices": 1688,
+        "materials": 1,
+        "bounds_min": [
+          -1.6052238941192627,
+          -1.9900000095367432,
+          0.0
+        ],
+        "bounds_max": [
+          1.727799892425537,
+          1.3900001049041748,
+          3.5840001106262207
+        ],
+        "dimensions": [
+          3.3330237865448,
+          3.380000114440918,
+          3.5840001106262207
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 95,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            0.67,
+            -1.18
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            -0.67,
+            -1.175,
+            1.35
+          ],
+          "width": 0.84,
+          "height": 0.91
+        },
+        {
+          "xyz": [
+            0,
+            -1.325,
+            1.42
+          ],
+          "width": 0.95,
+          "height": 0.91
+        }
+      ],
+      "glb": {
+        "bytes": 191124,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 3000,
+        "vertices": 3872,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "house_level_3": {
+      "type": "house",
+      "level": 3,
+      "editable": {
+        "mesh_objects": 124,
+        "triangles": 3856,
+        "vertices": 2174,
+        "materials": 15,
+        "bounds_min": [
+          -1.775368332862854,
+          -2.065000057220459,
+          0.0
+        ],
+        "bounds_max": [
+          1.8371999263763428,
+          1.4649999141693115,
+          5.434000015258789
+        ],
+        "dimensions": [
+          3.6125682592391968,
+          3.5299999713897705,
+          5.434000015258789
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 3856,
+        "vertices": 2174,
+        "materials": 1,
+        "bounds_min": [
+          -1.7753682136535645,
+          -2.065000057220459,
+          0.0
+        ],
+        "bounds_max": [
+          1.8371999263763428,
+          1.4649999141693115,
+          5.434000015258789
+        ],
+        "dimensions": [
+          3.6125681400299072,
+          3.5299999713897705,
+          5.434000015258789
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 124,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            0.67,
+            -1.255
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            -0.67,
+            -1.25,
+            1.35
+          ],
+          "width": 0.84,
+          "height": 0.91
+        },
+        {
+          "xyz": [
+            0,
+            -1.4949999999999999,
+            1.42
+          ],
+          "width": 0.95,
+          "height": 0.91
+        },
+        {
+          "xyz": [
+            -0.65,
+            -1.25,
+            3.35
+          ],
+          "width": 0.76,
+          "height": 0.85
+        },
+        {
+          "xyz": [
+            0,
+            -1.4949999999999999,
+            3.42
+          ],
+          "width": 0.95,
+          "height": 0.85
+        }
+      ],
+      "glb": {
+        "bytes": 243252,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 3856,
+        "vertices": 4940,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "florist_level_1": {
+      "type": "florist",
+      "level": 1,
+      "editable": {
+        "mesh_objects": 97,
+        "triangles": 2584,
+        "vertices": 1482,
+        "materials": 16,
+        "bounds_min": [
+          -1.3851981163024902,
+          -1.5499999523162842,
+          0.0
+        ],
+        "bounds_max": [
+          1.4399999380111694,
+          1.244999885559082,
+          3.1549999713897705
+        ],
+        "dimensions": [
+          2.8251980543136597,
+          2.794999837875366,
+          3.1549999713897705
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 2584,
+        "vertices": 1482,
+        "materials": 1,
+        "bounds_min": [
+          -1.3851981163024902,
+          -1.5499999523162842,
+          0.0
+        ],
+        "bounds_max": [
+          1.4399999380111694,
+          1.244999885559082,
+          3.1549999713897705
+        ],
+        "dimensions": [
+          2.8251980543136597,
+          2.794999837875366,
+          3.1549999713897705
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 97,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            -0.59,
+            -1.055
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            0.56,
+            -1.05,
+            1.3
+          ],
+          "width": 0.67,
+          "height": 1.02
+        },
+        {
+          "xyz": [
+            0,
+            -1.125,
+            1.4
+          ],
+          "width": 0.8,
+          "height": 0.98
+        }
+      ],
+      "glb": {
+        "bytes": 165844,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 2584,
+        "vertices": 3354,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "florist_level_2": {
+      "type": "florist",
+      "level": 2,
+      "editable": {
+        "mesh_objects": 156,
+        "triangles": 5172,
+        "vertices": 2888,
+        "materials": 20,
+        "bounds_min": [
+          -1.5754122734069824,
+          -1.819599986076355,
+          0.0
+        ],
+        "bounds_max": [
+          1.667799949645996,
+          1.3599998950958252,
+          3.325000047683716
+        ],
+        "dimensions": [
+          3.2432122230529785,
+          3.17959988117218,
+          3.325000047683716
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 5172,
+        "vertices": 2888,
+        "materials": 1,
+        "bounds_min": [
+          -1.5754122734069824,
+          -1.819599986076355,
+          -7.450580596923828e-09
+        ],
+        "bounds_max": [
+          1.667799949645996,
+          1.3599998950958252,
+          3.325000047683716
+        ],
+        "dimensions": [
+          3.2432122230529785,
+          3.17959988117218,
+          3.3250000551342964
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 156,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            -0.65,
+            -1.17
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            0.56,
+            -1.165,
+            1.3
+          ],
+          "width": 0.86,
+          "height": 1.15
+        },
+        {
+          "xyz": [
+            0,
+            -1.315,
+            1.4
+          ],
+          "width": 0.8,
+          "height": 0.98
+        }
+      ],
+      "glb": {
+        "bytes": 300984,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 5172,
+        "vertices": 6072,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "florist_level_3": {
+      "type": "florist",
+      "level": 3,
+      "editable": {
+        "mesh_objects": 188,
+        "triangles": 6120,
+        "vertices": 3426,
+        "materials": 21,
+        "bounds_min": [
+          -1.625349760055542,
+          -1.854599952697754,
+          0.0
+        ],
+        "bounds_max": [
+          2.3924999237060547,
+          1.3949999809265137,
+          3.325000047683716
+        ],
+        "dimensions": [
+          4.017849683761597,
+          3.2495999336242676,
+          3.325000047683716
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 6120,
+        "vertices": 3426,
+        "materials": 1,
+        "bounds_min": [
+          -1.625349760055542,
+          -1.854599952697754,
+          -7.450580596923828e-09
+        ],
+        "bounds_max": [
+          2.3924999237060547,
+          1.3949999809265137,
+          3.325000047683716
+        ],
+        "dimensions": [
+          4.017849683761597,
+          3.2495999336242676,
+          3.3250000551342964
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 188,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            -0.65,
+            -1.2049999999999998
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            0.56,
+            -1.2,
+            1.3
+          ],
+          "width": 0.86,
+          "height": 1.15
+        }
+      ],
+      "glb": {
+        "bytes": 360088,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 6120,
+        "vertices": 7286,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "bakery_level_1": {
+      "type": "bakery",
+      "level": 1,
+      "editable": {
+        "mesh_objects": 81,
+        "triangles": 2536,
+        "vertices": 1428,
+        "materials": 15,
+        "bounds_min": [
+          -1.4250000715255737,
+          -1.524999976158142,
+          0.0
+        ],
+        "bounds_max": [
+          1.4850000143051147,
+          1.3199999332427979,
+          3.1100001335144043
+        ],
+        "dimensions": [
+          2.9100000858306885,
+          2.84499990940094,
+          3.1100001335144043
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 2536,
+        "vertices": 1428,
+        "materials": 1,
+        "bounds_min": [
+          -1.4250000715255737,
+          -1.524999976158142,
+          0.0
+        ],
+        "bounds_max": [
+          1.4850000143051147,
+          1.3199999332427979,
+          3.1100001335144043
+        ],
+        "dimensions": [
+          2.9100000858306885,
+          2.84499990940094,
+          3.1100001335144043
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 81,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            -0.6669999999999999,
+            -1.0299999999999998
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            0.506,
+            -1.015,
+            1.15
+          ],
+          "width": 0.9889999999999999,
+          "height": 0.91
+        },
+        {
+          "xyz": [
+            0,
+            -1.17,
+            1.25
+          ],
+          "width": 0.84,
+          "height": 0.87
+        },
+        {
+          "xyz": [
+            0,
+            -1.005,
+            1.35
+          ],
+          "width": 0.8,
+          "height": 0.79
+        }
+      ],
+      "glb": {
+        "bytes": 159728,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 2536,
+        "vertices": 3222,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "bakery_level_2": {
+      "type": "bakery",
+      "level": 2,
+      "editable": {
+        "mesh_objects": 108,
+        "triangles": 3936,
+        "vertices": 2182,
+        "materials": 18,
+        "bounds_min": [
+          -1.909600019454956,
+          -2.619999885559082,
+          0.0
+        ],
+        "bounds_max": [
+          1.8149999380111694,
+          1.4299999475479126,
+          3.49399995803833
+        ],
+        "dimensions": [
+          3.7245999574661255,
+          4.049999833106995,
+          3.49399995803833
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 3936,
+        "vertices": 2182,
+        "materials": 1,
+        "bounds_min": [
+          -1.909600019454956,
+          -2.619999885559082,
+          0.0
+        ],
+        "bounds_max": [
+          1.8149999380111694,
+          1.4300000667572021,
+          3.49399995803833
+        ],
+        "dimensions": [
+          3.7245999574661255,
+          4.049999952316284,
+          3.49399995803833
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 108,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            -0.8583999999999999,
+            -1.14
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            0.6512,
+            -1.125,
+            1.15
+          ],
+          "width": 1.2728,
+          "height": 0.91
+        },
+        {
+          "xyz": [
+            0,
+            -1.5,
+            1.25
+          ],
+          "width": 0.84,
+          "height": 0.87
+        },
+        {
+          "xyz": [
+            0,
+            -1.115,
+            1.35
+          ],
+          "width": 0.8,
+          "height": 0.79
+        }
+      ],
+      "glb": {
+        "bytes": 239496,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 3936,
+        "vertices": 4844,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "bakery_level_3": {
+      "type": "bakery",
+      "level": 3,
+      "editable": {
+        "mesh_objects": 146,
+        "triangles": 5560,
+        "vertices": 3068,
+        "materials": 19,
+        "bounds_min": [
+          -1.909600019454956,
+          -2.700000047683716,
+          0.0
+        ],
+        "bounds_max": [
+          2.129999876022339,
+          1.5100001096725464,
+          5.165923595428467
+        ],
+        "dimensions": [
+          4.039599895477295,
+          4.210000157356262,
+          5.165923595428467
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 5560,
+        "vertices": 3068,
+        "materials": 1,
+        "bounds_min": [
+          -1.909600019454956,
+          -2.700000047683716,
+          0.0
+        ],
+        "bounds_max": [
+          2.1299996376037598,
+          1.5099999904632568,
+          5.165923595428467
+        ],
+        "dimensions": [
+          4.039599657058716,
+          4.210000038146973,
+          5.165923595428467
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 146,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            -1.1034,
+            -1.2199999999999998
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            0.1512,
+            -1.2049999999999998,
+            1.15
+          ],
+          "width": 1.0578,
+          "height": 0.91
+        },
+        {
+          "xyz": [
+            0,
+            -0.86,
+            1.25
+          ],
+          "width": 0.84,
+          "height": 0.87
+        },
+        {
+          "xyz": [
+            0.39,
+            -1.1949999999999998,
+            1.35
+          ],
+          "width": 0.8,
+          "height": 0.79
+        },
+        {
+          "xyz": [
+            0,
+            -0.86,
+            3.25
+          ],
+          "width": 0.84,
+          "height": 0.85
+        },
+        {
+          "xyz": [
+            0.39,
+            -1.1949999999999998,
+            3.35
+          ],
+          "width": 0.84,
+          "height": 0.85
+        }
+      ],
+      "glb": {
+        "bytes": 333852,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 5560,
+        "vertices": 6767,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "bookshop_level_1": {
+      "type": "bookshop",
+      "level": 1,
+      "editable": {
+        "mesh_objects": 71,
+        "triangles": 1816,
+        "vertices": 1050,
+        "materials": 10,
+        "bounds_min": [
+          -1.358467936515808,
+          -1.5449999570846558,
+          0.0
+        ],
+        "bounds_max": [
+          1.4049999713897705,
+          1.340000033378601,
+          3.3399999141693115
+        ],
+        "dimensions": [
+          2.7634679079055786,
+          2.884999990463257,
+          3.3399999141693115
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 1816,
+        "vertices": 1050,
+        "materials": 1,
+        "bounds_min": [
+          -1.3584680557250977,
+          -1.5449999570846558,
+          0.0
+        ],
+        "bounds_max": [
+          1.4049999713897705,
+          1.3400001525878906,
+          3.3399999141693115
+        ],
+        "dimensions": [
+          2.763468027114868,
+          2.8850001096725464,
+          3.3399999141693115
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 71,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            0.5751000000000001,
+            -1.0499999999999998
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            -0.54315,
+            -1.035,
+            1.18
+          ],
+          "width": 0.83,
+          "height": 0.96
+        },
+        {
+          "xyz": [
+            0,
+            -1.0899999999999999,
+            1.38
+          ],
+          "width": 0.84,
+          "height": 0.88
+        },
+        {
+          "xyz": [
+            0,
+            -1.025,
+            1.38
+          ],
+          "width": 0.82,
+          "height": 0.87
+        }
+      ],
+      "glb": {
+        "bytes": 127520,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 1816,
+        "vertices": 2588,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "bookshop_level_2": {
+      "type": "bookshop",
+      "level": 2,
+      "editable": {
+        "mesh_objects": 126,
+        "triangles": 4060,
+        "vertices": 2282,
+        "materials": 15,
+        "bounds_min": [
+          -1.5784635543823242,
+          -2.809999942779541,
+          0.0
+        ],
+        "bounds_max": [
+          1.625,
+          1.4399999380111694,
+          3.475923538208008
+        ],
+        "dimensions": [
+          3.203463554382324,
+          4.2499998807907104,
+          3.475923538208008
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 4060,
+        "vertices": 2282,
+        "materials": 1,
+        "bounds_min": [
+          -1.5784635543823242,
+          -2.809999942779541,
+          0.0
+        ],
+        "bounds_max": [
+          1.625,
+          1.440000057220459,
+          3.475923538208008
+        ],
+        "dimensions": [
+          3.203463554382324,
+          4.25,
+          3.475923538208008
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 126,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            0.6939,
+            -1.15
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            -0.65535,
+            -1.135,
+            1.18
+          ],
+          "width": 1.01,
+          "height": 0.96
+        },
+        {
+          "xyz": [
+            0,
+            -1.3099999999999998,
+            1.38
+          ],
+          "width": 0.84,
+          "height": 0.88
+        },
+        {
+          "xyz": [
+            0,
+            -1.125,
+            1.38
+          ],
+          "width": 0.82,
+          "height": 0.87
+        }
+      ],
+      "glb": {
+        "bytes": 265448,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 4060,
+        "vertices": 5417,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "bookshop_level_3": {
+      "type": "bookshop",
+      "level": 3,
+      "editable": {
+        "mesh_objects": 187,
+        "triangles": 5862,
+        "vertices": 3303,
+        "materials": 19,
+        "bounds_min": [
+          -1.738135576248169,
+          -2.879999876022339,
+          0.0
+        ],
+        "bounds_max": [
+          1.9184000492095947,
+          1.5100001096725464,
+          7.400000095367432
+        ],
+        "dimensions": [
+          3.6565356254577637,
+          4.389999985694885,
+          7.400000095367432
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 5862,
+        "vertices": 3303,
+        "materials": 1,
+        "bounds_min": [
+          -1.738135576248169,
+          -2.879999876022339,
+          0.0
+        ],
+        "bounds_max": [
+          1.9184000492095947,
+          1.5099999904632568,
+          7.400000095367432
+        ],
+        "dimensions": [
+          3.6565356254577637,
+          4.389999866485596,
+          7.400000095367432
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 187,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            0.7803000000000001,
+            -1.2199999999999998
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            -0.73695,
+            -1.2049999999999998,
+            1.18
+          ],
+          "width": 1.01,
+          "height": 0.96
+        },
+        {
+          "xyz": [
+            0,
+            -1.47,
+            1.38
+          ],
+          "width": 0.84,
+          "height": 0.88
+        },
+        {
+          "xyz": [
+            0,
+            -1.1949999999999998,
+            1.38
+          ],
+          "width": 0.82,
+          "height": 0.87
+        },
+        {
+          "xyz": [
+            0,
+            -1.605,
+            3.18
+          ],
+          "width": 1.35,
+          "height": 0.78
+        },
+        {
+          "xyz": [
+            0,
+            -1.47,
+            3.38
+          ],
+          "width": 0.84,
+          "height": 0.85
+        },
+        {
+          "xyz": [
+            0,
+            -1.1949999999999998,
+            3.38
+          ],
+          "width": 0.84,
+          "height": 0.85
+        }
+      ],
+      "glb": {
+        "bytes": 377296,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 5862,
+        "vertices": 7713,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "town_hall_level_1": {
+      "type": "town_hall",
+      "level": 1,
+      "editable": {
+        "mesh_objects": 80,
+        "triangles": 2232,
+        "vertices": 1276,
+        "materials": 8,
+        "bounds_min": [
+          -1.6150000095367432,
+          -1.559999942779541,
+          0.0
+        ],
+        "bounds_max": [
+          1.6899999380111694,
+          1.3500001430511475,
+          3.0999999046325684
+        ],
+        "dimensions": [
+          3.3049999475479126,
+          2.9100000858306885,
+          3.0999999046325684
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 2232,
+        "vertices": 1276,
+        "materials": 1,
+        "bounds_min": [
+          -1.6150000095367432,
+          -1.559999942779541,
+          0.0
+        ],
+        "bounds_max": [
+          1.6899999380111694,
+          1.3500001430511475,
+          3.0999999046325684
+        ],
+        "dimensions": [
+          3.3049999475479126,
+          2.9100000858306885,
+          3.0999999046325684
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 80,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            0,
+            -1.065
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            -0.8640000000000001,
+            -1.045,
+            1.28
+          ],
+          "width": 0.56,
+          "height": 0.74
+        },
+        {
+          "xyz": [
+            0.8640000000000001,
+            -1.045,
+            1.28
+          ],
+          "width": 0.56,
+          "height": 0.74
+        },
+        {
+          "xyz": [
+            0,
+            -1.375,
+            1.35
+          ],
+          "width": 0.92,
+          "height": 0.86
+        },
+        {
+          "xyz": [
+            0,
+            -1.035,
+            1.35
+          ],
+          "width": 1.12,
+          "height": 0.83
+        }
+      ],
+      "glb": {
+        "bytes": 149512,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 2232,
+        "vertices": 3031,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "town_hall_level_2": {
+      "type": "town_hall",
+      "level": 2,
+      "editable": {
+        "mesh_objects": 103,
+        "triangles": 3020,
+        "vertices": 1716,
+        "materials": 10,
+        "bounds_min": [
+          -1.815000057220459,
+          -2.244999885559082,
+          0.0
+        ],
+        "bounds_max": [
+          1.8899999856948853,
+          1.4300000667572021,
+          3.0999999046325684
+        ],
+        "dimensions": [
+          3.7050000429153442,
+          3.674999952316284,
+          3.0999999046325684
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 3020,
+        "vertices": 1716,
+        "materials": 1,
+        "bounds_min": [
+          -1.815000057220459,
+          -2.244999885559082,
+          0.0
+        ],
+        "bounds_max": [
+          1.8899999856948853,
+          1.4300000667572021,
+          3.0999999046325684
+        ],
+        "dimensions": [
+          3.7050000429153442,
+          3.674999952316284,
+          3.0999999046325684
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 103,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            0,
+            -1.145
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            -0.9920000000000001,
+            -1.125,
+            1.28
+          ],
+          "width": 0.56,
+          "height": 0.74
+        },
+        {
+          "xyz": [
+            0.9920000000000001,
+            -1.125,
+            1.28
+          ],
+          "width": 0.56,
+          "height": 0.74
+        },
+        {
+          "xyz": [
+            0,
+            -1.575,
+            1.35
+          ],
+          "width": 0.92,
+          "height": 0.86
+        },
+        {
+          "xyz": [
+            0,
+            -1.115,
+            1.35
+          ],
+          "width": 1.12,
+          "height": 0.83
+        }
+      ],
+      "glb": {
+        "bytes": 196568,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 3020,
+        "vertices": 3993,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "town_hall_level_3": {
+      "type": "town_hall",
+      "level": 3,
+      "editable": {
+        "mesh_objects": 148,
+        "triangles": 4988,
+        "vertices": 2790,
+        "materials": 10,
+        "bounds_min": [
+          -1.8900001049041748,
+          -2.2850000858306885,
+          0.0
+        ],
+        "bounds_max": [
+          1.965000033378601,
+          1.470000147819519,
+          6.309999942779541
+        ],
+        "dimensions": [
+          3.855000138282776,
+          3.7550002336502075,
+          6.309999942779541
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 4988,
+        "vertices": 2790,
+        "materials": 1,
+        "bounds_min": [
+          -1.8900001049041748,
+          -2.2850000858306885,
+          0.0
+        ],
+        "bounds_max": [
+          1.965000033378601,
+          1.470000147819519,
+          6.309999942779541
+        ],
+        "dimensions": [
+          3.855000138282776,
+          3.7550002336502075,
+          6.309999942779541
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 148,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            0,
+            -1.1849999999999998
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            -1.04,
+            -1.1649999999999998,
+            1.28
+          ],
+          "width": 0.56,
+          "height": 0.74
+        },
+        {
+          "xyz": [
+            1.04,
+            -1.1649999999999998,
+            1.28
+          ],
+          "width": 0.56,
+          "height": 0.74
+        },
+        {
+          "xyz": [
+            0,
+            -1.65,
+            1.35
+          ],
+          "width": 0.92,
+          "height": 0.86
+        },
+        {
+          "xyz": [
+            0,
+            -1.1549999999999998,
+            1.35
+          ],
+          "width": 1.12,
+          "height": 0.83
+        },
+        {
+          "xyz": [
+            0,
+            -1.65,
+            3.35
+          ],
+          "width": 0.92,
+          "height": 0.85
+        },
+        {
+          "xyz": [
+            0,
+            -1.1549999999999998,
+            3.35
+          ],
+          "width": 1.12,
+          "height": 0.85
+        }
+      ],
+      "glb": {
+        "bytes": 313008,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 4988,
+        "vertices": 6371,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "grocer_level_1": {
+      "type": "grocer",
+      "level": 1,
+      "editable": {
+        "mesh_objects": 59,
+        "triangles": 2056,
+        "vertices": 1146,
+        "materials": 14,
+        "bounds_min": [
+          -1.659999966621399,
+          -1.6050000190734863,
+          0.0
+        ],
+        "bounds_max": [
+          1.7599999904632568,
+          1.3250001668930054,
+          2.6234500408172607
+        ],
+        "dimensions": [
+          3.4199999570846558,
+          2.9300001859664917,
+          2.6234500408172607
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 2056,
+        "vertices": 1146,
+        "materials": 1,
+        "bounds_min": [
+          -1.659999966621399,
+          -1.6050000190734863,
+          0.0
+        ],
+        "bounds_max": [
+          1.7599999904632568,
+          1.3250001668930054,
+          2.6234500408172607
+        ],
+        "dimensions": [
+          3.4199999570846558,
+          2.9300001859664917,
+          2.6234500408172607
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 59,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            0,
+            -1.035
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            -0.92625,
+            -1.02,
+            1.19
+          ],
+          "width": 0.68,
+          "height": 0.84
+        },
+        {
+          "xyz": [
+            0.92625,
+            -1.02,
+            1.19
+          ],
+          "width": 0.68,
+          "height": 0.84
+        },
+        {
+          "xyz": [
+            0,
+            -1.445,
+            1.29
+          ],
+          "width": 0.85,
+          "height": 0.81
+        },
+        {
+          "xyz": [
+            0,
+            -1.01,
+            1.31
+          ],
+          "width": 1.12,
+          "height": 0.85
+        }
+      ],
+      "glb": {
+        "bytes": 126796,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 2056,
+        "vertices": 2539,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "grocer_level_2": {
+      "type": "grocer",
+      "level": 2,
+      "editable": {
+        "mesh_objects": 90,
+        "triangles": 3588,
+        "vertices": 1974,
+        "materials": 15,
+        "bounds_min": [
+          -1.8899999856948853,
+          -2.5399999618530273,
+          0.0
+        ],
+        "bounds_max": [
+          1.934999942779541,
+          1.4100000858306885,
+          2.6344690322875977
+        ],
+        "dimensions": [
+          3.8249999284744263,
+          3.950000047683716,
+          2.6344690322875977
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 3588,
+        "vertices": 1974,
+        "materials": 1,
+        "bounds_min": [
+          -1.8899999856948853,
+          -2.5399999618530273,
+          0.0
+        ],
+        "bounds_max": [
+          1.934999942779541,
+          1.4100000858306885,
+          2.6344690322875977
+        ],
+        "dimensions": [
+          3.8249999284744263,
+          3.950000047683716,
+          2.6344690322875977
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 90,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            0,
+            -1.1199999999999999
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            -1.04,
+            -1.105,
+            1.19
+          ],
+          "width": 0.68,
+          "height": 0.84
+        },
+        {
+          "xyz": [
+            1.04,
+            -1.105,
+            1.19
+          ],
+          "width": 0.68,
+          "height": 0.84
+        },
+        {
+          "xyz": [
+            0,
+            -1.62,
+            1.29
+          ],
+          "width": 0.85,
+          "height": 0.81
+        },
+        {
+          "xyz": [
+            0,
+            -1.095,
+            1.31
+          ],
+          "width": 1.12,
+          "height": 0.85
+        }
+      ],
+      "glb": {
+        "bytes": 209340,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 3588,
+        "vertices": 4206,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "grocer_level_3": {
+      "type": "grocer",
+      "level": 3,
+      "editable": {
+        "mesh_objects": 122,
+        "triangles": 4688,
+        "vertices": 2588,
+        "materials": 16,
+        "bounds_min": [
+          -1.8899999856948853,
+          -2.5899999141693115,
+          0.0
+        ],
+        "bounds_max": [
+          1.975000023841858,
+          1.4600001573562622,
+          4.520423889160156
+        ],
+        "dimensions": [
+          3.865000009536743,
+          4.050000071525574,
+          4.520423889160156
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 4688,
+        "vertices": 2588,
+        "materials": 1,
+        "bounds_min": [
+          -1.8899999856948853,
+          -2.5899999141693115,
+          0.0
+        ],
+        "bounds_max": [
+          1.975000023841858,
+          1.4600001573562622,
+          4.520423889160156
+        ],
+        "dimensions": [
+          3.865000009536743,
+          4.050000071525574,
+          4.520423889160156
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 122,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            0,
+            -1.17
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            -1.066,
+            -1.155,
+            1.19
+          ],
+          "width": 0.68,
+          "height": 0.84
+        },
+        {
+          "xyz": [
+            1.066,
+            -1.155,
+            1.19
+          ],
+          "width": 0.68,
+          "height": 0.84
+        },
+        {
+          "xyz": [
+            0,
+            -1.66,
+            1.29
+          ],
+          "width": 0.85,
+          "height": 0.81
+        },
+        {
+          "xyz": [
+            0,
+            -1.145,
+            1.31
+          ],
+          "width": 1.12,
+          "height": 0.85
+        },
+        {
+          "xyz": [
+            -0.94,
+            -1.005,
+            3.19
+          ],
+          "width": 0.87,
+          "height": 0.85
+        },
+        {
+          "xyz": [
+            0.94,
+            -1.105,
+            3.31
+          ],
+          "width": 0.82,
+          "height": 0.85
+        }
+      ],
+      "glb": {
+        "bytes": 276040,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 4688,
+        "vertices": 5572,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "workshop_level_1": {
+      "type": "workshop",
+      "level": 1,
+      "editable": {
+        "mesh_objects": 61,
+        "triangles": 1736,
+        "vertices": 990,
+        "materials": 11,
+        "bounds_min": [
+          -1.4598585367202759,
+          -1.5549999475479126,
+          0.0
+        ],
+        "bounds_max": [
+          1.5,
+          1.3500001430511475,
+          3.1450002193450928
+        ],
+        "dimensions": [
+          2.959858536720276,
+          2.90500009059906,
+          3.1450002193450928
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 1736,
+        "vertices": 990,
+        "materials": 1,
+        "bounds_min": [
+          -1.4598586559295654,
+          -1.5549999475479126,
+          0.0
+        ],
+        "bounds_max": [
+          1.5,
+          1.3500001430511475,
+          3.1450002193450928
+        ],
+        "dimensions": [
+          2.9598586559295654,
+          2.90500009059906,
+          3.1450002193450928
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 61,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            -0.57,
+            -1.0599999999999998
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            0.56,
+            -1.045,
+            1.19
+          ],
+          "width": 0.78,
+          "height": 0.86
+        },
+        {
+          "xyz": [
+            0,
+            -1.1849999999999998,
+            1.3
+          ],
+          "width": 0.89,
+          "height": 0.82
+        },
+        {
+          "xyz": [
+            0,
+            -1.035,
+            1.32
+          ],
+          "width": 0.92,
+          "height": 0.83
+        }
+      ],
+      "glb": {
+        "bytes": 118976,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 1736,
+        "vertices": 2405,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "workshop_level_2": {
+      "type": "workshop",
+      "level": 2,
+      "editable": {
+        "mesh_objects": 76,
+        "triangles": 2396,
+        "vertices": 1350,
+        "materials": 13,
+        "bounds_min": [
+          -1.6749999523162842,
+          -2.444999933242798,
+          0.0
+        ],
+        "bounds_max": [
+          1.6749999523162842,
+          1.4100000858306885,
+          3.1450002193450928
+        ],
+        "dimensions": [
+          3.3499999046325684,
+          3.8550000190734863,
+          3.1450002193450928
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 2396,
+        "vertices": 1350,
+        "materials": 1,
+        "bounds_min": [
+          -1.6749999523162842,
+          -2.444999933242798,
+          0.0
+        ],
+        "bounds_max": [
+          1.6749999523162842,
+          1.4100000858306885,
+          3.1450002193450928
+        ],
+        "dimensions": [
+          3.3499999046325684,
+          3.8550000190734863,
+          3.1450002193450928
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 76,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            -0.57,
+            -1.1199999999999999
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            0.56,
+            -1.105,
+            1.19
+          ],
+          "width": 0.78,
+          "height": 0.86
+        },
+        {
+          "xyz": [
+            0,
+            -1.3399999999999999,
+            1.3
+          ],
+          "width": 0.89,
+          "height": 0.82
+        },
+        {
+          "xyz": [
+            0,
+            -1.095,
+            1.32
+          ],
+          "width": 0.92,
+          "height": 0.83
+        }
+      ],
+      "glb": {
+        "bytes": 158588,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 2396,
+        "vertices": 3215,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    },
+    "workshop_level_3": {
+      "type": "workshop",
+      "level": 3,
+      "editable": {
+        "mesh_objects": 120,
+        "triangles": 3484,
+        "vertices": 1982,
+        "materials": 14,
+        "bounds_min": [
+          -1.965000033378601,
+          -2.505000114440918,
+          0.0
+        ],
+        "bounds_max": [
+          2.2799999713897705,
+          1.470000147819519,
+          5.141118049621582
+        ],
+        "dimensions": [
+          4.245000004768372,
+          3.975000262260437,
+          5.141118049621582
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 3484,
+        "vertices": 1982,
+        "materials": 1,
+        "bounds_min": [
+          -1.9650001525878906,
+          -2.505000114440918,
+          0.0
+        ],
+        "bounds_max": [
+          2.2799999713897705,
+          1.4700000286102295,
+          5.141118049621582
+        ],
+        "dimensions": [
+          4.245000123977661,
+          3.9750001430511475,
+          5.141118049621582
+        ]
+      },
+      "source_checks": {
+        "closed_outward_components": 120,
+        "degenerate_triangles": 0,
+        "finite_unit_normals": true
+      },
+      "doors": [
+        {
+          "xy": [
+            -1.0,
+            -1.1799999999999997
+          ],
+          "panel_width": 0.8,
+          "panel_height": 1.6,
+          "bottom": 0.16
+        }
+      ],
+      "window_calls": [
+        {
+          "xyz": [
+            0.13000000000000006,
+            -1.1649999999999998,
+            1.19
+          ],
+          "width": 0.78,
+          "height": 0.86
+        },
+        {
+          "xyz": [
+            0,
+            -0.785,
+            1.3
+          ],
+          "width": 0.89,
+          "height": 0.82
+        },
+        {
+          "xyz": [
+            0.43,
+            -1.1549999999999998,
+            1.32
+          ],
+          "width": 0.92,
+          "height": 0.83
+        },
+        {
+          "xyz": [
+            -0.7,
+            -1.1649999999999998,
+            3.19
+          ],
+          "width": 0.81,
+          "height": 0.85
+        },
+        {
+          "xyz": [
+            0,
+            -0.785,
+            3.3
+          ],
+          "width": 0.86,
+          "height": 0.85
+        },
+        {
+          "xyz": [
+            0.43,
+            -1.1549999999999998,
+            3.32
+          ],
+          "width": 0.91,
+          "height": 0.85
+        },
+        {
+          "xyz": [
+            0,
+            -1.965,
+            1.2
+          ],
+          "width": 0.8,
+          "height": 0.68
+        }
+      ],
+      "glb": {
+        "bytes": 236004,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 3484,
+        "vertices": 4826,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      }
+    }
+  },
+  "generic_door_panel_m": [
+    0.8,
+    1.6
+  ],
+  "ordinary_floor_pitch_m": 2.0,
+  "world_scale": 1.0,
+  "unchanged_types": [
+    "cathedral",
+    "inn",
+    "watermill",
+    "farmstead"
+  ],
+  "max_stage_bounds": {
+    "cafe": {
+      "min": [
+        -2.049999952316284,
+        -3.0999999046325684
+      ],
+      "max": [
+        2.161574125289917,
+        1.374971628189087
+      ]
+    },
+    "house": {
+      "min": [
+        -1.7753682136535645,
+        -2.065000057220459
+      ],
+      "max": [
+        1.8371999263763428,
+        1.4649999141693115
+      ]
+    },
+    "florist": {
+      "min": [
+        -1.625349760055542,
+        -1.854599952697754
+      ],
+      "max": [
+        2.3924999237060547,
+        1.3949999809265137
+      ]
+    },
+    "bakery": {
+      "min": [
+        -1.909600019454956,
+        -2.700000047683716
+      ],
+      "max": [
+        2.1299996376037598,
+        1.5099999904632568
+      ]
+    },
+    "bookshop": {
+      "min": [
+        -1.738135576248169,
+        -2.879999876022339
+      ],
+      "max": [
+        1.9184000492095947,
+        1.5099999904632568
+      ]
+    },
+    "town_hall": {
+      "min": [
+        -1.8900001049041748,
+        -2.2850000858306885
+      ],
+      "max": [
+        1.965000033378601,
+        1.470000147819519
+      ]
+    },
+    "grocer": {
+      "min": [
+        -1.8899999856948853,
+        -2.5899999141693115
+      ],
+      "max": [
+        1.975000023841858,
+        1.4600001573562622
+      ]
+    },
+    "workshop": {
+      "min": [
+        -1.9650001525878906,
+        -2.505000114440918
+      ],
+      "max": [
+        2.2799999713897705,
+        1.4700000286102295
+      ]
+    }
+  }
+}

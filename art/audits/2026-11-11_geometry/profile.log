@@ -1,0 +1,45 @@
+00:01.063  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v002_integrated\blend\integrated_models.blend"
+BlenderMCP addon registered
+PROFILED bakery_level_1 2536 64
+PROFILED bakery_level_2 3936 96
+PROFILED bakery_level_3 5560 192
+PROFILED bookshop_level_1 1816 128
+PROFILED bookshop_level_2 4060 896
+PROFILED bookshop_level_3 5862 960
+PROFILED cafe_level_1 2460 96
+PROFILED cafe_level_2 4256 160
+PROFILED cafe_level_3 6056 224
+PROFILED florist_level_1 2584 64
+PROFILED florist_level_2 5172 64
+PROFILED florist_level_3 6120 64
+PROFILED grocer_level_1 2056 192
+PROFILED grocer_level_2 3588 320
+PROFILED grocer_level_3 4688 448
+PROFILED house_level_1 2296 128
+PROFILED house_level_2 3000 128
+PROFILED house_level_3 3856 160
+PROFILED town_hall_level_1 2232 64
+PROFILED town_hall_level_2 3020 64
+PROFILED town_hall_level_3 4988 128
+PROFILED workshop_level_1 1736 96
+PROFILED workshop_level_2 2396 96
+PROFILED workshop_level_3 3484 192
+00:01.625  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v001\blend\season1_models.blend"
+PROFILED cathedral_level_1 2100 64
+PROFILED cathedral_level_2 5718 128
+PROFILED cathedral_level_3 6730 128
+PROFILED inn_level_1 2316 64
+PROFILED inn_level_2 4140 64
+PROFILED inn_level_3 4532 64
+PROFILED watermill_level_1 2580 64
+PROFILED watermill_level_2 3944 128
+PROFILED watermill_level_3 4776 128
+PROFILED farmstead_level_1 2272 64
+PROFILED farmstead_level_2 3824 64
+PROFILED farmstead_level_3 5884 128
+00:02.031  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v002_integrated\blend\integrated_village.blend"
+PROFILE_COMPLETE {'1': {'before_triangles': 31576, 'candidate_triangles_saved': 1344}, '2': {'before_triangles': 53054, 'candidate_triangles_saved': 2464}, '3': {'before_triangles': 70248, 'candidate_triangles_saved': 3136}} 108035
+BlenderMCP addon unregistered
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

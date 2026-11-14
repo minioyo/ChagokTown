@@ -1,0 +1,74 @@
+{
+  "previous_tree_groups": 15,
+  "reused_tree_groups": 8,
+  "new_tree_groups": 0,
+  "edge_trees": [
+    {
+      "source_trunk": "Tree \u2022 warm trunk.031",
+      "xy": [
+        -17,
+        8
+      ],
+      "scale_preserved": true
+    },
+    {
+      "source_trunk": "Tree \u2022 warm trunk.032",
+      "xy": [
+        -14,
+        11
+      ],
+      "scale_preserved": true
+    },
+    {
+      "source_trunk": "Tree \u2022 warm trunk.033",
+      "xy": [
+        -10.8,
+        13
+      ],
+      "scale_preserved": true
+    },
+    {
+      "source_trunk": "Tree \u2022 warm trunk.034",
+      "xy": [
+        -4.8,
+        16.8
+      ],
+      "scale_preserved": true
+    },
+    {
+      "source_trunk": "Tree \u2022 warm trunk.035",
+      "xy": [
+        3.8,
+        17.1
+      ],
+      "scale_preserved": true
+    },
+    {
+      "source_trunk": "Tree \u2022 warm trunk.036",
+      "xy": [
+        12,
+        13.5
+      ],
+      "scale_preserved": true
+    },
+    {
+      "source_trunk": "Tree \u2022 warm trunk.037",
+      "xy": [
+        12.8,
+        5.5
+      ],
+      "scale_preserved": true
+    },
+    {
+      "source_trunk": "Tree \u2022 warm trunk.038",
+      "xy": [
+        -14,
+        -7.8
+      ],
+      "scale_preserved": true
+    }
+  ],
+  "omitted_near_buildings": [],
+  "new_houses": 0,
+  "upper_court_treads": 3
+}

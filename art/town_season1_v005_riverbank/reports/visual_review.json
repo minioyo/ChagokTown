@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-11",
+  "status": "accepted_for_delivery",
+  "meaning": "Agent visual art review, not user approval or runtime validation",
+  "blend_sha256": "e7c2ec3532c991f25416629d80d8bb8317f9ac0e90b9ec293bb7768b2a25b4c1",
+  "glb_sha256": "030c1d6bab729b6c19300a8cda135c8582bdb83376bf48ec69e2a3aa666a6cd4",
+  "cases": [
+    {
+      "case": "whole_final",
+      "comparison_path": "renders/comparisons/whole_final_comparison.png",
+      "comparison_sha256": "629bbc5c6bc7affe36961f5ab36c0cf170646dd773d272ce96fbb747e60a9e78",
+      "source_render_sha256": {
+        "before": "3cfaa9f3aa3ecfd43170b9aed63b23d0939e6e4794276df68428e9cf8f07b389",
+        "after": "212a9fa574273674412e29a99cfb057904fb9d899f6ce25f98322bc9d9b77538"
+      },
+      "opened_and_reviewed": true,
+      "verdict": "pass",
+      "notes": "기존 건물·마을 실루엣을 유지하며 소량의 돌과 풀만 보임. 건물보다 주목도가 낮고 빈 강변이 충분함."
+    },
+    {
+      "case": "whole_beginning",
+      "comparison_path": "renders/comparisons/whole_beginning_comparison.png",
+      "comparison_sha256": "a3acc2015e5b352aae3693d4a74da69d72d5df418c1fc17dc8f53c92d328cf8c",
+      "source_render_sha256": {
+        "before": "0394fe4ff81fba4eeed9f73a26a99a6bb47531659bb31f63edb1d3607c146a50",
+        "after": "5fcdf5083d62280fc847f22912cd9e6e2d68e367813c97fca5c298654fb69f9a"
+      },
+      "opened_and_reviewed": true,
+      "verdict": "pass",
+      "notes": "시작 장면에서도 강둑 장식이 과한 띠처럼 보이지 않으며 최종과 위치가 일치함."
+    },
+    {
+      "case": "whole_middle",
+      "comparison_path": "renders/comparisons/whole_middle_comparison.png",
+      "comparison_sha256": "b0dee5a3c676a63d964e263970b9779e4b37e40f190925dbbda436d373966275",
+      "source_render_sha256": {
+        "before": "8881999f308e78e8d25d73ab2b9ac61691fd1aba7180f1449771e6376e80d1cc",
+        "after": "4571c06791afd1664c66f188c477452155187918cc97e12a5e23421b4a3b22f0"
+      },
+      "opened_and_reviewed": true,
+      "verdict": "pass",
+      "notes": "중간 성장의 건물·길과 충돌하거나 가리지 않고 동일한 소품 위치를 유지함."
+    },
+    {
+      "case": "whole_final_top",
+      "comparison_path": "renders/comparisons/whole_final_top_comparison.png",
+      "comparison_sha256": "99b5006f4a88a4ba9574853ecc436c2c19fca3ad931e32e62cab3eae930e4793",
+      "source_render_sha256": {
+        "before": "44f7788d640d82d585a88816ebf895159d9857862b67b5760987bae5258602a1",
+        "after": "ccffeab71b09d9a407a105395b0eebc324a2aa40ce773254622e719d402a0347"
+      },
+      "opened_and_reviewed": true,
+      "verdict": "pass",
+      "notes": "5개 비대칭 군집 사이의 긴 빈 구간을 확인. 연속 돌담이나 풀띠가 없고 강 모양이 유지됨."
+    },
+    {
+      "case": "riverbank_upper",
+      "comparison_path": "renders/comparisons/riverbank_upper_comparison.png",
+      "comparison_sha256": "9fb91a2bf153bef4d9a2f65ca19b59622c2211bc1be24b20e4d574c7f7cf877b",
+      "source_render_sha256": {
+        "before": "583fbdcad3aec63f3d6a5596a9e0b7adb5f2a92533aa07c9bce604f96981a4e7",
+        "after": "44c21f349f5f86aee94edca61cf8bf9268507fce962dec3b7a70eb22864f0574"
+      },
+      "opened_and_reviewed": true,
+      "verdict": "pass",
+      "notes": "낮은 둥근 돌이 경사에 걸쳐 있고 짧은 풀이 마른 지면에 접지함. 돌·풀의 수와 크기가 무리마다 다름. 보이는 부유나 깜빡이는 겹친 표면이 없음."
+    },
+    {
+      "case": "riverbank_mill",
+      "comparison_path": "renders/comparisons/riverbank_mill_comparison.png",
+      "comparison_sha256": "c617e877e9cd26ad2a8777d8de567a1d08d5ef876faf5452eb260d48c88cfb4c",
+      "source_render_sha256": {
+        "before": "e57e64c3513f66eaf72c6b0bbe36ef2fe03d2dd9b3bfd2999530a37e2dc69c4b",
+        "after": "4ea04f6025bef44cc9c6bc1f8152097812b5960205bdea7d1ad11f77c9243429"
+      },
+      "opened_and_reviewed": true,
+      "verdict": "pass",
+      "notes": "물레바퀴 아래·옆 공간과 방앗간 출입구·접근로가 열려 있음. 낮은 돌과 짧은 풀에 큰 관통이나 가림이 보이지 않음."
+    }
+  ],
+  "additional_direct_views": [
+    "renders/whole/whole_final_after.png",
+    "renders/details/riverbank_upper_after.png",
+    "renders/review_contact_sheet.png"
+  ],
+  "refinement": "Initial layout inspected at whole-town and close-up size; varied stone size and yaw plus grass counts 1-3 per cluster, then regenerated and reviewed all final pairs.",
+  "scope": "No Android, Pleos, vehicle, animation, gameplay or performance test."
+}

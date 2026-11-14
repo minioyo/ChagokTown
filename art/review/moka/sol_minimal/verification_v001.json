@@ -1,0 +1,376 @@
+{
+  "raw": {
+    "file": "art\\raw\\moka\\sol_minimal_neutral_v001.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "png_color_metadata": {},
+    "sha256": "0462a9f692e1b7e3fed89683c8d92c489b148597815748b00a3b18d9df1af95c",
+    "alpha_bbox": [
+      0,
+      25,
+      1242,
+      1230
+    ],
+    "alpha_zero": 1067966,
+    "alpha_partial": 503004,
+    "alpha_opaque": 1546,
+    "most_common_rgba": [
+      [
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        1067852
+      ],
+      [
+        [
+          206,
+          110,
+          95,
+          254
+        ],
+        87836
+      ],
+      [
+        [
+          205,
+          110,
+          95,
+          254
+        ],
+        42041
+      ],
+      [
+        [
+          205,
+          109,
+          94,
+          254
+        ],
+        38455
+      ],
+      [
+        [
+          206,
+          111,
+          96,
+          254
+        ],
+        34258
+      ]
+    ],
+    "opaque_rgb_count": 312
+  },
+  "raw_component_count_alpha128": 1,
+  "raw_largest_component_pixels": 497260,
+  "raw_largest_component_bbox": [
+    221,
+    313,
+    1021,
+    983
+  ],
+  "raw_rows": {
+    "320": [
+      377,
+      871
+    ],
+    "350": [
+      313,
+      936
+    ],
+    "400": [
+      264,
+      983
+    ],
+    "450": [
+      238,
+      1006
+    ],
+    "500": [
+      226,
+      1017
+    ],
+    "600": [
+      221,
+      1020
+    ],
+    "700": [
+      221,
+      1020
+    ],
+    "800": [
+      224,
+      1017
+    ],
+    "900": [
+      265,
+      975
+    ],
+    "950": [
+      320,
+      919
+    ],
+    "970": [
+      362,
+      878
+    ]
+  },
+  "raw_left_eye_bbox": [
+    450,
+    519,
+    524,
+    656
+  ],
+  "raw_left_eye_color": [
+    [
+      [
+        57,
+        39,
+        41,
+        254
+      ],
+      1047
+    ]
+  ],
+  "raw_right_eye_bbox": [
+    730,
+    519,
+    804,
+    656
+  ],
+  "raw_right_eye_color": [
+    [
+      [
+        57,
+        39,
+        41,
+        254
+      ],
+      621
+    ]
+  ],
+  "aseprite_header": {
+    "frames": 1,
+    "width": 1254,
+    "height": 1254,
+    "depth": 32,
+    "color_profile_type": 1
+  },
+  "raw_copy_byte_equal": true,
+  "export": {
+    "file": "art\\export\\moka\\sol_minimal_neutral_v001.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "png_color_metadata": {
+      "srgb": 0
+    },
+    "sha256": "bfb2bce6f0677d6fcd84f5f269c735fb07624dbf7aaeea66812232ffc077d5aa",
+    "alpha_bbox": [
+      221,
+      313,
+      1021,
+      983
+    ],
+    "alpha_zero": 1073752,
+    "alpha_partial": 1324,
+    "alpha_opaque": 497440,
+    "most_common_rgba": [
+      [
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        1073752
+      ],
+      [
+        [
+          217,
+          117,
+          101,
+          255
+        ],
+        482794
+      ],
+      [
+        [
+          49,
+          38,
+          41,
+          255
+        ],
+        13972
+      ],
+      [
+        [
+          217,
+          117,
+          101,
+          144
+        ],
+        48
+      ],
+      [
+        [
+          134,
+          78,
+          72,
+          255
+        ],
+        34
+      ]
+    ],
+    "opaque_rgb_count": 162
+  },
+  "roundtrip_rgba_equal": true,
+  "body_layer": {
+    "file": "art\\review\\moka\\sol_minimal\\sol_minimal_neutral_v001_body.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "png_color_metadata": {
+      "srgb": 0
+    },
+    "sha256": "a16d3701e4affc1fc544bb911c41b809f05e180d9e06b4054d828a951472dd94",
+    "alpha_bbox": [
+      221,
+      313,
+      1021,
+      983
+    ],
+    "alpha_zero": 1073752,
+    "alpha_partial": 1324,
+    "alpha_opaque": 497440,
+    "most_common_rgba": [
+      [
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        1073752
+      ],
+      [
+        [
+          217,
+          117,
+          101,
+          255
+        ],
+        497440
+      ],
+      [
+        [
+          217,
+          117,
+          101,
+          144
+        ],
+        48
+      ],
+      [
+        [
+          217,
+          117,
+          101,
+          47
+        ],
+        32
+      ],
+      [
+        [
+          217,
+          117,
+          101,
+          237
+        ],
+        32
+      ]
+    ],
+    "opaque_rgb_count": 1
+  },
+  "body_visible_rgb_exact": true,
+  "eyes_layer": {
+    "file": "art\\review\\moka\\sol_minimal\\sol_minimal_neutral_v001_eyes.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "png_color_metadata": {
+      "srgb": 0
+    },
+    "sha256": "e33798cf3b7a746e1b646b90f5ec7b7b87c86aecd680c55010e2148641ea9298",
+    "alpha_bbox": [
+      450,
+      519,
+      804,
+      656
+    ],
+    "alpha_zero": 1557868,
+    "alpha_partial": 676,
+    "alpha_opaque": 13972,
+    "most_common_rgba": [
+      [
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        1557868
+      ],
+      [
+        [
+          49,
+          38,
+          41,
+          255
+        ],
+        13972
+      ],
+      [
+        [
+          49,
+          38,
+          41,
+          126
+        ],
+        32
+      ],
+      [
+        [
+          49,
+          38,
+          41,
+          37
+        ],
+        18
+      ],
+      [
+        [
+          49,
+          38,
+          41,
+          73
+        ],
+        18
+      ]
+    ],
+    "opaque_rgb_count": 1
+  },
+  "eyes_visible_rgb_exact": true,
+  "checks_passed": true
+}

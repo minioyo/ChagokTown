@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "units": "metres",
+  "axes": "Blender Z-up, building front -Y",
+  "local_lot_min": [-2.4, -3.2],
+  "local_lot_max": [2.4, 1.6],
+  "slots": [
+    {"id":"home", "kind":"house", "label":"주택", "xy":[-11.0,5.5], "yaw_deg":-7, "source":"town_house_florist_v001"},
+    {"id":"flowers", "kind":"florist", "label":"꽃가게", "xy":[-5.1,6.2], "yaw_deg":5, "source":"town_house_florist_v001"},
+    {"id":"hall", "kind":"town_hall", "label":"마을회관", "xy":[1.4,7.4], "yaw_deg":0, "source":"town_sol_civic_market_workshop_v001"},
+    {"id":"books", "kind":"bookshop", "label":"책방", "xy":[8.2,5.8], "yaw_deg":-7, "source":"town_sol_bakery_bookshop_v001"},
+    {"id":"craft", "kind":"workshop", "label":"공방", "xy":[-11.3,-3.3], "yaw_deg":5, "source":"town_sol_civic_market_workshop_v001"},
+    {"id":"coffee", "kind":"cafe", "label":"카페", "xy":[-4.5,-3.5], "yaw_deg":0, "source":"town_cafe_v003"},
+    {"id":"bread", "kind":"bakery", "label":"빵집", "xy":[2.3,-3.8], "yaw_deg":-5, "source":"town_sol_bakery_bookshop_v001"},
+    {"id":"market", "kind":"grocer", "label":"식료품점", "xy":[9.2,-3.1], "yaw_deg":5, "source":"town_sol_civic_market_workshop_v001"}
+  ],
+  "stages": {
+    "early":{"home":1,"coffee":1},
+    "growing":{"home":2,"flowers":1,"hall":1,"books":1,"coffee":2,"bread":2},
+    "mature":{"home":3,"flowers":3,"hall":3,"books":3,"craft":3,"coffee":3,"bread":3,"market":3}
+  },
+  "camera":{"location":[13,-35,38],"target":[0,0.5,0.8],"ortho_scale":42},
+  "notes":"Art layout prototype, not Android integration or economic balancing. Fixed slots and rotations are identical in all stages."
+}

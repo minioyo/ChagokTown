@@ -1,0 +1,156 @@
+[
+  {
+    "id": "cathedral",
+    "kind": "cathedral",
+    "xy": [
+      0.0,
+      10.2
+    ],
+    "yaw": 5,
+    "ground": 1.2,
+    "scale": 1.0
+  },
+  {
+    "id": "inn",
+    "kind": "inn",
+    "xy": [
+      -5.0,
+      2.55
+    ],
+    "yaw": 0,
+    "ground": 0.25,
+    "scale": 1.0
+  },
+  {
+    "id": "home_upper_west",
+    "kind": "house",
+    "xy": [
+      -6.3,
+      9.0
+    ],
+    "yaw": 80,
+    "ground": 0.8,
+    "scale": 1.0
+  },
+  {
+    "id": "town_hall",
+    "kind": "town_hall",
+    "xy": [
+      7.0,
+      5.7
+    ],
+    "yaw": -38,
+    "ground": 0.8,
+    "scale": 1.0
+  },
+  {
+    "id": "home_upper_east",
+    "kind": "house",
+    "xy": [
+      7.4,
+      10.3
+    ],
+    "yaw": -18,
+    "ground": 1.0,
+    "scale": 1.0
+  },
+  {
+    "id": "bookshop",
+    "kind": "bookshop",
+    "xy": [
+      3.8,
+      1.0
+    ],
+    "yaw": -30,
+    "ground": 0.35,
+    "scale": 1.0
+  },
+  {
+    "id": "cafe",
+    "kind": "cafe",
+    "xy": [
+      -4.4,
+      -4.1
+    ],
+    "yaw": 85,
+    "ground": 0,
+    "scale": 1.0
+  },
+  {
+    "id": "bakery",
+    "kind": "bakery",
+    "xy": [
+      3.95,
+      -4.4
+    ],
+    "yaw": -8,
+    "ground": 0,
+    "scale": 1.0
+  },
+  {
+    "id": "florist",
+    "kind": "florist",
+    "xy": [
+      8.2,
+      -1.5
+    ],
+    "yaw": -85,
+    "ground": 0,
+    "scale": 1.0
+  },
+  {
+    "id": "grocer",
+    "kind": "grocer",
+    "xy": [
+      -9.4,
+      -4.5
+    ],
+    "yaw": 55,
+    "ground": 0,
+    "scale": 1.0
+  },
+  {
+    "id": "home_entry",
+    "kind": "house",
+    "xy": [
+      -1.0,
+      -8.8
+    ],
+    "yaw": 10,
+    "ground": 0,
+    "scale": 1.0
+  },
+  {
+    "id": "workshop",
+    "kind": "workshop",
+    "xy": [
+      4.15,
+      -9.9
+    ],
+    "yaw": -80,
+    "ground": 0,
+    "scale": 1.0
+  },
+  {
+    "id": "farmstead",
+    "kind": "farmstead",
+    "xy": [
+      -13.95,
+      1.5
+    ],
+    "yaw": 25,
+    "ground": 0,
+    "scale": 1.0
+  },
+  {
+    "id": "watermill",
+    "kind": "watermill",
+    "xy": [
+      13.3,
+      -4.95
+    ],
+    "yaw": -15,
+    "ground": -0.15,
+    "scale": 1.0
+  }
+]

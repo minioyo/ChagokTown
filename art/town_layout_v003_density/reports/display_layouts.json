@@ -1,0 +1,448 @@
+{
+  "Baseline": [
+    {
+      "id": "cafe",
+      "kind": "cafe",
+      "level": 2,
+      "xy": [
+        -5.6,
+        1.2
+      ],
+      "toward": [
+        -1.0,
+        -0.5
+      ],
+      "scale": 0.9,
+      "ground": 0.0
+    },
+    {
+      "id": "bakery",
+      "kind": "bakery",
+      "level": 3,
+      "xy": [
+        -0.7,
+        4.4
+      ],
+      "toward": [
+        -1.0,
+        -0.5
+      ],
+      "scale": 0.86,
+      "ground": 0.0
+    },
+    {
+      "id": "florist",
+      "kind": "florist",
+      "level": 2,
+      "xy": [
+        4.5,
+        1.4
+      ],
+      "toward": [
+        -0.7,
+        -0.7
+      ],
+      "scale": 0.82,
+      "ground": 0.0
+    },
+    {
+      "id": "home",
+      "kind": "house",
+      "level": 2,
+      "xy": [
+        -4.5,
+        7.0
+      ],
+      "toward": [
+        -2.0,
+        4.9
+      ],
+      "scale": 0.9,
+      "ground": 1.65
+    },
+    {
+      "id": "bookshop",
+      "kind": "bookshop",
+      "level": 3,
+      "xy": [
+        1.2,
+        9.8
+      ],
+      "toward": [
+        -1.8,
+        6.8
+      ],
+      "scale": 0.79,
+      "ground": 1.65
+    },
+    {
+      "id": "workshop",
+      "kind": "workshop",
+      "level": 2,
+      "xy": [
+        -6.6,
+        -5.0
+      ],
+      "toward": [
+        -3.5,
+        -5.0
+      ],
+      "scale": 0.8,
+      "ground": -0.45
+    },
+    {
+      "id": "upper_cottage",
+      "kind": "house",
+      "level": 1,
+      "xy": [
+        -7.6,
+        8.4
+      ],
+      "toward": [
+        -4.6,
+        6.3
+      ],
+      "scale": 0.58,
+      "ground": 1.65
+    },
+    {
+      "id": "lane_cottage",
+      "kind": "house",
+      "level": 1,
+      "xy": [
+        -3.7,
+        -2.3
+      ],
+      "toward": [
+        -2.8,
+        -2.35
+      ],
+      "scale": 0.6,
+      "ground": 0.0
+    }
+  ],
+  "Compact": [
+    {
+      "id": "bakery",
+      "kind": "bakery",
+      "level": 3,
+      "xy": [
+        -0.3,
+        2.9
+      ],
+      "scale": 0.86,
+      "ground": 0.0,
+      "yaw": 0,
+      "source_id": "bakery"
+    },
+    {
+      "id": "cafe",
+      "kind": "cafe",
+      "level": 2,
+      "xy": [
+        -4.8,
+        1.65
+      ],
+      "scale": 0.9,
+      "ground": 0.0,
+      "yaw": 76,
+      "source_id": "cafe"
+    },
+    {
+      "id": "florist",
+      "kind": "florist",
+      "level": 2,
+      "xy": [
+        2.95,
+        0.55
+      ],
+      "scale": 0.82,
+      "ground": 0.0,
+      "yaw": -93,
+      "source_id": "florist"
+    },
+    {
+      "id": "home",
+      "kind": "house",
+      "level": 2,
+      "xy": [
+        -3.25,
+        5.7
+      ],
+      "scale": 0.9,
+      "ground": 1.65,
+      "yaw": 28,
+      "source_id": "home"
+    },
+    {
+      "id": "bookshop",
+      "kind": "bookshop",
+      "level": 3,
+      "xy": [
+        1.1,
+        6.8
+      ],
+      "scale": 0.79,
+      "ground": 1.65,
+      "yaw": -38,
+      "source_id": "bookshop"
+    },
+    {
+      "id": "upper_cottage",
+      "kind": "house",
+      "level": 1,
+      "xy": [
+        -6.65,
+        5.7
+      ],
+      "scale": 0.58,
+      "ground": 1.65,
+      "yaw": 77,
+      "source_id": "upper_cottage"
+    },
+    {
+      "id": "workshop",
+      "kind": "workshop",
+      "level": 2,
+      "xy": [
+        -4.3,
+        -2.35
+      ],
+      "scale": 0.8,
+      "ground": -0.45,
+      "yaw": 88,
+      "source_id": "workshop"
+    },
+    {
+      "id": "lane_cottage",
+      "kind": "house",
+      "level": 1,
+      "xy": [
+        -0.95,
+        -1.0
+      ],
+      "scale": 0.6,
+      "ground": 0.0,
+      "yaw": -165,
+      "source_id": "lane_cottage"
+    }
+  ],
+  "Dense": [
+    {
+      "id": "bakery",
+      "kind": "bakery",
+      "level": 3,
+      "xy": [
+        -0.3,
+        2.9
+      ],
+      "scale": 0.86,
+      "ground": 0.0,
+      "yaw": 0,
+      "source_id": "bakery"
+    },
+    {
+      "id": "cafe",
+      "kind": "cafe",
+      "level": 2,
+      "xy": [
+        -4.8,
+        1.65
+      ],
+      "scale": 0.9,
+      "ground": 0.0,
+      "yaw": 76,
+      "source_id": "cafe"
+    },
+    {
+      "id": "florist",
+      "kind": "florist",
+      "level": 2,
+      "xy": [
+        2.95,
+        0.55
+      ],
+      "scale": 0.82,
+      "ground": 0.0,
+      "yaw": -93,
+      "source_id": "florist"
+    },
+    {
+      "id": "home",
+      "kind": "house",
+      "level": 2,
+      "xy": [
+        -3.25,
+        5.7
+      ],
+      "scale": 0.9,
+      "ground": 1.65,
+      "yaw": 28,
+      "source_id": "home"
+    },
+    {
+      "id": "bookshop",
+      "kind": "bookshop",
+      "level": 3,
+      "xy": [
+        1.1,
+        6.8
+      ],
+      "scale": 0.79,
+      "ground": 1.65,
+      "yaw": -38,
+      "source_id": "bookshop"
+    },
+    {
+      "id": "upper_cottage",
+      "kind": "house",
+      "level": 1,
+      "xy": [
+        -6.65,
+        5.7
+      ],
+      "scale": 0.58,
+      "ground": 1.65,
+      "yaw": 77,
+      "source_id": "upper_cottage"
+    },
+    {
+      "id": "workshop",
+      "kind": "workshop",
+      "level": 2,
+      "xy": [
+        -4.3,
+        -2.35
+      ],
+      "scale": 0.8,
+      "ground": -0.45,
+      "yaw": 88,
+      "source_id": "workshop"
+    },
+    {
+      "id": "lane_cottage",
+      "kind": "house",
+      "level": 1,
+      "xy": [
+        -0.95,
+        -1.0
+      ],
+      "scale": 0.6,
+      "ground": 0.0,
+      "yaw": -165,
+      "source_id": "lane_cottage"
+    },
+    {
+      "id": "infill_west",
+      "kind": "house",
+      "level": 1,
+      "scale": 0.46,
+      "ground": 0.3601493835449219,
+      "yaw": 82,
+      "source_id": null,
+      "background_only": true,
+      "xy": [
+        -6.95,
+        2.65
+      ]
+    },
+    {
+      "id": "infill_court",
+      "kind": "florist",
+      "level": 1,
+      "scale": 0.5,
+      "ground": 0.09955978393554688,
+      "yaw": -150,
+      "source_id": null,
+      "background_only": true,
+      "xy": [
+        2.25,
+        -2.6
+      ]
+    },
+    {
+      "id": "infill_upper",
+      "kind": "house",
+      "level": 3,
+      "scale": 0.5,
+      "ground": 1.6500015258789062,
+      "yaw": -8,
+      "source_id": null,
+      "background_only": true,
+      "xy": [
+        -1.2,
+        8.2
+      ]
+    },
+    {
+      "id": "infill_back",
+      "kind": "house",
+      "level": 2,
+      "scale": 0.5,
+      "ground": 1.6500015258789062,
+      "yaw": -120,
+      "source_id": null,
+      "background_only": true,
+      "xy": [
+        -4.8,
+        7.7
+      ]
+    },
+    {
+      "id": "infill_east",
+      "kind": "cafe",
+      "level": 1,
+      "scale": 0.48,
+      "ground": 0.114410400390625,
+      "yaw": -92,
+      "source_id": null,
+      "background_only": true,
+      "xy": [
+        3.05,
+        3.65
+      ]
+    },
+    {
+      "id": "infill_work",
+      "kind": "house",
+      "level": 1,
+      "scale": 0.5,
+      "ground": -0.18112564086914062,
+      "yaw": 100,
+      "source_id": null,
+      "background_only": true,
+      "xy": [
+        -6.6,
+        -0.8
+      ]
+    },
+    {
+      "id": "infill_lower_west",
+      "kind": "house",
+      "level": 2,
+      "scale": 0.56,
+      "ground": -0.2825202941894531,
+      "yaw": 95,
+      "source_id": null,
+      "background_only": true,
+      "xy": [
+        -6.7,
+        -3.9
+      ]
+    },
+    {
+      "id": "infill_lower_east",
+      "kind": "grocer",
+      "level": 1,
+      "scale": 0.58,
+      "ground": 0.09999847412109375,
+      "yaw": -110,
+      "source_id": null,
+      "background_only": true,
+      "xy": [
+        5.4,
+        -1.9
+      ]
+    }
+  ]
+}

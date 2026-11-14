@@ -1,0 +1,52 @@
+D:\Project\Etc\ChagokTown\art\town_layout_v002_concepts\source\build_concepts.py:28: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(name);m.use_nodes=True;m.diffuse_color=G.linear(h)
+BlenderMCP addon registered
+BlenderMCP addon unregistered
+19:32:09 | INFO: Data are loaded, start creating Blender stuff
+19:32:09 | INFO: Blender create Mesh node Cube.104
+19:32:09 | INFO: glTF import finished in 0.02s
+19:32:09 | INFO: Data are loaded, start creating Blender stuff
+19:32:09 | INFO: Blender create Mesh node Cube.200
+19:32:09 | INFO: glTF import finished in 0.02s
+19:32:09 | INFO: Data are loaded, start creating Blender stuff
+19:32:09 | INFO: Blender create Mesh node Cube.442
+19:32:09 | INFO: glTF import finished in 0.02s
+19:32:09 | INFO: Data are loaded, start creating Blender stuff
+19:32:09 | INFO: Blender create Mesh node Cube.676
+19:32:09 | INFO: glTF import finished in 0.02s
+19:32:09 | INFO: Data are loaded, start creating Blender stuff
+19:32:09 | INFO: Blender create Mesh node Cube.835
+19:32:09 | INFO: glTF import finished in 0.02s
+19:32:09 | INFO: Data are loaded, start creating Blender stuff
+19:32:09 | INFO: Blender create Mesh node Cube.204
+19:32:09 | INFO: glTF import finished in 0.01s
+19:32:09 | INFO: Data are loaded, start creating Blender stuff
+19:32:09 | INFO: Blender create Mesh node Cube.378
+19:32:09 | INFO: glTF import finished in 0.02s
+19:32:09 | INFO: Data are loaded, start creating Blender stuff
+19:32:09 | INFO: Blender create Mesh node Cube.1070
+19:32:09 | INFO: glTF import finished in 0.02s
+19:32:09 | INFO: Data are loaded, start creating Blender stuff
+19:32:09 | INFO: Blender create Mesh node Cube.763
+19:32:09 | INFO: glTF import finished in 0.01s
+19:32:09 | INFO: Data are loaded, start creating Blender stuff
+19:32:09 | INFO: Blender create Mesh node Cube.1409
+19:32:09 | INFO: glTF import finished in 0.02s
+19:32:09 | INFO: Data are loaded, start creating Blender stuff
+19:32:09 | INFO: Blender create Mesh node Cube.064
+19:32:09 | INFO: glTF import finished in 0.01s
+PLACEMENT_CHECK A [{"a": "workshop", "b": "lane_cottage", "separating_gap_m": -0.4047, "overlap": true}]
+19:32:09 | INFO: Data are loaded, start creating Blender stuff
+19:32:09 | INFO: Blender create Mesh node Cube.232
+19:32:09 | INFO: glTF import finished in 0.02s
+19:32:09 | INFO: Data are loaded, start creating Blender stuff
+19:32:09 | INFO: Blender create Mesh node Cube.615
+19:32:09 | INFO: glTF import finished in 0.02s
+19:32:09 | INFO: Data are loaded, start creating Blender stuff
+19:32:09 | INFO: Blender create Mesh node Cube.1182
+19:32:09 | INFO: glTF import finished in 0.03s
+19:32:09 | INFO: Data are loaded, start creating Blender stuff
+19:32:09 | INFO: Blender create Mesh node Cube.314
+19:32:09 | INFO: glTF import finished in 0.01s
+PLACEMENT_CHECK B [{"a": "home", "b": "upper_cottage", "separating_gap_m": -0.1405, "overlap": true}]
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)

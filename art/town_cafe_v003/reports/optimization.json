@@ -1,0 +1,212 @@
+{
+  "v001_cafe": {
+    "bytes": 1385572,
+    "mesh_objects": 97,
+    "primitives": 97,
+    "materials": 17,
+    "triangles": 26232,
+    "vertices": 40372,
+    "textures": 0,
+    "all_primitives_have_vertex_color": false
+  },
+  "levels": {
+    "1": {
+      "before": {
+        "mesh_objects": 57,
+        "triangles": 14724,
+        "vertices": 7472,
+        "materials": 14,
+        "bounds_min": [
+          -1.383995532989502,
+          -1.6699999570846558,
+          0.0
+        ],
+        "bounds_max": [
+          1.6196000576019287,
+          1.1839957237243652,
+          3.015000104904175
+        ],
+        "dimensions": [
+          3.0035955905914307,
+          2.853995680809021,
+          3.015000104904175
+        ]
+      },
+      "before_glb": {
+        "bytes": 425404,
+        "mesh_objects": 57,
+        "primitives": 57,
+        "materials": 14,
+        "triangles": 14724,
+        "vertices": 11187,
+        "textures": 0,
+        "all_primitives_have_vertex_color": false
+      },
+      "after": {
+        "mesh_objects": 1,
+        "triangles": 3364,
+        "vertices": 1792,
+        "materials": 1,
+        "bounds_min": [
+          -1.3749715089797974,
+          -1.6699999570846558,
+          0.0
+        ],
+        "bounds_max": [
+          1.6196000576019287,
+          1.174971580505371,
+          3.015000104904175
+        ],
+        "dimensions": [
+          2.994571566581726,
+          2.844971537590027,
+          3.015000104904175
+        ]
+      },
+      "after_glb": {
+        "bytes": 178564,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 3364,
+        "vertices": 3562,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      },
+      "triangle_reduction_percent": 77.15,
+      "bytes_reduction_percent": 58.02
+    },
+    "2": {
+      "before": {
+        "mesh_objects": 87,
+        "triangles": 24568,
+        "vertices": 12452,
+        "materials": 16,
+        "bounds_min": [
+          -1.633995532989502,
+          -2.5299999713897705,
+          0.0
+        ],
+        "bounds_max": [
+          2.065999984741211,
+          1.3339955806732178,
+          3.265000104904175
+        ],
+        "dimensions": [
+          3.699995517730713,
+          3.8639955520629883,
+          3.265000104904175
+        ]
+      },
+      "before_glb": {
+        "bytes": 696068,
+        "mesh_objects": 87,
+        "primitives": 87,
+        "materials": 16,
+        "triangles": 24568,
+        "vertices": 19123,
+        "textures": 0,
+        "all_primitives_have_vertex_color": false
+      },
+      "after": {
+        "mesh_objects": 1,
+        "triangles": 5160,
+        "vertices": 2748,
+        "materials": 1,
+        "bounds_min": [
+          -1.6249715089797974,
+          -2.5299999713897705,
+          0.0
+        ],
+        "bounds_max": [
+          2.0615742206573486,
+          1.3249715566635132,
+          3.265000104904175
+        ],
+        "dimensions": [
+          3.686545729637146,
+          3.8549715280532837,
+          3.265000104904175
+        ]
+      },
+      "after_glb": {
+        "bytes": 274524,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 5160,
+        "vertices": 5498,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      },
+      "triangle_reduction_percent": 79.0,
+      "bytes_reduction_percent": 60.56
+    },
+    "3": {
+      "before": {
+        "mesh_objects": 144,
+        "triangles": 39716,
+        "vertices": 20140,
+        "materials": 19,
+        "bounds_min": [
+          -1.7599999904632568,
+          -3.0999999046325684,
+          0.0
+        ],
+        "bounds_max": [
+          2.1659998893737793,
+          1.383995532989502,
+          4.6875
+        ],
+        "dimensions": [
+          3.925999879837036,
+          4.48399543762207,
+          4.6875
+        ]
+      },
+      "before_glb": {
+        "bytes": 1102468,
+        "mesh_objects": 144,
+        "primitives": 145,
+        "materials": 19,
+        "triangles": 39716,
+        "vertices": 29773,
+        "textures": 0,
+        "all_primitives_have_vertex_color": false
+      },
+      "after": {
+        "mesh_objects": 1,
+        "triangles": 7324,
+        "vertices": 3944,
+        "materials": 1,
+        "bounds_min": [
+          -1.7599999904632568,
+          -3.0999999046325684,
+          0.0
+        ],
+        "bounds_max": [
+          2.161574125289917,
+          1.3749715089797974,
+          4.6875
+        ],
+        "dimensions": [
+          3.921574115753174,
+          4.474971413612366,
+          4.6875
+        ]
+      },
+      "after_glb": {
+        "bytes": 394284,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 7324,
+        "vertices": 7925,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      },
+      "triangle_reduction_percent": 81.56,
+      "bytes_reduction_percent": 64.24
+    }
+  }
+}

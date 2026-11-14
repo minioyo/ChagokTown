@@ -1,0 +1,10 @@
+Use case: stylized-concept.
+Asset type: transparent game mascot concept for Liar Ride, Moka.
+Create ONE original extremely minimal mascot on an actual alpha-transparent background. No reference images. Flat smooth 2D shapes, not pixel art.
+The ENTIRE visible character consists of exactly THREE shapes: one softly rounded square body and two small dark capsule eyes. No accessory.
+The body is a single near-square rounded rectangle, slightly wider than tall, with generous rounded corners. Head and body are the SAME single shape. Use one uniform muted brick-coral fill, target #D97565.
+The two eyes use the SAME solid deep warm charcoal fill, target #312629. Each eye is a short slender capsule with rounded ends, subtly tilted inward about 7 degrees. Keep the tilt restrained, with enough space between the eyes to suggest quiet self-confidence in her own deductions. Eyes sit slightly above the center of the body, centered as a pair. Each eye is one filled shape only; no eyeball white, iris, pupil, highlight, lashes or brows.
+Front view, no perspective. Square canvas. Center the complete mascot with roughly 20 percent transparent margin on all four sides. Body occupies roughly 60 percent of canvas width and height. All outer edges smooth and clearly antialiased.
+Color constraints: exactly one flat body color and one flat eye color, with only edge antialiasing. No outlines, gradients, shading, drop shadows, glow, gloss, reflections, texture, speckles, lighting or 3D rendering.
+No arms, legs, hands, feet, ears, hair, nose, mouth, eyebrows, clothing, neck, separate head, facial features beyond the two eyes, symbols, lettering, signature, background objects, ground plane, checkerboard pattern or opaque background.
+This is a new original shape mascot, not a copy of any existing avatar, robot or brand logo. Deliver one clean isolated transparent PNG image, not a comparison sheet or presentation.

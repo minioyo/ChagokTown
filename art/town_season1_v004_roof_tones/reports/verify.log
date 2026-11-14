@@ -1,0 +1,297 @@
+00:00.875  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v002_integrated\blend\integrated_models.blend"
+BlenderMCP addon registered
+INDEPENDENT_ROOF_SCOPE_OK bakery_level_1 88
+INDEPENDENT_ROOF_SCOPE_OK bakery_level_2 88
+INDEPENDENT_ROOF_SCOPE_OK bakery_level_3 96
+INDEPENDENT_ROOF_SCOPE_OK bookshop_level_1 0
+INDEPENDENT_ROOF_SCOPE_OK bookshop_level_2 0
+INDEPENDENT_ROOF_SCOPE_OK bookshop_level_3 0
+INDEPENDENT_ROOF_SCOPE_OK cafe_level_1 0
+INDEPENDENT_ROOF_SCOPE_OK cafe_level_2 0
+INDEPENDENT_ROOF_SCOPE_OK cafe_level_3 0
+INDEPENDENT_ROOF_SCOPE_OK florist_level_1 160
+INDEPENDENT_ROOF_SCOPE_OK florist_level_2 160
+INDEPENDENT_ROOF_SCOPE_OK florist_level_3 160
+INDEPENDENT_ROOF_SCOPE_OK grocer_level_1 0
+INDEPENDENT_ROOF_SCOPE_OK grocer_level_2 0
+INDEPENDENT_ROOF_SCOPE_OK grocer_level_3 0
+INDEPENDENT_ROOF_SCOPE_OK house_level_1 160
+INDEPENDENT_ROOF_SCOPE_OK house_level_2 160
+INDEPENDENT_ROOF_SCOPE_OK house_level_3 160
+INDEPENDENT_ROOF_SCOPE_OK town_hall_level_1 88
+INDEPENDENT_ROOF_SCOPE_OK town_hall_level_2 88
+INDEPENDENT_ROOF_SCOPE_OK town_hall_level_3 88
+INDEPENDENT_ROOF_SCOPE_OK workshop_level_1 0
+INDEPENDENT_ROOF_SCOPE_OK workshop_level_2 0
+INDEPENDENT_ROOF_SCOPE_OK workshop_level_3 0
+00:03.593  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v001\blend\season1_models.blend"
+INDEPENDENT_ROOF_SCOPE_OK cathedral_level_1 132
+INDEPENDENT_ROOF_SCOPE_OK cathedral_level_2 227
+INDEPENDENT_ROOF_SCOPE_OK cathedral_level_3 331
+INDEPENDENT_ROOF_SCOPE_OK inn_level_1 136
+INDEPENDENT_ROOF_SCOPE_OK inn_level_2 193
+INDEPENDENT_ROOF_SCOPE_OK inn_level_3 197
+INDEPENDENT_ROOF_SCOPE_OK watermill_level_1 128
+INDEPENDENT_ROOF_SCOPE_OK watermill_level_2 240
+INDEPENDENT_ROOF_SCOPE_OK watermill_level_3 252
+INDEPENDENT_ROOF_SCOPE_OK farmstead_level_1 128
+INDEPENDENT_ROOF_SCOPE_OK farmstead_level_2 260
+INDEPENDENT_ROOF_SCOPE_OK farmstead_level_3 390
+00:05.109  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v004_roof_tones\blend\roof_tones_review.blend"
+03:53:21 | INFO: Data are loaded, start creating Blender stuff
+03:53:21 | INFO: Blender create Mesh node Cube.1204
+03:53:22 | INFO: glTF import finished in 0.49s
+03:53:22 | INFO: Data are loaded, start creating Blender stuff
+03:53:22 | INFO: Blender create Mesh node Cube.1204
+03:53:22 | INFO: glTF import finished in 0.49s
+PAIRED_REIMPORT_OK bakery_level_1
+03:53:22 | INFO: Data are loaded, start creating Blender stuff
+03:53:22 | INFO: Blender create Mesh node Cube.1359
+03:53:23 | INFO: glTF import finished in 0.51s
+03:53:23 | INFO: Data are loaded, start creating Blender stuff
+03:53:23 | INFO: Blender create Mesh node Cube.1359
+03:53:23 | INFO: glTF import finished in 0.52s
+PAIRED_REIMPORT_OK bakery_level_2
+03:53:23 | INFO: Data are loaded, start creating Blender stuff
+03:53:23 | INFO: Blender create Mesh node Cube.1561
+03:53:24 | INFO: glTF import finished in 0.52s
+03:53:24 | INFO: Data are loaded, start creating Blender stuff
+03:53:24 | INFO: Blender create Mesh node Cube.1561
+03:53:25 | INFO: glTF import finished in 0.53s
+PAIRED_REIMPORT_OK bakery_level_3
+03:53:25 | INFO: Data are loaded, start creating Blender stuff
+03:53:25 | INFO: Blender create Mesh node Cube.1741
+03:53:25 | INFO: glTF import finished in 0.54s
+03:53:25 | INFO: Data are loaded, start creating Blender stuff
+03:53:25 | INFO: Blender create Mesh node Cube.1741
+03:53:26 | INFO: glTF import finished in 0.53s
+PAIRED_REIMPORT_OK bookshop_level_1
+03:53:26 | INFO: Data are loaded, start creating Blender stuff
+03:53:26 | INFO: Blender create Mesh node Cube.1914
+03:53:26 | INFO: glTF import finished in 0.56s
+03:53:26 | INFO: Data are loaded, start creating Blender stuff
+03:53:26 | INFO: Blender create Mesh node Cube.1914
+03:53:27 | INFO: glTF import finished in 0.54s
+PAIRED_REIMPORT_OK bookshop_level_2
+03:53:27 | INFO: Data are loaded, start creating Blender stuff
+03:53:27 | INFO: Blender create Mesh node Cube.2182
+03:53:28 | INFO: glTF import finished in 0.56s
+03:53:28 | INFO: Data are loaded, start creating Blender stuff
+03:53:28 | INFO: Blender create Mesh node Cube.2182
+03:53:28 | INFO: glTF import finished in 0.57s
+PAIRED_REIMPORT_OK bookshop_level_3
+03:53:28 | INFO: Data are loaded, start creating Blender stuff
+03:53:28 | INFO: Blender create Mesh node Cube.030
+03:53:29 | INFO: glTF import finished in 0.56s
+03:53:29 | INFO: Data are loaded, start creating Blender stuff
+03:53:29 | INFO: Blender create Mesh node Cube.030
+03:53:30 | INFO: glTF import finished in 0.57s
+PAIRED_REIMPORT_OK cafe_level_1
+03:53:30 | INFO: Data are loaded, start creating Blender stuff
+03:53:30 | INFO: Blender create Mesh node Cube.098
+03:53:30 | INFO: glTF import finished in 0.59s
+03:53:30 | INFO: Data are loaded, start creating Blender stuff
+03:53:30 | INFO: Blender create Mesh node Cube.098
+03:53:31 | INFO: glTF import finished in 0.59s
+PAIRED_REIMPORT_OK cafe_level_2
+03:53:31 | INFO: Data are loaded, start creating Blender stuff
+03:53:31 | INFO: Blender create Mesh node Cube.189
+03:53:32 | INFO: glTF import finished in 0.71s
+03:53:32 | INFO: Data are loaded, start creating Blender stuff
+03:53:32 | INFO: Blender create Mesh node Cube.189
+03:53:33 | INFO: glTF import finished in 0.83s
+PAIRED_REIMPORT_OK cafe_level_3
+03:53:33 | INFO: Data are loaded, start creating Blender stuff
+03:53:33 | INFO: Blender create Mesh node Cube.763
+03:53:34 | INFO: glTF import finished in 0.84s
+03:53:34 | INFO: Data are loaded, start creating Blender stuff
+03:53:34 | INFO: Blender create Mesh node Cube.763
+03:53:34 | INFO: glTF import finished in 0.65s
+PAIRED_REIMPORT_OK florist_level_1
+03:53:34 | INFO: Data are loaded, start creating Blender stuff
+03:53:34 | INFO: Blender create Mesh node Cube.896
+03:53:35 | INFO: glTF import finished in 0.77s
+03:53:35 | INFO: Data are loaded, start creating Blender stuff
+03:53:35 | INFO: Blender create Mesh node Cube.896
+03:53:36 | INFO: glTF import finished in 0.66s
+PAIRED_REIMPORT_OK florist_level_2
+03:53:36 | INFO: Data are loaded, start creating Blender stuff
+03:53:36 | INFO: Blender create Mesh node Cube.1052
+03:53:37 | INFO: glTF import finished in 0.69s
+03:53:37 | INFO: Data are loaded, start creating Blender stuff
+03:53:37 | INFO: Blender create Mesh node Cube.1052
+03:53:38 | INFO: glTF import finished in 0.70s
+PAIRED_REIMPORT_OK florist_level_3
+03:53:38 | INFO: Data are loaded, start creating Blender stuff
+03:53:38 | INFO: Blender create Mesh node Cube.2921
+03:53:38 | INFO: glTF import finished in 0.67s
+03:53:38 | INFO: Data are loaded, start creating Blender stuff
+03:53:38 | INFO: Blender create Mesh node Cube.2921
+03:53:39 | INFO: glTF import finished in 0.68s
+PAIRED_REIMPORT_OK grocer_level_1
+03:53:39 | INFO: Data are loaded, start creating Blender stuff
+03:53:39 | INFO: Blender create Mesh node Cube.3041
+03:53:40 | INFO: glTF import finished in 0.70s
+03:53:40 | INFO: Data are loaded, start creating Blender stuff
+03:53:40 | INFO: Blender create Mesh node Cube.3041
+03:53:41 | INFO: glTF import finished in 0.76s
+PAIRED_REIMPORT_OK grocer_level_2
+03:53:41 | INFO: Data are loaded, start creating Blender stuff
+03:53:41 | INFO: Blender create Mesh node Cube.3212
+03:53:42 | INFO: glTF import finished in 0.85s
+03:53:42 | INFO: Data are loaded, start creating Blender stuff
+03:53:42 | INFO: Blender create Mesh node Cube.3212
+03:53:42 | INFO: glTF import finished in 0.77s
+PAIRED_REIMPORT_OK grocer_level_3
+03:53:43 | INFO: Data are loaded, start creating Blender stuff
+03:53:43 | INFO: Blender create Mesh node Cube.304
+03:53:43 | INFO: glTF import finished in 0.78s
+03:53:43 | INFO: Data are loaded, start creating Blender stuff
+03:53:43 | INFO: Blender create Mesh node Cube.304
+03:53:44 | INFO: glTF import finished in 0.78s
+PAIRED_REIMPORT_OK house_level_1
+03:53:44 | INFO: Data are loaded, start creating Blender stuff
+03:53:44 | INFO: Blender create Mesh node Cube.440
+03:53:45 | INFO: glTF import finished in 0.72s
+03:53:45 | INFO: Data are loaded, start creating Blender stuff
+03:53:45 | INFO: Blender create Mesh node Cube.440
+03:53:46 | INFO: glTF import finished in 0.78s
+PAIRED_REIMPORT_OK house_level_2
+03:53:46 | INFO: Data are loaded, start creating Blender stuff
+03:53:46 | INFO: Blender create Mesh node Cube.608
+03:53:47 | INFO: glTF import finished in 0.82s
+03:53:47 | INFO: Data are loaded, start creating Blender stuff
+03:53:47 | INFO: Blender create Mesh node Cube.608
+03:53:48 | INFO: glTF import finished in 0.90s
+PAIRED_REIMPORT_OK house_level_3
+03:53:48 | INFO: Data are loaded, start creating Blender stuff
+03:53:48 | INFO: Blender create Mesh node Cube.2413
+03:53:49 | INFO: glTF import finished in 0.86s
+03:53:49 | INFO: Data are loaded, start creating Blender stuff
+03:53:49 | INFO: Blender create Mesh node Cube.2413
+03:53:50 | INFO: glTF import finished in 0.89s
+PAIRED_REIMPORT_OK town_hall_level_1
+03:53:50 | INFO: Data are loaded, start creating Blender stuff
+03:53:50 | INFO: Blender create Mesh node Cube.2564
+03:53:51 | INFO: glTF import finished in 0.80s
+03:53:51 | INFO: Data are loaded, start creating Blender stuff
+03:53:51 | INFO: Blender create Mesh node Cube.2564
+03:53:51 | INFO: glTF import finished in 0.79s
+PAIRED_REIMPORT_OK town_hall_level_2
+03:53:51 | INFO: Data are loaded, start creating Blender stuff
+03:53:52 | INFO: Blender create Mesh node Cube.2758
+03:53:52 | INFO: glTF import finished in 0.81s
+03:53:52 | INFO: Data are loaded, start creating Blender stuff
+03:53:52 | INFO: Blender create Mesh node Cube.2758
+03:53:53 | INFO: glTF import finished in 0.86s
+PAIRED_REIMPORT_OK town_hall_level_3
+03:53:53 | INFO: Data are loaded, start creating Blender stuff
+03:53:53 | INFO: Blender create Mesh node Cube.3367
+03:53:54 | INFO: glTF import finished in 0.82s
+03:53:54 | INFO: Data are loaded, start creating Blender stuff
+03:53:54 | INFO: Blender create Mesh node Cube.3367
+03:53:55 | INFO: glTF import finished in 0.81s
+PAIRED_REIMPORT_OK workshop_level_1
+03:53:55 | INFO: Data are loaded, start creating Blender stuff
+03:53:55 | INFO: Blender create Mesh node Cube.3492
+03:53:56 | INFO: glTF import finished in 0.83s
+03:53:56 | INFO: Data are loaded, start creating Blender stuff
+03:53:56 | INFO: Blender create Mesh node Cube.3492
+03:53:57 | INFO: glTF import finished in 0.83s
+PAIRED_REIMPORT_OK workshop_level_2
+03:53:57 | INFO: Data are loaded, start creating Blender stuff
+03:53:57 | INFO: Blender create Mesh node Cube.3676
+03:53:58 | INFO: glTF import finished in 0.88s
+03:53:58 | INFO: Data are loaded, start creating Blender stuff
+03:53:58 | INFO: Blender create Mesh node Cube.3676
+03:53:59 | INFO: glTF import finished in 0.86s
+PAIRED_REIMPORT_OK workshop_level_3
+03:53:59 | INFO: Data are loaded, start creating Blender stuff
+03:53:59 | INFO: Blender create Mesh node Cube.054
+03:54:00 | INFO: glTF import finished in 0.74s
+03:54:00 | INFO: Data are loaded, start creating Blender stuff
+03:54:00 | INFO: Blender create Mesh node Cube.054
+03:54:00 | INFO: glTF import finished in 0.73s
+PAIRED_REIMPORT_OK cathedral_level_1
+03:54:00 | INFO: Data are loaded, start creating Blender stuff
+03:54:00 | INFO: Blender create Mesh node Cube.290
+03:54:01 | INFO: glTF import finished in 0.77s
+03:54:01 | INFO: Data are loaded, start creating Blender stuff
+03:54:01 | INFO: Blender create Mesh node Cube.290
+03:54:02 | INFO: glTF import finished in 0.77s
+PAIRED_REIMPORT_OK cathedral_level_2
+03:54:02 | INFO: Data are loaded, start creating Blender stuff
+03:54:02 | INFO: Blender create Mesh node Cube.696
+03:54:03 | INFO: glTF import finished in 0.75s
+03:54:03 | INFO: Data are loaded, start creating Blender stuff
+03:54:03 | INFO: Blender create Mesh node Cube.696
+03:54:04 | INFO: glTF import finished in 0.77s
+PAIRED_REIMPORT_OK cathedral_level_3
+03:54:04 | INFO: Data are loaded, start creating Blender stuff
+03:54:04 | INFO: Blender create Mesh node Cube.1005
+03:54:05 | INFO: glTF import finished in 0.77s
+03:54:05 | INFO: Data are loaded, start creating Blender stuff
+03:54:05 | INFO: Blender create Mesh node Cube.1005
+03:54:06 | INFO: glTF import finished in 0.76s
+PAIRED_REIMPORT_OK inn_level_1
+03:54:06 | INFO: Data are loaded, start creating Blender stuff
+03:54:06 | INFO: Blender create Mesh node Cube.1266
+03:54:06 | INFO: glTF import finished in 0.78s
+03:54:06 | INFO: Data are loaded, start creating Blender stuff
+03:54:06 | INFO: Blender create Mesh node Cube.1266
+03:54:07 | INFO: glTF import finished in 0.78s
+PAIRED_REIMPORT_OK inn_level_2
+03:54:07 | INFO: Data are loaded, start creating Blender stuff
+03:54:07 | INFO: Blender create Mesh node Cube.1632
+03:54:08 | INFO: glTF import finished in 0.78s
+03:54:08 | INFO: Data are loaded, start creating Blender stuff
+03:54:08 | INFO: Blender create Mesh node Cube.1632
+03:54:09 | INFO: glTF import finished in 0.79s
+PAIRED_REIMPORT_OK inn_level_3
+03:54:09 | INFO: Data are loaded, start creating Blender stuff
+03:54:09 | INFO: Blender create Mesh node Cube.1900
+03:54:10 | INFO: glTF import finished in 0.80s
+03:54:10 | INFO: Data are loaded, start creating Blender stuff
+03:54:10 | INFO: Blender create Mesh node Cube.1900
+03:54:11 | INFO: glTF import finished in 0.79s
+PAIRED_REIMPORT_OK watermill_level_1
+03:54:11 | INFO: Data are loaded, start creating Blender stuff
+03:54:11 | INFO: Blender create Mesh node Cube.2103
+03:54:12 | INFO: glTF import finished in 0.79s
+03:54:12 | INFO: Data are loaded, start creating Blender stuff
+03:54:12 | INFO: Blender create Mesh node Cube.2103
+03:54:13 | INFO: glTF import finished in 0.79s
+PAIRED_REIMPORT_OK watermill_level_2
+03:54:13 | INFO: Data are loaded, start creating Blender stuff
+03:54:13 | INFO: Blender create Mesh node Cube.2393
+03:54:13 | INFO: glTF import finished in 0.82s
+03:54:14 | INFO: Data are loaded, start creating Blender stuff
+03:54:14 | INFO: Blender create Mesh node Cube.2393
+03:54:14 | INFO: glTF import finished in 0.83s
+PAIRED_REIMPORT_OK watermill_level_3
+03:54:15 | INFO: Data are loaded, start creating Blender stuff
+03:54:15 | INFO: Blender create Mesh node Cube.2634
+03:54:15 | INFO: glTF import finished in 0.81s
+03:54:15 | INFO: Data are loaded, start creating Blender stuff
+03:54:15 | INFO: Blender create Mesh node Cube.2634
+03:54:16 | INFO: glTF import finished in 0.81s
+PAIRED_REIMPORT_OK farmstead_level_1
+03:54:16 | INFO: Data are loaded, start creating Blender stuff
+03:54:16 | INFO: Blender create Mesh node Cube.2844
+03:54:17 | INFO: glTF import finished in 0.84s
+03:54:17 | INFO: Data are loaded, start creating Blender stuff
+03:54:17 | INFO: Blender create Mesh node Cube.2844
+03:54:18 | INFO: glTF import finished in 0.87s
+PAIRED_REIMPORT_OK farmstead_level_2
+03:54:18 | INFO: Data are loaded, start creating Blender stuff
+03:54:18 | INFO: Blender create Mesh node Cube.3181
+03:54:19 | INFO: glTF import finished in 0.86s
+03:54:19 | INFO: Data are loaded, start creating Blender stuff
+03:54:19 | INFO: Blender create Mesh node Cube.3181
+03:54:20 | INFO: glTF import finished in 0.87s
+PAIRED_REIMPORT_OK farmstead_level_3
+ALL_ROOF_TONE_VALIDATION_COMPLETE
+BlenderMCP addon unregistered
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

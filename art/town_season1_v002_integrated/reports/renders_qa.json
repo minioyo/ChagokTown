@@ -1,0 +1,263 @@
+{
+  "map_sha256": "06b5e9d606c5655dd7604974cc8b96ffc65850b758c1d2ee177b931df2eca00f",
+  "assets": [
+    {
+      "type": "bakery",
+      "level": 1,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/bakery_level_1.glb",
+      "sha256": "2af8e1712ea9a6b5b09f024a201a23b65e099632c503e6995fa84674c1e8451f"
+    },
+    {
+      "type": "bakery",
+      "level": 2,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/bakery_level_2.glb",
+      "sha256": "37f74b4b74e4995ef1e118545bfd8e6bd16bd9abbb99473be5957a49e2c3cd68"
+    },
+    {
+      "type": "bakery",
+      "level": 3,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/bakery_level_3.glb",
+      "sha256": "19eb97d74ca179e8821d561edbebd4a5a391bb91f0f0b72e61dc872c23d026a1"
+    },
+    {
+      "type": "bookshop",
+      "level": 1,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/bookshop_level_1.glb",
+      "sha256": "894108102bdcbca74687a74ba3249643075a3260356508b7b7a96c8d2d64c32c"
+    },
+    {
+      "type": "bookshop",
+      "level": 2,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/bookshop_level_2.glb",
+      "sha256": "3d69f99a8555a8edb070f413fab89073f8a01535a9823a1611291a20df3a59c4"
+    },
+    {
+      "type": "bookshop",
+      "level": 3,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/bookshop_level_3.glb",
+      "sha256": "70d7fe1d42f38c4ea514ca2ffcd615ceb5f5255264c8e3b8278e8227bae5f844"
+    },
+    {
+      "type": "cafe",
+      "level": 1,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/cafe_level_1.glb",
+      "sha256": "b113fe8fde73ca07d2e1bfbd3a221c48d69099fe4d3189221293c7f82986f485"
+    },
+    {
+      "type": "cafe",
+      "level": 2,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/cafe_level_2.glb",
+      "sha256": "fc320645f3e68f0a30428fb3a7538598a53592e742dd49ea09160445046aa6c9"
+    },
+    {
+      "type": "cafe",
+      "level": 3,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/cafe_level_3.glb",
+      "sha256": "70791188702ddcc1c8304817cdd402da9f07de8d26c081ed9e11796e4be03d6a"
+    },
+    {
+      "type": "florist",
+      "level": 1,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/florist_level_1.glb",
+      "sha256": "1655fbeb6a9b5c53f90d8a6e19c1334e0b1b95992af4213237071c76d365e770"
+    },
+    {
+      "type": "florist",
+      "level": 2,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/florist_level_2.glb",
+      "sha256": "d85747f37de110557ca2b48667a36de8f44a3abc9d542b1059ebc561540f4f88"
+    },
+    {
+      "type": "florist",
+      "level": 3,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/florist_level_3.glb",
+      "sha256": "97c3f0f105ef44f8e16c19ffccce01758c034c1437014b0db328b3be8e89b750"
+    },
+    {
+      "type": "grocer",
+      "level": 1,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/grocer_level_1.glb",
+      "sha256": "9fe96d5d6e00b7c24aa4c45691ff91de2d04f951d371fc8ed40993cdfa5a5fce"
+    },
+    {
+      "type": "grocer",
+      "level": 2,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/grocer_level_2.glb",
+      "sha256": "b780ffc5914e7ea99d81dfd9e12f036977e5b87fd663fa89b7c050550fcff603"
+    },
+    {
+      "type": "grocer",
+      "level": 3,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/grocer_level_3.glb",
+      "sha256": "5a0b35e35229fbd6cdea8383e2c0f1a28cbc96e0ba5e6340ebb61de250b854a4"
+    },
+    {
+      "type": "house",
+      "level": 1,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/house_level_1.glb",
+      "sha256": "2e515b17f5cb5a5ffa8300a79d36519fdf7bfdfbbd737aba70ab6971ad49b392"
+    },
+    {
+      "type": "house",
+      "level": 2,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/house_level_2.glb",
+      "sha256": "a1838b7548124e49c8901ad8a07d16bf4e0d9c21f8f776a1b453295fa9dd2385"
+    },
+    {
+      "type": "house",
+      "level": 3,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/house_level_3.glb",
+      "sha256": "412ed73b0007a46602a59f137dda70c9f1ad3ec042fe1e24391affdd2857e832"
+    },
+    {
+      "type": "town_hall",
+      "level": 1,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/town_hall_level_1.glb",
+      "sha256": "1ff5bec5c9d690a0d961f255664f3c367f0d0ee127aa5acd63e125c0a1ebe799"
+    },
+    {
+      "type": "town_hall",
+      "level": 2,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/town_hall_level_2.glb",
+      "sha256": "c24def5f86fcb8b4735f8ad6a361fa1285976136d71cd684eb00390e7a424e0b"
+    },
+    {
+      "type": "town_hall",
+      "level": 3,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/town_hall_level_3.glb",
+      "sha256": "f4948897da9bf855753098c32769c90e97dbbc93b704fd08c114a4fc232aa8c0"
+    },
+    {
+      "type": "workshop",
+      "level": 1,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/workshop_level_1.glb",
+      "sha256": "da8f4a6ea336106e0e7ffa3cd51c85f2ad2b47c36ff78420cf4cec4110d55644"
+    },
+    {
+      "type": "workshop",
+      "level": 2,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/workshop_level_2.glb",
+      "sha256": "e496433750693190c7eafc2f71ad9f661b6d6bc3120b7f73653e3755f347271f"
+    },
+    {
+      "type": "workshop",
+      "level": 3,
+      "changed": true,
+      "path": "town_season1_v002_integrated/exports/workshop_level_3.glb",
+      "sha256": "0c61728024b3790b643636dfe307f8a77883f2be0e498214ee573f5621495e13"
+    },
+    {
+      "type": "cathedral",
+      "level": 1,
+      "changed": false,
+      "path": "town_season1_v001/exports/cathedral_level_1.glb",
+      "sha256": "948184e553cc17135ff811288faf9af0c5a994068c00ab31b2a7d731272feb95"
+    },
+    {
+      "type": "cathedral",
+      "level": 2,
+      "changed": false,
+      "path": "town_season1_v001/exports/cathedral_level_2.glb",
+      "sha256": "2e3bfbf62b6597d2e1687b28e5b7895be1f2474717944e141c61784f6760221d"
+    },
+    {
+      "type": "cathedral",
+      "level": 3,
+      "changed": false,
+      "path": "town_season1_v001/exports/cathedral_level_3.glb",
+      "sha256": "05c39e4f6c39375c9901f40e8250e38c75d73107d2be82158e111a2a977ab2e2"
+    },
+    {
+      "type": "inn",
+      "level": 1,
+      "changed": false,
+      "path": "town_season1_v001/exports/inn_level_1.glb",
+      "sha256": "cb39cf6d6293449780e5439309c707d50b678407beddb958e98cf9bc25517dd7"
+    },
+    {
+      "type": "inn",
+      "level": 2,
+      "changed": false,
+      "path": "town_season1_v001/exports/inn_level_2.glb",
+      "sha256": "60e633f2223fada69f1df4c60c66cb901b3a86070135fac66b527797926891e5"
+    },
+    {
+      "type": "inn",
+      "level": 3,
+      "changed": false,
+      "path": "town_season1_v001/exports/inn_level_3.glb",
+      "sha256": "34f058ce7e5d59f5a0c9641f84c62a57cee9a0319e0032de3ec717d0b6074895"
+    },
+    {
+      "type": "watermill",
+      "level": 1,
+      "changed": false,
+      "path": "town_season1_v001/exports/watermill_level_1.glb",
+      "sha256": "88db81f8835baa63f9efd0082a50d5da99052e652669ff718b33f5ed3f86f69a"
+    },
+    {
+      "type": "watermill",
+      "level": 2,
+      "changed": false,
+      "path": "town_season1_v001/exports/watermill_level_2.glb",
+      "sha256": "976d4f7fb29b4f5b516810080a5dde919b6af949da666dfe1d43095b566a6ca6"
+    },
+    {
+      "type": "watermill",
+      "level": 3,
+      "changed": false,
+      "path": "town_season1_v001/exports/watermill_level_3.glb",
+      "sha256": "94b1e1482f39c2e76e172ea14394bb4148a5b186fa0a3c84b77474f415c35595"
+    },
+    {
+      "type": "farmstead",
+      "level": 1,
+      "changed": false,
+      "path": "town_season1_v001/exports/farmstead_level_1.glb",
+      "sha256": "7e41502bf9af00dd5bbf85c7cbc146f7fbd49183fd4c25b9c5d142ad53dd66bb"
+    },
+    {
+      "type": "farmstead",
+      "level": 2,
+      "changed": false,
+      "path": "town_season1_v001/exports/farmstead_level_2.glb",
+      "sha256": "7ac1fc3324e72a56a54b564bc87eea8b403a239ae4c5bd6608935da3c539db4e"
+    },
+    {
+      "type": "farmstead",
+      "level": 3,
+      "changed": false,
+      "path": "town_season1_v001/exports/farmstead_level_3.glb",
+      "sha256": "1df1ead8d660f4068ac90bca79a12c73b10541cbef6969d009ddb11c8657516f"
+    }
+  ],
+  "images": [
+    {
+      "path": "renders/07_grocer_levels.png",
+      "sha256": "35dd70e48706bea4053172d78431f92e3d39e40168b59e8b5d4c12e48d3c6bc6"
+    }
+  ]
+}

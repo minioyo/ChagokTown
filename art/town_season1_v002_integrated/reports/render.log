@@ -1,0 +1,16 @@
+00:01.125  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v002_integrated\blend\integrated_village.blend"
+00:01.422  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:27.000  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v002_integrated\renders\01_beginning.png'
+BlenderMCP addon registered
+RENDERED 01_beginning
+00:52.656  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v002_integrated\renders\02_middle.png'
+RENDERED 02_middle
+01:20.344  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v002_integrated\renders\03_final_oblique.png'
+RENDERED 03_final_oblique
+01:47.484  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v002_integrated\renders\04_final_top.png'
+RENDERED 04_final_top
+INTEGRATED_RENDERS_COMPLETE 259
+BlenderMCP addon unregistered
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

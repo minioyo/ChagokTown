@@ -1,0 +1,176 @@
+{
+  "blender": "5.2.3 LTS",
+  "source_reopened": true,
+  "source_file_bytes": 606579,
+  "source_scenes": [
+    "01 \u2022 Chagok Lane",
+    "02 \u2022 Edit house",
+    "03 \u2022 Edit cafe",
+    "04 \u2022 Edit flower_shop",
+    "05 \u2022 Edit round_tree",
+    "06 \u2022 Edit wood_bench",
+    "07 \u2022 Edit street_lamp"
+  ],
+  "source_objects": 839,
+  "models": {
+    "house": {
+      "glb_header_valid": true,
+      "reimport_passed": true,
+      "file_bytes": 2191660,
+      "mesh_objects": 186,
+      "triangles": 36748,
+      "materials": 20,
+      "bounds_min": [
+        -1.6735564470291138,
+        -1.9240269660949707,
+        0.0
+      ],
+      "bounds_max": [
+        1.7100000381469727,
+        1.5150001049041748,
+        4.184999942779541
+      ],
+      "max_bounds_error_m": 0.0,
+      "ground_error_m": 0.0,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "image_textures": 0
+    },
+    "cafe": {
+      "glb_header_valid": true,
+      "reimport_passed": true,
+      "file_bytes": 1385572,
+      "mesh_objects": 97,
+      "triangles": 26232,
+      "materials": 17,
+      "bounds_min": [
+        -1.6502373218536377,
+        -2.380000114440918,
+        0.0
+      ],
+      "bounds_max": [
+        2.190000057220459,
+        1.390553593635559,
+        3.309999942779541
+      ],
+      "max_bounds_error_m": 0.0,
+      "ground_error_m": 0.0,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "image_textures": 0
+    },
+    "flower_shop": {
+      "glb_header_valid": true,
+      "reimport_passed": true,
+      "file_bytes": 2873024,
+      "mesh_objects": 303,
+      "triangles": 52792,
+      "materials": 23,
+      "bounds_min": [
+        -1.652474284172058,
+        -1.875,
+        0.0
+      ],
+      "bounds_max": [
+        2.009999990463257,
+        1.475000023841858,
+        3.8000001907348633
+      ],
+      "max_bounds_error_m": 0.0,
+      "ground_error_m": 0.0,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "image_textures": 0
+    },
+    "round_tree": {
+      "glb_header_valid": true,
+      "reimport_passed": true,
+      "file_bytes": 213832,
+      "mesh_objects": 15,
+      "triangles": 4616,
+      "materials": 5,
+      "bounds_min": [
+        -1.0965521335601807,
+        -0.8490638732910156,
+        -1.4901161193847656e-08
+      ],
+      "bounds_max": [
+        1.1009788513183594,
+        1.0744479894638062,
+        3.1900534629821777
+      ],
+      "max_bounds_error_m": 1.4901161138336505e-08,
+      "ground_error_m": 1.4901161193847656e-08,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "image_textures": 0
+    },
+    "wood_bench": {
+      "glb_header_valid": true,
+      "reimport_passed": true,
+      "file_bytes": 254664,
+      "mesh_objects": 26,
+      "triangles": 3960,
+      "materials": 4,
+      "bounds_min": [
+        -0.824999988079071,
+        -0.30000004172325134,
+        -4.6566128730773926e-09
+      ],
+      "bounds_max": [
+        0.824999988079071,
+        0.4185495972633362,
+        1.1346280574798584
+      ],
+      "max_bounds_error_m": 2.9802322387695312e-08,
+      "ground_error_m": 4.6566128730773926e-09,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "image_textures": 0
+    },
+    "street_lamp": {
+      "glb_header_valid": true,
+      "reimport_passed": true,
+      "file_bytes": 182184,
+      "mesh_objects": 14,
+      "triangles": 2740,
+      "materials": 4,
+      "bounds_min": [
+        -0.2494797706604004,
+        -0.2494797706604004,
+        0.0
+      ],
+      "bounds_max": [
+        0.2494797706604004,
+        0.2494797706604004,
+        2.8499999046325684
+      ],
+      "max_bounds_error_m": 2.9802322387695312e-08,
+      "ground_error_m": 0.0,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "image_textures": 0
+    }
+  },
+  "source_meshes": 809,
+  "source_editable_text_objects": 6,
+  "all_passed": true
+}

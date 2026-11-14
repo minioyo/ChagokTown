@@ -1,0 +1,384 @@
+{
+  "models": {
+    "bakery_level_1": {
+      "level": 1,
+      "editable": {
+        "mesh_objects": 85,
+        "triangles": 3484,
+        "vertices": 1910,
+        "materials": 13,
+        "bounds_min": [
+          -1.4250000715255737,
+          -1.5899999141693115,
+          0.0
+        ],
+        "bounds_max": [
+          1.5,
+          1.3350000381469727,
+          3.200000047683716
+        ],
+        "dimensions": [
+          2.9250000715255737,
+          2.924999952316284,
+          3.200000047683716
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 3484,
+        "vertices": 1910,
+        "materials": 1,
+        "bounds_min": [
+          -1.4250000715255737,
+          -1.5899999141693115,
+          0.0
+        ],
+        "bounds_max": [
+          1.5,
+          1.3350000381469727,
+          3.200000047683716
+        ],
+        "dimensions": [
+          2.9250000715255737,
+          2.924999952316284,
+          3.200000047683716
+        ]
+      },
+      "glb": {
+        "bytes": 203208,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 3484,
+        "vertices": 4106,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      },
+      "source_geometry": {
+        "closed_outward_components": 85,
+        "open_components": 0,
+        "degenerate_triangles": 0,
+        "finite_unit_corner_normals": true
+      },
+      "initial_triangle_target": 4000
+    },
+    "bakery_level_2": {
+      "level": 2,
+      "editable": {
+        "mesh_objects": 112,
+        "triangles": 4948,
+        "vertices": 2696,
+        "materials": 16,
+        "bounds_min": [
+          -1.755000114440918,
+          -2.619999885559082,
+          0.0
+        ],
+        "bounds_max": [
+          1.8299999237060547,
+          1.4450000524520874,
+          3.49399995803833
+        ],
+        "dimensions": [
+          3.5850000381469727,
+          4.064999938011169,
+          3.49399995803833
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 4948,
+        "vertices": 2696,
+        "materials": 1,
+        "bounds_min": [
+          -1.755000114440918,
+          -2.619999885559082,
+          0.0
+        ],
+        "bounds_max": [
+          1.8299999237060547,
+          1.4450000524520874,
+          3.49399995803833
+        ],
+        "dimensions": [
+          3.5850000381469727,
+          4.064999938011169,
+          3.49399995803833
+        ]
+      },
+      "glb": {
+        "bytes": 285224,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 4948,
+        "vertices": 5770,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      },
+      "source_geometry": {
+        "closed_outward_components": 112,
+        "open_components": 0,
+        "degenerate_triangles": 0,
+        "finite_unit_corner_normals": true
+      },
+      "initial_triangle_target": 6000
+    },
+    "bakery_level_3": {
+      "level": 3,
+      "editable": {
+        "mesh_objects": 152,
+        "triangles": 7172,
+        "vertices": 3886,
+        "materials": 17,
+        "bounds_min": [
+          -1.8950001001358032,
+          -2.700000047683716,
+          0.0
+        ],
+        "bounds_max": [
+          2.129999876022339,
+          1.5250000953674316,
+          4.565923690795898
+        ],
+        "dimensions": [
+          4.024999976158142,
+          4.2250001430511475,
+          4.565923690795898
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 7172,
+        "vertices": 3886,
+        "materials": 1,
+        "bounds_min": [
+          -1.8950001001358032,
+          -2.700000047683716,
+          0.0
+        ],
+        "bounds_max": [
+          2.1299996376037598,
+          1.5250000953674316,
+          4.565923690795898
+        ],
+        "dimensions": [
+          4.024999737739563,
+          4.2250001430511475,
+          4.565923690795898
+        ]
+      },
+      "glb": {
+        "bytes": 406412,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 7172,
+        "vertices": 8221,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      },
+      "source_geometry": {
+        "closed_outward_components": 152,
+        "open_components": 0,
+        "degenerate_triangles": 0,
+        "finite_unit_corner_normals": true
+      },
+      "initial_triangle_target": 8000
+    },
+    "bookshop_level_1": {
+      "level": 1,
+      "editable": {
+        "mesh_objects": 75,
+        "triangles": 2764,
+        "vertices": 1532,
+        "materials": 10,
+        "bounds_min": [
+          -1.358467936515808,
+          -1.6100000143051147,
+          0.0
+        ],
+        "bounds_max": [
+          1.4199999570846558,
+          1.3550001382827759,
+          3.380000114440918
+        ],
+        "dimensions": [
+          2.778467893600464,
+          2.9650001525878906,
+          3.380000114440918
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 2764,
+        "vertices": 1532,
+        "materials": 1,
+        "bounds_min": [
+          -1.3584680557250977,
+          -1.6100000143051147,
+          0.0
+        ],
+        "bounds_max": [
+          1.4199999570846558,
+          1.3550001382827759,
+          3.380000114440918
+        ],
+        "dimensions": [
+          2.7784680128097534,
+          2.9650001525878906,
+          3.380000114440918
+        ]
+      },
+      "glb": {
+        "bytes": 171016,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 2764,
+        "vertices": 3472,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      },
+      "source_geometry": {
+        "closed_outward_components": 75,
+        "open_components": 0,
+        "degenerate_triangles": 0,
+        "finite_unit_corner_normals": true
+      },
+      "initial_triangle_target": 4000
+    },
+    "bookshop_level_2": {
+      "level": 2,
+      "editable": {
+        "mesh_objects": 130,
+        "triangles": 5008,
+        "vertices": 2764,
+        "materials": 14,
+        "bounds_min": [
+          -1.5784635543823242,
+          -2.805000066757202,
+          0.0
+        ],
+        "bounds_max": [
+          1.6399999856948853,
+          1.4550000429153442,
+          3.645923614501953
+        ],
+        "dimensions": [
+          3.2184635400772095,
+          4.260000109672546,
+          3.645923614501953
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 5008,
+        "vertices": 2764,
+        "materials": 1,
+        "bounds_min": [
+          -1.5784635543823242,
+          -2.805000066757202,
+          0.0
+        ],
+        "bounds_max": [
+          1.6399999856948853,
+          1.4550000429153442,
+          3.645923614501953
+        ],
+        "dimensions": [
+          3.2184635400772095,
+          4.260000109672546,
+          3.645923614501953
+        ]
+      },
+      "glb": {
+        "bytes": 308252,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 5008,
+        "vertices": 6285,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      },
+      "source_geometry": {
+        "closed_outward_components": 130,
+        "open_components": 0,
+        "degenerate_triangles": 0,
+        "finite_unit_corner_normals": true
+      },
+      "initial_triangle_target": 6000
+    },
+    "bookshop_level_3": {
+      "level": 3,
+      "editable": {
+        "mesh_objects": 177,
+        "triangles": 7256,
+        "vertices": 3980,
+        "materials": 18,
+        "bounds_min": [
+          -1.7382514476776123,
+          -2.875,
+          0.0
+        ],
+        "bounds_max": [
+          1.9184000492095947,
+          1.5250000953674316,
+          4.630000114440918
+        ],
+        "dimensions": [
+          3.656651496887207,
+          4.400000095367432,
+          4.630000114440918
+        ]
+      },
+      "runtime": {
+        "mesh_objects": 1,
+        "triangles": 7256,
+        "vertices": 3980,
+        "materials": 1,
+        "bounds_min": [
+          -1.7382514476776123,
+          -2.875,
+          0.0
+        ],
+        "bounds_max": [
+          1.9184000492095947,
+          1.5250000953674316,
+          4.630000114440918
+        ],
+        "dimensions": [
+          3.656651496887207,
+          4.400000095367432,
+          4.630000114440918
+        ]
+      },
+      "glb": {
+        "bytes": 435252,
+        "mesh_objects": 1,
+        "primitives": 1,
+        "materials": 1,
+        "triangles": 7256,
+        "vertices": 8865,
+        "textures": 0,
+        "all_primitives_have_vertex_color": true
+      },
+      "source_geometry": {
+        "closed_outward_components": 177,
+        "open_components": 0,
+        "degenerate_triangles": 0,
+        "finite_unit_corner_normals": true
+      },
+      "initial_triangle_target": 8000
+    }
+  },
+  "placement_xy_min": [
+    -2.4,
+    -3.2
+  ],
+  "placement_xy_max": [
+    2.4,
+    1.6
+  ]
+}

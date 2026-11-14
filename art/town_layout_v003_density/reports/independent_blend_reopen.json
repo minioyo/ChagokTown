@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "blend": "D:\\Project\\Etc\\ChagokTown\\art\\town_layout_v003_density\\blend\\chagok_density_comparison.blend",
+  "scenes": {
+    "Baseline": {
+      "models": 8,
+      "trees": 15,
+      "saved_oblique_camera_matches": true,
+      "render_resolution": [
+        1920,
+        1080
+      ],
+      "samples": 64
+    },
+    "Compact": {
+      "models": 8,
+      "trees": 15,
+      "saved_oblique_camera_matches": true,
+      "render_resolution": [
+        1920,
+        1080
+      ],
+      "samples": 64
+    },
+    "Dense": {
+      "models": 16,
+      "trees": 15,
+      "saved_oblique_camera_matches": true,
+      "render_resolution": [
+        1920,
+        1080
+      ],
+      "samples": 64
+    }
+  }
+}

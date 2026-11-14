@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-11",
+  "types_changed": 8,
+  "changed_glbs": 24,
+  "unchanged_glbs_referenced": 12,
+  "total_manifest_assets": 36,
+  "roof_patch_vertices_changed": 4110,
+  "triangles": 115877,
+  "exported_vertices": 157565,
+  "remaining_patch_contrast_linear_rgb": 0.1,
+  "all_non_roof_rgb_bytes_identical": true,
+  "hiddenface_topology_preserved": true,
+  "protected_files_unchanged": 493,
+  "paired_renders_reviewed": 12,
+  "roof_crops_reviewed": 8,
+  "manifest_sha256": "b1d8781d4c57093c3b719ecc20c3150aad88294030febfc7e1c0f34c68e56290",
+  "review_map_sha256": "d6c4128a395d4afa9409a53a7863144de7751c3979df3460c312a7c92786340c",
+  "runtime_tested": false
+}

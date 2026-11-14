@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-11",
+  "scope": "All 12 types and levels 1\u20133; hidden triangles only; original design and all terrain/environment preserved.",
+  "files": 36,
+  "types": 12,
+  "levels": [
+    1,
+    2,
+    3
+  ],
+  "unique_asset_totals": {
+    "triangles_before": 136574,
+    "triangles_after": 115877,
+    "vertices_before": 180538,
+    "vertices_after": 157565,
+    "bytes_before": 8854804,
+    "bytes_after": 7719864
+  },
+  "fourteen_plot_totals_by_stage": {
+    "1": {
+      "triangles_before": 31576,
+      "triangles_after": 27764,
+      "vertices_before": 41911,
+      "vertices_after": 38112,
+      "bytes_before": 2069420,
+      "bytes_after": 1879412
+    },
+    "2": {
+      "triangles_before": 53054,
+      "triangles_after": 44701,
+      "vertices_before": 69812,
+      "vertices_after": 60381,
+      "bytes_before": 3426144,
+      "bytes_after": 2961084
+    },
+    "3": {
+      "triangles_before": 70248,
+      "triangles_after": 59214,
+      "vertices_before": 92375,
+      "vertices_after": 80042,
+      "bytes_before": 4522240,
+      "bytes_after": 3913416
+    }
+  },
+  "active_building_scene_totals": {
+    "beginning": {
+      "triangles_before": 17716,
+      "triangles_after": 15705,
+      "vertices_before": 22909,
+      "vertices_after": 20963,
+      "bytes_before": 1136284,
+      "bytes_after": 1038604,
+      "plots": 8
+    },
+    "middle": {
+      "triangles_before": 47054,
+      "triangles_after": 39637,
+      "vertices_before": 62068,
+      "vertices_after": 53593,
+      "bytes_before": 3043896,
+      "bytes_after": 2626508,
+      "plots": 12
+    },
+    "final": {
+      "triangles_before": 70248,
+      "triangles_after": 59214,
+      "vertices_before": 92375,
+      "vertices_after": 80042,
+      "bytes_before": 4522240,
+      "bytes_after": 3913416,
+      "plots": 14
+    }
+  },
+  "independent_reimports": 36,
+  "maximum_stage_hulls_unchanged": true,
+  "primary_entry_stage_cases": 42,
+  "render_pairs_visually_reviewed": 40,
+  "detail_crops_reviewed": 9,
+  "sampling_controls": 5,
+  "protected_original_files_unchanged": 204,
+  "review_map_sha256": "eda65c96964e7c11b58ada1e5cd433d3e0bb2e09e516dd985bab9b81b2647047",
+  "runtime_performance_measured": false
+}

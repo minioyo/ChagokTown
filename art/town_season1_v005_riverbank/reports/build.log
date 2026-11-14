@@ -1,0 +1,17 @@
+00:08.000  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v004_roof_tones\blend\roof_tones_review.blend"
+D:\Project\Etc\ChagokTown\art\town_season1_v005_riverbank\source\build.py:51: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat.use_nodes = True
+BlenderMCP addon registered
+INFO Draco is available, use library at C:\Users\hy\AppData\Local\Programs\Blender Foundation\blender-5.2.3-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at C:\Users\hy\AppData\Local\Programs\Blender Foundation\blender-5.2.3-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+15:20:18 | INFO: Starting glTF 2.0 export
+15:20:18 | INFO: Extracting primitive: Riverbank • combined props mesh
+15:20:18 | INFO: Primitives created: 1
+15:20:18 | INFO: Finished glTF 2.0 export in 0.013332128524780273 s
+
+Info: Saved as "riverbank_review.blend"
+RIVERBANK_BUILD_COMPLETE {"triangles": 1330, "exported_vertices": 1488, "mesh_vertices": 763, "meshes": 1, "materials": 1, "primitives": 1, "textures": 0, "bytes": 62964, "edit_objects": 22, "edit_unique_meshes": 6, "stone_objects": 12, "grass_tufts": 10}
+BlenderMCP addon unregistered
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

@@ -1,0 +1,1635 @@
+{
+  "models": {
+    "bakery_level_1": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 299,
+      "opaque_closed_outward_convex_same_stage_occluders": 80,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "2af8e1712ea9a6b5b09f024a201a23b65e099632c503e6995fa84674c1e8451f",
+      "output_sha256": "42e005d424c5a0dd1a4fa36696c4ecdcfab8befdf93a93ad4cd56d3f33076863",
+      "triangles": 2237,
+      "exported_vertices": 2940,
+      "bounds_min": [
+        -1.4250000715255737,
+        -1.524999976158142,
+        0.0
+      ],
+      "bounds_max": [
+        1.4850000143051147,
+        1.3199999332427979,
+        3.1100001335144043
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "bakery_level_2": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 426,
+      "opaque_closed_outward_convex_same_stage_occluders": 102,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "37f74b4b74e4995ef1e118545bfd8e6bd16bd9abbb99473be5957a49e2c3cd68",
+      "output_sha256": "71a68209c3c64c236e1828ca465be7ab13a9c6b85ab1943912e28c9756f70dc1",
+      "triangles": 3510,
+      "exported_vertices": 4432,
+      "bounds_min": [
+        -1.909600019454956,
+        -2.619999885559082,
+        0.0
+      ],
+      "bounds_max": [
+        1.8149999380111694,
+        1.4300000667572021,
+        3.49399995803833
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "bakery_level_3": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 753,
+      "opaque_closed_outward_convex_same_stage_occluders": 139,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "19eb97d74ca179e8821d561edbebd4a5a391bb91f0f0b72e61dc872c23d026a1",
+      "output_sha256": "1da1e767f5c345d5a26312fb3a0a3adf5713531c18d98e34448c8ae56a1075d4",
+      "triangles": 4807,
+      "exported_vertices": 5935,
+      "bounds_min": [
+        -1.909600019454956,
+        -2.700000047683716,
+        0.0
+      ],
+      "bounds_max": [
+        2.1299996376037598,
+        1.5099999904632568,
+        5.165923595428467
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "bookshop_level_1": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 218,
+      "opaque_closed_outward_convex_same_stage_occluders": 71,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "894108102bdcbca74687a74ba3249643075a3260356508b7b7a96c8d2d64c32c",
+      "output_sha256": "3fa8d6dba62b672469e90938b92b85bbd3995e0c710b416cef36362af59b0444",
+      "triangles": 1598,
+      "exported_vertices": 2375,
+      "bounds_min": [
+        -1.3584680557250977,
+        -1.5449999570846558,
+        0.0
+      ],
+      "bounds_max": [
+        1.4049999713897705,
+        1.3400001525878906,
+        3.3399999141693115
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "bookshop_level_2": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 389,
+      "opaque_closed_outward_convex_same_stage_occluders": 126,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "3d69f99a8555a8edb070f413fab89073f8a01535a9823a1611291a20df3a59c4",
+      "output_sha256": "2ace3f0b4dbf3d74c4924a3793efa8188be7e0a9fc82954a67b1fe8cb0f290b4",
+      "triangles": 3671,
+      "exported_vertices": 5013,
+      "bounds_min": [
+        -1.5784635543823242,
+        -2.809999942779541,
+        0.0
+      ],
+      "bounds_max": [
+        1.625,
+        1.440000057220459,
+        3.475923538208008
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "bookshop_level_3": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 776,
+      "opaque_closed_outward_convex_same_stage_occluders": 186,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "70d7fe1d42f38c4ea514ca2ffcd615ceb5f5255264c8e3b8278e8227bae5f844",
+      "output_sha256": "7c1ba786fb243b89c6817dae41610907e2eeed5a688971a57e0b9f8e08e41dd6",
+      "triangles": 5086,
+      "exported_vertices": 6950,
+      "bounds_min": [
+        -1.738135576248169,
+        -2.879999876022339,
+        0.0
+      ],
+      "bounds_max": [
+        1.9184000492095947,
+        1.5099999904632568,
+        7.400000095367432
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "cafe_level_1": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 151,
+      "opaque_closed_outward_convex_same_stage_occluders": 47,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "b113fe8fde73ca07d2e1bfbd3a221c48d69099fe4d3189221293c7f82986f485",
+      "output_sha256": "8155082268acf45ba659abad04ca70c7b352840a98d9421d63b34ebc215d3479",
+      "triangles": 2309,
+      "exported_vertices": 2628,
+      "bounds_min": [
+        -1.3749715089797974,
+        -1.6425000429153442,
+        0.0
+      ],
+      "bounds_max": [
+        1.6196000576019287,
+        1.174971580505371,
+        2.884999990463257
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "cafe_level_2": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 356,
+      "opaque_closed_outward_convex_same_stage_occluders": 71,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "fc320645f3e68f0a30428fb3a7538598a53592e742dd49ea09160445046aa6c9",
+      "output_sha256": "8bdfa2ee1ec81bdd25095cb39f162d3100d4c8858fdd9c45ff8053b57343c974",
+      "triangles": 3900,
+      "exported_vertices": 4369,
+      "bounds_min": [
+        -1.6249715089797974,
+        -2.5299999713897705,
+        0.0
+      ],
+      "bounds_max": [
+        2.0615742206573486,
+        1.3249715566635132,
+        2.884999990463257
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "cafe_level_3": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 495,
+      "opaque_closed_outward_convex_same_stage_occluders": 126,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "70791188702ddcc1c8304817cdd402da9f07de8d26c081ed9e11796e4be03d6a",
+      "output_sha256": "86e32b221fd91dc2ab2680a6629e80a023af670592c0c4847a9e3349d433e856",
+      "triangles": 5561,
+      "exported_vertices": 6278,
+      "bounds_min": [
+        -2.049999952316284,
+        -3.0999999046325684,
+        0.0
+      ],
+      "bounds_max": [
+        2.161574125289917,
+        1.374971628189087,
+        5.167500019073486
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "florist_level_1": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 301,
+      "opaque_closed_outward_convex_same_stage_occluders": 95,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "1655fbeb6a9b5c53f90d8a6e19c1334e0b1b95992af4213237071c76d365e770",
+      "output_sha256": "66ef4a9ec32843f41231fd07d3c6ec417d289c46c65ec250c7dcc5c1338c65d9",
+      "triangles": 2283,
+      "exported_vertices": 3042,
+      "bounds_min": [
+        -1.3851981163024902,
+        -1.5499999523162842,
+        0.0
+      ],
+      "bounds_max": [
+        1.4399999380111694,
+        1.244999885559082,
+        3.1549999713897705
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "florist_level_2": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 426,
+      "opaque_closed_outward_convex_same_stage_occluders": 144,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "d85747f37de110557ca2b48667a36de8f44a3abc9d542b1059ebc561540f4f88",
+      "output_sha256": "f26eb7f92ffd3999e54208cf095febe39907d805a8b5716bbb7ad98586649951",
+      "triangles": 4746,
+      "exported_vertices": 5595,
+      "bounds_min": [
+        -1.5754122734069824,
+        -1.819599986076355,
+        -7.450580596923828e-09
+      ],
+      "bounds_max": [
+        1.667799949645996,
+        1.3599998950958252,
+        3.325000047683716
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "florist_level_3": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 577,
+      "opaque_closed_outward_convex_same_stage_occluders": 176,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "97c3f0f105ef44f8e16c19ffccce01758c034c1437014b0db328b3be8e89b750",
+      "output_sha256": "5755118eacb68eb3115a654140ebe4239d4f08e22220daa0133c095646b3e49e",
+      "triangles": 5543,
+      "exported_vertices": 6684,
+      "bounds_min": [
+        -1.625349760055542,
+        -1.854599952697754,
+        -7.450580596923828e-09
+      ],
+      "bounds_max": [
+        2.3924999237060547,
+        1.3949999809265137,
+        3.325000047683716
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "grocer_level_1": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 246,
+      "opaque_closed_outward_convex_same_stage_occluders": 59,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "9fe96d5d6e00b7c24aa4c45691ff91de2d04f951d371fc8ed40993cdfa5a5fce",
+      "output_sha256": "dd6b180d6061b491fea651f4c63edf67707c5c7f9e84423737fe8cdae290b998",
+      "triangles": 1810,
+      "exported_vertices": 2345,
+      "bounds_min": [
+        -1.659999966621399,
+        -1.6050000190734863,
+        0.0
+      ],
+      "bounds_max": [
+        1.7599999904632568,
+        1.3250001668930054,
+        2.6234500408172607
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "grocer_level_2": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 452,
+      "opaque_closed_outward_convex_same_stage_occluders": 90,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "b780ffc5914e7ea99d81dfd9e12f036977e5b87fd663fa89b7c050550fcff603",
+      "output_sha256": "734694965b20eddb07e072298ce41cacd9591cae9ba768d485edd27433fe86b6",
+      "triangles": 3136,
+      "exported_vertices": 3818,
+      "bounds_min": [
+        -1.8899999856948853,
+        -2.5399999618530273,
+        0.0
+      ],
+      "bounds_max": [
+        1.934999942779541,
+        1.4100000858306885,
+        2.6344690322875977
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "grocer_level_3": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 714,
+      "opaque_closed_outward_convex_same_stage_occluders": 122,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "5a0b35e35229fbd6cdea8383e2c0f1a28cbc96e0ba5e6340ebb61de250b854a4",
+      "output_sha256": "4797151d21d93c0301c750dab347040df1d5207f0bb3d05ca9368608df23a2b4",
+      "triangles": 3974,
+      "exported_vertices": 4959,
+      "bounds_min": [
+        -1.8899999856948853,
+        -2.5899999141693115,
+        0.0
+      ],
+      "bounds_max": [
+        1.975000023841858,
+        1.4600001573562622,
+        4.520423889160156
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "house_level_1": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 284,
+      "opaque_closed_outward_convex_same_stage_occluders": 74,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "2e515b17f5cb5a5ffa8300a79d36519fdf7bfdfbbd737aba70ab6971ad49b392",
+      "output_sha256": "b58b392304ec4799f47ab2b537bdce4e676fc616ba5779fa7a3f4fd74dcebde5",
+      "triangles": 2012,
+      "exported_vertices": 2664,
+      "bounds_min": [
+        -1.4304606914520264,
+        -1.600000023841858,
+        0.0
+      ],
+      "bounds_max": [
+        1.4702000617980957,
+        1.315000057220459,
+        3.2750000953674316
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "house_level_2": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 468,
+      "opaque_closed_outward_convex_same_stage_occluders": 94,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "a1838b7548124e49c8901ad8a07d16bf4e0d9c21f8f776a1b453295fa9dd2385",
+      "output_sha256": "885ec105b6aa7f948e28ea42639c59844174315f19c3acb664a266cbc6ed203d",
+      "triangles": 2532,
+      "exported_vertices": 3394,
+      "bounds_min": [
+        -1.6052238941192627,
+        -1.9900000095367432,
+        0.0
+      ],
+      "bounds_max": [
+        1.727799892425537,
+        1.3900001049041748,
+        3.5840001106262207
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "house_level_3": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 499,
+      "opaque_closed_outward_convex_same_stage_occluders": 123,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "412ed73b0007a46602a59f137dda70c9f1ad3ec042fe1e24391affdd2857e832",
+      "output_sha256": "fe4e6b68a16dc53f38daa1d077000f2885d9cf11377465252cc9d2cd977befef",
+      "triangles": 3357,
+      "exported_vertices": 4427,
+      "bounds_min": [
+        -1.7753682136535645,
+        -2.065000057220459,
+        0.0
+      ],
+      "bounds_max": [
+        1.8371999263763428,
+        1.4649999141693115,
+        5.434000015258789
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "town_hall_level_1": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 272,
+      "opaque_closed_outward_convex_same_stage_occluders": 80,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "1ff5bec5c9d690a0d961f255664f3c367f0d0ee127aa5acd63e125c0a1ebe799",
+      "output_sha256": "a5ef838832f2d84ff647ed4a64c5b1205c1b2b26f411a773be6f5d252fb16703",
+      "triangles": 1960,
+      "exported_vertices": 2777,
+      "bounds_min": [
+        -1.6150000095367432,
+        -1.559999942779541,
+        0.0
+      ],
+      "bounds_max": [
+        1.6899999380111694,
+        1.3500001430511475,
+        3.0999999046325684
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "town_hall_level_2": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 557,
+      "opaque_closed_outward_convex_same_stage_occluders": 103,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "c24def5f86fcb8b4735f8ad6a361fa1285976136d71cd684eb00390e7a424e0b",
+      "output_sha256": "5e5befa569ed80b866e299c21b51d5446fb0b427adb79ca84b069328bbbc0979",
+      "triangles": 2463,
+      "exported_vertices": 3423,
+      "bounds_min": [
+        -1.815000057220459,
+        -2.244999885559082,
+        0.0
+      ],
+      "bounds_max": [
+        1.8899999856948853,
+        1.4300000667572021,
+        3.0999999046325684
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "town_hall_level_3": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 860,
+      "opaque_closed_outward_convex_same_stage_occluders": 148,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "f4948897da9bf855753098c32769c90e97dbbc93b704fd08c114a4fc232aa8c0",
+      "output_sha256": "dff435042305ae721ca6a102a5dd76e87abcbd171016db254fe7722eb57ab99c",
+      "triangles": 4128,
+      "exported_vertices": 5584,
+      "bounds_min": [
+        -1.8900001049041748,
+        -2.2850000858306885,
+        0.0
+      ],
+      "bounds_max": [
+        1.965000033378601,
+        1.470000147819519,
+        6.309999942779541
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "workshop_level_1": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 240,
+      "opaque_closed_outward_convex_same_stage_occluders": 61,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "da8f4a6ea336106e0e7ffa3cd51c85f2ad2b47c36ff78420cf4cec4110d55644",
+      "output_sha256": "986caefb4193d7fa323be7413d6f5d9371acb19619caf8258f16ddb8b0c4975f",
+      "triangles": 1496,
+      "exported_vertices": 2192,
+      "bounds_min": [
+        -1.4598586559295654,
+        -1.5549999475479126,
+        0.0
+      ],
+      "bounds_max": [
+        1.5,
+        1.3500001430511475,
+        3.1450002193450928
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "workshop_level_2": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 350,
+      "opaque_closed_outward_convex_same_stage_occluders": 76,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "e496433750693190c7eafc2f71ad9f661b6d6bc3120b7f73653e3755f347271f",
+      "output_sha256": "c0cfdb57895e3b5a7975f5b49f10e28c178dd17cff7ed6711c9674d6da171a66",
+      "triangles": 2046,
+      "exported_vertices": 2915,
+      "bounds_min": [
+        -1.6749999523162842,
+        -2.444999933242798,
+        0.0
+      ],
+      "bounds_max": [
+        1.6749999523162842,
+        1.4100000858306885,
+        3.1450002193450928
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "workshop_level_3": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 569,
+      "opaque_closed_outward_convex_same_stage_occluders": 120,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "0c61728024b3790b643636dfe307f8a77883f2be0e498214ee573f5621495e13",
+      "output_sha256": "d1fa5c1938ad42dc11aa6b82d95dde1dc5d3fde16d8c1ec4b3f57c5254da00fa",
+      "triangles": 2915,
+      "exported_vertices": 4223,
+      "bounds_min": [
+        -1.9650001525878906,
+        -2.505000114440918,
+        0.0
+      ],
+      "bounds_max": [
+        2.2799999713897705,
+        1.4700000286102295,
+        5.141118049621582
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "cathedral_level_1": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 299,
+      "opaque_closed_outward_convex_same_stage_occluders": 76,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "948184e553cc17135ff811288faf9af0c5a994068c00ab31b2a7d731272feb95",
+      "output_sha256": "5c0b5d5d5b3817c6470be991d541040b241a25204edf73d1022a40b61d6e5aa6",
+      "triangles": 1801,
+      "exported_vertices": 2586,
+      "bounds_min": [
+        -1.8532109260559082,
+        -4.039999961853027,
+        -2.9802322387695312e-08
+      ],
+      "bounds_max": [
+        1.8532109260559082,
+        0.8399999141693115,
+        4.78000020980835
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "cathedral_level_2": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 1806,
+      "opaque_closed_outward_convex_same_stage_occluders": 236,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "2e3bfbf62b6597d2e1687b28e5b7895be1f2474717944e141c61784f6760221d",
+      "output_sha256": "4841983a5fd72eea703abc74f9ec00b65944718466f61ebcd2abfeec1cedb66d",
+      "triangles": 3912,
+      "exported_vertices": 5901,
+      "bounds_min": [
+        -3.548799991607666,
+        -4.0400004386901855,
+        -2.9802322387695312e-08
+      ],
+      "bounds_max": [
+        3.430000066757202,
+        2.390000104904175,
+        8.389999389648438
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "cathedral_level_3": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 2262,
+      "opaque_closed_outward_convex_same_stage_occluders": 280,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "05c39e4f6c39375c9901f40e8250e38c75d73107d2be82158e111a2a977ab2e2",
+      "output_sha256": "e417462a3fe3db7fdef102037f3d1aecf04aadea83ddc01fc2385e850af9b96c",
+      "triangles": 4468,
+      "exported_vertices": 6895,
+      "bounds_min": [
+        -3.8365001678466797,
+        -4.039999961853027,
+        -2.9802322387695312e-08
+      ],
+      "bounds_max": [
+        3.555000066757202,
+        4.329999923706055,
+        11.089999198913574
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "inn_level_1": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 323,
+      "opaque_closed_outward_convex_same_stage_occluders": 90,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "cb39cf6d6293449780e5439309c707d50b678407beddb958e98cf9bc25517dd7",
+      "output_sha256": "893897f7de50cb00765d078a369ecf37c5674b1dc2e81edc9b8cf20448e11cdc",
+      "triangles": 1993,
+      "exported_vertices": 3091,
+      "bounds_min": [
+        -1.9200000762939453,
+        -1.4416241645812988,
+        -2.9802322387695312e-08
+      ],
+      "bounds_max": [
+        2.5250000953674316,
+        2.7899999618530273,
+        3.748000144958496
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "inn_level_2": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 847,
+      "opaque_closed_outward_convex_same_stage_occluders": 183,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "60e633f2223fada69f1df4c60c66cb901b3a86070135fac66b527797926891e5",
+      "output_sha256": "e273b993f68e51e3195b6ba5a09b816f24590a2bcf4d3a114aa9c0149af1b35b",
+      "triangles": 3293,
+      "exported_vertices": 5216,
+      "bounds_min": [
+        -3.087416887283325,
+        -3.1000001430511475,
+        -2.9802322387695312e-08
+      ],
+      "bounds_max": [
+        2.7899999618530273,
+        3.190000057220459,
+        5.748000144958496
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "inn_level_3": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 794,
+      "opaque_closed_outward_convex_same_stage_occluders": 197,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "34f058ce7e5d59f5a0c9641f84c62a57cee9a0319e0032de3ec717d0b6074895",
+      "output_sha256": "3377ec621e95f1f2c1df57f4de026d52d04f36f55f31daa22e6e07875639af29",
+      "triangles": 3738,
+      "exported_vertices": 5842,
+      "bounds_min": [
+        -3.3874170780181885,
+        -4.40000057220459,
+        -2.9802322387695312e-08
+      ],
+      "bounds_max": [
+        3.390000104904175,
+        3.190000057220459,
+        5.748000144958496
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "watermill_level_1": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 346,
+      "opaque_closed_outward_convex_same_stage_occluders": 100,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "88db81f8835baa63f9efd0082a50d5da99052e652669ff718b33f5ed3f86f69a",
+      "output_sha256": "3d9be918c7e6a1809ad001327b3ad9ee824f0184f347afbebfd9512fc4292ead",
+      "triangles": 2234,
+      "exported_vertices": 3191,
+      "bounds_min": [
+        -1.8149999380111694,
+        -2.0399999618530273,
+        -2.9802322387695312e-08
+      ],
+      "bounds_max": [
+        2.744999885559082,
+        1.7999999523162842,
+        3.5270884037017822
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "watermill_level_2": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 810,
+      "opaque_closed_outward_convex_same_stage_occluders": 152,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "976d4f7fb29b4f5b516810080a5dde919b6af949da666dfe1d43095b566a6ca6",
+      "output_sha256": "bd2f5545b06b012f1b999846b5fa9dab8986f9bbadf9cf857472980f539e3ab3",
+      "triangles": 3134,
+      "exported_vertices": 4549,
+      "bounds_min": [
+        -3.3881888389587402,
+        -2.063500165939331,
+        -2.9802322387695312e-08
+      ],
+      "bounds_max": [
+        3.0199999809265137,
+        2.299999952316284,
+        3.5270884037017822
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "watermill_level_3": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 880,
+      "opaque_closed_outward_convex_same_stage_occluders": 192,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "94b1e1482f39c2e76e172ea14394bb4148a5b186fa0a3c84b77474f415c35595",
+      "output_sha256": "a1b80434d5e54c4c2676da762637c466a913941e6869f01d42d83b652537f547",
+      "triangles": 3896,
+      "exported_vertices": 5849,
+      "bounds_min": [
+        -3.3881888389587402,
+        -2.1417951583862305,
+        -2.9802322387695312e-08
+      ],
+      "bounds_max": [
+        3.119999885559082,
+        2.5,
+        5.618000030517578
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "farmstead_level_1": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 265,
+      "opaque_closed_outward_convex_same_stage_occluders": 89,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "7e41502bf9af00dd5bbf85c7cbc146f7fbd49183fd4c25b9c5d142ad53dd66bb",
+      "output_sha256": "7fa02e2dbb122243cfb46c390b62e42990e0eae6a676b9cbfe47faff8337ed2c",
+      "triangles": 2007,
+      "exported_vertices": 2953,
+      "bounds_min": [
+        -3.7149999141693115,
+        -3.2175002098083496,
+        0.0
+      ],
+      "bounds_max": [
+        2.0,
+        2.4549999237060547,
+        3.578000068664551
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "farmstead_level_2": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 530,
+      "opaque_closed_outward_convex_same_stage_occluders": 154,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "7ac1fc3324e72a56a54b564bc87eea8b403a239ae4c5bd6608935da3c539db4e",
+      "output_sha256": "122719eecd1920204282faa269ec74fb8d6cfba0d191fe8097420130a727fc39",
+      "triangles": 3294,
+      "exported_vertices": 4968,
+      "bounds_min": [
+        -3.7149999141693115,
+        -3.2175002098083496,
+        0.0
+      ],
+      "bounds_max": [
+        2.942936420440674,
+        2.8600001335144043,
+        4.03000020980835
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    },
+    "farmstead_level_3": {
+      "raw_attribute_bytes_preserved": true,
+      "exact_triangle_index_correspondence": true,
+      "all_removed_triangles_independently_proven": 857,
+      "opaque_closed_outward_convex_same_stage_occluders": 240,
+      "nodes_materials_extras_unchanged": true,
+      "source_sha256": "1df1ead8d660f4068ac90bca79a12c73b10541cbef6969d009ddb11c8657516f",
+      "output_sha256": "f0471994a5caf6fb9238bb3c21b9f6b970fab1d0824600ed5a1a7f927bd61a59",
+      "triangles": 5027,
+      "exported_vertices": 7562,
+      "bounds_min": [
+        -3.7149999141693115,
+        -3.2175002098083496,
+        0.0
+      ],
+      "bounds_max": [
+        4.457715034484863,
+        2.8600001335144043,
+        5.578000068664551
+      ],
+      "independently_reimported": true,
+      "finite_unit_corner_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_color_preserved": true,
+      "world_scale": [
+        1,
+        1,
+        1
+      ],
+      "ground_pivot_preserved": true
+    }
+  },
+  "review_map_reopened": true,
+  "original_component_blends_reopened": true,
+  "all_36_reimports_passed": true,
+  "environment": {
+    "beginning": {
+      "environment_sha256": "d561f602c0053d52a314ca7edcbb967fd355be4af475fd7fcc18a4dd44c3d6d7",
+      "presentation_sha256": "e5f3004846f6db9bc12b643422cf766b86ed2e3893bdcd4937b12d96e0749382",
+      "plot_count": 8,
+      "exact_original_environment_and_placements": true
+    },
+    "middle": {
+      "environment_sha256": "0db75d720afd514815d21287e4da421f2163de2ff4ce6e4b4ddffaf30df55963",
+      "presentation_sha256": "5f7be83362f6bdbde65f80047583843be5c01ea1ae5e50b24d52e2945fa96bb6",
+      "plot_count": 12,
+      "exact_original_environment_and_placements": true
+    },
+    "final": {
+      "environment_sha256": "e93a28076a068b6f247a726c80b3cb40359bf8688e2440f61ad7696d9c065ac3",
+      "presentation_sha256": "0eb192d52ce61badf3d9b9945b45cb3bf35c7a346685b07bd98387b16b5f2661",
+      "plot_count": 14,
+      "exact_original_environment_and_placements": true
+    }
+  },
+  "ground_contacts_m": {
+    "cathedral": -1.144409179643091e-06,
+    "inn": 1.9073486328125e-06,
+    "home_upper_west": -7.629394531694089e-07,
+    "town_hall": -7.629394531694089e-07,
+    "home_upper_east": 1.9073486328125e-06,
+    "bookshop": 2.2888183593972045e-06,
+    "cafe": 0.0,
+    "bakery": 0.0,
+    "florist": 3.814697265625e-06,
+    "grocer": -1.9073486328125e-06,
+    "home_entry": 0.0,
+    "workshop": 0.0,
+    "farmstead": -1.9073486328125e-06,
+    "watermill": -1.5258789062555511e-06
+  },
+  "maximum_stage_hulls_unchanged": true,
+  "maximum_stage_pairs": [
+    {
+      "a": "cathedral",
+      "b": "inn",
+      "gap_m": 0.5072553863004128
+    },
+    {
+      "a": "cathedral",
+      "b": "home_upper_west",
+      "gap_m": 0.4378075072231895
+    },
+    {
+      "a": "cathedral",
+      "b": "town_hall",
+      "gap_m": 2.0211952992033275
+    },
+    {
+      "a": "cathedral",
+      "b": "home_upper_east",
+      "gap_m": 1.617482971360281
+    },
+    {
+      "a": "cathedral",
+      "b": "bookshop",
+      "gap_m": 3.56525015301785
+    },
+    {
+      "a": "cathedral",
+      "b": "cafe",
+      "gap_m": 8.38661194301157
+    },
+    {
+      "a": "cathedral",
+      "b": "bakery",
+      "gap_m": 9.152689943710083
+    },
+    {
+      "a": "cathedral",
+      "b": "florist",
+      "gap_m": 7.137458440427403
+    },
+    {
+      "a": "cathedral",
+      "b": "grocer",
+      "gap_m": 10.676502669431882
+    },
+    {
+      "a": "cathedral",
+      "b": "home_entry",
+      "gap_m": 13.188674534596242
+    },
+    {
+      "a": "cathedral",
+      "b": "workshop",
+      "gap_m": 14.621533256397665
+    },
+    {
+      "a": "cathedral",
+      "b": "farmstead",
+      "gap_m": 7.3928829363355035
+    },
+    {
+      "a": "cathedral",
+      "b": "watermill",
+      "gap_m": 11.363806251981684
+    },
+    {
+      "a": "inn",
+      "b": "home_upper_west",
+      "gap_m": 1.2624184365062598
+    },
+    {
+      "a": "inn",
+      "b": "town_hall",
+      "gap_m": 5.881181207798211
+    },
+    {
+      "a": "inn",
+      "b": "home_upper_east",
+      "gap_m": 7.605954401052709
+    },
+    {
+      "a": "inn",
+      "b": "bookshop",
+      "gap_m": 3.122030940408064
+    },
+    {
+      "a": "inn",
+      "b": "cafe",
+      "gap_m": 0.4783771135110828
+    },
+    {
+      "a": "inn",
+      "b": "bakery",
+      "gap_m": 4.860225482293876
+    },
+    {
+      "a": "inn",
+      "b": "florist",
+      "gap_m": 7.644409013147353
+    },
+    {
+      "a": "inn",
+      "b": "grocer",
+      "gap_m": 0.8953275319826961
+    },
+    {
+      "a": "inn",
+      "b": "home_entry",
+      "gap_m": 6.174311032751033
+    },
+    {
+      "a": "inn",
+      "b": "workshop",
+      "gap_m": 8.146894393717488
+    },
+    {
+      "a": "inn",
+      "b": "farmstead",
+      "gap_m": 0.42265662001405957
+    },
+    {
+      "a": "inn",
+      "b": "watermill",
+      "gap_m": 12.097702542667927
+    },
+    {
+      "a": "home_upper_west",
+      "b": "town_hall",
+      "gap_m": 9.031281120292395
+    },
+    {
+      "a": "home_upper_west",
+      "b": "home_upper_east",
+      "gap_m": 9.243319683925751
+    },
+    {
+      "a": "home_upper_west",
+      "b": "bookshop",
+      "gap_m": 8.553515372207865
+    },
+    {
+      "a": "home_upper_west",
+      "b": "cafe",
+      "gap_m": 9.111789598109265
+    },
+    {
+      "a": "home_upper_west",
+      "b": "bakery",
+      "gap_m": 12.109265861734533
+    },
+    {
+      "a": "home_upper_west",
+      "b": "florist",
+      "gap_m": 12.490427894315804
+    },
+    {
+      "a": "home_upper_west",
+      "b": "grocer",
+      "gap_m": 9.798549535506597
+    },
+    {
+      "a": "home_upper_west",
+      "b": "home_entry",
+      "gap_m": 14.825814135432823
+    },
+    {
+      "a": "home_upper_west",
+      "b": "workshop",
+      "gap_m": 16.74539074192264
+    },
+    {
+      "a": "home_upper_west",
+      "b": "farmstead",
+      "gap_m": 3.4503321811551624
+    },
+    {
+      "a": "home_upper_west",
+      "b": "watermill",
+      "gap_m": 17.057351149080393
+    },
+    {
+      "a": "town_hall",
+      "b": "home_upper_east",
+      "gap_m": 0.4593111566129995
+    },
+    {
+      "a": "town_hall",
+      "b": "bookshop",
+      "gap_m": 1.7480131444505114
+    },
+    {
+      "a": "town_hall",
+      "b": "cafe",
+      "gap_m": 9.270222013793203
+    },
+    {
+      "a": "town_hall",
+      "b": "bakery",
+      "gap_m": 6.346133941625588
+    },
+    {
+      "a": "town_hall",
+      "b": "florist",
+      "gap_m": 2.347430697718788
+    },
+    {
+      "a": "town_hall",
+      "b": "grocer",
+      "gap_m": 13.917215517152002
+    },
+    {
+      "a": "town_hall",
+      "b": "home_entry",
+      "gap_m": 11.82381652062356
+    },
+    {
+      "a": "town_hall",
+      "b": "workshop",
+      "gap_m": 10.647972551716542
+    },
+    {
+      "a": "town_hall",
+      "b": "farmstead",
+      "gap_m": 13.733209578829392
+    },
+    {
+      "a": "town_hall",
+      "b": "watermill",
+      "gap_m": 5.63211422523632
+    },
+    {
+      "a": "home_upper_east",
+      "b": "bookshop",
+      "gap_m": 6.141721738945862
+    },
+    {
+      "a": "home_upper_east",
+      "b": "cafe",
+      "gap_m": 13.03103526344337
+    },
+    {
+      "a": "home_upper_east",
+      "b": "bakery",
+      "gap_m": 11.511596326675525
+    },
+    {
+      "a": "home_upper_east",
+      "b": "florist",
+      "gap_m": 7.223071651683246
+    },
+    {
+      "a": "home_upper_east",
+      "b": "grocer",
+      "gap_m": 17.517734100355817
+    },
+    {
+      "a": "home_upper_east",
+      "b": "home_entry",
+      "gap_m": 16.581255118336713
+    },
+    {
+      "a": "home_upper_east",
+      "b": "workshop",
+      "gap_m": 15.962108686810792
+    },
+    {
+      "a": "home_upper_east",
+      "b": "farmstead",
+      "gap_m": 16.13587352153955
+    },
+    {
+      "a": "home_upper_east",
+      "b": "watermill",
+      "gap_m": 9.804020184423418
+    },
+    {
+      "a": "bookshop",
+      "b": "cafe",
+      "gap_m": 2.981278874724628
+    },
+    {
+      "a": "bookshop",
+      "b": "bakery",
+      "gap_m": 0.7263101221635839
+    },
+    {
+      "a": "bookshop",
+      "b": "florist",
+      "gap_m": 0.415358611371456
+    },
+    {
+      "a": "bookshop",
+      "b": "grocer",
+      "gap_m": 7.975203942681878
+    },
+    {
+      "a": "bookshop",
+      "b": "home_entry",
+      "gap_m": 5.764442269950053
+    },
+    {
+      "a": "bookshop",
+      "b": "workshop",
+      "gap_m": 5.828322325693251
+    },
+    {
+      "a": "bookshop",
+      "b": "farmstead",
+      "gap_m": 9.852567897160604
+    },
+    {
+      "a": "bookshop",
+      "b": "watermill",
+      "gap_m": 5.053943281574001
+    },
+    {
+      "a": "cafe",
+      "b": "bakery",
+      "gap_m": 3.2803723459016885
+    },
+    {
+      "a": "cafe",
+      "b": "florist",
+      "gap_m": 7.4801886406725515
+    },
+    {
+      "a": "cafe",
+      "b": "grocer",
+      "gap_m": 0.4056338699151665
+    },
+    {
+      "a": "cafe",
+      "b": "home_entry",
+      "gap_m": 1.076930411972544
+    },
+    {
+      "a": "cafe",
+      "b": "workshop",
+      "gap_m": 3.9133225927159208
+    },
+    {
+      "a": "cafe",
+      "b": "farmstead",
+      "gap_m": 4.31327395668694
+    },
+    {
+      "a": "cafe",
+      "b": "watermill",
+      "gap_m": 10.560261268633408
+    },
+    {
+      "a": "bakery",
+      "b": "florist",
+      "gap_m": 0.4142490066631419
+    },
+    {
+      "a": "bakery",
+      "b": "grocer",
+      "gap_m": 8.172928235793345
+    },
+    {
+      "a": "bakery",
+      "b": "home_entry",
+      "gap_m": 1.2399790628839762
+    },
+    {
+      "a": "bakery",
+      "b": "workshop",
+      "gap_m": 0.47410510390722393
+    },
+    {
+      "a": "bakery",
+      "b": "farmstead",
+      "gap_m": 11.623721860260453
+    },
+    {
+      "a": "bakery",
+      "b": "watermill",
+      "gap_m": 3.1267898985337004
+    },
+    {
+      "a": "florist",
+      "b": "grocer",
+      "gap_m": 12.410100807344449
+    },
+    {
+      "a": "florist",
+      "b": "home_entry",
+      "gap_m": 6.916738332998062
+    },
+    {
+      "a": "florist",
+      "b": "workshop",
+      "gap_m": 4.707557435225828
+    },
+    {
+      "a": "florist",
+      "b": "farmstead",
+      "gap_m": 14.627659190502676
+    },
+    {
+      "a": "florist",
+      "b": "watermill",
+      "gap_m": 0.4099585766735583
+    },
+    {
+      "a": "grocer",
+      "b": "home_entry",
+      "gap_m": 4.484549842728342
+    },
+    {
+      "a": "grocer",
+      "b": "workshop",
+      "gap_m": 8.604104397329849
+    },
+    {
+      "a": "grocer",
+      "b": "farmstead",
+      "gap_m": 2.0976762026513542
+    },
+    {
+      "a": "grocer",
+      "b": "watermill",
+      "gap_m": 15.412790992335148
+    },
+    {
+      "a": "home_entry",
+      "b": "workshop",
+      "gap_m": 0.5124996651119482
+    },
+    {
+      "a": "home_entry",
+      "b": "farmstead",
+      "gap_m": 10.147174144408527
+    },
+    {
+      "a": "home_entry",
+      "b": "watermill",
+      "gap_m": 8.757787368077201
+    },
+    {
+      "a": "workshop",
+      "b": "farmstead",
+      "gap_m": 13.628897425037326
+    },
+    {
+      "a": "workshop",
+      "b": "watermill",
+      "gap_m": 4.568073498132527
+    },
+    {
+      "a": "farmstead",
+      "b": "watermill",
+      "gap_m": 18.870348794036705
+    }
+  ],
+  "overlap_pairs": 0,
+  "primary_entry_stage_cases": 42,
+  "walk_ray_heights_m": [
+    0.3,
+    0.85,
+    1.5
+  ],
+  "walk_ray_offsets_m": [
+    -0.3,
+    0,
+    0.3
+  ],
+  "tested_ray_segments": 8397,
+  "entry_collisions": 0,
+  "review_blend_sha256": "eda65c96964e7c11b58ada1e5cd433d3e0bb2e09e516dd985bab9b81b2647047",
+  "manifest_sha256": "4ffabdc27c73cdfd4c96fe8defdd58a0397b8036e8505ee542c251e1c2b5c490",
+  "protected_original_files_unchanged": 204,
+  "passed": true
+}

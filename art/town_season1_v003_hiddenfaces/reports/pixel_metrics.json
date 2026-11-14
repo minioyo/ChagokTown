@@ -1,0 +1,1188 @@
+{
+  "pairs": {
+    "bakery_back": {
+      "mean_png_code_rgb_abs_error": 5.6364383453910705e-06,
+      "mean_display_linear_rgb_abs_error": 5.111622613185318e-06,
+      "png_code_rgb_rmse": 0.0004052590811625123,
+      "max_png_code_channel_difference": 0.08627453446388245,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.009229166666666667,
+      "percent_pixels_over_0_003": 0.1594583333333333,
+      "difference_over_0_01_bbox_bottom_left": [
+        400,
+        754,
+        2389,
+        1181
+      ],
+      "original_image_sha256": "c6fb934a085f8a11e885c20d15f2499f2c57fe31f9005ee8a30d185a422504a3",
+      "optimized_image_sha256": "e0e53d4b46f37ec8fc88efaf26903c65b9eaf85fbb245f52ea22f3101d1eb40b",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/bakery_back_original.png",
+      "optimized": "renders/models/bakery_back_optimized.png",
+      "comparison": "renders/comparisons/bakery_back_compare.png",
+      "heatmap": "renders/comparisons/bakery_back_difference_x20.png"
+    },
+    "bakery_front": {
+      "mean_png_code_rgb_abs_error": 1.621486990188714e-05,
+      "mean_display_linear_rgb_abs_error": 1.3993226275488269e-05,
+      "png_code_rgb_rmse": 0.001381920650601387,
+      "max_png_code_channel_difference": 0.2823529541492462,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.017750000000000002,
+      "percent_pixels_over_0_003": 0.2259375,
+      "difference_over_0_01_bbox_bottom_left": [
+        1257,
+        504,
+        2641,
+        1225
+      ],
+      "original_image_sha256": "affa1708fd3f5d4fc779e3e127891164c7cfede6d7e7b665f28d08cc1817912d",
+      "optimized_image_sha256": "1faf346867c593e6f09798227e7f8c1a5ca0fc531d529db4c245bf8db4fb85cf",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/bakery_front_original.png",
+      "optimized": "renders/models/bakery_front_optimized.png",
+      "comparison": "renders/comparisons/bakery_front_compare.png",
+      "heatmap": "renders/comparisons/bakery_front_difference_x20.png"
+    },
+    "bakery_side": {
+      "mean_png_code_rgb_abs_error": 3.844771526928525e-06,
+      "mean_display_linear_rgb_abs_error": 3.642050842245226e-06,
+      "png_code_rgb_rmse": 0.0006033568060956895,
+      "max_png_code_channel_difference": 0.27450981736183167,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.0021874999999999998,
+      "percent_pixels_over_0_003": 0.12164583333333333,
+      "difference_over_0_01_bbox_bottom_left": [
+        1290,
+        647,
+        2750,
+        1195
+      ],
+      "original_image_sha256": "a8bd5dc0b7cf321c87acfdedb63c4f969e9956e946d93b269ed323846667d9ef",
+      "optimized_image_sha256": "2291c083b09d2635412267437a7b0b8d4ab2c56d81a0ad7e9c749eefe2032a81",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/bakery_side_original.png",
+      "optimized": "renders/models/bakery_side_optimized.png",
+      "comparison": "renders/comparisons/bakery_side_compare.png",
+      "heatmap": "renders/comparisons/bakery_side_difference_x20.png"
+    },
+    "bookshop_back": {
+      "mean_png_code_rgb_abs_error": 3.6625820030167233e-06,
+      "mean_display_linear_rgb_abs_error": 2.8765216484316625e-06,
+      "png_code_rgb_rmse": 0.00023053698532748967,
+      "max_png_code_channel_difference": 0.14509806036949158,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.0054375,
+      "percent_pixels_over_0_003": 0.17156249999999998,
+      "difference_over_0_01_bbox_bottom_left": [
+        514,
+        526,
+        2647,
+        1100
+      ],
+      "original_image_sha256": "331b21ab4924583b105f778ad062c85e899de3ae539121b5487e62c640ab58fd",
+      "optimized_image_sha256": "0e317e508b43d1d3de5391f8e2891fcefe481a3e9e8eb3f4dd85125261288880",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/bookshop_back_original.png",
+      "optimized": "renders/models/bookshop_back_optimized.png",
+      "comparison": "renders/comparisons/bookshop_back_compare.png",
+      "heatmap": "renders/comparisons/bookshop_back_difference_x20.png"
+    },
+    "bookshop_front": {
+      "mean_png_code_rgb_abs_error": 7.78976027504541e-06,
+      "mean_display_linear_rgb_abs_error": 5.728531959903194e-06,
+      "png_code_rgb_rmse": 0.0004885331727564335,
+      "max_png_code_channel_difference": 0.10588234663009644,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.0116875,
+      "percent_pixels_over_0_003": 0.22039583333333335,
+      "difference_over_0_01_bbox_bottom_left": [
+        348,
+        646,
+        2565,
+        1056
+      ],
+      "original_image_sha256": "0a156eb373ed2864485494bcaaa7d372f6afca8ba174dd2cd30c333a8f17d02d",
+      "optimized_image_sha256": "d1f47303f60fdf31a8fa50e9744d495fd5758e28174136b39128530eebe4290f",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/bookshop_front_original.png",
+      "optimized": "renders/models/bookshop_front_optimized.png",
+      "comparison": "renders/comparisons/bookshop_front_compare.png",
+      "heatmap": "renders/comparisons/bookshop_front_difference_x20.png"
+    },
+    "bookshop_side": {
+      "mean_png_code_rgb_abs_error": 3.1270701583707705e-05,
+      "mean_display_linear_rgb_abs_error": 1.7910037058754824e-05,
+      "png_code_rgb_rmse": 0.0014248127117753029,
+      "max_png_code_channel_difference": 0.1882353127002716,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.04658333333333334,
+      "percent_pixels_over_0_003": 0.4134583333333333,
+      "difference_over_0_01_bbox_bottom_left": [
+        1237,
+        650,
+        2822,
+        1073
+      ],
+      "original_image_sha256": "c9aea2f9a549f375657e51cbe17305826483b5880730360eb5b3bbf40bf34294",
+      "optimized_image_sha256": "d7887ba6d52f31193f3fe82c1f76ff8e30fb555567b0210313fb8d51c013601c",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/bookshop_side_original.png",
+      "optimized": "renders/models/bookshop_side_optimized.png",
+      "comparison": "renders/comparisons/bookshop_side_compare.png",
+      "heatmap": "renders/comparisons/bookshop_side_difference_x20.png"
+    },
+    "cafe_back": {
+      "mean_png_code_rgb_abs_error": 4.616012745373155e-07,
+      "mean_display_linear_rgb_abs_error": 5.178193873689452e-07,
+      "png_code_rgb_rmse": 4.2546460463199764e-05,
+      "max_png_code_channel_difference": 0.003921598196029663,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.0,
+      "percent_pixels_over_0_003": 0.0350625,
+      "difference_over_0_01_bbox_bottom_left": null,
+      "original_image_sha256": "08ad779f7edb0a5459dbf654ad85abff5e5ac4816c6347a701237f17a57e6d9c",
+      "optimized_image_sha256": "5ad7801f15003b627ef8b2febe6d5b71196154df9da9e0a8fdb599b2b74faebd",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/cafe_back_original.png",
+      "optimized": "renders/models/cafe_back_optimized.png",
+      "comparison": "renders/comparisons/cafe_back_compare.png",
+      "heatmap": "renders/comparisons/cafe_back_difference_x20.png"
+    },
+    "cafe_front": {
+      "mean_png_code_rgb_abs_error": 7.559912660326518e-07,
+      "mean_display_linear_rgb_abs_error": 7.312722800634219e-07,
+      "png_code_rgb_rmse": 5.444879934657365e-05,
+      "max_png_code_channel_difference": 0.003921627998352051,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.0,
+      "percent_pixels_over_0_003": 0.056499999999999995,
+      "difference_over_0_01_bbox_bottom_left": null,
+      "original_image_sha256": "81348968e12b3ffb360ecf131bc5fff340e87488c452d12adc29263a1a63afc7",
+      "optimized_image_sha256": "1539c2d9bd2e335dd534a247d19dced0c569da9b0fd7cc634ad1b86c9eac3f75",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/cafe_front_original.png",
+      "optimized": "renders/models/cafe_front_optimized.png",
+      "comparison": "renders/comparisons/cafe_front_compare.png",
+      "heatmap": "renders/comparisons/cafe_front_difference_x20.png",
+      "different_seed_control": {
+        "mean_png_code_rgb_abs_error": 0.0007609722088091075,
+        "mean_display_linear_rgb_abs_error": 0.0006796023226343095,
+        "png_code_rgb_rmse": 0.002307277638465166,
+        "max_png_code_channel_difference": 0.11372551321983337,
+        "p99_max_channel_difference": 0.011764705181121826,
+        "percent_pixels_over_0_01": 1.3899375,
+        "percent_pixels_over_0_003": 31.274583333333332,
+        "difference_over_0_01_bbox_bottom_left": [
+          0,
+          0,
+          2999,
+          1599
+        ]
+      },
+      "mae_fraction_of_sampling_control": 0.0009934545010727124
+    },
+    "cafe_side": {
+      "mean_png_code_rgb_abs_error": 7.848583436498302e-07,
+      "mean_display_linear_rgb_abs_error": 7.813521847310767e-07,
+      "png_code_rgb_rmse": 5.570912981056608e-05,
+      "max_png_code_channel_difference": 0.011764705181121826,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 4.1666666666666665e-05,
+      "percent_pixels_over_0_003": 0.058666666666666666,
+      "difference_over_0_01_bbox_bottom_left": [
+        364,
+        427,
+        2284,
+        842
+      ],
+      "original_image_sha256": "394ef71a5f2e013561009b5f734d8664bbba9dde3c98c13d644204f4f21334fa",
+      "optimized_image_sha256": "443b75fd467a2ce773b509cc21ded1a67dc9c5a3775103a4438615ae1849fb08",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/cafe_side_original.png",
+      "optimized": "renders/models/cafe_side_optimized.png",
+      "comparison": "renders/comparisons/cafe_side_compare.png",
+      "heatmap": "renders/comparisons/cafe_side_difference_x20.png"
+    },
+    "cathedral_back": {
+      "mean_png_code_rgb_abs_error": 1.34479851112701e-05,
+      "mean_display_linear_rgb_abs_error": 1.1463644113973714e-05,
+      "png_code_rgb_rmse": 0.0006016400875523686,
+      "max_png_code_channel_difference": 0.10588234663009644,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.022145833333333333,
+      "percent_pixels_over_0_003": 0.3952916666666667,
+      "difference_over_0_01_bbox_bottom_left": [
+        191,
+        145,
+        2778,
+        962
+      ],
+      "original_image_sha256": "609684cde3d3cbd847acea8d2ab6d5cd14e62379180e5ec9fa978a1aade6e294",
+      "optimized_image_sha256": "c19dbd2b264153e923801ae46d862cb276fca48c042a6be7b7cc898e44acae02",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/cathedral_back_original.png",
+      "optimized": "renders/models/cathedral_back_optimized.png",
+      "comparison": "renders/comparisons/cathedral_back_compare.png",
+      "heatmap": "renders/comparisons/cathedral_back_difference_x20.png"
+    },
+    "cathedral_front": {
+      "mean_png_code_rgb_abs_error": 1.2690633411693852e-05,
+      "mean_display_linear_rgb_abs_error": 1.0960714462271426e-05,
+      "png_code_rgb_rmse": 0.0004683634906541556,
+      "max_png_code_channel_difference": 0.09019607305526733,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.025291666666666664,
+      "percent_pixels_over_0_003": 0.4463958333333334,
+      "difference_over_0_01_bbox_bottom_left": [
+        189,
+        285,
+        2713,
+        1260
+      ],
+      "original_image_sha256": "29bd8eca22baaff920a08949b2da05fcf0559f802d39f385ddc7c653c79e212e",
+      "optimized_image_sha256": "49a05e5e6558381f91c2000322786d2a7f21558b9e598b27ef9d0137d0c1809d",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/cathedral_front_original.png",
+      "optimized": "renders/models/cathedral_front_optimized.png",
+      "comparison": "renders/comparisons/cathedral_front_compare.png",
+      "heatmap": "renders/comparisons/cathedral_front_difference_x20.png",
+      "different_seed_control": {
+        "mean_png_code_rgb_abs_error": 0.0007854975992813706,
+        "mean_display_linear_rgb_abs_error": 0.0007002799538895488,
+        "png_code_rgb_rmse": 0.002341365674510598,
+        "max_png_code_channel_difference": 0.12941178679466248,
+        "p99_max_channel_difference": 0.011764705181121826,
+        "percent_pixels_over_0_01": 1.3842083333333333,
+        "percent_pixels_over_0_003": 32.04572916666667,
+        "difference_over_0_01_bbox_bottom_left": [
+          0,
+          0,
+          2999,
+          1599
+        ]
+      },
+      "mae_fraction_of_sampling_control": 0.016156170844193733
+    },
+    "cathedral_side": {
+      "mean_png_code_rgb_abs_error": 2.8786766051780432e-05,
+      "mean_display_linear_rgb_abs_error": 2.241972651972901e-05,
+      "png_code_rgb_rmse": 0.0008029970922507346,
+      "max_png_code_channel_difference": 0.09019610285758972,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.06485416666666666,
+      "percent_pixels_over_0_003": 0.7703333333333334,
+      "difference_over_0_01_bbox_bottom_left": [
+        141,
+        476,
+        2850,
+        897
+      ],
+      "original_image_sha256": "6151bb39121e11c20b7b1ca5cf2a20f99ef45de4fd09ffc8237a0d1ef51efa3b",
+      "optimized_image_sha256": "8766b292c48afb5b1f87fe10679e7b2ec8888335d4ab88a22de9fc8ed322d892",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/cathedral_side_original.png",
+      "optimized": "renders/models/cathedral_side_optimized.png",
+      "comparison": "renders/comparisons/cathedral_side_compare.png",
+      "heatmap": "renders/comparisons/cathedral_side_difference_x20.png"
+    },
+    "farmstead_back": {
+      "mean_png_code_rgb_abs_error": 7.254630418174202e-06,
+      "mean_display_linear_rgb_abs_error": 6.633390967181185e-06,
+      "png_code_rgb_rmse": 0.00033592325053177774,
+      "max_png_code_channel_difference": 0.10588237643241882,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.011958333333333333,
+      "percent_pixels_over_0_003": 0.294,
+      "difference_over_0_01_bbox_bottom_left": [
+        365,
+        685,
+        2718,
+        964
+      ],
+      "original_image_sha256": "9fdc2e5ba317a9b1adc5998e718e03ec0f562bd337b68765fa935a7c102b7638",
+      "optimized_image_sha256": "db03e1c81fd61c63e12374815d458d22501855ba0050c76d1f4de388fc4b2c6b",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/farmstead_back_original.png",
+      "optimized": "renders/models/farmstead_back_optimized.png",
+      "comparison": "renders/comparisons/farmstead_back_compare.png",
+      "heatmap": "renders/comparisons/farmstead_back_difference_x20.png"
+    },
+    "farmstead_front": {
+      "mean_png_code_rgb_abs_error": 8.711056580068544e-06,
+      "mean_display_linear_rgb_abs_error": 7.942712727526668e-06,
+      "png_code_rgb_rmse": 0.000434656540164724,
+      "max_png_code_channel_difference": 0.08235296607017517,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.014645833333333332,
+      "percent_pixels_over_0_003": 0.289375,
+      "difference_over_0_01_bbox_bottom_left": [
+        261,
+        734,
+        2821,
+        1123
+      ],
+      "original_image_sha256": "caf1332d9aa57df27febb2d40cb68e8d739d3294203ec7e85b120becd19f05f6",
+      "optimized_image_sha256": "40b648d7b16abfcf85b8842b4c006839e8d02be1a7a3b9086d8c973ed74e7918",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/farmstead_front_original.png",
+      "optimized": "renders/models/farmstead_front_optimized.png",
+      "comparison": "renders/comparisons/farmstead_front_compare.png",
+      "heatmap": "renders/comparisons/farmstead_front_difference_x20.png"
+    },
+    "farmstead_side": {
+      "mean_png_code_rgb_abs_error": 2.2556372641702183e-05,
+      "mean_display_linear_rgb_abs_error": 1.935335239977576e-05,
+      "png_code_rgb_rmse": 0.0010086087277159095,
+      "max_png_code_channel_difference": 0.18039217591285706,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.04308333333333333,
+      "percent_pixels_over_0_003": 0.5389375,
+      "difference_over_0_01_bbox_bottom_left": [
+        450,
+        469,
+        2846,
+        1049
+      ],
+      "original_image_sha256": "5c9af756e66c8806a999a314de3560b6d785c7a9e27bf441be8fee6738e72c1a",
+      "optimized_image_sha256": "7b191263d81c495448189bcc3a0c756e5085b22a68d61d0fcbdad8200cf73ee4",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/farmstead_side_original.png",
+      "optimized": "renders/models/farmstead_side_optimized.png",
+      "comparison": "renders/comparisons/farmstead_side_compare.png",
+      "heatmap": "renders/comparisons/farmstead_side_difference_x20.png"
+    },
+    "florist_back": {
+      "mean_png_code_rgb_abs_error": 1.6194173440453596e-05,
+      "mean_display_linear_rgb_abs_error": 1.1046126928704325e-05,
+      "png_code_rgb_rmse": 0.001551325898617506,
+      "max_png_code_channel_difference": 0.26274511218070984,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.0130625,
+      "percent_pixels_over_0_003": 0.12804166666666666,
+      "difference_over_0_01_bbox_bottom_left": [
+        483,
+        762,
+        2828,
+        1085
+      ],
+      "original_image_sha256": "bc5bf29c5b491ce4a47ff1cb11f6ff6a3c27e699324d6e3b2ebdd5933e1679f1",
+      "optimized_image_sha256": "39ec392efc51b025ae992c7f07dcd609396202ee18245165958430b8cc8899f7",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/florist_back_original.png",
+      "optimized": "renders/models/florist_back_optimized.png",
+      "comparison": "renders/comparisons/florist_back_compare.png",
+      "heatmap": "renders/comparisons/florist_back_difference_x20.png"
+    },
+    "florist_front": {
+      "mean_png_code_rgb_abs_error": 2.398774631728884e-05,
+      "mean_display_linear_rgb_abs_error": 1.640567097638268e-05,
+      "png_code_rgb_rmse": 0.001539012766443193,
+      "max_png_code_channel_difference": 0.2549019753932953,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.02977083333333333,
+      "percent_pixels_over_0_003": 0.27708333333333335,
+      "difference_over_0_01_bbox_bottom_left": [
+        251,
+        559,
+        2843,
+        1148
+      ],
+      "original_image_sha256": "3eb24ce7a20318c9f3fb9db8e9b8825ecfdff35e247a84f652a2ce5d1c1a35bb",
+      "optimized_image_sha256": "ab6be0c88bb8f1dd9ae8d6df8a554bdc46da1184af7542165bea5aa549351197",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/florist_front_original.png",
+      "optimized": "renders/models/florist_front_optimized.png",
+      "comparison": "renders/comparisons/florist_front_compare.png",
+      "heatmap": "renders/comparisons/florist_front_difference_x20.png",
+      "different_seed_control": {
+        "mean_png_code_rgb_abs_error": 0.0007745811599306762,
+        "mean_display_linear_rgb_abs_error": 0.0007116822525858879,
+        "png_code_rgb_rmse": 0.0024968937505036592,
+        "max_png_code_channel_difference": 0.11764706671237946,
+        "p99_max_channel_difference": 0.011764705181121826,
+        "percent_pixels_over_0_01": 1.6687291666666666,
+        "percent_pixels_over_0_003": 29.603395833333334,
+        "difference_over_0_01_bbox_bottom_left": [
+          0,
+          0,
+          2999,
+          1599
+        ]
+      },
+      "mae_fraction_of_sampling_control": 0.03096866740140659
+    },
+    "florist_side": {
+      "mean_png_code_rgb_abs_error": 5.7609482610132545e-05,
+      "mean_display_linear_rgb_abs_error": 3.895743429893628e-05,
+      "png_code_rgb_rmse": 0.0022477570455521345,
+      "max_png_code_channel_difference": 0.21568629145622253,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.07652083333333333,
+      "percent_pixels_over_0_003": 0.5191875,
+      "difference_over_0_01_bbox_bottom_left": [
+        194,
+        979,
+        1783,
+        1120
+      ],
+      "original_image_sha256": "3195d0b559009b54b3f4d23382fad127bc4398af3795d53802fddb9abebcf9b5",
+      "optimized_image_sha256": "9cc2b5ed713408ec484fab5cdc13a42fedf9534e7f0a74b6bf874fc95b968b1a",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/florist_side_original.png",
+      "optimized": "renders/models/florist_side_optimized.png",
+      "comparison": "renders/comparisons/florist_side_compare.png",
+      "heatmap": "renders/comparisons/florist_side_difference_x20.png"
+    },
+    "grocer_back": {
+      "mean_png_code_rgb_abs_error": 2.950980388050084e-06,
+      "mean_display_linear_rgb_abs_error": 3.2141635983862216e-06,
+      "png_code_rgb_rmse": 0.00016291432257276028,
+      "max_png_code_channel_difference": 0.06666666269302368,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.0009166666666666666,
+      "percent_pixels_over_0_003": 0.194125,
+      "difference_over_0_01_bbox_bottom_left": [
+        1758,
+        707,
+        2534,
+        813
+      ],
+      "original_image_sha256": "16931d5e18f0a408562bbb7a91929ed9182313595c61354551b3e4c17ce99c79",
+      "optimized_image_sha256": "4b86ef4d1385fe1906432517316a2f7a11f78c8ec17554a6a898795d0eb456e8",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/grocer_back_original.png",
+      "optimized": "renders/models/grocer_back_optimized.png",
+      "comparison": "renders/comparisons/grocer_back_compare.png",
+      "heatmap": "renders/comparisons/grocer_back_difference_x20.png"
+    },
+    "grocer_front": {
+      "mean_png_code_rgb_abs_error": 3.833605660474859e-06,
+      "mean_display_linear_rgb_abs_error": 3.7177669582888484e-06,
+      "png_code_rgb_rmse": 0.0004820200556423515,
+      "max_png_code_channel_difference": 0.2980392277240753,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.0013958333333333333,
+      "percent_pixels_over_0_003": 0.1933125,
+      "difference_over_0_01_bbox_bottom_left": [
+        1861,
+        608,
+        2888,
+        1014
+      ],
+      "original_image_sha256": "cd6c88062c692179b7fc5b966720761374e266961b18ab8807a25e503bc8c96b",
+      "optimized_image_sha256": "23f38c7bd0b37059e64a78d4c85b62634b02143bfd8ee929b77e3327b90e7601",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/grocer_front_original.png",
+      "optimized": "renders/models/grocer_front_optimized.png",
+      "comparison": "renders/comparisons/grocer_front_compare.png",
+      "heatmap": "renders/comparisons/grocer_front_difference_x20.png"
+    },
+    "grocer_side": {
+      "mean_png_code_rgb_abs_error": 4.1440627683186904e-05,
+      "mean_display_linear_rgb_abs_error": 2.744252014963422e-05,
+      "png_code_rgb_rmse": 0.0046533760614693165,
+      "max_png_code_channel_difference": 0.6666666865348816,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.008729166666666666,
+      "percent_pixels_over_0_003": 0.2725833333333333,
+      "difference_over_0_01_bbox_bottom_left": [
+        618,
+        593,
+        2386,
+        947
+      ],
+      "original_image_sha256": "3ec0ba14c8a625e13504059b561305608ca7862c6aebec49b5e85126fec99aaa",
+      "optimized_image_sha256": "a2b32c1b5b42dafa6ba567e3f4351e21882095fa2dd8524895f31f30562a4c7c",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/grocer_side_original.png",
+      "optimized": "renders/models/grocer_side_optimized.png",
+      "comparison": "renders/comparisons/grocer_side_compare.png",
+      "heatmap": "renders/comparisons/grocer_side_difference_x20.png"
+    },
+    "house_back": {
+      "mean_png_code_rgb_abs_error": 2.731508902797941e-05,
+      "mean_display_linear_rgb_abs_error": 2.332271651539486e-05,
+      "png_code_rgb_rmse": 0.001596030779182911,
+      "max_png_code_channel_difference": 0.2549019753932953,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.032125,
+      "percent_pixels_over_0_003": 0.2826666666666667,
+      "difference_over_0_01_bbox_bottom_left": [
+        226,
+        630,
+        2825,
+        1048
+      ],
+      "original_image_sha256": "8c72a27a1eeab4a2fb4cc1f4de53ebfc6f471f583329ceff8d2ed1905bbbec2c",
+      "optimized_image_sha256": "276848a53d483c7cbbd2bee05fddd77a930f453470fa02606eab3c331239efb4",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/house_back_original.png",
+      "optimized": "renders/models/house_back_optimized.png",
+      "comparison": "renders/comparisons/house_back_compare.png",
+      "heatmap": "renders/comparisons/house_back_difference_x20.png"
+    },
+    "house_front": {
+      "mean_png_code_rgb_abs_error": 2.6176472601946443e-05,
+      "mean_display_linear_rgb_abs_error": 2.103397491737269e-05,
+      "png_code_rgb_rmse": 0.0021437753457576036,
+      "max_png_code_channel_difference": 0.6000000238418579,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.029729166666666668,
+      "percent_pixels_over_0_003": 0.38625,
+      "difference_over_0_01_bbox_bottom_left": [
+        220,
+        669,
+        2680,
+        1272
+      ],
+      "original_image_sha256": "fd4b756b4f5d15b1502ad378608d7c1aa59b92a9a88119de61e467c3541e6b65",
+      "optimized_image_sha256": "3926a45b09a16feacd490f792a7a4ad96eefd22e617612a33177128d26e9b99c",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/house_front_original.png",
+      "optimized": "renders/models/house_front_optimized.png",
+      "comparison": "renders/comparisons/house_front_compare.png",
+      "heatmap": "renders/comparisons/house_front_difference_x20.png"
+    },
+    "house_side": {
+      "mean_png_code_rgb_abs_error": 0.00012541149044409394,
+      "mean_display_linear_rgb_abs_error": 0.00010145131091121584,
+      "png_code_rgb_rmse": 0.003895011730492115,
+      "max_png_code_channel_difference": 0.35686275362968445,
+      "p99_max_channel_difference": 0.003921568393707275,
+      "percent_pixels_over_0_01": 0.13783333333333334,
+      "percent_pixels_over_0_003": 1.0687708333333334,
+      "difference_over_0_01_bbox_bottom_left": [
+        193,
+        728,
+        2460,
+        1242
+      ],
+      "original_image_sha256": "c07ba6e9d44819ac5f85623941c7b43c65c1f2add1baed9785a6975f970dacc9",
+      "optimized_image_sha256": "c5f3e2c105e1e7d9f23a849bba66666c27a8c62efd15722067924c5db686da58",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/house_side_original.png",
+      "optimized": "renders/models/house_side_optimized.png",
+      "comparison": "renders/comparisons/house_side_compare.png",
+      "heatmap": "renders/comparisons/house_side_difference_x20.png"
+    },
+    "inn_back": {
+      "mean_png_code_rgb_abs_error": 2.0799019694095477e-05,
+      "mean_display_linear_rgb_abs_error": 1.8471884686732665e-05,
+      "png_code_rgb_rmse": 0.0008374141762033105,
+      "max_png_code_channel_difference": 0.11372548341751099,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.042458333333333334,
+      "percent_pixels_over_0_003": 0.47124999999999995,
+      "difference_over_0_01_bbox_bottom_left": [
+        146,
+        626,
+        2755,
+        982
+      ],
+      "original_image_sha256": "e335b5bb3b33cf338e252e4beef363e1445c52df7726b74e355c0e5ecd59e916",
+      "optimized_image_sha256": "4d31cb3331933bb8fa71b3ef83e64e2633e724177744b52a1abba003ba9d7920",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/inn_back_original.png",
+      "optimized": "renders/models/inn_back_optimized.png",
+      "comparison": "renders/comparisons/inn_back_compare.png",
+      "heatmap": "renders/comparisons/inn_back_difference_x20.png"
+    },
+    "inn_front": {
+      "mean_png_code_rgb_abs_error": 1.1547113899723627e-05,
+      "mean_display_linear_rgb_abs_error": 1.0743689927039668e-05,
+      "png_code_rgb_rmse": 0.0005005027633160353,
+      "max_png_code_channel_difference": 0.0784313976764679,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.025583333333333333,
+      "percent_pixels_over_0_003": 0.3343541666666667,
+      "difference_over_0_01_bbox_bottom_left": [
+        132,
+        675,
+        2675,
+        1160
+      ],
+      "original_image_sha256": "c3c02d9c7e81a799cc857f4a86893a0316d97a86013ca6b5b1060f274628712c",
+      "optimized_image_sha256": "da771be2028bb80a0433373e14020287ae0032454c586d8dc1b2bbf0a9a40a84",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/inn_front_original.png",
+      "optimized": "renders/models/inn_front_optimized.png",
+      "comparison": "renders/comparisons/inn_front_compare.png",
+      "heatmap": "renders/comparisons/inn_front_difference_x20.png"
+    },
+    "inn_side": {
+      "mean_png_code_rgb_abs_error": 7.515795459767105e-06,
+      "mean_display_linear_rgb_abs_error": 6.765419129806105e-06,
+      "png_code_rgb_rmse": 0.0005462191766127944,
+      "max_png_code_channel_difference": 0.1254901885986328,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.0105,
+      "percent_pixels_over_0_003": 0.20704166666666665,
+      "difference_over_0_01_bbox_bottom_left": [
+        391,
+        583,
+        2781,
+        1157
+      ],
+      "original_image_sha256": "49378b742ee11f6ee58b8ff67a0705d7b7afa95ce2e2a31b717ee4a883eeb761",
+      "optimized_image_sha256": "921fabe38c4afa8ca28c3878102c181e07b4b79e0ad95b2bceb9f3e09185ea7d",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/inn_side_original.png",
+      "optimized": "renders/models/inn_side_optimized.png",
+      "comparison": "renders/comparisons/inn_side_compare.png",
+      "heatmap": "renders/comparisons/inn_side_difference_x20.png"
+    },
+    "town_hall_back": {
+      "mean_png_code_rgb_abs_error": 4.353540498414077e-05,
+      "mean_display_linear_rgb_abs_error": 4.0720580727793276e-05,
+      "png_code_rgb_rmse": 0.0014965642476454377,
+      "max_png_code_channel_difference": 0.21176472306251526,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.08108333333333333,
+      "percent_pixels_over_0_003": 0.7255416666666668,
+      "difference_over_0_01_bbox_bottom_left": [
+        140,
+        598,
+        2857,
+        1152
+      ],
+      "original_image_sha256": "ba64fab2bb35fe8f8758d84af610c0b649b690eb763d7bb60bfe719b8e9776e8",
+      "optimized_image_sha256": "7cf21b3c90127057bfeaa86b8592aa4997b3d7b11478425d675d9bc3dc28cf98",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/town_hall_back_original.png",
+      "optimized": "renders/models/town_hall_back_optimized.png",
+      "comparison": "renders/comparisons/town_hall_back_compare.png",
+      "heatmap": "renders/comparisons/town_hall_back_difference_x20.png"
+    },
+    "town_hall_front": {
+      "mean_png_code_rgb_abs_error": 3.3479303965577856e-05,
+      "mean_display_linear_rgb_abs_error": 3.0124230761430226e-05,
+      "png_code_rgb_rmse": 0.0015904278261587024,
+      "max_png_code_channel_difference": 0.28235292434692383,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.0516875,
+      "percent_pixels_over_0_003": 0.5526666666666666,
+      "difference_over_0_01_bbox_bottom_left": [
+        140,
+        433,
+        2800,
+        1329
+      ],
+      "original_image_sha256": "d2a72f218405c47612944b6bec75cdd8d0d8c64b8b76c037bbdcd3eb1df3e74b",
+      "optimized_image_sha256": "1618d363a9c1e7fb6f195b5aa0c2bf1f3e4eb32a6658645d1371da7090dd27b4",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/town_hall_front_original.png",
+      "optimized": "renders/models/town_hall_front_optimized.png",
+      "comparison": "renders/comparisons/town_hall_front_compare.png",
+      "heatmap": "renders/comparisons/town_hall_front_difference_x20.png"
+    },
+    "town_hall_side": {
+      "mean_png_code_rgb_abs_error": 1.8410402844892815e-05,
+      "mean_display_linear_rgb_abs_error": 1.8021515643340535e-05,
+      "png_code_rgb_rmse": 0.001043691299855709,
+      "max_png_code_channel_difference": 0.21176472306251526,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.026,
+      "percent_pixels_over_0_003": 0.4323958333333333,
+      "difference_over_0_01_bbox_bottom_left": [
+        343,
+        583,
+        2687,
+        1385
+      ],
+      "original_image_sha256": "aac8084703115b34dd632c55c5680dd5d52aaaeb38b359beb9b72e0ab7f23eb9",
+      "optimized_image_sha256": "66e45e6bcc7f6b5296a927f03c562ad86415d1a06ab1788a6e36c69870cc2206",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/town_hall_side_original.png",
+      "optimized": "renders/models/town_hall_side_optimized.png",
+      "comparison": "renders/comparisons/town_hall_side_compare.png",
+      "heatmap": "renders/comparisons/town_hall_side_difference_x20.png"
+    },
+    "watermill_back": {
+      "mean_png_code_rgb_abs_error": 1.565549973747693e-05,
+      "mean_display_linear_rgb_abs_error": 1.4580782590201125e-05,
+      "png_code_rgb_rmse": 0.0008937672828324139,
+      "max_png_code_channel_difference": 0.16470587253570557,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.021333333333333333,
+      "percent_pixels_over_0_003": 0.35233333333333333,
+      "difference_over_0_01_bbox_bottom_left": [
+        284,
+        629,
+        2795,
+        975
+      ],
+      "original_image_sha256": "fbeec4eeb016907c8e90778825225f334c9bfc7bcbe0e9e18f7af8f31e158691",
+      "optimized_image_sha256": "885f64bb2ea1a8e6312b848a044ca96073c1df0e21f94a9121e1280976c1502f",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/watermill_back_original.png",
+      "optimized": "renders/models/watermill_back_optimized.png",
+      "comparison": "renders/comparisons/watermill_back_compare.png",
+      "heatmap": "renders/comparisons/watermill_back_difference_x20.png"
+    },
+    "watermill_front": {
+      "mean_png_code_rgb_abs_error": 1.1584695130295586e-05,
+      "mean_display_linear_rgb_abs_error": 1.0516622751310933e-05,
+      "png_code_rgb_rmse": 0.000616394798271358,
+      "max_png_code_channel_difference": 0.12156865000724792,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.0183125,
+      "percent_pixels_over_0_003": 0.3114166666666667,
+      "difference_over_0_01_bbox_bottom_left": [
+        198,
+        672,
+        2432,
+        1136
+      ],
+      "original_image_sha256": "20c713d65c923a054d92c97c18782010de889b4d69cbb64123ab7d7b285df711",
+      "optimized_image_sha256": "0356088f4f0797e411d94301bede7e7f6d177a1d3a16580dc5197999fa630504",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/watermill_front_original.png",
+      "optimized": "renders/models/watermill_front_optimized.png",
+      "comparison": "renders/comparisons/watermill_front_compare.png",
+      "heatmap": "renders/comparisons/watermill_front_difference_x20.png",
+      "different_seed_control": {
+        "mean_png_code_rgb_abs_error": 0.0007429526303894818,
+        "mean_display_linear_rgb_abs_error": 0.0006524150376208127,
+        "png_code_rgb_rmse": 0.0022695872467011213,
+        "max_png_code_channel_difference": 0.09019610285758972,
+        "p99_max_channel_difference": 0.011764705181121826,
+        "percent_pixels_over_0_01": 1.2908125,
+        "percent_pixels_over_0_003": 30.054895833333333,
+        "difference_over_0_01_bbox_bottom_left": [
+          112,
+          0,
+          2999,
+          1595
+        ]
+      },
+      "mae_fraction_of_sampling_control": 0.015592777596362345
+    },
+    "watermill_side": {
+      "mean_png_code_rgb_abs_error": 4.172222543274984e-05,
+      "mean_display_linear_rgb_abs_error": 3.518179073580541e-05,
+      "png_code_rgb_rmse": 0.0014165338361635804,
+      "max_png_code_channel_difference": 0.16078433394432068,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.07010416666666666,
+      "percent_pixels_over_0_003": 0.7835,
+      "difference_over_0_01_bbox_bottom_left": [
+        158,
+        731,
+        1829,
+        1084
+      ],
+      "original_image_sha256": "aa38e2dfcd86d4f4a9d4cf59892316513af92495f4478fbb56f03440aad4daea",
+      "optimized_image_sha256": "0a6674f25e1e4c5062843a5d0f7653fdf8270fc728b9628d329145f4e1d69c00",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/watermill_side_original.png",
+      "optimized": "renders/models/watermill_side_optimized.png",
+      "comparison": "renders/comparisons/watermill_side_compare.png",
+      "heatmap": "renders/comparisons/watermill_side_difference_x20.png"
+    },
+    "whole_beginning": {
+      "mean_png_code_rgb_abs_error": 6.668845799140399e-06,
+      "mean_display_linear_rgb_abs_error": 5.920173862250522e-06,
+      "png_code_rgb_rmse": 0.00045508850598707795,
+      "max_png_code_channel_difference": 0.13333335518836975,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.008666666666666666,
+      "percent_pixels_over_0_003": 0.21419444444444447,
+      "difference_over_0_01_bbox_bottom_left": [
+        891,
+        412,
+        1489,
+        587
+      ],
+      "original_image_sha256": "34b31b56e56b8956931324f540b1fabdd1385c1d358a45a8dae789cc760ea038",
+      "optimized_image_sha256": "a839ca371b75b5ccfeed5c51b5b09599adb761a496a4a1886c88fee5844b3968",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/whole/beginning_original.png",
+      "optimized": "renders/whole/beginning_optimized.png",
+      "comparison": "renders/comparisons/whole_beginning_compare.png",
+      "heatmap": "renders/comparisons/whole_beginning_difference_x20.png"
+    },
+    "whole_final": {
+      "mean_png_code_rgb_abs_error": 2.0745825167978182e-05,
+      "mean_display_linear_rgb_abs_error": 1.9442160919425078e-05,
+      "png_code_rgb_rmse": 0.0006945122731849551,
+      "max_png_code_channel_difference": 0.16862744092941284,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.03177777777777778,
+      "percent_pixels_over_0_003": 0.7378333333333333,
+      "difference_over_0_01_bbox_bottom_left": [
+        529,
+        385,
+        1793,
+        1119
+      ],
+      "original_image_sha256": "df6048e3e5bab0db79bf0623b8c5b352e7952cb573153739434683fc305a7d1e",
+      "optimized_image_sha256": "e7e6653f01803372c7f82da3852fc5c053e4344fcaad577bc57fc237f28293e8",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/whole/final_original.png",
+      "optimized": "renders/whole/final_optimized.png",
+      "comparison": "renders/comparisons/whole_final_compare.png",
+      "heatmap": "renders/comparisons/whole_final_difference_x20.png",
+      "different_seed_control": {
+        "mean_png_code_rgb_abs_error": 0.0012368147727102041,
+        "mean_display_linear_rgb_abs_error": 0.0010874895378947258,
+        "png_code_rgb_rmse": 0.0035733345430344343,
+        "max_png_code_channel_difference": 0.1294117569923401,
+        "p99_max_channel_difference": 0.019607841968536377,
+        "percent_pixels_over_0_01": 3.821027777777778,
+        "percent_pixels_over_0_003": 36.34591666666667,
+        "difference_over_0_01_bbox_bottom_left": [
+          309,
+          0,
+          2399,
+          1499
+        ]
+      },
+      "mae_fraction_of_sampling_control": 0.016773591022460323
+    },
+    "whole_final_top": {
+      "mean_png_code_rgb_abs_error": 4.741830707644112e-06,
+      "mean_display_linear_rgb_abs_error": 4.405530944495695e-06,
+      "png_code_rgb_rmse": 0.00020315131405368447,
+      "max_png_code_channel_difference": 0.18039214611053467,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.006055555555555555,
+      "percent_pixels_over_0_003": 0.2519444444444444,
+      "difference_over_0_01_bbox_bottom_left": [
+        558,
+        295,
+        1790,
+        1164
+      ],
+      "original_image_sha256": "e0502b9ec8aa60ba9f85c46cdf1d55f03ce89c3238d4ace21ea2f3662f7509f3",
+      "optimized_image_sha256": "f6a7ae206ca912d7f60484dff369f4eda0026158a7316aedb20a221a0c1d1cc0",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/whole/final_top_original.png",
+      "optimized": "renders/whole/final_top_optimized.png",
+      "comparison": "renders/comparisons/whole_final_top_compare.png",
+      "heatmap": "renders/comparisons/whole_final_top_difference_x20.png"
+    },
+    "whole_middle": {
+      "mean_png_code_rgb_abs_error": 1.9285404050606303e-05,
+      "mean_display_linear_rgb_abs_error": 1.7771313650882803e-05,
+      "png_code_rgb_rmse": 0.0007913680747151375,
+      "max_png_code_channel_difference": 0.21176469326019287,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.026472222222222223,
+      "percent_pixels_over_0_003": 0.6501388888888889,
+      "difference_over_0_01_bbox_bottom_left": [
+        528,
+        318,
+        1649,
+        972
+      ],
+      "original_image_sha256": "4b2366c310c644e0d6f8464851e593967c6b04c4167ef69589aed27f65181764",
+      "optimized_image_sha256": "c05cc31f0afe733a6cacb6366d469acfcd68ef540078b0e45f91f39b66e311df",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/whole/middle_original.png",
+      "optimized": "renders/whole/middle_optimized.png",
+      "comparison": "renders/comparisons/whole_middle_compare.png",
+      "heatmap": "renders/comparisons/whole_middle_difference_x20.png"
+    },
+    "workshop_back": {
+      "mean_png_code_rgb_abs_error": 2.5336055841762573e-05,
+      "mean_display_linear_rgb_abs_error": 2.6117808374692686e-05,
+      "png_code_rgb_rmse": 0.001875194488093257,
+      "max_png_code_channel_difference": 0.33725491166114807,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.020229166666666666,
+      "percent_pixels_over_0_003": 0.291125,
+      "difference_over_0_01_bbox_bottom_left": [
+        432,
+        701,
+        2737,
+        1242
+      ],
+      "original_image_sha256": "f5eece9ced81b8f29bcf10ecc73944285aed11491ae901cbf5cfc4f086551706",
+      "optimized_image_sha256": "527ba18e2f78f6e6bf33a81a33c7278660af4cfefe3d8877d9c6139206aaa23b",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/workshop_back_original.png",
+      "optimized": "renders/models/workshop_back_optimized.png",
+      "comparison": "renders/comparisons/workshop_back_compare.png",
+      "heatmap": "renders/comparisons/workshop_back_difference_x20.png"
+    },
+    "workshop_front": {
+      "mean_png_code_rgb_abs_error": 1.829003304010257e-05,
+      "mean_display_linear_rgb_abs_error": 1.989131487789564e-05,
+      "png_code_rgb_rmse": 0.0011419933289289474,
+      "max_png_code_channel_difference": 0.2196078598499298,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.023270833333333334,
+      "percent_pixels_over_0_003": 0.3630625,
+      "difference_over_0_01_bbox_bottom_left": [
+        219,
+        755,
+        2519,
+        1323
+      ],
+      "original_image_sha256": "9d0297301c2a82d0f975482a954efa30e9f67a850cc051b15ced76843647aead",
+      "optimized_image_sha256": "f5d461d2cdbc403ba74bf30c40cd53dc2130efc631f0d7acb3c1ad0b4e894255",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/workshop_front_original.png",
+      "optimized": "renders/models/workshop_front_optimized.png",
+      "comparison": "renders/comparisons/workshop_front_compare.png",
+      "heatmap": "renders/comparisons/workshop_front_difference_x20.png"
+    },
+    "workshop_side": {
+      "mean_png_code_rgb_abs_error": 6.22794104856439e-05,
+      "mean_display_linear_rgb_abs_error": 6.748948362655938e-05,
+      "png_code_rgb_rmse": 0.0025327824987471104,
+      "max_png_code_channel_difference": 0.250980406999588,
+      "p99_max_channel_difference": 0.0,
+      "percent_pixels_over_0_01": 0.07120833333333333,
+      "percent_pixels_over_0_003": 0.6256041666666666,
+      "difference_over_0_01_bbox_bottom_left": [
+        171,
+        802,
+        2861,
+        1337
+      ],
+      "original_image_sha256": "2d304ee515123e032e90457df232f273e39f35cce182afe3bf7a41446bed6502",
+      "optimized_image_sha256": "75e6454160c809cdef9c36d527eed5cd3e6f524f31490906d052d7100705e9b5",
+      "same_camera_lighting_color_resolution": true,
+      "original": "renders/models/workshop_side_original.png",
+      "optimized": "renders/models/workshop_side_optimized.png",
+      "comparison": "renders/comparisons/workshop_side_compare.png",
+      "heatmap": "renders/comparisons/workshop_side_difference_x20.png"
+    }
+  },
+  "cropped_features": [
+    {
+      "case": "bookshop_back",
+      "feature": "lookout_roof",
+      "stage": 3,
+      "path": "renders/comparisons/detail_lookout_roof.png",
+      "source_pixel_roi_bottom_left": [
+        1960,
+        976,
+        2623,
+        1600
+      ],
+      "difference": {
+        "mean_png_code_rgb_abs_error": 1.794371200958267e-05,
+        "mean_display_linear_rgb_abs_error": 1.3834578567184508e-05,
+        "png_code_rgb_rmse": 0.0003819711855612695,
+        "max_png_code_channel_difference": 0.03921571373939514,
+        "p99_max_channel_difference": 0.0,
+        "percent_pixels_over_0_01": 0.0386742468190432,
+        "percent_pixels_over_0_003": 0.7809780717020537,
+        "difference_over_0_01_bbox_bottom_left": [
+          253,
+          0,
+          622,
+          124
+        ]
+      }
+    },
+    {
+      "case": "cafe_front",
+      "feature": "upper_window_frames",
+      "stage": 3,
+      "path": "renders/comparisons/detail_upper_window_frames.png",
+      "source_pixel_roi_bottom_left": [
+        2351,
+        592,
+        2851,
+        1092
+      ],
+      "difference": {
+        "mean_png_code_rgb_abs_error": 1.9189542399544735e-06,
+        "mean_display_linear_rgb_abs_error": 1.7948096910913591e-06,
+        "png_code_rgb_rmse": 8.674854325363412e-05,
+        "max_png_code_channel_difference": 0.003921583294868469,
+        "p99_max_channel_difference": 0.0,
+        "percent_pixels_over_0_01": 0.0,
+        "percent_pixels_over_0_003": 0.14400000000000002,
+        "difference_over_0_01_bbox_bottom_left": null
+      }
+    },
+    {
+      "case": "cafe_front",
+      "feature": "hip_roof_corner",
+      "stage": 3,
+      "path": "renders/comparisons/detail_hip_roof_corner.png",
+      "source_pixel_roi_bottom_left": [
+        2541,
+        857,
+        2965,
+        1280
+      ],
+      "difference": {
+        "mean_png_code_rgb_abs_error": 1.1880094916705275e-06,
+        "mean_display_linear_rgb_abs_error": 1.1304072131679277e-06,
+        "png_code_rgb_rmse": 6.825584569014609e-05,
+        "max_png_code_channel_difference": 0.003921583294868469,
+        "p99_max_channel_difference": 0.0,
+        "percent_pixels_over_0_01": 0.0,
+        "percent_pixels_over_0_003": 0.08865248226950355,
+        "difference_over_0_01_bbox_bottom_left": null
+      }
+    },
+    {
+      "case": "cathedral_front",
+      "feature": "portal_rose_arch",
+      "stage": 3,
+      "path": "renders/comparisons/detail_portal_rose_arch.png",
+      "source_pixel_roi_bottom_left": [
+        2017,
+        165,
+        2751,
+        899
+      ],
+      "difference": {
+        "mean_png_code_rgb_abs_error": 3.384703859410365e-06,
+        "mean_display_linear_rgb_abs_error": 2.7992787181574386e-06,
+        "png_code_rgb_rmse": 0.00012218407937325537,
+        "max_png_code_channel_difference": 0.019607871770858765,
+        "p99_max_channel_difference": 0.0,
+        "percent_pixels_over_0_01": 0.0009280639101931115,
+        "percent_pixels_over_0_003": 0.23090230085604618,
+        "difference_over_0_01_bbox_bottom_left": [
+          447,
+          120,
+          696,
+          696
+        ]
+      }
+    },
+    {
+      "case": "cathedral_front",
+      "feature": "roof_corner",
+      "stage": 3,
+      "path": "renders/comparisons/detail_roof_corner.png",
+      "source_pixel_roi_bottom_left": [
+        2401,
+        742,
+        2902,
+        1243
+      ],
+      "difference": {
+        "mean_png_code_rgb_abs_error": 1.0639751053531654e-05,
+        "mean_display_linear_rgb_abs_error": 8.880484529072419e-06,
+        "png_code_rgb_rmse": 0.00021259459026623517,
+        "max_png_code_channel_difference": 0.019607871770858765,
+        "p99_max_channel_difference": 0.0,
+        "percent_pixels_over_0_01": 0.0011952143616957701,
+        "percent_pixels_over_0_003": 0.6410333026561646,
+        "difference_over_0_01_bbox_bottom_left": [
+          63,
+          118,
+          64,
+          119
+        ]
+      }
+    },
+    {
+      "case": "florist_side",
+      "feature": "greenhouse_corners",
+      "stage": 3,
+      "path": "renders/comparisons/detail_greenhouse_corners.png",
+      "source_pixel_roi_bottom_left": [
+        2123,
+        269,
+        2874,
+        1021
+      ],
+      "difference": {
+        "mean_png_code_rgb_abs_error": 1.6132943301272462e-06,
+        "mean_display_linear_rgb_abs_error": 1.457859525544336e-06,
+        "png_code_rgb_rmse": 7.976812776178122e-05,
+        "max_png_code_channel_difference": 0.00784313678741455,
+        "p99_max_channel_difference": 0.0,
+        "percent_pixels_over_0_01": 0.0,
+        "percent_pixels_over_0_003": 0.116865455987761,
+        "difference_over_0_01_bbox_bottom_left": null
+      }
+    },
+    {
+      "case": "grocer_back",
+      "feature": "loft_window",
+      "stage": 3,
+      "path": "renders/comparisons/detail_loft_window.png",
+      "source_pixel_roi_bottom_left": [
+        2386,
+        657,
+        2801,
+        1073
+      ],
+      "difference": {
+        "mean_png_code_rgb_abs_error": 6.155844857858028e-06,
+        "mean_display_linear_rgb_abs_error": 6.054562163626542e-06,
+        "png_code_rgb_rmse": 0.00015651481226086617,
+        "max_png_code_channel_difference": 0.011764705181121826,
+        "p99_max_channel_difference": 0.0,
+        "percent_pixels_over_0_01": 0.0005792400370713623,
+        "percent_pixels_over_0_003": 0.4535449490268767,
+        "difference_over_0_01_bbox_bottom_left": [
+          148,
+          156,
+          148,
+          156
+        ]
+      }
+    },
+    {
+      "case": "house_front",
+      "feature": "balcony_door_and_corners",
+      "stage": 3,
+      "path": "renders/comparisons/detail_balcony_door_and_corners.png",
+      "source_pixel_roi_bottom_left": [
+        2260,
+        410,
+        2858,
+        1009
+      ],
+      "difference": {
+        "mean_png_code_rgb_abs_error": 1.956029336724896e-06,
+        "mean_display_linear_rgb_abs_error": 1.7685131297184853e-06,
+        "png_code_rgb_rmse": 8.758256444707513e-05,
+        "max_png_code_channel_difference": 0.003921627998352051,
+        "p99_max_channel_difference": 0.0,
+        "percent_pixels_over_0_01": 0.0,
+        "percent_pixels_over_0_003": 0.1487987225085287,
+        "difference_over_0_01_bbox_bottom_left": null
+      }
+    },
+    {
+      "case": "watermill_side",
+      "feature": "wheel_and_bearing",
+      "stage": 3,
+      "path": "renders/comparisons/detail_wheel_and_bearing.png",
+      "source_pixel_roi_bottom_left": [
+        2064,
+        119,
+        2725,
+        779
+      ],
+      "difference": {
+        "mean_png_code_rgb_abs_error": 7.131324082365609e-07,
+        "mean_display_linear_rgb_abs_error": 5.458105647448974e-07,
+        "png_code_rgb_rmse": 5.288286411087029e-05,
+        "max_png_code_channel_difference": 0.003921598196029663,
+        "p99_max_channel_difference": 0.0,
+        "percent_pixels_over_0_01": 0.0,
+        "percent_pixels_over_0_003": 0.05409618117636272,
+        "difference_over_0_01_bbox_bottom_left": null
+      }
+    }
+  ],
+  "comparison_plate_order": "Original above; optimized below. Every row is L1, L2, L3 from left to right.",
+  "feature_plate_order": "Original left; optimized right. These are identical pixel crops, not a new render or color adjustment.",
+  "pixel_interpretation": "RGBA8 PNG code bytes confirmed against raw first-pixel bytes and integer code grid. Linear metric uses inverse sRGB on the display-referred PNG, not inverse AgX or scene radiance.",
+  "limits": "PNG differences are auxiliary; five changed-seed controls measure Cycles sampling variation. Pixel-perfect equality is not claimed.",
+  "pair_count": 40,
+  "model_direction_cases": 36,
+  "sampling_controls": 5,
+  "all_required_pairs_present": true,
+  "source_render_records": {
+    "renders_buildings_a.json": "121b11224f5ddd9ba10a0a46d2f346d8cdd7e314ecdf6899751775873590032a",
+    "renders_buildings_b.json": "d07b0ad8cc54b7fb17ce03e107cd1303a42d9cb72b3365965a396f1c16460c5e",
+    "renders_buildings_c.json": "0e92a89ed612114fa865b65fe7a426b7ba2cfc0006b24bf9a31baa1970f993d8",
+    "renders_whole.json": "3ca9e976267d9a7992c0b51a1986702c0ffe41053242a78f7df6f1e652afc409"
+  }
+}

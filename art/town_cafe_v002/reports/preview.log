@@ -1,0 +1,7 @@
+00:00.766  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_cafe_v002\blend\chagok_cafe_upgrades_v002.blend"
+00:01.031  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:05.735  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_cafe_v002\renders\preview_levels.png'
+BlenderMCP addon registered
+RENDERED preview_levels.png
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+BlenderMCP addon unregistered

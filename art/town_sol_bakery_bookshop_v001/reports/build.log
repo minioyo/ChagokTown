@@ -1,0 +1,54 @@
+D:\Project\Etc\ChagokTown\art\town_sol_bakery_bookshop_v001\source\build_set.py:29: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m = bpy.data.materials.new(name); m.use_nodes = True; m.diffuse_color = G.linear(color)
+D:\Project\Etc\ChagokTown\art\town_sol_bakery_bookshop_v001\source\build_set.py:34: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m = bpy.data.materials.new('Town • opaque vertex palette'); m.use_nodes = True
+BlenderMCP addon registered
+BlenderMCP addon unregistered
+INFO Draco is available, use library at C:\Users\hy\AppData\Local\Programs\Blender Foundation\blender-5.2.3-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at C:\Users\hy\AppData\Local\Programs\Blender Foundation\blender-5.2.3-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+18:32:17 | INFO: Starting glTF 2.0 export
+18:32:17 | INFO: Extracting primitive: Cube.071
+18:32:17 | INFO: Primitives created: 1
+18:32:17 | INFO: Finished glTF 2.0 export in 0.019189834594726562 s
+
+ASSET_COMPLETE bakery_level_1 3484
+18:32:17 | INFO: Starting glTF 2.0 export
+18:32:17 | INFO: Extracting primitive: Cube.232
+18:32:17 | INFO: Primitives created: 1
+18:32:17 | INFO: Finished glTF 2.0 export in 0.014267444610595703 s
+
+ASSET_COMPLETE bakery_level_2 4948
+18:32:19 | INFO: Starting glTF 2.0 export
+18:32:19 | INFO: Extracting primitive: Cube.442
+18:32:19 | INFO: Primitives created: 1
+18:32:19 | INFO: Finished glTF 2.0 export in 0.017263412475585938 s
+
+ASSET_COMPLETE bakery_level_3 7172
+18:32:19 | INFO: Starting glTF 2.0 export
+18:32:19 | INFO: Extracting primitive: Cube.630
+18:32:19 | INFO: Primitives created: 1
+18:32:19 | INFO: Finished glTF 2.0 export in 0.009681224822998047 s
+
+ASSET_COMPLETE bookshop_level_1 2764
+18:32:21 | INFO: Starting glTF 2.0 export
+18:32:21 | INFO: Extracting primitive: Cube.809
+18:32:21 | INFO: Primitives created: 1
+18:32:21 | INFO: Finished glTF 2.0 export in 0.014923334121704102 s
+
+ASSET_COMPLETE bookshop_level_2 5008
+18:32:23 | INFO: Starting glTF 2.0 export
+18:32:23 | INFO: Extracting primitive: Cube.1070
+18:32:23 | INFO: Primitives created: 1
+18:32:23 | INFO: Finished glTF 2.0 export in 0.022420406341552734 s
+
+ASSET_COMPLETE bookshop_level_3 7256
+18:32:24 | INFO: Data are loaded, start creating Blender stuff
+18:32:24 | INFO: Blender create Mesh node Cube.200
+18:32:24 | INFO: glTF import finished in 0.03s
+D:\Project\Etc\ChagokTown\art\town_sol_bakery_bookshop_v001\source\build_set.py:298: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world=bpy.data.worlds.new('Warm studio');world.use_nodes=True
+Info: Saved as "chagok_sol_bakery_bookshop_v001.blend"
+BUILD_COMPLETE
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

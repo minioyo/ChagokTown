@@ -1,0 +1,186 @@
+{
+  "renderer": "Blender 5.2.3 LTS Cycles GPU",
+  "size_px": 320,
+  "models": {
+    "house_level_1": {
+      "source": "art/runtime_season1_v001/exports/house_level_1.glb",
+      "source_sha256": "5a9a6c5e7eb35572985ec84d25f154e60ee36ca93a7f796474cf0e9429b58a73",
+      "output": "art/runtime_season1_v001/thumbnails/house_level_1.png"
+    },
+    "house_level_2": {
+      "source": "art/runtime_season1_v001/exports/house_level_2.glb",
+      "source_sha256": "42c510a2dab839aefe96cdf97ae02323b69d3da6b9734959795cae0aa19a7b06",
+      "output": "art/runtime_season1_v001/thumbnails/house_level_2.png"
+    },
+    "house_level_3": {
+      "source": "art/runtime_season1_v001/exports/house_level_3.glb",
+      "source_sha256": "f5ce933bc562fb908c591df5834cba8103ccf28c32a216dd3f71d5a7660ccb97",
+      "output": "art/runtime_season1_v001/thumbnails/house_level_3.png"
+    },
+    "cafe_level_1": {
+      "source": "art/runtime_season1_v001/exports/cafe_level_1.glb",
+      "source_sha256": "8155082268acf45ba659abad04ca70c7b352840a98d9421d63b34ebc215d3479",
+      "output": "art/runtime_season1_v001/thumbnails/cafe_level_1.png"
+    },
+    "cafe_level_2": {
+      "source": "art/runtime_season1_v001/exports/cafe_level_2.glb",
+      "source_sha256": "8bdfa2ee1ec81bdd25095cb39f162d3100d4c8858fdd9c45ff8053b57343c974",
+      "output": "art/runtime_season1_v001/thumbnails/cafe_level_2.png"
+    },
+    "cafe_level_3": {
+      "source": "art/runtime_season1_v001/exports/cafe_level_3.glb",
+      "source_sha256": "86e32b221fd91dc2ab2680a6629e80a023af670592c0c4847a9e3349d433e856",
+      "output": "art/runtime_season1_v001/thumbnails/cafe_level_3.png"
+    },
+    "cathedral_level_1": {
+      "source": "art/runtime_season1_v001/exports/cathedral_level_1.glb",
+      "source_sha256": "7bed9661fe664e7515e092cbfddcbada29bf1f0e167791eb5cb1a469491b975c",
+      "output": "art/runtime_season1_v001/thumbnails/cathedral_level_1.png"
+    },
+    "cathedral_level_2": {
+      "source": "art/runtime_season1_v001/exports/cathedral_level_2.glb",
+      "source_sha256": "8f386a818db0e200817aeb53f4dd378ee2c309126e6cd2c716f1d6e373c7a66e",
+      "output": "art/runtime_season1_v001/thumbnails/cathedral_level_2.png"
+    },
+    "cathedral_level_3": {
+      "source": "art/runtime_season1_v001/exports/cathedral_level_3.glb",
+      "source_sha256": "63c5e7f2fbedb41231fc9ebae0464e005bad9fa347bdb835ae8e59522ffb8614",
+      "output": "art/runtime_season1_v001/thumbnails/cathedral_level_3.png"
+    },
+    "bakery_level_1": {
+      "source": "art/runtime_season1_v001/exports/bakery_level_1.glb",
+      "source_sha256": "05d8dc4d634dcf03c189aba39572d1a182101cb1b25f20b4e18ce3b93a780fa9",
+      "output": "art/runtime_season1_v001/thumbnails/bakery_level_1.png"
+    },
+    "bakery_level_2": {
+      "source": "art/runtime_season1_v001/exports/bakery_level_2.glb",
+      "source_sha256": "225673a82e44bc58654b5f5de9d77903d645eb62b21ecd33565730b81627ac21",
+      "output": "art/runtime_season1_v001/thumbnails/bakery_level_2.png"
+    },
+    "bakery_level_3": {
+      "source": "art/runtime_season1_v001/exports/bakery_level_3.glb",
+      "source_sha256": "0d7bdb5717ea18a0d62196390dd82a902428639fbd519475bd31dd59a58183d2",
+      "output": "art/runtime_season1_v001/thumbnails/bakery_level_3.png"
+    },
+    "bookshop_level_1": {
+      "source": "art/runtime_season1_v001/exports/bookshop_level_1.glb",
+      "source_sha256": "3fa8d6dba62b672469e90938b92b85bbd3995e0c710b416cef36362af59b0444",
+      "output": "art/runtime_season1_v001/thumbnails/bookshop_level_1.png"
+    },
+    "bookshop_level_2": {
+      "source": "art/runtime_season1_v001/exports/bookshop_level_2.glb",
+      "source_sha256": "2ace3f0b4dbf3d74c4924a3793efa8188be7e0a9fc82954a67b1fe8cb0f290b4",
+      "output": "art/runtime_season1_v001/thumbnails/bookshop_level_2.png"
+    },
+    "bookshop_level_3": {
+      "source": "art/runtime_season1_v001/exports/bookshop_level_3.glb",
+      "source_sha256": "7c1ba786fb243b89c6817dae41610907e2eeed5a688971a57e0b9f8e08e41dd6",
+      "output": "art/runtime_season1_v001/thumbnails/bookshop_level_3.png"
+    },
+    "florist_level_1": {
+      "source": "art/runtime_season1_v001/exports/florist_level_1.glb",
+      "source_sha256": "faadad53008829a7de0f0952aa4c58a80e149ea706a42cbc35c524f9e99a3411",
+      "output": "art/runtime_season1_v001/thumbnails/florist_level_1.png"
+    },
+    "florist_level_2": {
+      "source": "art/runtime_season1_v001/exports/florist_level_2.glb",
+      "source_sha256": "a48d6241a8aa471ed40de5f27d0bc277b1efca38c10c082f4d487bc187c2ec68",
+      "output": "art/runtime_season1_v001/thumbnails/florist_level_2.png"
+    },
+    "florist_level_3": {
+      "source": "art/runtime_season1_v001/exports/florist_level_3.glb",
+      "source_sha256": "cddc3909b4268050dc95285d3f6beab8c418a84498e2cadfbdeea83754b22381",
+      "output": "art/runtime_season1_v001/thumbnails/florist_level_3.png"
+    },
+    "grocer_level_1": {
+      "source": "art/runtime_season1_v001/exports/grocer_level_1.glb",
+      "source_sha256": "dd6b180d6061b491fea651f4c63edf67707c5c7f9e84423737fe8cdae290b998",
+      "output": "art/runtime_season1_v001/thumbnails/grocer_level_1.png"
+    },
+    "grocer_level_2": {
+      "source": "art/runtime_season1_v001/exports/grocer_level_2.glb",
+      "source_sha256": "734694965b20eddb07e072298ce41cacd9591cae9ba768d485edd27433fe86b6",
+      "output": "art/runtime_season1_v001/thumbnails/grocer_level_2.png"
+    },
+    "grocer_level_3": {
+      "source": "art/runtime_season1_v001/exports/grocer_level_3.glb",
+      "source_sha256": "4797151d21d93c0301c750dab347040df1d5207f0bb3d05ca9368608df23a2b4",
+      "output": "art/runtime_season1_v001/thumbnails/grocer_level_3.png"
+    },
+    "workshop_level_1": {
+      "source": "art/runtime_season1_v001/exports/workshop_level_1.glb",
+      "source_sha256": "986caefb4193d7fa323be7413d6f5d9371acb19619caf8258f16ddb8b0c4975f",
+      "output": "art/runtime_season1_v001/thumbnails/workshop_level_1.png"
+    },
+    "workshop_level_2": {
+      "source": "art/runtime_season1_v001/exports/workshop_level_2.glb",
+      "source_sha256": "c0cfdb57895e3b5a7975f5b49f10e28c178dd17cff7ed6711c9674d6da171a66",
+      "output": "art/runtime_season1_v001/thumbnails/workshop_level_2.png"
+    },
+    "workshop_level_3": {
+      "source": "art/runtime_season1_v001/exports/workshop_level_3.glb",
+      "source_sha256": "d1fa5c1938ad42dc11aa6b82d95dde1dc5d3fde16d8c1ec4b3f57c5254da00fa",
+      "output": "art/runtime_season1_v001/thumbnails/workshop_level_3.png"
+    },
+    "inn_level_1": {
+      "source": "art/runtime_season1_v001/exports/inn_level_1.glb",
+      "source_sha256": "0e95bbacb2fa50029cc5c1701d97025f87ab4f21d7731ee2c79afd5707d10372",
+      "output": "art/runtime_season1_v001/thumbnails/inn_level_1.png"
+    },
+    "inn_level_2": {
+      "source": "art/runtime_season1_v001/exports/inn_level_2.glb",
+      "source_sha256": "5e169e4f38476f2ab3a7f6cd8ea37917b1a13e6b4df8a16befa596df8eb1fd24",
+      "output": "art/runtime_season1_v001/thumbnails/inn_level_2.png"
+    },
+    "inn_level_3": {
+      "source": "art/runtime_season1_v001/exports/inn_level_3.glb",
+      "source_sha256": "c61743d3a5c1763d86b2dea697673c4723a59d11e53185f8a64978cf7ae68e09",
+      "output": "art/runtime_season1_v001/thumbnails/inn_level_3.png"
+    },
+    "town_hall_level_1": {
+      "source": "art/runtime_season1_v001/exports/town_hall_level_1.glb",
+      "source_sha256": "69844aa97dee72a955e99a09d9675546a101bfe707b0b0c338e214c2896a0d3b",
+      "output": "art/runtime_season1_v001/thumbnails/town_hall_level_1.png"
+    },
+    "town_hall_level_2": {
+      "source": "art/runtime_season1_v001/exports/town_hall_level_2.glb",
+      "source_sha256": "4f3fa27dd15eac80e118ebec3dd4f23c5af0e6ea70a981a5b6c1e7291ec4ebdc",
+      "output": "art/runtime_season1_v001/thumbnails/town_hall_level_2.png"
+    },
+    "town_hall_level_3": {
+      "source": "art/runtime_season1_v001/exports/town_hall_level_3.glb",
+      "source_sha256": "1b3fe7ab47d5aa5af6f2541f0b203b37c2cdcf14a1eb15102208a7910f68b138",
+      "output": "art/runtime_season1_v001/thumbnails/town_hall_level_3.png"
+    },
+    "farmstead_level_1": {
+      "source": "art/runtime_season1_v001/exports/farmstead_level_1.glb",
+      "source_sha256": "ff3d5f336cf036082627c638ce4d59112c4031dba99a71f44e8bc1c2988cef6e",
+      "output": "art/runtime_season1_v001/thumbnails/farmstead_level_1.png"
+    },
+    "farmstead_level_2": {
+      "source": "art/runtime_season1_v001/exports/farmstead_level_2.glb",
+      "source_sha256": "cbb9a6717ad84827293cf072ca94dd52b380ad9f1d89646f9dc8bb59652567c3",
+      "output": "art/runtime_season1_v001/thumbnails/farmstead_level_2.png"
+    },
+    "farmstead_level_3": {
+      "source": "art/runtime_season1_v001/exports/farmstead_level_3.glb",
+      "source_sha256": "284bf502365f662a083d0f32ff74f57df933da2f23f70f9fbafe997b6c9f9aa9",
+      "output": "art/runtime_season1_v001/thumbnails/farmstead_level_3.png"
+    },
+    "watermill_level_1": {
+      "source": "art/runtime_season1_v001/exports/watermill_level_1.glb",
+      "source_sha256": "becd166e10f570813d7a9c5dc0b7cf837f0519ec42863daf5c85642f2dfc86ca",
+      "output": "art/runtime_season1_v001/thumbnails/watermill_level_1.png"
+    },
+    "watermill_level_2": {
+      "source": "art/runtime_season1_v001/exports/watermill_level_2.glb",
+      "source_sha256": "57dd2b2399b421ebe56d52ef09d0b59bc3be696dd478a5c64b8ded2df3dfa525",
+      "output": "art/runtime_season1_v001/thumbnails/watermill_level_2.png"
+    },
+    "watermill_level_3": {
+      "source": "art/runtime_season1_v001/exports/watermill_level_3.glb",
+      "source_sha256": "2934380a52a4374608d55c969030a6adcdd672a8e70caaef2946416f74659d7f",
+      "output": "art/runtime_season1_v001/thumbnails/watermill_level_3.png"
+    }
+  }
+}

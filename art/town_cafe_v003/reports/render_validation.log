@@ -1,0 +1,29 @@
+00:00.703  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_cafe_v003\blend\chagok_cafe_upgrades_v003.blend"
+00:01.157  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:13.485  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_cafe_v003\renders\01_cafe_levels.png'
+BlenderMCP addon registered
+RENDERED 01_cafe_levels.png
+17:00:08 | INFO: Data are loaded, start creating Blender stuff
+17:00:08 | INFO: Blender create Mesh node Cube.032
+17:00:08 | INFO: glTF import finished in 0.02s
+00:19.532  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_cafe_v003\renders\cafe_level_1.png'
+RENDERED cafe_level_1.png
+17:00:13 | INFO: Data are loaded, start creating Blender stuff
+17:00:13 | INFO: Blender create Mesh node Cube.104
+17:00:13 | INFO: glTF import finished in 0.03s
+00:25.485  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_cafe_v003\renders\cafe_level_2.png'
+RENDERED cafe_level_2.png
+17:00:19 | INFO: Data are loaded, start creating Blender stuff
+17:00:19 | INFO: Blender create Mesh node Cube.200
+17:00:19 | INFO: glTF import finished in 0.03s
+00:31.625  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_cafe_v003\renders\cafe_level_3.png'
+RENDERED cafe_level_3.png
+00:37.469  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_cafe_v003\renders\04_level_3_back.png'
+RENDERED 04_level_3_back.png
+00:48.313  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_cafe_v003\renders\02_before_after_level_3.png'
+RENDERED 02_before_after_level_3.png
+VALIDATION_COMPLETE {"source_reopened": true, "scene_count": 7, "v001_hashes_unchanged": true, "v001_files_checked": 26, "font_objects": 0, "models": {"1": {"reimport_passed": true, "mesh_objects": 1, "materials": 1, "triangles": 3364, "vertex_color_count": 14, "bounds_max_error_m": 0.0, "ground_error_m": 0.0, "root_location": [0.0, 0.0, 0.0], "dimensions_m": [2.994571566581726, 2.844971537590027, 3.015000104904175]}, "2": {"reimport_passed": true, "mesh_objects": 1, "materials": 1, "triangles": 5160, "vertex_color_count": 16, "bounds_max_error_m": 0.0, "ground_error_m": 0.0, "root_location": [0.0, 0.0, 0.0], "dimensions_m": [3.686545729637146, 3.8549715280532837, 3.265000104904175]}, "3": {"reimport_passed": true, "mesh_objects": 1, "materials": 1, "triangles": 7324, "vertex_color_count": 19, "bounds_max_error_m": 0.0, "ground_error_m": 0.0, "root_location": [0.0, 0.0, 0.0], "dimensions_m": [3.921574115753174, 4.474971413612366, 4.6875]}}, "v002_hashes_unchanged": true, "v002_files_checked": 25, "window_brown_backing_objects": 0, "all_passed": true}
+BlenderMCP addon unregistered
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

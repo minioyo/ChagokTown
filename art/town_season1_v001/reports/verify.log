@@ -1,0 +1,63 @@
+00:00.922  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v001\blend\season1_models.blend"
+BlenderMCP addon registered
+BlenderMCP addon unregistered
+23:58:47 | INFO: Data are loaded, start creating Blender stuff
+23:58:47 | INFO: Blender create Mesh node Cube.054
+23:58:47 | INFO: glTF import finished in 0.01s
+REIMPORT_VERIFIED cathedral_level_1 2100
+23:58:47 | INFO: Data are loaded, start creating Blender stuff
+23:58:47 | INFO: Blender create Mesh node Cube.290
+23:58:47 | INFO: glTF import finished in 0.02s
+REIMPORT_VERIFIED cathedral_level_2 5718
+23:58:47 | INFO: Data are loaded, start creating Blender stuff
+23:58:47 | INFO: Blender create Mesh node Cube.696
+23:58:47 | INFO: glTF import finished in 0.02s
+REIMPORT_VERIFIED cathedral_level_3 6730
+23:58:47 | INFO: Data are loaded, start creating Blender stuff
+23:58:47 | INFO: Blender create Mesh node Cube.2634
+23:58:47 | INFO: glTF import finished in 0.01s
+REIMPORT_VERIFIED farmstead_level_1 2272
+23:58:47 | INFO: Data are loaded, start creating Blender stuff
+23:58:47 | INFO: Blender create Mesh node Cube.2844
+23:58:47 | INFO: glTF import finished in 0.02s
+REIMPORT_VERIFIED farmstead_level_2 3824
+23:58:47 | INFO: Data are loaded, start creating Blender stuff
+23:58:47 | INFO: Blender create Mesh node Cube.3181
+23:58:48 | INFO: glTF import finished in 0.03s
+REIMPORT_VERIFIED farmstead_level_3 5884
+23:58:48 | INFO: Data are loaded, start creating Blender stuff
+23:58:48 | INFO: Blender create Mesh node Cube.1005
+23:58:48 | INFO: glTF import finished in 0.01s
+REIMPORT_VERIFIED inn_level_1 2316
+23:58:48 | INFO: Data are loaded, start creating Blender stuff
+23:58:48 | INFO: Blender create Mesh node Cube.1266
+23:58:48 | INFO: glTF import finished in 0.02s
+REIMPORT_VERIFIED inn_level_2 4140
+23:58:48 | INFO: Data are loaded, start creating Blender stuff
+23:58:48 | INFO: Blender create Mesh node Cube.1632
+23:58:48 | INFO: glTF import finished in 0.02s
+REIMPORT_VERIFIED inn_level_3 4532
+23:58:48 | INFO: Data are loaded, start creating Blender stuff
+23:58:48 | INFO: Blender create Mesh node Cube.1900
+23:58:48 | INFO: glTF import finished in 0.01s
+REIMPORT_VERIFIED watermill_level_1 2580
+23:58:48 | INFO: Data are loaded, start creating Blender stuff
+23:58:48 | INFO: Blender create Mesh node Cube.2103
+23:58:48 | INFO: glTF import finished in 0.02s
+REIMPORT_VERIFIED watermill_level_2 3944
+23:58:48 | INFO: Data are loaded, start creating Blender stuff
+23:58:48 | INFO: Blender create Mesh node Cube.2393
+23:58:48 | INFO: glTF import finished in 0.02s
+REIMPORT_VERIFIED watermill_level_3 4776
+23:58:48 | INFO: Data are loaded, start creating Blender stuff
+23:58:48 | INFO: Blender create Mesh node Cube.138
+23:58:48 | INFO: glTF import finished in 0.03s
+23:58:48 | INFO: Data are loaded, start creating Blender stuff
+23:58:48 | INFO: Blender create Mesh node Cube.139
+23:58:48 | INFO: glTF import finished in 0.04s
+00:03.141  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v001\blend\season1_map.blend"
+LAYOUT verified_final collisions []
+SEASON_VALIDATION_COMPLETE
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

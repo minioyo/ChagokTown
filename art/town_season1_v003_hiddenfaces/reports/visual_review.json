@@ -1,0 +1,335 @@
+{
+  "date": "2026-11-11",
+  "method": "Rendered source/candidate images were opened and visually inspected; pixel metrics were supplementary.",
+  "pixel_perfect_equality_claimed": false,
+  "cases": {
+    "whole_final": {
+      "note": "전체 지붕 군집·성당·길·물·나무·접지 그림자에서 새 외형 변화를 보지 못함.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "df6048e3e5bab0db79bf0623b8c5b352e7952cb573153739434683fc305a7d1e",
+      "optimized_image_sha256": "e7e6653f01803372c7f82da3852fc5c053e4344fcaad577bc57fc237f28293e8",
+      "comparison_image_sha256": "faa339b72a1a5ff0177d1fc2c0faf065426990fac6d525a0e62558322a6bbf69"
+    },
+    "bakery_front": {
+      "note": "L1~L3 정면 문·아치창·차양·진열대·처마가 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "affa1708fd3f5d4fc779e3e127891164c7cfede6d7e7b665f28d08cc1817912d",
+      "optimized_image_sha256": "1faf346867c593e6f09798227e7f8c1a5ca0fc531d529db4c245bf8db4fb85cf",
+      "comparison_image_sha256": "32578dfc4c640ce376536cad320154daf55bfbff1c95c1aa23801d3f5136aab4"
+    },
+    "bakery_back": {
+      "note": "L1~L3 뒤쪽 창틀·굴뚝·벽 모서리와 지붕이 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "c6fb934a085f8a11e885c20d15f2499f2c57fe31f9005ee8a30d185a422504a3",
+      "optimized_image_sha256": "e0e53d4b46f37ec8fc88efaf26903c65b9eaf85fbb245f52ea22f3101d1eb40b",
+      "comparison_image_sha256": "e73b5a2ff44b3f6a6ce123deee64e96d89491d0e40f74b091c9aff860d612ec9"
+    },
+    "bakery_side": {
+      "note": "L1~L3 측면·별채·지붕 접합이 유지됨. L3 용마루 끝의 작은 어두운 접합은 원본에도 동일하게 있음.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "a8bd5dc0b7cf321c87acfdedb63c4f969e9956e946d93b269ed323846667d9ef",
+      "optimized_image_sha256": "2291c083b09d2635412267437a7b0b8d4ab2c56d81a0ad7e9c749eefe2032a81",
+      "comparison_image_sha256": "6bd86d64c1e3b7bcb6e27ca7dd00481771d536011eea84211e724a6baa180181"
+    },
+    "bookshop_front": {
+      "note": "L1~L3 현관·책 소품·돌출 독서창·전망탑의 실루엣이 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "0a156eb373ed2864485494bcaaa7d372f6afca8ba174dd2cd30c333a8f17d02d",
+      "optimized_image_sha256": "d1f47303f60fdf31a8fa50e9744d495fd5758e28174136b39128530eebe4290f",
+      "comparison_image_sha256": "bed4c63f550ecf63db7dd217d47b6dbe431e5ce2fe5e63103eb4ecd73107ebc0"
+    },
+    "bookshop_back": {
+      "note": "L1~L3 뒷벽·상하층 창·탑 지붕과 처마가 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "331b21ab4924583b105f778ad062c85e899de3ae539121b5487e62c640ab58fd",
+      "optimized_image_sha256": "0e317e508b43d1d3de5391f8e2891fcefe481a3e9e8eb3f4dd85125261288880",
+      "comparison_image_sha256": "79c2b5fc3e02904649ab5a9396bef3f4c6e43b3bd29df5ad979253b1350093c9"
+    },
+    "bookshop_side": {
+      "note": "L1~L3 측면 창틀·현관 기둥·지붕·탑 접합부에 새 구멍이나 색 손실이 없음.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "c9aea2f9a549f375657e51cbe17305826483b5880730360eb5b3bbf40bf34294",
+      "optimized_image_sha256": "d7887ba6d52f31193f3fe82c1f76ff8e30fb555567b0210313fb8d51c013601c",
+      "comparison_image_sha256": "012b62131e90cadb6ea1e17fdf2b641ba299a1db17a2ccd980ca3f8eb62802d1"
+    },
+    "cafe_front": {
+      "note": "L1~L3 차양·아치·창틀·화분·테라스와 지붕 모서리가 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "81348968e12b3ffb360ecf131bc5fff340e87488c452d12adc29263a1a63afc7",
+      "optimized_image_sha256": "1539c2d9bd2e335dd534a247d19dced0c569da9b0fd7cc634ad1b86c9eac3f75",
+      "comparison_image_sha256": "9ea5548b633c7cc1a856d7fe40c84ca41c9065808c38131a4e00cb71b164896b"
+    },
+    "cafe_back": {
+      "note": "L1~L3 뒷벽·층 경계·힙 지붕·처마가 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "08ad779f7edb0a5459dbf654ad85abff5e5ac4816c6347a701237f17a57e6d9c",
+      "optimized_image_sha256": "5ad7801f15003b627ef8b2febe6d5b71196154df9da9e0a8fdb599b2b74faebd",
+      "comparison_image_sha256": "1c75933f9e7014c178e8aeb669aad69c668bcf1d59a4ef6fa0d7505db13f6d7d"
+    },
+    "farmstead_front": {
+      "note": "L1~L3 집·헛간·별채·밭·울타리의 외형과 그림자가 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "caf1332d9aa57df27febb2d40cb68e8d739d3294203ec7e85b120becd19f05f6",
+      "optimized_image_sha256": "40b648d7b16abfcf85b8842b4c006839e8d02be1a7a3b9086d8c973ed74e7918",
+      "comparison_image_sha256": "252e81c1fdc6dc850a555b1fc1c775a4c803ec7e638b200f5c2a450d8f05a8b8"
+    },
+    "whole_beginning": {
+      "note": "시작 8채의 외형·배치·준비된 길·지형·나무·물과 그림자가 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "34b31b56e56b8956931324f540b1fabdd1385c1d358a45a8dae789cc760ea038",
+      "optimized_image_sha256": "a839ca371b75b5ccfeed5c51b5b09599adb761a496a4a1886c88fee5844b3968",
+      "comparison_image_sha256": "1695abe86a0952b2c129cb5dfbbfebcd762c0273d741c0c2350fbd9baa0cbdb1"
+    },
+    "whole_middle": {
+      "note": "중간 12채의 상층·별채·성당·길·지형과 그림자가 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "4b2366c310c644e0d6f8464851e593967c6b04c4167ef69589aed27f65181764",
+      "optimized_image_sha256": "c05cc31f0afe733a6cacb6366d469acfcd68ef540078b0e45f91f39b66e311df",
+      "comparison_image_sha256": "fa25f81392998571524d76323eaf3cf82b8274d048d70ed2b90e2a0fd5f8c668"
+    },
+    "whole_final_top": {
+      "note": "최종 평면의 처마·지붕·수로·길·나무·배치에서 새 차이를 보지 못함.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "e0502b9ec8aa60ba9f85c46cdf1d55f03ce89c3238d4ace21ea2f3662f7509f3",
+      "optimized_image_sha256": "f6a7ae206ca912d7f60484dff369f4eda0026158a7316aedb20a221a0c1d1cc0",
+      "comparison_image_sha256": "2fb5b15f7bdd90a59b4e4296a32a431b8b5e26e02c4467ecde8e950ebfcbeb73"
+    },
+    "cafe_side": {
+      "note": "전 단계 측면 창틀·띠장·힙 지붕·테라스가 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "394ef71a5f2e013561009b5f734d8664bbba9dde3c98c13d644204f4f21334fa",
+      "optimized_image_sha256": "443b75fd467a2ce773b509cc21ded1a67dc9c5a3775103a4438615ae1849fb08",
+      "comparison_image_sha256": "8eda4a966be0c535928d1bf9e075376ce10215a69df91c7346960dd37916e8bd"
+    },
+    "cathedral_front": {
+      "note": "전 단계 정문·아치·장미창·종탑·측랑·주 지붕 실루엣이 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "29bd8eca22baaff920a08949b2da05fcf0559f802d39f385ddc7c653c79e212e",
+      "optimized_image_sha256": "49a05e5e6558381f91c2000322786d2a7f21558b9e598b27ef9d0137d0c1809d",
+      "comparison_image_sha256": "4eae0603f80aebeee46d080c12ac29fb9082f6867b1f67d3c736e67ec20ea71d"
+    },
+    "cathedral_back": {
+      "note": "전 단계 후벽·후진·측랑·종탑·처마 접합에 새 구멍이 없음.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "609684cde3d3cbd847acea8d2ab6d5cd14e62379180e5ec9fa978a1aade6e294",
+      "optimized_image_sha256": "c19dbd2b264153e923801ae46d862cb276fca48c042a6be7b7cc898e44acae02",
+      "comparison_image_sha256": "7fbed18498c16afa76a40d419a110ce6715f82c02908b29c0d21133777edb349"
+    },
+    "cathedral_side": {
+      "note": "전 단계 측면 란셋창·버트레스·측문·지붕과 그림자에 눈에 띄는 새 변화가 없음.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "6151bb39121e11c20b7b1ca5cf2a20f99ef45de4fd09ffc8237a0d1ef51efa3b",
+      "optimized_image_sha256": "8766b292c48afb5b1f87fe10679e7b2ec8888335d4ab88a22de9fc8ed322d892",
+      "comparison_image_sha256": "e622120f06e7ec85f2787a81bbd6b07fecf156b5c0ccac4175c83e0eda5ca7bd"
+    },
+    "farmstead_back": {
+      "note": "전 단계 뒤쪽 집·헛간·별채 벽·처마·굴뚝과 접지 그림자가 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "9fdc2e5ba317a9b1adc5998e718e03ec0f562bd337b68765fa935a7c102b7638",
+      "optimized_image_sha256": "db03e1c81fd61c63e12374815d458d22501855ba0050c76d1f4de388fc4b2c6b",
+      "comparison_image_sha256": "a5f4ad865a9416d5e2035bc8ebf7aa3224a2a73c20cae588b9feac2ecfab5745"
+    },
+    "farmstead_side": {
+      "note": "전 단계 측면 지붕·벽·농작물·울타리와 별채에 새 외형 변화가 없음.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "5c9af756e66c8806a999a314de3560b6d785c7a9e27bf441be8fee6738e72c1a",
+      "optimized_image_sha256": "7b191263d81c495448189bcc3a0c756e5085b22a68d61d0fcbdad8200cf73ee4",
+      "comparison_image_sha256": "b140a90c3e5a5115ec4751e474543c6e66c38df2c694b5cfe7dcfa9b7d4bc1a9"
+    },
+    "florist_front": {
+      "note": "전 단계 창틀·아치문·꽃·차양·온실 전면과 지붕이 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "3eb24ce7a20318c9f3fb9db8e9b8825ecfdff35e247a84f652a2ce5d1c1a35bb",
+      "optimized_image_sha256": "ab6be0c88bb8f1dd9ae8d6df8a554bdc46da1184af7542165bea5aa549351197",
+      "comparison_image_sha256": "b0a28dd46b1f500012eb20532a8c340b0193d1f129312d69969c9cb8c86cf195"
+    },
+    "florist_back": {
+      "note": "전 단계 뒷벽과 온실 후면이 유지됨. 온실과 주벽 사이의 기존 어두운 접합은 양쪽에 동일하게 있음.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "bc5bf29c5b491ce4a47ff1cb11f6ff6a3c27e699324d6e3b2ebdd5933e1679f1",
+      "optimized_image_sha256": "39ec392efc51b025ae992c7f07dcd609396202ee18245165958430b8cc8899f7",
+      "comparison_image_sha256": "df6319d53e811253d7fa7ada29c01d32f82dc8545296808d895d8bb3a334f60a"
+    },
+    "florist_side": {
+      "note": "전 단계 온실 측면 창틀·주벽·지붕 모서리와 그림자가 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "3195d0b559009b54b3f4d23382fad127bc4398af3795d53802fddb9abebcf9b5",
+      "optimized_image_sha256": "9cc2b5ed713408ec484fab5cdc13a42fedf9534e7f0a74b6bf874fc95b968b1a",
+      "comparison_image_sha256": "80087281ddc7a100ca21a538f0af72ed9c75b9b7da5df6959f21a5cdcfac2803"
+    },
+    "grocer_front": {
+      "note": "전 단계 현관·차양·가판대·상층 창과 지붕 실루엣이 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "cd6c88062c692179b7fc5b966720761374e266961b18ab8807a25e503bc8c96b",
+      "optimized_image_sha256": "23f38c7bd0b37059e64a78d4c85b62634b02143bfd8ee929b77e3327b90e7601",
+      "comparison_image_sha256": "7f5c0e05e9e82bca92b0feb2780a4b4e32268d7d1d0a18c1a32442f43a8ef412"
+    },
+    "grocer_back": {
+      "note": "전 단계 후벽·다락 뒷창·층 경계와 처마에 새 변화가 없음.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "16931d5e18f0a408562bbb7a91929ed9182313595c61354551b3e4c17ce99c79",
+      "optimized_image_sha256": "4b86ef4d1385fe1906432517316a2f7a11f78c8ec17554a6a898795d0eb456e8",
+      "comparison_image_sha256": "89002d0e2ad8833281ad79055d60283a9a0e16935f5a9017d065d85b775dccd4"
+    },
+    "grocer_side": {
+      "note": "전 단계 측면 창틀·지붕 경계·다락 벽과 처마에 새 구멍이나 색 손실이 없음.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "3ec0ba14c8a625e13504059b561305608ca7862c6aebec49b5e85126fec99aaa",
+      "optimized_image_sha256": "a2b32c1b5b42dafa6ba567e3f4351e21882095fa2dd8524895f31f30562a4c7c",
+      "comparison_image_sha256": "767fc12fdd7110eef58998980dc5890dc8f5a2caf2356870358b778d2bc7419b"
+    },
+    "house_front": {
+      "note": "전 단계 정문·차양·창틀·발코니 난간·상층 문과 지붕이 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "fd4b756b4f5d15b1502ad378608d7c1aa59b92a9a88119de61e467c3541e6b65",
+      "optimized_image_sha256": "3926a45b09a16feacd490f792a7a4ad96eefd22e617612a33177128d26e9b99c",
+      "comparison_image_sha256": "dd7a93905b1f1444956aad546d172b46419cad16de5d27b63e4db8c37e84a5be"
+    },
+    "house_back": {
+      "note": "전 단계 후벽·굴뚝·기와·처마와 접지 그림자가 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "8c72a27a1eeab4a2fb4cc1f4de53ebfc6f471f583329ceff8d2ed1905bbbec2c",
+      "optimized_image_sha256": "276848a53d483c7cbbd2bee05fddd77a930f453470fa02606eab3c331239efb4",
+      "comparison_image_sha256": "e6a1acf1c7a61d079ff8b7a063497b0be22c0a1cd205afd7547392e049bee377"
+    },
+    "house_side": {
+      "note": "전 단계 측면 창·띠장·굴뚝·기와와 처마 접합에서 새 외형 변화를 보지 못함.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "c07ba6e9d44819ac5f85623941c7b43c65c1f2add1baed9785a6975f970dacc9",
+      "optimized_image_sha256": "c5f3e2c105e1e7d9f23a849bba66666c27a8c62efd15722067924c5db686da58",
+      "comparison_image_sha256": "c8a213ef233a0fcfa69eadbf68d58be4ba114aee7c714040ebeea50fa805ce92"
+    },
+    "inn_front": {
+      "note": "전 단계 현관·차양·벤치·별채·상층 창과 지붕 실루엣이 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "c3c02d9c7e81a799cc857f4a86893a0316d97a86013ca6b5b1060f274628712c",
+      "optimized_image_sha256": "da771be2028bb80a0433373e14020287ae0032454c586d8dc1b2bbf0a9a40a84",
+      "comparison_image_sha256": "3a0777104cfd031f466ed5f39ce34e0a03248b64f01efe558986487307abc279"
+    },
+    "inn_back": {
+      "note": "전 단계 뒤쪽 창틀·외벽·굴뚝·기와와 처마에 새 구멍이나 색 손실이 없음.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "e335b5bb3b33cf338e252e4beef363e1445c52df7726b74e355c0e5ecd59e916",
+      "optimized_image_sha256": "4d31cb3331933bb8fa71b3ef83e64e2633e724177744b52a1abba003ba9d7920",
+      "comparison_image_sha256": "1cafa456d48350d5d248b68633315c9e78656da2153267c5d375c1121540123d"
+    },
+    "inn_side": {
+      "note": "전 단계 측면·별채·차양 기둥·벽 모서리와 지붕 접합이 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "49378b742ee11f6ee58b8ff67a0705d7b7afa95ce2e2a31b717ee4a883eeb761",
+      "optimized_image_sha256": "921fabe38c4afa8ca28c3878102c181e07b4b79e0ad95b2bceb9f3e09185ea7d",
+      "comparison_image_sha256": "fae0795284d0aadf86e5169775c95a4c4c9591687d7aec8b181c633b0bd4cc65"
+    },
+    "town_hall_front": {
+      "note": "전 단계 정문·아치·창틀·차양·상층과 종탑이 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "d2a72f218405c47612944b6bec75cdd8d0d8c64b8b76c037bbdcd3eb1df3e74b",
+      "optimized_image_sha256": "1618d363a9c1e7fb6f195b5aa0c2bf1f3e4eb32a6658645d1371da7090dd27b4",
+      "comparison_image_sha256": "41d31dae92133953611896ab6dc153ab8ca15640b67a679692991de0a99c9f0d"
+    },
+    "town_hall_back": {
+      "note": "전 단계 후벽·창틀·기와·종탑 지붕과 처마에 새 변화가 없음.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "ba64fab2bb35fe8f8758d84af610c0b649b690eb763d7bb60bfe719b8e9776e8",
+      "optimized_image_sha256": "7cf21b3c90127057bfeaa86b8592aa4997b3d7b11478425d675d9bc3dc28cf98",
+      "comparison_image_sha256": "309ed6bfc04773243acebbe377485347fed0ecae430f116c9f97603a64ee5ef9"
+    },
+    "town_hall_side": {
+      "note": "전 단계 측면 창·띠장·차양·종탑과 그림자가 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "aac8084703115b34dd632c55c5680dd5d52aaaeb38b359beb9b72e0ab7f23eb9",
+      "optimized_image_sha256": "66e45e6bcc7f6b5296a927f03c562ad86415d1a06ab1788a6e36c69870cc2206",
+      "comparison_image_sha256": "468e8795c05eac497a0ab155555a942993c6cb758df17204403f1b237ef69132"
+    },
+    "watermill_front": {
+      "note": "전 단계 현관·차양·별채·상층 창·지붕과 물레바퀴 외곽이 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "20c713d65c923a054d92c97c18782010de889b4d69cbb64123ab7d7b285df711",
+      "optimized_image_sha256": "0356088f4f0797e411d94301bede7e7f6d177a1d3a16580dc5197999fa630504",
+      "comparison_image_sha256": "18d59280a4e7544824d7dd7da3728d4d19a01b98b1172eee322b5ca3d5437e0e"
+    },
+    "watermill_back": {
+      "note": "전 단계 후면 창·별채·굴뚝·기와·바퀴와 접지 그림자가 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "fbeec4eeb016907c8e90778825225f334c9bfc7bcbe0e9e18f7af8f31e158691",
+      "optimized_image_sha256": "885f64bb2ea1a8e6312b848a044ca96073c1df0e21f94a9121e1280976c1502f",
+      "comparison_image_sha256": "6f90a86791e802f1dbce01a567d25060cbddb34459f4618ef5b00a324913a234"
+    },
+    "watermill_side": {
+      "note": "전 단계 바퀴 테두리·살·물받이·축·축받이와 뒤쪽 벽에 새 구멍이나 실루엣 변화가 없음.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "aa38e2dfcd86d4f4a9d4cf59892316513af92495f4478fbb56f03440aad4daea",
+      "optimized_image_sha256": "0a6674f25e1e4c5062843a5d0f7653fdf8270fc728b9628d329145f4e1d69c00",
+      "comparison_image_sha256": "aaabee8d33bddb5e336a01c44a144d30cb3f88cfe9b45314d0366a3630fb4169"
+    },
+    "workshop_front": {
+      "note": "전 단계 정문·창틀·차양·작업대·공구·간판과 지붕이 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "9d0297301c2a82d0f975482a954efa30e9f67a850cc051b15ced76843647aead",
+      "optimized_image_sha256": "f5d461d2cdbc403ba74bf30c40cd53dc2130efc631f0d7acb3c1ad0b4e894255",
+      "comparison_image_sha256": "cd6397d4ab017bcf069ea1e6b9320bd0b976514f9edab30a68c551c986bb9e72"
+    },
+    "workshop_back": {
+      "note": "전 단계 후면 창·별채·벽 모서리·기와와 처마에 새 변화가 없음.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "f5eece9ced81b8f29bcf10ecc73944285aed11491ae901cbf5cfc4f086551706",
+      "optimized_image_sha256": "527ba18e2f78f6e6bf33a81a33c7278660af4cfefe3d8877d9c6139206aaa23b",
+      "comparison_image_sha256": "136f9d5f74d96cf996857fea1770fe75ea13466a0014b86b07841d740694329c"
+    },
+    "workshop_side": {
+      "note": "전 단계 측면 창틀·처마·별채 지붕·차양 기둥과 그림자가 유지됨.",
+      "no_new_visible_silhouette_hole_color_or_shadow_change_observed": true,
+      "original_image_sha256": "2d304ee515123e032e90457df232f273e39f35cce182afe3bf7a41446bed6502",
+      "optimized_image_sha256": "75e6454160c809cdef9c36d527eed5cd3e6f524f31490906d052d7100705e9b5",
+      "comparison_image_sha256": "ac664cdd1a51a931c18740a54262e32c188e6d97dd399af84f644c527c64310b"
+    }
+  },
+  "features": {
+    "upper_window_frames": {
+      "note": "카페 L3 아치 창틀·유리·꽃상자·차양·처마 모서리를 동일 픽셀 크롭으로 확인. 새 틈·색 손실 없음.",
+      "path": "renders/comparisons/detail_upper_window_frames.png",
+      "sha256": "ad9abd4ae20cfebd7a8c7b509f729277a91cf5bb37c1119789b819e803fd1780"
+    },
+    "portal_rose_arch": {
+      "note": "성당 L3 정문 아치·기둥·장미창을 동일 픽셀 크롭으로 확인. 외곽과 내부 선·색이 유지됨.",
+      "path": "renders/comparisons/detail_portal_rose_arch.png",
+      "sha256": "37a037d3bc6995907b87f45857363a7f2684a7f320033e310fe90ced9159ada0"
+    },
+    "roof_corner": {
+      "note": "성당 L3 주 지붕과 측랑 지붕의 접합·기와·처마 끝을 확인. 새 틈이나 실루엣 변화가 없음.",
+      "path": "renders/comparisons/detail_roof_corner.png",
+      "sha256": "5b45cc54c4604137689a5324a2ab560fab3b62ca0712231527e2493e27367b73"
+    },
+    "hip_roof_corner": {
+      "note": "카페 L3 힙 지붕 모서리·처마·측면 창틀을 확인. 기존 어두운 접합은 양쪽 동일하며 새 구멍이 없음.",
+      "path": "renders/comparisons/detail_hip_roof_corner.png",
+      "sha256": "652bdf31a44f368b146085c647ed1a491f89459f76e2dfba69fc54d16b47cf5e"
+    },
+    "greenhouse_corners": {
+      "note": "꽃집 L3 온실 측면 창틀·패널·모서리와 주벽 접합을 확인. 새 틈·색 손실 없음.",
+      "path": "renders/comparisons/detail_greenhouse_corners.png",
+      "sha256": "6d987836f82b2fab65b3d4cc4e5e1d56db1119e1576ed0b9b5e2b45c3c5528dc"
+    },
+    "balcony_door_and_corners": {
+      "note": "주택 L3 발코니 문·난간·바닥·벽 모서리와 그림자를 확인. 외형이 유지됨.",
+      "path": "renders/comparisons/detail_balcony_door_and_corners.png",
+      "sha256": "c713779d3d4346918d03d8440c4f0f1b368c089a849acb18130db1c56958127c"
+    },
+    "lookout_roof": {
+      "note": "서점 L3 전망탑 후면 지붕·처마와 본 지붕 접합을 확인. 새 틈이나 색 변화가 없음.",
+      "path": "renders/comparisons/detail_lookout_roof.png",
+      "sha256": "d1cdc60ed8855d4cd2a9f1d9544daafc02d6712657c8ed88121161fe65e4cbf6"
+    },
+    "loft_window": {
+      "note": "잡화점 L3 다락 뒷창·창틀·처마·본 지붕 경계를 확인. 새 구멍이나 색 손실이 없음.",
+      "path": "renders/comparisons/detail_loft_window.png",
+      "sha256": "6b16306f5b6483af00ff5a7a3c81fd65e587be467638edb126751f623b91c191"
+    },
+    "wheel_and_bearing": {
+      "note": "방앗간 L3 바퀴 테두리·살·물받이·중심축·축받이·뒤쪽 벽을 동일 픽셀 크롭으로 확인. 새 틈·색·실루엣 변화가 없음.",
+      "path": "renders/comparisons/detail_wheel_and_bearing.png",
+      "sha256": "6e9d3bfac2746f0b2a774fe2c6bad6eb5c3c32ed8e4793813e5da0a142d328e3"
+    }
+  },
+  "rollback_actions": []
+}

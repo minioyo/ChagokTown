@@ -1,0 +1,451 @@
+{
+  "sourceSha256": "d6c4128a395d4afa9409a53a7863144de7751c3979df3460c312a7c92786340c",
+  "sourceScene": "AFTER roof tones • final",
+  "objects": [
+    {
+      "name": "Integrated • continuous terrain",
+      "triangles": 26400,
+      "materials": [
+        "Grass"
+      ]
+    },
+    {
+      "name": "Shared court • cathedral",
+      "triangles": 302,
+      "materials": [
+        "Path.002"
+      ]
+    },
+    {
+      "name": "Shared court • market",
+      "triangles": 289,
+      "materials": [
+        "Path.002"
+      ]
+    },
+    {
+      "name": "Stream • continuous water",
+      "triangles": 2240,
+      "materials": [
+        "Water"
+      ]
+    },
+    {
+      "name": "Shared alley • Market to cathedral lane",
+      "triangles": 544,
+      "materials": [
+        "Path.002"
+      ]
+    },
+    {
+      "name": "Shared alley • Village arrival",
+      "triangles": 520,
+      "materials": [
+        "Path.002"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • warm trunk.031",
+      "triangles": 92,
+      "materials": [
+        "Wood"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • branch.031",
+      "triangles": 28,
+      "materials": [
+        "Wood"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.093",
+      "triangles": 80,
+      "materials": [
+        "Leaf"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.094",
+      "triangles": 80,
+      "materials": [
+        "Leaf dark"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.095",
+      "triangles": 80,
+      "materials": [
+        "Leaf light"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • warm trunk.032",
+      "triangles": 92,
+      "materials": [
+        "Wood"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • branch.032",
+      "triangles": 28,
+      "materials": [
+        "Wood"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.096",
+      "triangles": 80,
+      "materials": [
+        "Leaf"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.097",
+      "triangles": 80,
+      "materials": [
+        "Leaf dark"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.098",
+      "triangles": 80,
+      "materials": [
+        "Leaf light"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • warm trunk.033",
+      "triangles": 92,
+      "materials": [
+        "Wood"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • branch.033",
+      "triangles": 28,
+      "materials": [
+        "Wood"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.099",
+      "triangles": 80,
+      "materials": [
+        "Leaf dark"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.100",
+      "triangles": 80,
+      "materials": [
+        "Leaf light"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.101",
+      "triangles": 80,
+      "materials": [
+        "Leaf"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • warm trunk.034",
+      "triangles": 92,
+      "materials": [
+        "Wood"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • branch.034",
+      "triangles": 28,
+      "materials": [
+        "Wood"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.102",
+      "triangles": 80,
+      "materials": [
+        "Leaf"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.103",
+      "triangles": 80,
+      "materials": [
+        "Leaf dark"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.104",
+      "triangles": 80,
+      "materials": [
+        "Leaf light"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • warm trunk.035",
+      "triangles": 92,
+      "materials": [
+        "Wood"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • branch.035",
+      "triangles": 28,
+      "materials": [
+        "Wood"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.105",
+      "triangles": 80,
+      "materials": [
+        "Leaf dark"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.106",
+      "triangles": 80,
+      "materials": [
+        "Leaf light"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.107",
+      "triangles": 80,
+      "materials": [
+        "Leaf"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • warm trunk.036",
+      "triangles": 92,
+      "materials": [
+        "Wood"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • branch.036",
+      "triangles": 28,
+      "materials": [
+        "Wood"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.108",
+      "triangles": 80,
+      "materials": [
+        "Leaf dark"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.109",
+      "triangles": 80,
+      "materials": [
+        "Leaf light"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.110",
+      "triangles": 80,
+      "materials": [
+        "Leaf"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • warm trunk.037",
+      "triangles": 92,
+      "materials": [
+        "Wood"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • branch.037",
+      "triangles": 28,
+      "materials": [
+        "Wood"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.111",
+      "triangles": 80,
+      "materials": [
+        "Leaf"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.112",
+      "triangles": 80,
+      "materials": [
+        "Leaf dark"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.113",
+      "triangles": 80,
+      "materials": [
+        "Leaf light"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • warm trunk.038",
+      "triangles": 92,
+      "materials": [
+        "Wood"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • branch.038",
+      "triangles": 28,
+      "materials": [
+        "Wood"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.114",
+      "triangles": 80,
+      "materials": [
+        "Leaf"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.115",
+      "triangles": 80,
+      "materials": [
+        "Leaf dark"
+      ]
+    },
+    {
+      "name": "REUSED • Tree • rounded canopy.116",
+      "triangles": 80,
+      "materials": [
+        "Leaf light"
+      ]
+    },
+    {
+      "name": "Upper court • shallow stair tread",
+      "triangles": 44,
+      "materials": [
+        "Stone light.001"
+      ]
+    },
+    {
+      "name": "Upper court • shallow stair tread.001",
+      "triangles": 44,
+      "materials": [
+        "Stone light.001"
+      ]
+    },
+    {
+      "name": "Upper court • shallow stair tread.002",
+      "triangles": 44,
+      "materials": [
+        "Stone light.001"
+      ]
+    },
+    {
+      "name": "Shared alley • bookshop L3 door",
+      "triangles": 240,
+      "materials": [
+        "Path.002"
+      ]
+    },
+    {
+      "name": "Shared alley • inn L3 door",
+      "triangles": 264,
+      "materials": [
+        "Path.002"
+      ]
+    },
+    {
+      "name": "Shared alley • cafe L3 door",
+      "triangles": 144,
+      "materials": [
+        "Path.002"
+      ]
+    },
+    {
+      "name": "Shared alley • bakery L3 door",
+      "triangles": 144,
+      "materials": [
+        "Path.002"
+      ]
+    },
+    {
+      "name": "Shared alley • florist L3 door",
+      "triangles": 288,
+      "materials": [
+        "Path.002"
+      ]
+    },
+    {
+      "name": "Shared alley • home_entry L3 door",
+      "triangles": 96,
+      "materials": [
+        "Path.002"
+      ]
+    },
+    {
+      "name": "Shared alley • town_hall L3 door",
+      "triangles": 328,
+      "materials": [
+        "Path.002"
+      ]
+    },
+    {
+      "name": "Shared alley • cathedral L3 door",
+      "triangles": 88,
+      "materials": [
+        "Path.002"
+      ]
+    },
+    {
+      "name": "Shared alley • grocer L3 door",
+      "triangles": 456,
+      "materials": [
+        "Path.002"
+      ]
+    },
+    {
+      "name": "Shared alley • workshop L3 door",
+      "triangles": 64,
+      "materials": [
+        "Path.002"
+      ]
+    },
+    {
+      "name": "Shared alley • home_upper_west L3 door",
+      "triangles": 1064,
+      "materials": [
+        "Path.002"
+      ]
+    },
+    {
+      "name": "Shared alley • home_upper_east L3 door",
+      "triangles": 352,
+      "materials": [
+        "Path.002"
+      ]
+    },
+    {
+      "name": "Shared alley • watermill L3 door",
+      "triangles": 552,
+      "materials": [
+        "Path.002"
+      ]
+    },
+    {
+      "name": "Shared alley • farmstead L3 door",
+      "triangles": 400,
+      "materials": [
+        "Path.002"
+      ]
+    }
+  ],
+  "triangles": 37787,
+  "meshes": 8,
+  "sha256": "d5e5780ffc34d979e963bc2ba7304fd1337b27fe9768950da20e7655d2c24793",
+  "reimportMaxTriangleCoordinateErrorMetres": 0.0
+}

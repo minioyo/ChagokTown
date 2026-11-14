@@ -1,0 +1,256 @@
+{
+  "passed": true,
+  "reopened_blend_sha256": "e7c2ec3532c991f25416629d80d8bb8317f9ac0e90b9ec293bb7768b2a25b4c1",
+  "delivered_glb_sha256": "030c1d6bab729b6c19300a8cda135c8582bdb83376bf48ec69e2a3aa666a6cd4",
+  "source_blend_sha256": "d6c4128a395d4afa9409a53a7863144de7751c3979df3460c312a7c92786340c",
+  "protected_inputs_checked": 570,
+  "building_glb_paths_and_hashes_unchanged": 36,
+  "layout_unchanged": true,
+  "stages": {
+    "beginning": {
+      "original_environment_exact": true,
+      "camera_lighting_exposure_exact": true,
+      "plot_placements_exact": true,
+      "props_objects_same_datablocks": true,
+      "environment_sha256": "d561f602c0053d52a314ca7edcbb967fd355be4af475fd7fcc18a4dd44c3d6d7",
+      "presentation_sha256": "e5f3004846f6db9bc12b643422cf766b86ed2e3893bdcd4937b12d96e0749382"
+    },
+    "middle": {
+      "original_environment_exact": true,
+      "camera_lighting_exposure_exact": true,
+      "plot_placements_exact": true,
+      "props_objects_same_datablocks": true,
+      "environment_sha256": "0db75d720afd514815d21287e4da421f2163de2ff4ce6e4b4ddffaf30df55963",
+      "presentation_sha256": "5f7be83362f6bdbde65f80047583843be5c01ea1ae5e50b24d52e2945fa96bb6"
+    },
+    "final": {
+      "original_environment_exact": true,
+      "camera_lighting_exposure_exact": true,
+      "plot_placements_exact": true,
+      "props_objects_same_datablocks": true,
+      "environment_sha256": "e93a28076a068b6f247a726c80b3cb40359bf8688e2440f61ad7696d9c065ac3",
+      "presentation_sha256": "0eb192d52ce61badf3d9b9945b45cb3bf35c7a346685b07bd98387b16b5f2661"
+    }
+  },
+  "glb_static": {
+    "triangles": 1330,
+    "vertices": 1488,
+    "materials": 1,
+    "meshes": 1,
+    "primitives": 1,
+    "textures": 0,
+    "bytes": 62964,
+    "degenerate_triangles": 0,
+    "minimum_triangle_area_m2": 0.00027029433270264747,
+    "minimum_normal_face_alignment": 0.8662579717779718,
+    "finite_unit_normals": true,
+    "opaque_color_alpha": true,
+    "backface_culling": true,
+    "identity_origin_and_scale": true
+  },
+  "edit_to_runtime": {
+    "triangles": 1330,
+    "max_position_error_m": 9.5367431640625e-07,
+    "max_color_error_linear": 0.0,
+    "max_normal_component_difference": 0.07275401055812836
+  },
+  "runtime_to_reimport": {
+    "triangles": 1330,
+    "max_position_error_m": 0.0,
+    "max_color_error_linear": 8.940696716308594e-08,
+    "max_normal_component_difference": 0.0
+  },
+  "edit_to_reimport": {
+    "triangles": 1330,
+    "max_position_error_m": 9.5367431640625e-07,
+    "max_color_error_linear": 8.940696716308594e-08,
+    "max_normal_component_difference": 0.07275401055812836
+  },
+  "ground_contacts": [
+    {
+      "object": "Riverbank \u2022 01 downstream inner \u2022 stone 1",
+      "terrain_gap_range_m": [
+        -0.23963207006454468,
+        0.18453029147349298
+      ],
+      "embedded_and_exposed": true
+    },
+    {
+      "object": "Riverbank \u2022 01 downstream inner \u2022 stone 2",
+      "terrain_gap_range_m": [
+        -0.1894105076789856,
+        0.11940860748291016
+      ],
+      "embedded_and_exposed": true
+    },
+    {
+      "object": "Riverbank \u2022 01 downstream inner \u2022 stone 3",
+      "terrain_gap_range_m": [
+        -0.14459867775440216,
+        0.07459867000579834
+      ],
+      "embedded_and_exposed": true
+    },
+    {
+      "object": "Riverbank \u2022 01 downstream inner \u2022 short grass 1",
+      "root_gaps_m": [
+        -0.035001907497644424,
+        -0.0349980928003788
+      ],
+      "roots_dry": true
+    },
+    {
+      "object": "Riverbank \u2022 01 downstream inner \u2022 short grass 2",
+      "root_gaps_m": [
+        -0.03500381484627724,
+        -0.03500000014901161
+      ],
+      "roots_dry": true
+    },
+    {
+      "object": "Riverbank \u2022 02 downstream outer \u2022 stone 1",
+      "terrain_gap_range_m": [
+        -0.23887377977371216,
+        0.16887567937374115
+      ],
+      "embedded_and_exposed": true
+    },
+    {
+      "object": "Riverbank \u2022 02 downstream outer \u2022 stone 2",
+      "terrain_gap_range_m": [
+        -0.18870607018470764,
+        0.11870607733726501
+      ],
+      "embedded_and_exposed": true
+    },
+    {
+      "object": "Riverbank \u2022 02 downstream outer \u2022 short grass 1",
+      "root_gaps_m": [
+        -0.03604331985116005,
+        -0.03418365493416786
+      ],
+      "roots_dry": true
+    },
+    {
+      "object": "Riverbank \u2022 03 upstream inner \u2022 stone 1",
+      "terrain_gap_range_m": [
+        -0.2729882001876831,
+        0.2262769341468811
+      ],
+      "embedded_and_exposed": true
+    },
+    {
+      "object": "Riverbank \u2022 03 upstream inner \u2022 stone 2",
+      "terrain_gap_range_m": [
+        -0.19825047254562378,
+        0.15995101630687714
+      ],
+      "embedded_and_exposed": true
+    },
+    {
+      "object": "Riverbank \u2022 03 upstream inner \u2022 short grass 1",
+      "root_gaps_m": [
+        -0.036008987575769424,
+        -0.03447738662362099
+      ],
+      "roots_dry": true
+    },
+    {
+      "object": "Riverbank \u2022 03 upstream inner \u2022 short grass 2",
+      "root_gaps_m": [
+        -0.03825584426522255,
+        -0.03150573745369911
+      ],
+      "roots_dry": true
+    },
+    {
+      "object": "Riverbank \u2022 03 upstream inner \u2022 short grass 3",
+      "root_gaps_m": [
+        -0.03675476089119911,
+        -0.033407364040613174
+      ],
+      "roots_dry": true
+    },
+    {
+      "object": "Riverbank \u2022 04 upper outer \u2022 stone 1",
+      "terrain_gap_range_m": [
+        -0.3447486460208893,
+        0.25326618552207947
+      ],
+      "embedded_and_exposed": true
+    },
+    {
+      "object": "Riverbank \u2022 04 upper outer \u2022 stone 2",
+      "terrain_gap_range_m": [
+        -0.255420807749033,
+        0.18318158388137817
+      ],
+      "embedded_and_exposed": true
+    },
+    {
+      "object": "Riverbank \u2022 04 upper outer \u2022 stone 3",
+      "terrain_gap_range_m": [
+        -0.15049609541893005,
+        0.11164072155952454
+      ],
+      "embedded_and_exposed": true
+    },
+    {
+      "object": "Riverbank \u2022 04 upper outer \u2022 short grass 1",
+      "root_gaps_m": [
+        -0.06261119246482849,
+        -0.007999986410140991
+      ],
+      "roots_dry": true
+    },
+    {
+      "object": "Riverbank \u2022 04 upper outer \u2022 short grass 2",
+      "root_gaps_m": [
+        -0.054260432720184326,
+        -0.02442377805709839
+      ],
+      "roots_dry": true
+    },
+    {
+      "object": "Riverbank \u2022 05 upper inner \u2022 stone 1",
+      "terrain_gap_range_m": [
+        -0.3896169662475586,
+        0.325604148209095
+      ],
+      "embedded_and_exposed": true
+    },
+    {
+      "object": "Riverbank \u2022 05 upper inner \u2022 stone 2",
+      "terrain_gap_range_m": [
+        -0.2876011058688164,
+        0.22281008958816528
+      ],
+      "embedded_and_exposed": true
+    },
+    {
+      "object": "Riverbank \u2022 05 upper inner \u2022 short grass 1",
+      "root_gaps_m": [
+        -0.10568487644195557,
+        -0.008000016212463379
+      ],
+      "roots_dry": true
+    },
+    {
+      "object": "Riverbank \u2022 05 upper inner \u2022 short grass 2",
+      "root_gaps_m": [
+        -0.07081663608551025,
+        -0.008000016212463379
+      ],
+      "roots_dry": true
+    }
+  ],
+  "building_intersection_checks": 34,
+  "building_intersections": [],
+  "existing_path_checks": 18,
+  "existing_path_intersections": 0,
+  "mill_keepout_blender_y_m": [
+    -8.2,
+    -2.0
+  ],
+  "limits": "Geometry, scene and rendered art validation only. No Android, Pleos, vehicle or gameplay performance validation."
+}

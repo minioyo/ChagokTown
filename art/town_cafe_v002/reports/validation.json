@@ -1,0 +1,67 @@
+{
+  "source_reopened": true,
+  "scene_count": 7,
+  "v001_hashes_unchanged": true,
+  "v001_files_checked": 26,
+  "font_objects": 0,
+  "models": {
+    "1": {
+      "reimport_passed": true,
+      "mesh_objects": 1,
+      "materials": 1,
+      "triangles": 3452,
+      "vertex_color_count": 15,
+      "bounds_max_error_m": 0.0,
+      "ground_error_m": 0.0,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        2.994571566581726,
+        2.844971537590027,
+        3.015000104904175
+      ]
+    },
+    "2": {
+      "reimport_passed": true,
+      "mesh_objects": 1,
+      "materials": 1,
+      "triangles": 5248,
+      "vertex_color_count": 16,
+      "bounds_max_error_m": 0.0,
+      "ground_error_m": 0.0,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        3.686545729637146,
+        3.8549715280532837,
+        3.265000104904175
+      ]
+    },
+    "3": {
+      "reimport_passed": true,
+      "mesh_objects": 1,
+      "materials": 1,
+      "triangles": 7456,
+      "vertex_color_count": 19,
+      "bounds_max_error_m": 0.0,
+      "ground_error_m": 0.0,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        3.921574115753174,
+        4.474971413612366,
+        4.6875
+      ]
+    }
+  },
+  "all_passed": true
+}

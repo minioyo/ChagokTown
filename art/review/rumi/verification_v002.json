@@ -1,0 +1,466 @@
+{
+  "raw": {
+    "path": "art\\raw\\rumi\\rumi_concept_v002.png",
+    "mode": "RGBA",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "a95b8ab6d4ec3f1fb130dd3b83b000040c06392432005dbfd9cbc3f6641bb095",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "alpha_bbox": [
+      0,
+      25,
+      978,
+      1536
+    ],
+    "alpha_0_pixels": 1052308,
+    "alpha_255_pixels": 0,
+    "partial_alpha_pixels": 520556,
+    "alpha_at_least_128_bbox": [
+      127,
+      107,
+      858,
+      1452
+    ],
+    "corners": [
+      [
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        0
+      ]
+    ],
+    "metadata": {}
+  },
+  "export": {
+    "path": "art\\export\\rumi\\rumi_concept_v002.png",
+    "mode": "RGBA",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "5083f8f763c6b93f15b0bace7e8f1d17e3e4f836d8c22eca84e7cb5c59762812",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "alpha_bbox": [
+      0,
+      25,
+      978,
+      1536
+    ],
+    "alpha_0_pixels": 1052308,
+    "alpha_255_pixels": 0,
+    "partial_alpha_pixels": 520556,
+    "alpha_at_least_128_bbox": [
+      127,
+      107,
+      858,
+      1452
+    ],
+    "corners": [
+      [
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        0
+      ]
+    ],
+    "metadata": {
+      "srgb": "0"
+    }
+  },
+  "comparison": {
+    "same_size": true,
+    "rgba_identical": true,
+    "alpha_changed_pixels": 0,
+    "visible_rgb_changed_pixels": 0,
+    "fully_transparent_rgb_changed_pixels": 0,
+    "max_channel_difference": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "aseprite": {
+    "magic": "0xa5e0",
+    "frames": 1,
+    "width": 1024,
+    "height": 1536,
+    "color_depth_bits": 32
+  },
+  "review_images": [
+    {
+      "path": "art\\review\\rumi\\rumi_dark_128_v002.png",
+      "mode": "RGBA",
+      "size": [
+        128,
+        192
+      ],
+      "sha256": "f39b8f9112fffd9f304e1668ebfaec255f877565468bfd0afc8807911deb163a",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "alpha_0_pixels": 0,
+      "alpha_255_pixels": 24576,
+      "partial_alpha_pixels": 0,
+      "alpha_at_least_128_bbox": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "corners": [
+        [
+          32,
+          38,
+          48,
+          255
+        ],
+        [
+          32,
+          38,
+          48,
+          255
+        ],
+        [
+          32,
+          38,
+          48,
+          255
+        ],
+        [
+          32,
+          38,
+          48,
+          255
+        ]
+      ],
+      "metadata": {}
+    },
+    {
+      "path": "art\\review\\rumi\\rumi_dark_256_v002.png",
+      "mode": "RGBA",
+      "size": [
+        256,
+        384
+      ],
+      "sha256": "db65b222f78f4591983a2bccb9db447d71ca83b28d15f731f61a5f5c9211a982",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        256,
+        384
+      ],
+      "alpha_0_pixels": 0,
+      "alpha_255_pixels": 98304,
+      "partial_alpha_pixels": 0,
+      "alpha_at_least_128_bbox": [
+        0,
+        0,
+        256,
+        384
+      ],
+      "corners": [
+        [
+          32,
+          38,
+          48,
+          255
+        ],
+        [
+          32,
+          38,
+          48,
+          255
+        ],
+        [
+          32,
+          38,
+          48,
+          255
+        ],
+        [
+          32,
+          38,
+          48,
+          255
+        ]
+      ],
+      "metadata": {}
+    },
+    {
+      "path": "art\\review\\rumi\\rumi_dark_v002.png",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "42c4d308995048e6b538c22042d6daea1ea6489224aa34bbd95918782be8b92b",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "alpha_0_pixels": 0,
+      "alpha_255_pixels": 1572864,
+      "partial_alpha_pixels": 0,
+      "alpha_at_least_128_bbox": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "corners": [
+        [
+          32,
+          38,
+          48,
+          255
+        ],
+        [
+          32,
+          38,
+          48,
+          255
+        ],
+        [
+          32,
+          38,
+          48,
+          255
+        ],
+        [
+          32,
+          38,
+          48,
+          255
+        ]
+      ],
+      "metadata": {}
+    },
+    {
+      "path": "art\\review\\rumi\\rumi_light_128_v002.png",
+      "mode": "RGBA",
+      "size": [
+        128,
+        192
+      ],
+      "sha256": "89cf829009a379b75f52f50056d8f23d5db8bfb4801e0a48e2611ffe4e93af42",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "alpha_0_pixels": 0,
+      "alpha_255_pixels": 24576,
+      "partial_alpha_pixels": 0,
+      "alpha_at_least_128_bbox": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "corners": [
+        [
+          243,
+          240,
+          232,
+          255
+        ],
+        [
+          243,
+          240,
+          232,
+          255
+        ],
+        [
+          243,
+          240,
+          232,
+          255
+        ],
+        [
+          243,
+          240,
+          232,
+          255
+        ]
+      ],
+      "metadata": {}
+    },
+    {
+      "path": "art\\review\\rumi\\rumi_light_256_v002.png",
+      "mode": "RGBA",
+      "size": [
+        256,
+        384
+      ],
+      "sha256": "901c3181dbec725dd28538b556e54aee948903316e2bb459850d7a919fe7262e",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        256,
+        384
+      ],
+      "alpha_0_pixels": 0,
+      "alpha_255_pixels": 98304,
+      "partial_alpha_pixels": 0,
+      "alpha_at_least_128_bbox": [
+        0,
+        0,
+        256,
+        384
+      ],
+      "corners": [
+        [
+          243,
+          240,
+          232,
+          255
+        ],
+        [
+          243,
+          240,
+          232,
+          255
+        ],
+        [
+          243,
+          240,
+          232,
+          255
+        ],
+        [
+          243,
+          240,
+          232,
+          255
+        ]
+      ],
+      "metadata": {}
+    },
+    {
+      "path": "art\\review\\rumi\\rumi_light_v002.png",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "37e8b6f943966d1ef6b82fcc7f2d3c4121f368be53e129b93706741357dcd0a3",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "alpha_0_pixels": 0,
+      "alpha_255_pixels": 1572864,
+      "partial_alpha_pixels": 0,
+      "alpha_at_least_128_bbox": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "corners": [
+        [
+          243,
+          240,
+          232,
+          255
+        ],
+        [
+          243,
+          240,
+          232,
+          255
+        ],
+        [
+          243,
+          240,
+          232,
+          255
+        ],
+        [
+          243,
+          240,
+          232,
+          255
+        ]
+      ],
+      "metadata": {}
+    }
+  ]
+}

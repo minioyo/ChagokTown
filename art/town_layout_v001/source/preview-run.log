@@ -1,0 +1,954 @@
+D:\Project\Etc\ChagokTown\art\town_layout_v001\source\build_town.py:26: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(name);m.use_nodes=True;m.diffuse_color=G.linear(color)
+D:\Project\Etc\ChagokTown\art\town_layout_v001\source\build_town.py:30: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new('Town environment • vertex color');m.use_nodes=True;m.use_backface_culling=True
+BlenderMCP addon registered
+BlenderMCP addon unregistered
+INFO Draco is available, use library at C:\Users\hy\AppData\Local\Programs\Blender Foundation\blender-5.2.3-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at C:\Users\hy\AppData\Local\Programs\Blender Foundation\blender-5.2.3-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+18:57:12 | INFO: Starting glTF 2.0 export
+18:57:12 | INFO: Extracting primitive: Island • soil rim.001
+18:57:12 | INFO: Primitives created: 1
+18:57:12 | INFO: Finished glTF 2.0 export in 0.04057669639587402 s
+D:\Project\Etc\ChagokTown\art\town_layout_v001\source\build_town.py:170: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world=bpy.data.worlds.new('Town • soft sky');world.use_nodes=True
+00:02.625  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+
+18:57:12 | INFO: Data are loaded, start creating Blender stuff
+18:57:12 | INFO: Blender create Mesh node Cube.064
+18:57:12 | INFO: glTF import finished in 0.01s
+18:57:12 | INFO: Data are loaded, start creating Blender stuff
+18:57:12 | INFO: Blender create Mesh node Cube.032
+18:57:12 | INFO: glTF import finished in 0.01s
+18:57:12 | INFO: Data are loaded, start creating Blender stuff
+18:57:12 | INFO: Blender create Mesh node Cube.204
+18:57:12 | INFO: glTF import finished in 0.01s
+18:57:12 | INFO: Data are loaded, start creating Blender stuff
+18:57:12 | INFO: Blender create Mesh node Cube.539
+18:57:12 | INFO: glTF import finished in 0.01s
+18:57:12 | INFO: Data are loaded, start creating Blender stuff
+18:57:12 | INFO: Blender create Mesh node Cube.075
+18:57:12 | INFO: glTF import finished in 0.01s
+18:57:12 | INFO: Data are loaded, start creating Blender stuff
+18:57:12 | INFO: Blender create Mesh node Cube.630
+18:57:12 | INFO: glTF import finished in 0.01s
+18:57:12 | INFO: Data are loaded, start creating Blender stuff
+18:57:12 | INFO: Blender create Mesh node Cube.104
+18:57:12 | INFO: glTF import finished in 0.02s
+18:57:12 | INFO: Data are loaded, start creating Blender stuff
+18:57:12 | INFO: Blender create Mesh node Cube.232
+18:57:12 | INFO: glTF import finished in 0.02s
+18:57:13 | INFO: Data are loaded, start creating Blender stuff
+18:57:13 | INFO: Blender create Mesh node Cube.378
+18:57:13 | INFO: glTF import finished in 0.02s
+18:57:13 | INFO: Data are loaded, start creating Blender stuff
+18:57:13 | INFO: Blender create Mesh node Cube.835
+18:57:13 | INFO: glTF import finished in 0.02s
+18:57:13 | INFO: Data are loaded, start creating Blender stuff
+18:57:13 | INFO: Blender create Mesh node Cube.956
+18:57:13 | INFO: glTF import finished in 0.02s
+18:57:13 | INFO: Data are loaded, start creating Blender stuff
+18:57:13 | INFO: Blender create Mesh node Cube.1070
+18:57:13 | INFO: glTF import finished in 0.02s
+18:57:13 | INFO: Data are loaded, start creating Blender stuff
+18:57:13 | INFO: Blender create Mesh node Cube.1409
+18:57:13 | INFO: glTF import finished in 0.02s
+18:57:13 | INFO: Data are loaded, start creating Blender stuff
+18:57:13 | INFO: Blender create Mesh node Cube.200
+18:57:13 | INFO: glTF import finished in 0.02s
+18:57:13 | INFO: Data are loaded, start creating Blender stuff
+18:57:13 | INFO: Blender create Mesh node Cube.442
+18:57:13 | INFO: glTF import finished in 0.02s
+18:57:13 | INFO: Data are loaded, start creating Blender stuff
+18:57:13 | INFO: Blender create Mesh node Cube.1182
+18:57:13 | INFO: glTF import finished in 0.02s
+18:57:13 | INFO: Starting glTF 2.0 export
+18:57:13 | INFO: Extracting primitive: Cube.088
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.087
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • books
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • bread
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • craft
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.098
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.099
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.100
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.101
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.102
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.103
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.104
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.105
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.106
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.107
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.108
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.109
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.110
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.111
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.112
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.113
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.114
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.115
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • flowers
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • hall
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • market
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.001
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.002
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.003
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.004
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.005
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.006
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.007
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.008
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.009
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.010
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.011
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.012
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.013
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.014
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.015
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.016
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.017
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.018
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.019
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.020
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.021
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.022
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.023
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.024
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.025
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.026
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.027
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.028
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.029
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.030
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.031
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.032
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.033
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.034
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.035
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.036
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.037
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.038
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.039
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.040
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.041
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.042
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.043
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.044
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.045
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.046
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.047
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.048
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.049
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.050
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.051
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.052
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.053
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.054
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.055
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.056
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.057
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.058
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.059
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.060
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.061
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.062
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.063
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.064
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.065
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.066
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.067
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.068
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.069
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.070
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.071
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.126
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.127
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.128
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.129
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.130
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.131
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.132
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.133
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.134
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.135
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.136
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.137
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Island • soil rim.001
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.086
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.095
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.1182
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Finished glTF 2.0 export in 0.1765437126159668 s
+
+18:57:13 | INFO: Starting glTF 2.0 export
+18:57:13 | INFO: Extracting primitive: Cube.088
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.087
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • books
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • bread
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • craft
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.098
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.099
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.100
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.101
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.102
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.103
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.104
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.105
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.106
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.107
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.108
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.109
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.110
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.111
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.112
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.113
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.114
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.115
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • flowers
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • hall
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • market
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.001
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.002
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.003
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.004
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.005
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.006
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.007
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.008
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.009
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.010
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.011
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.012
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.013
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.014
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.015
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.016
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.017
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.018
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.019
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.020
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.021
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.022
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.023
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.024
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.025
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.026
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.027
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.028
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.029
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.030
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.031
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.032
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.033
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.034
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.035
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.036
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.037
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.038
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.039
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.040
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.041
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.042
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.043
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.044
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.045
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.046
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.047
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.048
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.049
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.050
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.051
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.052
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.053
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.054
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.055
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.056
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.057
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.058
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.059
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.060
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.061
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.062
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.063
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.064
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.065
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.066
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.067
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.068
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.069
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.070
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.071
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.126
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.127
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.128
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.129
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.130
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.131
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.132
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.133
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.134
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.135
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.136
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.137
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Island • soil rim.001
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.086
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.630
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.232
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.104
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.539
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.089
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.204
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • craft.001
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.116
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.117
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.118
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.119
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.120
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.121
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • market.001
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.072
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.073
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.074
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.075
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.076
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.077
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.078
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.079
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.080
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.081
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.082
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.083
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.084
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.085
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.086
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.087
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.088
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.089
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.090
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.091
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.092
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.093
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.094
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.095
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.138
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.139
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.140
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.141
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.1182
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Finished glTF 2.0 export in 0.2614445686340332 s
+
+18:57:13 | INFO: Starting glTF 2.0 export
+18:57:13 | INFO: Extracting primitive: Cube.088
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.087
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • books
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • bread
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • craft
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.098
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.099
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.100
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.101
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.102
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.103
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.104
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.105
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.106
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.107
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.108
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.109
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.110
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.111
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.112
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.113
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.114
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.115
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • flowers
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • hall
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • market
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.001
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.002
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.003
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.004
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.005
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.006
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.007
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.008
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.009
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.010
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.011
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.012
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.013
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.014
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.015
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.016
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.017
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.018
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.019
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.020
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.021
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.022
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.023
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.024
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.025
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.026
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.027
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.028
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.029
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.030
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.031
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.032
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.033
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.034
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.035
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.036
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.037
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.038
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.039
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.040
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.041
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.042
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.043
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.044
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.045
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.046
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.047
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.048
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.049
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.050
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.051
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.052
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.053
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.054
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.055
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.056
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.057
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.058
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.059
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.060
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.061
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.062
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.063
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.064
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.065
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.066
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.067
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.068
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.069
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.070
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.071
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.126
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.127
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.128
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.129
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.130
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.131
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.132
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.133
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.134
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.135
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.136
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.137
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Island • soil rim.001
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.086
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.630
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.232
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.104
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.539
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.089
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.204
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • craft.001
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.116
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.117
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.118
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.119
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.120
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cone.121
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Reserved garden • market.001
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.072
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.073
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.074
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.075
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.076
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.077
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.078
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.079
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.080
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.081
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.082
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.083
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.084
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.085
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.086
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.087
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.088
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.089
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.090
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.091
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.092
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.093
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.094
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Icosphere.095
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.138
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.139
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.140
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Sphere.141
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.1070
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.442
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.200
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.1409
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.835
+18:57:13 | INFO: Primitives created: 1
+18:57:13 | INFO: Extracting primitive: Cube.956
+18:57:14 | INFO: Primitives created: 1
+18:57:14 | INFO: Extracting primitive: Cube.378
+18:57:14 | INFO: Primitives created: 1
+18:57:14 | INFO: Extracting primitive: Cube.1182
+18:57:14 | INFO: Primitives created: 1
+18:57:14 | INFO: Finished glTF 2.0 export in 0.3567802906036377 s
+00:08.937  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_layout_v001\renders\preview_town_early.png'
+
+Info: Saved as "chagok_fixed_town_v001.blend"
+RENDERED early
+00:13.218  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_layout_v001\renders\preview_town_growing.png'
+RENDERED growing
+00:17.422  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_layout_v001\renders\preview_town_mature.png'
+RENDERED mature
+00:22.578  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_layout_v001\renders\preview_town_top.png'
+RENDERED top
+Traceback (most recent call last):
+  File "D:\Project\Etc\ChagokTown\art\town_layout_v001\source\build_town.py", line 256, in <module>
+    assert all(hashlib.sha256((ART/p).read_bytes()).hexdigest()==h for p,h in INPUTS.items()),'Source assets changed during town assembly'
+           ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Source assets changed during town assembly
+
+Error: script failed, file: 'D:/Project/Etc/ChagokTown/art/town_layout_v001/source/build_town.py', exiting.
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

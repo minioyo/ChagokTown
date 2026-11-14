@@ -1,0 +1,186 @@
+[
+  {
+    "id": "bakery",
+    "kind": "bakery",
+    "level": 3,
+    "xy": [
+      -0.3,
+      2.9
+    ],
+    "scale": 0.86,
+    "ground": 0.0,
+    "yaw": 0,
+    "source_id": "bakery",
+    "legacy": true
+  },
+  {
+    "id": "cafe",
+    "kind": "cafe",
+    "level": 3,
+    "xy": [
+      -4.8,
+      1.65
+    ],
+    "scale": 0.9,
+    "ground": 0.0,
+    "yaw": 76,
+    "source_id": "cafe",
+    "legacy": true
+  },
+  {
+    "id": "florist",
+    "kind": "florist",
+    "level": 3,
+    "xy": [
+      2.95,
+      0.55
+    ],
+    "scale": 0.82,
+    "ground": 0.0,
+    "yaw": -93,
+    "source_id": "florist",
+    "legacy": true
+  },
+  {
+    "id": "home",
+    "kind": "house",
+    "level": 3,
+    "xy": [
+      -3.25,
+      5.7
+    ],
+    "scale": 0.9,
+    "ground": 1.65,
+    "yaw": 28,
+    "source_id": "home",
+    "legacy": true
+  },
+  {
+    "id": "bookshop",
+    "kind": "bookshop",
+    "level": 3,
+    "xy": [
+      1.1,
+      6.8
+    ],
+    "scale": 0.79,
+    "ground": 1.65,
+    "yaw": -38,
+    "source_id": "bookshop",
+    "legacy": true
+  },
+  {
+    "id": "upper_cottage",
+    "kind": "house",
+    "level": 3,
+    "xy": [
+      -6.65,
+      5.7
+    ],
+    "scale": 0.58,
+    "ground": 1.65,
+    "yaw": 77,
+    "source_id": "upper_cottage",
+    "legacy": true
+  },
+  {
+    "id": "workshop",
+    "kind": "workshop",
+    "level": 3,
+    "xy": [
+      -4.3,
+      -2.35
+    ],
+    "scale": 0.8,
+    "ground": -0.45,
+    "yaw": 88,
+    "source_id": "workshop",
+    "legacy": true
+  },
+  {
+    "id": "lane_cottage",
+    "kind": "house",
+    "level": 3,
+    "xy": [
+      -0.95,
+      -1.0
+    ],
+    "scale": 0.6,
+    "ground": 0.0,
+    "yaw": -165,
+    "source_id": "lane_cottage",
+    "legacy": true
+  },
+  {
+    "id": "cathedral",
+    "kind": "cathedral",
+    "xy": [
+      -0.8,
+      14.2
+    ],
+    "ground": 2.85,
+    "yaw": 12,
+    "scale": 1,
+    "level": 3
+  },
+  {
+    "id": "inn",
+    "kind": "inn",
+    "xy": [
+      -7.1,
+      -9.5
+    ],
+    "ground": -0.45,
+    "yaw": -18,
+    "scale": 1,
+    "level": 3
+  },
+  {
+    "id": "watermill",
+    "kind": "watermill",
+    "xy": [
+      10,
+      -4.5
+    ],
+    "ground": -0.45,
+    "yaw": -15,
+    "scale": 1,
+    "level": 3
+  },
+  {
+    "id": "farmstead",
+    "kind": "farmstead",
+    "xy": [
+      -13.6,
+      5.5
+    ],
+    "ground": 0.35,
+    "yaw": 25,
+    "scale": 1,
+    "level": 3
+  },
+  {
+    "id": "grocer",
+    "kind": "grocer",
+    "xy": [
+      -10.3,
+      -1.8
+    ],
+    "ground": 0,
+    "yaw": 62,
+    "scale": 1,
+    "level": 3
+  },
+  {
+    "id": "town_hall",
+    "kind": "town_hall",
+    "xy": [
+      7.1,
+      6.9
+    ],
+    "ground": 1.65,
+    "yaw": -28,
+    "scale": 1,
+    "level": 3
+  }
+]

@@ -1,0 +1,134 @@
+{
+  "renders\\01_season_beginning.png": {
+    "bytes": 3386660,
+    "sha256": "b801cfd644227d62bd506900db96ef2dd0eb2a271ab3c77649f464e55f4e2d35"
+  },
+  "renders\\02_season_middle.png": {
+    "bytes": 3540721,
+    "sha256": "e80e78e4afb07750927896401d393f646476e50fefb23f3b985c94b9ed622e8a"
+  },
+  "renders\\03_season_final.png": {
+    "bytes": 3675892,
+    "sha256": "5828b146dde9e144592fc5de93c0d75a684ca7869954ee8e7953223189a4fe2b"
+  },
+  "renders\\04_season_final_top.png": {
+    "bytes": 3376854,
+    "sha256": "0b0c8cf0699ae5bf53702af6c7ef869a2df1e04aa11efb4ec48ec14d9764c8b1"
+  },
+  "renders\\05_compact_centre_close.png": {
+    "bytes": 4099596,
+    "sha256": "03461a80857e2cd9ffe970059f509027f98bb009ca983a51c0ae650f8aba8dfb"
+  },
+  "renders\\06_cathedral_levels.png": {
+    "bytes": 4642734,
+    "sha256": "1c671b79b876fcd32b80d4c590f5b911936504f4fa41b47bb7d9a2767b6f1d1e"
+  },
+  "renders\\06_inn_levels.png": {
+    "bytes": 4485314,
+    "sha256": "8677a09b160a9f27f28dad89183d663f380fb5f5083f533a78f9f03c1d76152f"
+  },
+  "renders\\06_watermill_levels.png": {
+    "bytes": 4404779,
+    "sha256": "b2546512bb401f9e9284ab29e883173d4e5edb6d26a67d479b24a56aa9d70885"
+  },
+  "renders\\06_farmstead_levels.png": {
+    "bytes": 4493887,
+    "sha256": "2cc8a79944ff52a4a62529e787287810a7cf93fb18963cb12526a0885ad079a6"
+  },
+  "exports\\cathedral_level_1.glb": {
+    "bytes": 143056,
+    "sha256": "948184e553cc17135ff811288faf9af0c5a994068c00ab31b2a7d731272feb95"
+  },
+  "exports\\cathedral_level_2.glb": {
+    "bytes": 409144,
+    "sha256": "2e3bfbf62b6597d2e1687b28e5b7895be1f2474717944e141c61784f6760221d"
+  },
+  "exports\\cathedral_level_3.glb": {
+    "bytes": 486496,
+    "sha256": "05c39e4f6c39375c9901f40e8250e38c75d73107d2be82158e111a2a977ab2e2"
+  },
+  "exports\\farmstead_level_1.glb": {
+    "bytes": 156780,
+    "sha256": "7e41502bf9af00dd5bbf85c7cbc146f7fbd49183fd4c25b9c5d142ad53dd66bb"
+  },
+  "exports\\farmstead_level_2.glb": {
+    "bytes": 267264,
+    "sha256": "7ac1fc3324e72a56a54b564bc87eea8b403a239ae4c5bd6608935da3c539db4e"
+  },
+  "exports\\farmstead_level_3.glb": {
+    "bytes": 409336,
+    "sha256": "1df1ead8d660f4068ac90bca79a12c73b10541cbef6969d009ddb11c8657516f"
+  },
+  "exports\\inn_level_1.glb": {
+    "bytes": 164332,
+    "sha256": "cb39cf6d6293449780e5439309c707d50b678407beddb958e98cf9bc25517dd7"
+  },
+  "exports\\inn_level_2.glb": {
+    "bytes": 301724,
+    "sha256": "60e633f2223fada69f1df4c60c66cb901b3a86070135fac66b527797926891e5"
+  },
+  "exports\\inn_level_3.glb": {
+    "bytes": 326900,
+    "sha256": "34f058ce7e5d59f5a0c9641f84c62a57cee9a0319e0032de3ec717d0b6074895"
+  },
+  "exports\\watermill_level_1.glb": {
+    "bytes": 174720,
+    "sha256": "88db81f8835baa63f9efd0082a50d5da99052e652669ff718b33f5ed3f86f69a"
+  },
+  "exports\\watermill_level_2.glb": {
+    "bytes": 268040,
+    "sha256": "976d4f7fb29b4f5b516810080a5dde919b6af949da666dfe1d43095b566a6ca6"
+  },
+  "exports\\watermill_level_3.glb": {
+    "bytes": 334660,
+    "sha256": "94b1e1482f39c2e76e172ea14394bb4148a5b186fa0a3c84b77474f415c35595"
+  },
+  "exports\\reused_compact\\bakery_level_3.glb": {
+    "bytes": 409276,
+    "sha256": "dfc4d6490758f8c29ea65ca042f27f9a681e4e6d60421affe1a44861db9804ca"
+  },
+  "exports\\reused_compact\\bookshop_level_3.glb": {
+    "bytes": 474508,
+    "sha256": "db2de983d8b7dd2e77b8ed0fd737ff0201aa3d06c69c52a0c4ba4bb7bfdaa6ef"
+  },
+  "blend\\season1_models.blend": {
+    "bytes": 2001406,
+    "sha256": "5a2f56d55631e4e48b0fae5018ac1fbb5bd611fd9921d7eb7186e6ed5b8585ff"
+  },
+  "blend\\season1_map.blend": {
+    "bytes": 11111955,
+    "sha256": "8fba1e7f4e85e95d5ae009cd169a3dc91f0f705c9f0d98e9697bab3d066a11da"
+  },
+  "blend\\season1_blockout.blend": {
+    "bytes": 6878289,
+    "sha256": "3a0e9ed4551448dc825a67be66c5a01edf40b156f5087afaca19a6b127448ec0"
+  },
+  "renders\\00_max_stage_blockout.png": {
+    "bytes": 1664275,
+    "sha256": "a68115997ad8d9157fabc65548ffe1d72fa41845b1e69397c32e932e4cd806a8"
+  },
+  "renders\\00_max_stage_blockout_top.png": {
+    "bytes": 1525747,
+    "sha256": "d8b741dac6bd6c802b963ea0ad2a8a01264a4113aeb5f8d2587d36f7a2cb1e16"
+  },
+  "renders\\preview_qa_back_cathedral.png": {
+    "bytes": 2310332,
+    "sha256": "a13439717303ba080d9387d46c9206b83cceacd18c8b5ddd1dfd162fb69521de"
+  },
+  "renders\\preview_qa_back_farmstead.png": {
+    "bytes": 2180819,
+    "sha256": "cd998dae78bafa3f6c18fcc98db3bf3ce87332773b4fd89c3fc233d605537331"
+  },
+  "renders\\preview_qa_back_inn.png": {
+    "bytes": 2224491,
+    "sha256": "f29e11fb7a17de83fd5f6ba87a0b2793addc16fabb2417502616e6d5685384b1"
+  },
+  "renders\\preview_qa_back_watermill.png": {
+    "bytes": 2195421,
+    "sha256": "9fb7e5b2497dcb92c2b97e320c4012180b1ae75edf446bfb82c0eaed0e7a07dc"
+  },
+  "README.md": {
+    "bytes": 12486,
+    "sha256": "cc3acdcdbdedccdf9c193b854d90360a5d7c3fbd9643a2ff6f844b114ac8ae9f"
+  }
+}

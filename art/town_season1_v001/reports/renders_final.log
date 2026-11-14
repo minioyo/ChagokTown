@@ -1,0 +1,26 @@
+00:01.281  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v001\blend\season1_map.blend"
+00:01.594  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:21.906  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v001\renders\01_season_beginning.png'
+BlenderMCP addon registered
+RENDERED 01_season_beginning
+00:42.125  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v001\renders\02_season_middle.png'
+RENDERED 02_season_middle
+01:04.734  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v001\renders\03_season_final.png'
+RENDERED 03_season_final
+01:25.641  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v001\renders\04_season_final_top.png'
+RENDERED 04_season_final_top
+01:48.906  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v001\renders\05_compact_centre_close.png'
+RENDERED 05_compact_centre_close
+02:13.187  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v001\renders\06_cathedral_levels.png'
+RENDERED 06_cathedral_levels
+02:37.734  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v001\renders\06_inn_levels.png'
+RENDERED 06_inn_levels
+03:01.453  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v001\renders\06_watermill_levels.png'
+RENDERED 06_watermill_levels
+03:25.219  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v001\renders\06_farmstead_levels.png'
+RENDERED 06_farmstead_levels
+SEASON_RENDERS_COMPLETE
+BlenderMCP addon unregistered
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

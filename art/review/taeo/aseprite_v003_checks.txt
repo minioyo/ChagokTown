@@ -1,0 +1,5 @@
+Aseprite 1.3.8.1-dev
+RGB, 1024x1536, 1 layer, 1 frame
+sRGB assigned to untagged source, no color conversion
+Uniform bilinear scale: 0.875; offset: (64,96)
+RGBA after framing = reopened Aseprite = exported PNG: PASS

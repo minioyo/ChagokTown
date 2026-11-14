@@ -1,0 +1,632 @@
+D:\Project\Etc\ChagokTown\art\town_cafe_v002\source\build_cafes.py:36: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(name); m.use_nodes=True; m.diffuse_color=linear(h)
+D:\Project\Etc\ChagokTown\art\town_cafe_v002\source\build_cafes.py:40: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  runtime_mat=bpy.data.materials.new('Town • vertex palette • opaque'); runtime_mat.use_nodes=True
+BlenderMCP addon registered
+BlenderMCP addon unregistered
+INFO Draco is available, use library at C:\Users\hy\AppData\Local\Programs\Blender Foundation\blender-5.2.3-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at C:\Users\hy\AppData\Local\Programs\Blender Foundation\blender-5.2.3-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+16:25:44 | INFO: Starting glTF 2.0 export
+16:25:44 | INFO: Extracting primitive: Cone.006
+16:25:44 | INFO: Primitives created: 1
+16:25:44 | INFO: Extracting primitive: Cone.007
+16:25:44 | INFO: Primitives created: 1
+16:25:44 | INFO: Extracting primitive: Cube.029
+16:25:44 | INFO: Primitives created: 1
+16:25:44 | INFO: Extracting primitive: Cube.030
+16:25:44 | INFO: Primitives created: 1
+16:25:44 | INFO: Extracting primitive: Cube.031
+16:25:44 | INFO: Primitives created: 1
+16:25:44 | INFO: Extracting primitive: Cube.032
+16:25:44 | INFO: Primitives created: 1
+16:25:44 | INFO: Extracting primitive: Cube.033
+16:25:44 | INFO: Primitives created: 1
+16:25:44 | INFO: Extracting primitive: Awning • stripe 00
+16:25:44 | INFO: Primitives created: 1
+16:25:44 | INFO: Extracting primitive: Awning • stripe 01
+16:25:44 | INFO: Primitives created: 1
+16:25:44 | INFO: Extracting primitive: Awning • stripe 02
+16:25:44 | INFO: Primitives created: 1
+16:25:44 | INFO: Extracting primitive: Awning • stripe 03
+16:25:44 | INFO: Primitives created: 1
+16:25:44 | INFO: Extracting primitive: Awning • stripe 04
+16:25:44 | INFO: Primitives created: 1
+16:25:44 | INFO: Extracting primitive: Door • cream arch
+16:25:44 | INFO: Primitives created: 1
+16:25:44 | INFO: Extracting primitive: Cube.006
+16:25:44 | INFO: Primitives created: 1
+16:25:44 | INFO: Extracting primitive: Door • inset glass
+16:25:44 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Sphere
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.005
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.007
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Door • teal panel
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.009
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Sphere.001
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Sphere.002
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Sphere.003
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.008
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Torus.001
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.003
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.001
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.002
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.003
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.004
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.004
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Roof • soft hipped shell
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Torus
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.027
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.005
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.028
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.001
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.002
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.009
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.018
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.014
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.023
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.024
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.016
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.026
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.010
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.011
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.019
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.020
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.012
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.013
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.021
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.022
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.015
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.025
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.008
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.017
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Finished glTF 2.0 export in 0.12156176567077637 s
+
+16:25:45 | INFO: Starting glTF 2.0 export
+16:25:45 | INFO: Extracting primitive: Cube.034
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Finished glTF 2.0 export in 0.01008462905883789 s
+
+LEVEL_COMPLETE 1 {"before": {"mesh_objects": 59, "triangles": 15100, "vertices": 7664, "materials": 15, "bounds_min": [-1.383995532989502, -1.6699999570846558, 0.0], "bounds_max": [1.6196000576019287, 1.1839957237243652, 3.015000104904175], "dimensions": [3.0035955905914307, 2.853995680809021, 3.015000104904175]}, "before_glb": {"bytes": 436108, "mesh_objects": 59, "primitives": 59, "materials": 15, "triangles": 15100, "vertices": 11465, "textures": 0, "all_primitives_have_vertex_color": false}, "after": {"mesh_objects": 1, "triangles": 3452, "vertices": 1840, "materials": 1, "bounds_min": [-1.3749715089797974, -1.6699999570846558, 0.0], "bounds_max": [1.6196000576019287, 1.174971580505371, 3.015000104904175], "dimensions": [2.994571566581726, 2.844971537590027, 3.015000104904175]}, "after_glb": {"bytes": 183844, "mesh_objects": 1, "primitives": 1, "materials": 1, "triangles": 3452, "vertices": 3670, "textures": 0, "all_primitives_have_vertex_color": true}, "triangle_reduction_percent": 77.14, "bytes_reduction_percent": 57.84}
+16:25:45 | INFO: Starting glTF 2.0 export
+16:25:45 | INFO: Extracting primitive: Cone.025
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.026
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.098
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.099
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.100
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.101
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.102
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.103
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.104
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.105
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.106
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.107
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Awning • stripe 00.002
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Awning • stripe 01.002
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Awning • stripe 02.002
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Awning • stripe 03.002
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Awning • stripe 04.002
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Awning • stripe 05
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Awning • stripe 06
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Awning • stripe 07
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Awning • stripe 08
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Awning • stripe 09
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Door • cream arch.002
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.074
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Door • inset glass.002
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Sphere.008
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.073
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.075
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Door • teal panel.002
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Sphere.009
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Sphere.010
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.095
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.068
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.043
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Sphere.011
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Sphere.012
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Sphere.013
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.042
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Torus.006
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.071
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.020
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.021
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.022
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.023
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.024
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.072
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Roof • soft hipped shell.002
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Torus.004
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Torus.005
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.096
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.108
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.027
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.028
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.097
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.109
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.041
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.040
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.030
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.029
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.033
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.034
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.035
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.037
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.038
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.039
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.032
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.036
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cone.031
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.069
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.070
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.077
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.086
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.082
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.091
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.092
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.084
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.094
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.078
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.079
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.087
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.088
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.080
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.081
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.089
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.090
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.083
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.093
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.076
+16:25:45 | INFO: Primitives created: 1
+16:25:45 | INFO: Extracting primitive: Cube.085
+16:25:45 | INFO: Primitives created: 1
+16:25:46 | INFO: Finished glTF 2.0 export in 0.18871831893920898 s
+
+16:25:46 | INFO: Starting glTF 2.0 export
+16:25:46 | INFO: Extracting primitive: Cube.110
+16:25:46 | INFO: Primitives created: 1
+16:25:46 | INFO: Finished glTF 2.0 export in 0.01648235321044922 s
+
+LEVEL_COMPLETE 2 {"before": {"mesh_objects": 89, "triangles": 24944, "vertices": 12644, "materials": 16, "bounds_min": [-1.633995532989502, -2.5299999713897705, 0.0], "bounds_max": [2.065999984741211, 1.3339955806732178, 3.265000104904175], "dimensions": [3.699995517730713, 3.8639955520629883, 3.265000104904175]}, "before_glb": {"bytes": 708392, "mesh_objects": 89, "primitives": 89, "materials": 16, "triangles": 24944, "vertices": 19401, "textures": 0, "all_primitives_have_vertex_color": false}, "after": {"mesh_objects": 1, "triangles": 5248, "vertices": 2796, "materials": 1, "bounds_min": [-1.6249715089797974, -2.5299999713897705, 0.0], "bounds_max": [2.0615742206573486, 1.3249715566635132, 3.265000104904175], "dimensions": [3.686545729637146, 3.8549715280532837, 3.265000104904175]}, "after_glb": {"bytes": 279804, "mesh_objects": 1, "primitives": 1, "materials": 1, "triangles": 5248, "vertices": 5606, "textures": 0, "all_primitives_have_vertex_color": true}, "triangle_reduction_percent": 78.96, "bytes_reduction_percent": 60.5}
+16:25:47 | INFO: Starting glTF 2.0 export
+16:25:47 | INFO: Extracting primitive: Cone.073
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.074
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.182
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.183
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.184
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.185
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.186
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.187
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.188
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.189
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.190
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.191
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Awning • stripe 00.004
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Awning • stripe 01.004
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Awning • stripe 02.004
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Awning • stripe 03.004
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Awning • stripe 04.004
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Awning • stripe 05.002
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Awning • stripe 06.002
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Awning • stripe 07.002
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Awning • stripe 08.002
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Awning • stripe 09.002
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Door • cream arch.004
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.158
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Door • inset glass.004
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.020
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.157
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.159
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Door • teal panel.004
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.021
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.022
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.179
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.152
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.092
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.054
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.055
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.056
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.091
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Torus.012
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.155
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.068
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.069
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.070
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.071
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.072
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.156
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Roof • soft hipped shell.004
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.095
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.096
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Torus.010
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Torus.011
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.180
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.192
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.075
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.076
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.181
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.193
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.089
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.088
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.209
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.078
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.077
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Terrace • scalloped umbrella
+16:25:47 | INFO: Primitives created: 2
+16:25:47 | INFO: Extracting primitive: Cube.210
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.093
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.094
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.081
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.082
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.083
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.085
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.086
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.087
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.080
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.084
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.079
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.053
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cone.090
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Upper • arched glazing
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Upper • arched glazing.001
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Upper • arched surround
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Upper • arched surround.001
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.194
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.195
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.197
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.024
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.025
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.026
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.027
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.029
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.030
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.031
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.032
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.034
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.035
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.036
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.037
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.039
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.040
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.041
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.042
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.044
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.045
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.046
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.047
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.049
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.050
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.051
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.052
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.196
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.198
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.023
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.028
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.033
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.038
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.043
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Sphere.048
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.153
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.154
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.161
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.170
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.200
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.166
+16:25:47 | INFO: Primitives created: 1
+16:25:47 | INFO: Extracting primitive: Cube.175
+16:25:47 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.205
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.176
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.206
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.168
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.178
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.208
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.162
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.163
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.171
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.172
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.201
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.202
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.164
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.165
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.173
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.174
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.203
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.204
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.167
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.177
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.207
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.160
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.169
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Extracting primitive: Cube.199
+16:25:48 | INFO: Primitives created: 1
+16:25:48 | INFO: Finished glTF 2.0 export in 0.35105204582214355 s
+
+16:25:50 | INFO: Starting glTF 2.0 export
+16:25:50 | INFO: Extracting primitive: Cube.211
+16:25:50 | INFO: Primitives created: 1
+16:25:50 | INFO: Finished glTF 2.0 export in 0.020916461944580078 s
+
+LEVEL_COMPLETE 3 {"before": {"mesh_objects": 147, "triangles": 40280, "vertices": 20428, "materials": 19, "bounds_min": [-1.7599999904632568, -3.0999999046325684, 0.0], "bounds_max": [2.1659998893737793, 1.383995532989502, 4.6875], "dimensions": [3.925999879837036, 4.48399543762207, 4.6875]}, "before_glb": {"bytes": 1118204, "mesh_objects": 147, "primitives": 148, "materials": 19, "triangles": 40280, "vertices": 30190, "textures": 0, "all_primitives_have_vertex_color": false}, "after": {"mesh_objects": 1, "triangles": 7456, "vertices": 4016, "materials": 1, "bounds_min": [-1.7599999904632568, -3.0999999046325684, 0.0], "bounds_max": [2.161574125289917, 1.3749715089797974, 4.6875], "dimensions": [3.921574115753174, 4.474971413612366, 4.6875]}, "after_glb": {"bytes": 402204, "mesh_objects": 1, "primitives": 1, "materials": 1, "triangles": 7456, "vertices": 8087, "textures": 0, "all_primitives_have_vertex_color": true}, "triangle_reduction_percent": 81.49, "bytes_reduction_percent": 64.03}
+D:\Project\Etc\ChagokTown\art\town_cafe_v002\source\build_cafes.py:343: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world=bpy.data.worlds.new('Warm world');world.use_nodes=True
+Info: Saved as "chagok_cafe_upgrades_v002.blend"
+BUILD_COMPLETE
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

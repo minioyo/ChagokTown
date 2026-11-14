@@ -1,0 +1,10 @@
+00:01.203  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v002_integrated\blend\integrated_village.blend"
+00:05.578  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:19.453  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v002_integrated\renders\07_grocer_levels.png'
+BlenderMCP addon registered
+RENDERED 07_grocer_levels
+INTEGRATED_RENDERS_COMPLETE 259
+BlenderMCP addon unregistered
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

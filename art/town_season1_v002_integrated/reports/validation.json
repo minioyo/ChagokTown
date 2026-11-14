@@ -1,0 +1,784 @@
+{
+  "models": {
+    "cafe_level_1": {
+      "editable_components": 54,
+      "measured_panels_m": [
+        {
+          "width": 0.800000011920929,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [],
+      "rectangular_windows_with_wall_support": 2,
+      "reimported": true,
+      "triangles": 2460,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 14,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "b113fe8fde73ca07d2e1bfbd3a221c48d69099fe4d3189221293c7f82986f485"
+    },
+    "cafe_level_2": {
+      "editable_components": 84,
+      "measured_panels_m": [
+        {
+          "width": 0.7999999523162842,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [],
+      "rectangular_windows_with_wall_support": 2,
+      "reimported": true,
+      "triangles": 4256,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 16,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "fc320645f3e68f0a30428fb3a7538598a53592e742dd49ea09160445046aa6c9"
+    },
+    "cafe_level_3": {
+      "editable_components": 140,
+      "measured_panels_m": [
+        {
+          "width": 0.7999999523162842,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [
+        1.1699999868869781,
+        3.1699999570846558
+      ],
+      "rectangular_windows_with_wall_support": 3,
+      "reimported": true,
+      "triangles": 6056,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 19,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "70791188702ddcc1c8304817cdd402da9f07de8d26c081ed9e11796e4be03d6a"
+    },
+    "house_level_1": {
+      "editable_components": 75,
+      "measured_panels_m": [
+        {
+          "width": 0.8000000268220901,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [],
+      "rectangular_windows_with_wall_support": 2,
+      "reimported": true,
+      "triangles": 2296,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 12,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "2e515b17f5cb5a5ffa8300a79d36519fdf7bfdfbbd737aba70ab6971ad49b392"
+    },
+    "house_level_2": {
+      "editable_components": 95,
+      "measured_panels_m": [
+        {
+          "width": 0.8000000417232513,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [],
+      "rectangular_windows_with_wall_support": 2,
+      "reimported": true,
+      "triangles": 3000,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 16,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "a1838b7548124e49c8901ad8a07d16bf4e0d9c21f8f776a1b453295fa9dd2385"
+    },
+    "house_level_3": {
+      "editable_components": 124,
+      "measured_panels_m": [
+        {
+          "width": 0.8000000417232513,
+          "height": 1.5999999940395355
+        },
+        {
+          "width": 0.7999999523162842,
+          "height": 1.5999999046325684
+        }
+      ],
+      "measured_storey_window_centres_m": [
+        1.350000023841858,
+        3.3499999046325684
+      ],
+      "rectangular_windows_with_wall_support": 4,
+      "reimported": true,
+      "triangles": 3856,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 15,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "412ed73b0007a46602a59f137dda70c9f1ad3ec042fe1e24391affdd2857e832"
+    },
+    "florist_level_1": {
+      "editable_components": 97,
+      "measured_panels_m": [
+        {
+          "width": 0.800000011920929,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [],
+      "rectangular_windows_with_wall_support": 2,
+      "reimported": true,
+      "triangles": 2584,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 16,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "1655fbeb6a9b5c53f90d8a6e19c1334e0b1b95992af4213237071c76d365e770"
+    },
+    "florist_level_2": {
+      "editable_components": 156,
+      "measured_panels_m": [
+        {
+          "width": 0.7999999523162842,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [],
+      "rectangular_windows_with_wall_support": 2,
+      "reimported": true,
+      "triangles": 5172,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 20,
+      "ground_z": -7.450580596923828e-09,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "d85747f37de110557ca2b48667a36de8f44a3abc9d542b1059ebc561540f4f88"
+    },
+    "florist_level_3": {
+      "editable_components": 188,
+      "measured_panels_m": [
+        {
+          "width": 0.7999999523162842,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [],
+      "rectangular_windows_with_wall_support": 1,
+      "reimported": true,
+      "triangles": 6120,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 21,
+      "ground_z": -7.450580596923828e-09,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "97c3f0f105ef44f8e16c19ffccce01758c034c1437014b0db328b3be8e89b750"
+    },
+    "bakery_level_1": {
+      "editable_components": 81,
+      "measured_panels_m": [
+        {
+          "width": 0.8000000417232513,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [],
+      "rectangular_windows_with_wall_support": 3,
+      "reimported": true,
+      "triangles": 2536,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 15,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "2af8e1712ea9a6b5b09f024a201a23b65e099632c503e6995fa84674c1e8451f"
+    },
+    "bakery_level_2": {
+      "editable_components": 108,
+      "measured_panels_m": [
+        {
+          "width": 0.7999999523162842,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [],
+      "rectangular_windows_with_wall_support": 3,
+      "reimported": true,
+      "triangles": 3936,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 18,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "37f74b4b74e4995ef1e118545bfd8e6bd16bd9abbb99473be5957a49e2c3cd68"
+    },
+    "bakery_level_3": {
+      "editable_components": 146,
+      "measured_panels_m": [
+        {
+          "width": 0.7999999523162842,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [
+        1.149999976158142,
+        3.1699999570846558
+      ],
+      "rectangular_windows_with_wall_support": 5,
+      "reimported": true,
+      "triangles": 5560,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 19,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "19eb97d74ca179e8821d561edbebd4a5a391bb91f0f0b72e61dc872c23d026a1"
+    },
+    "bookshop_level_1": {
+      "editable_components": 71,
+      "measured_panels_m": [
+        {
+          "width": 0.7999999821186066,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [],
+      "rectangular_windows_with_wall_support": 3,
+      "reimported": true,
+      "triangles": 1816,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 10,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "894108102bdcbca74687a74ba3249643075a3260356508b7b7a96c8d2d64c32c"
+    },
+    "bookshop_level_2": {
+      "editable_components": 126,
+      "measured_panels_m": [
+        {
+          "width": 0.7999999523162842,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [],
+      "rectangular_windows_with_wall_support": 3,
+      "reimported": true,
+      "triangles": 4060,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 15,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "3d69f99a8555a8edb070f413fab89073f8a01535a9823a1611291a20df3a59c4"
+    },
+    "bookshop_level_3": {
+      "editable_components": 187,
+      "measured_panels_m": [
+        {
+          "width": 0.800000011920929,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [
+        1.1799999475479126,
+        3.180000066757202,
+        5.179999828338623
+      ],
+      "rectangular_windows_with_wall_support": 8,
+      "reimported": true,
+      "triangles": 5862,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 19,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "70d7fe1d42f38c4ea514ca2ffcd615ceb5f5255264c8e3b8278e8227bae5f844"
+    },
+    "town_hall_level_1": {
+      "editable_components": 80,
+      "measured_panels_m": [
+        {
+          "width": 0.800000011920929,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [],
+      "rectangular_windows_with_wall_support": 4,
+      "reimported": true,
+      "triangles": 2232,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 8,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "1ff5bec5c9d690a0d961f255664f3c367f0d0ee127aa5acd63e125c0a1ebe799"
+    },
+    "town_hall_level_2": {
+      "editable_components": 103,
+      "measured_panels_m": [
+        {
+          "width": 0.800000011920929,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [],
+      "rectangular_windows_with_wall_support": 4,
+      "reimported": true,
+      "triangles": 3020,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 10,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "c24def5f86fcb8b4735f8ad6a361fa1285976136d71cd684eb00390e7a424e0b"
+    },
+    "town_hall_level_3": {
+      "editable_components": 148,
+      "measured_panels_m": [
+        {
+          "width": 0.800000011920929,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [
+        1.2799999713897705,
+        3.2750000953674316
+      ],
+      "rectangular_windows_with_wall_support": 6,
+      "reimported": true,
+      "triangles": 4988,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 10,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "f4948897da9bf855753098c32769c90e97dbbc93b704fd08c114a4fc232aa8c0"
+    },
+    "grocer_level_1": {
+      "editable_components": 59,
+      "measured_panels_m": [
+        {
+          "width": 0.800000011920929,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [],
+      "rectangular_windows_with_wall_support": 4,
+      "reimported": true,
+      "triangles": 2056,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 14,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "9fe96d5d6e00b7c24aa4c45691ff91de2d04f951d371fc8ed40993cdfa5a5fce"
+    },
+    "grocer_level_2": {
+      "editable_components": 90,
+      "measured_panels_m": [
+        {
+          "width": 0.800000011920929,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [],
+      "rectangular_windows_with_wall_support": 4,
+      "reimported": true,
+      "triangles": 3588,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 15,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "b780ffc5914e7ea99d81dfd9e12f036977e5b87fd663fa89b7c050550fcff603"
+    },
+    "grocer_level_3": {
+      "editable_components": 122,
+      "measured_panels_m": [
+        {
+          "width": 0.800000011920929,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [
+        1.190000057220459,
+        3.190000057220459
+      ],
+      "rectangular_windows_with_wall_support": 6,
+      "reimported": true,
+      "triangles": 4688,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 16,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "5a0b35e35229fbd6cdea8383e2c0f1a28cbc96e0ba5e6340ebb61de250b854a4"
+    },
+    "workshop_level_1": {
+      "editable_components": 61,
+      "measured_panels_m": [
+        {
+          "width": 0.8000000268220901,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [],
+      "rectangular_windows_with_wall_support": 3,
+      "reimported": true,
+      "triangles": 1736,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 11,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "da8f4a6ea336106e0e7ffa3cd51c85f2ad2b47c36ff78420cf4cec4110d55644"
+    },
+    "workshop_level_2": {
+      "editable_components": 76,
+      "measured_panels_m": [
+        {
+          "width": 0.8000000268220901,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [],
+      "rectangular_windows_with_wall_support": 3,
+      "reimported": true,
+      "triangles": 2396,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 13,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "e496433750693190c7eafc2f71ad9f661b6d6bc3120b7f73653e3755f347271f"
+    },
+    "workshop_level_3": {
+      "editable_components": 120,
+      "measured_panels_m": [
+        {
+          "width": 0.7999999523162842,
+          "height": 1.5999999940395355
+        }
+      ],
+      "measured_storey_window_centres_m": [
+        1.1900000870227814,
+        3.190000057220459
+      ],
+      "rectangular_windows_with_wall_support": 7,
+      "reimported": true,
+      "triangles": 3484,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colours": 14,
+      "ground_z": 0.0,
+      "world_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sha256": "0c61728024b3790b643636dfe307f8a77883f2be0e498214ee573f5621495e13"
+    }
+  },
+  "component_blend_reopened": true,
+  "map_blend_reopened": true,
+  "scene_counts": {
+    "beginning": 8,
+    "middle": 12,
+    "final": 14
+  },
+  "exact_before_camera_lights_exposure": true,
+  "all_instances_world_scale": [
+    1,
+    1,
+    1
+  ],
+  "ground_contact_differences_m": {
+    "cathedral": -1.144409179643091e-06,
+    "inn": 1.9073486328125e-06,
+    "home_upper_west": -7.629394531694089e-07,
+    "town_hall": -7.629394531694089e-07,
+    "home_upper_east": 1.9073486328125e-06,
+    "bookshop": 2.2888183593972045e-06,
+    "cafe": 0.0,
+    "bakery": 0.0,
+    "florist": 3.814697265625e-06,
+    "grocer": -1.9073486328125e-06,
+    "home_entry": 0.0,
+    "workshop": 0.0,
+    "farmstead": -1.9073486328125e-06,
+    "watermill": -1.5258789062555511e-06
+  },
+  "reused_tree_contacts_m": {
+    "REUSED \u2022 Tree \u2022 warm trunk.031": 0.0,
+    "REUSED \u2022 Tree \u2022 warm trunk.032": 0.0,
+    "REUSED \u2022 Tree \u2022 warm trunk.033": 0.0,
+    "REUSED \u2022 Tree \u2022 warm trunk.034": 1.1920928955078125e-07,
+    "REUSED \u2022 Tree \u2022 warm trunk.035": 0.0,
+    "REUSED \u2022 Tree \u2022 warm trunk.036": -1.1920928955078125e-07,
+    "REUSED \u2022 Tree \u2022 warm trunk.037": -1.1920928955078125e-07,
+    "REUSED \u2022 Tree \u2022 warm trunk.038": 0.0
+  },
+  "whole_frame_projection": {
+    "cathedral": {
+      "x": [
+        0.5128290057182312,
+        0.7013969421386719
+      ],
+      "y": [
+        0.4625077247619629,
+        0.8321426510810852
+      ]
+    },
+    "inn": {
+      "x": [
+        0.32473036646842957,
+        0.5289526581764221
+      ],
+      "y": [
+        0.36334797739982605,
+        0.6596606969833374
+      ]
+    },
+    "home_upper_west": {
+      "x": [
+        0.44104698300361633,
+        0.5409865975379944
+      ],
+      "y": [
+        0.527935266494751,
+        0.7488091588020325
+      ]
+    },
+    "town_hall": {
+      "x": [
+        0.620204508304596,
+        0.715660810470581
+      ],
+      "y": [
+        0.34339573979377747,
+        0.5620096325874329
+      ]
+    },
+    "home_upper_east": {
+      "x": [
+        0.6845208406448364,
+        0.7840543985366821
+      ],
+      "y": [
+        0.4107866585254669,
+        0.622205913066864
+      ]
+    },
+    "bookshop": {
+      "x": [
+        0.4974418580532074,
+        0.607211709022522
+      ],
+      "y": [
+        0.28815820813179016,
+        0.5298469066619873
+      ]
+    },
+    "cafe": {
+      "x": [
+        0.31985899806022644,
+        0.43486288189888
+      ],
+      "y": [
+        0.2755199670791626,
+        0.5039053559303284
+      ]
+    },
+    "bakery": {
+      "x": [
+        0.4353136420249939,
+        0.5501545667648315
+      ],
+      "y": [
+        0.1840328574180603,
+        0.4087441563606262
+      ]
+    },
+    "florist": {
+      "x": [
+        0.5566583871841431,
+        0.6499450206756592
+      ],
+      "y": [
+        0.20701472461223602,
+        0.3592376708984375
+      ]
+    },
+    "grocer": {
+      "x": [
+        0.22804971039295197,
+        0.32933902740478516
+      ],
+      "y": [
+        0.3263488709926605,
+        0.52678382396698
+      ]
+    },
+    "home_entry": {
+      "x": [
+        0.3191443085670471,
+        0.41234666109085083
+      ],
+      "y": [
+        0.1841251403093338,
+        0.4040701687335968
+      ]
+    },
+    "workshop": {
+      "x": [
+        0.3749544024467468,
+        0.4819263815879822
+      ],
+      "y": [
+        0.1156049445271492,
+        0.3240368664264679
+      ]
+    },
+    "farmstead": {
+      "x": [
+        0.18823181092739105,
+        0.3691643178462982
+      ],
+      "y": [
+        0.45272544026374817,
+        0.7198662757873535
+      ]
+    },
+    "watermill": {
+      "x": [
+        0.576575517654419,
+        0.7219312191009521
+      ],
+      "y": [
+        0.09914560616016388,
+        0.330792099237442
+      ]
+    }
+  },
+  "max_stage_pairs": 91,
+  "overlaps": 0,
+  "minimum_max_hull_gap_m": 0.4056338699151665,
+  "primary_doors_tested": 42,
+  "walk_ray_heights_m": [
+    0.3,
+    0.85,
+    1.5
+  ],
+  "walk_ray_offsets_m": [
+    -0.3,
+    0,
+    0.3
+  ],
+  "entry_triangle_collisions": 0,
+  "protected_art_files_unchanged": 259,
+  "passed": true,
+  "validated_files": {
+    "blend\\integrated_models.blend": "6e9538877347ceb076c7310c801f72274d314b0e1655d48266040b1993063269",
+    "blend\\integrated_village.blend": "06b5e9d606c5655dd7604974cc8b96ffc65850b758c1d2ee177b931df2eca00f"
+  }
+}

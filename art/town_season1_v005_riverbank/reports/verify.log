@@ -1,0 +1,10 @@
+00:08.157  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v005_riverbank\blend\riverbank_review.blend"
+BlenderMCP addon registered
+15:21:04 | INFO: Data are loaded, start creating Blender stuff
+15:21:04 | INFO: Blender create Mesh node Riverbank • combined props mesh
+15:21:05 | INFO: glTF import finished in 0.45s
+RIVERBANK_VERIFICATION_PASSED {"triangles": 1330, "building_checks": 34, "protected_inputs": 570}
+BlenderMCP addon unregistered
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

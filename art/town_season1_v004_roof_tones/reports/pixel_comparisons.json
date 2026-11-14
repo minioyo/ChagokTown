@@ -1,0 +1,406 @@
+{
+  "pairs": {
+    "bakery_roofs": {
+      "before": "renders/models/bakery_roofs_before.png",
+      "after": "renders/models/bakery_roofs_after.png",
+      "before_sha256": "61a6c2f65d901f360c53183fe5b5251afa6f68700919d4f930038aee3082d13e",
+      "after_sha256": "2c0eb9559be1b9e019adeb43e0733750d25b0578de082912834c50a7dd7f7a46",
+      "comparison": "renders/comparisons/bakery_roofs_compare.png",
+      "comparison_sha256": "a8f644b885d8faf53ed530852a6a78f4a5f5789f27687777c7e9644273fa79f8",
+      "identical_camera_lighting_resolution_and_placements": true,
+      "intentional_color_difference": {
+        "mean_png_code_rgb_abs_error": 0.0009297787910327315,
+        "mean_display_linear_rgb_abs_error": 0.0009663856471888721,
+        "png_code_rgb_rmse": 0.00759233720600605,
+        "max_png_code_channel_difference": 0.094117671251297,
+        "p99_max_channel_difference": 0.07843136787414551,
+        "percent_pixels_over_0_01": 1.5674791666666668,
+        "percent_pixels_over_0_003": 2.4137708333333334,
+        "difference_over_0_01_bbox_bottom_left": [
+          127,
+          765,
+          2668,
+          1383
+        ]
+      }
+    },
+    "cathedral_roofs": {
+      "before": "renders/models/cathedral_roofs_before.png",
+      "after": "renders/models/cathedral_roofs_after.png",
+      "before_sha256": "8f0ed970a2f750678f86391e909a98cd71c30c39f1e357b2ed66c145ec6248c3",
+      "after_sha256": "fb039e259eba1ea03a3e74c9546df01a466d91c23923689934a3ccb1e004d4ae",
+      "comparison": "renders/comparisons/cathedral_roofs_compare.png",
+      "comparison_sha256": "54fc8d78bd782476ca17ce57ad37839d51145a141eb895028ac5ba2792389ac6",
+      "identical_camera_lighting_resolution_and_placements": true,
+      "intentional_color_difference": {
+        "mean_png_code_rgb_abs_error": 0.0016578444046899676,
+        "mean_display_linear_rgb_abs_error": 0.001473184791393578,
+        "png_code_rgb_rmse": 0.011120925657451153,
+        "max_png_code_channel_difference": 0.10980391502380371,
+        "p99_max_channel_difference": 0.09803920984268188,
+        "percent_pixels_over_0_01": 2.3434583333333334,
+        "percent_pixels_over_0_003": 4.350104166666666,
+        "difference_over_0_01_bbox_bottom_left": [
+          157,
+          452,
+          2851,
+          1356
+        ]
+      }
+    },
+    "farmstead_roofs": {
+      "before": "renders/models/farmstead_roofs_before.png",
+      "after": "renders/models/farmstead_roofs_after.png",
+      "before_sha256": "e0bf99226e2d929c0e89a2915d286984fa0820363a8462de811b6e8cdb9098cf",
+      "after_sha256": "5688834aab61935898bc2a230ac7ea7a80ae91f7fafaae09bd4402f0644d5c1d",
+      "comparison": "renders/comparisons/farmstead_roofs_compare.png",
+      "comparison_sha256": "a0a172317b60d304f63d4a61e502d3cd0aefc6c1ca8d8fa00203f8e768fa7b03",
+      "identical_camera_lighting_resolution_and_placements": true,
+      "intentional_color_difference": {
+        "mean_png_code_rgb_abs_error": 0.0008650601957924664,
+        "mean_display_linear_rgb_abs_error": 0.0008366984548047185,
+        "png_code_rgb_rmse": 0.0072136190719902515,
+        "max_png_code_channel_difference": 0.09019610285758972,
+        "p99_max_channel_difference": 0.06666666269302368,
+        "percent_pixels_over_0_01": 1.4388750000000001,
+        "percent_pixels_over_0_003": 3.0828333333333333,
+        "difference_over_0_01_bbox_bottom_left": [
+          143,
+          733,
+          2859,
+          1180
+        ]
+      }
+    },
+    "florist_roofs": {
+      "before": "renders/models/florist_roofs_before.png",
+      "after": "renders/models/florist_roofs_after.png",
+      "before_sha256": "8fade9f099f0ed6b98e7bef9858646b885e174c4bbf034f3e70b6cfdb5947f07",
+      "after_sha256": "0192312c590cb5775af70f8db3fd12d9b5287dc6c26e9f32763cb88f2177bf48",
+      "comparison": "renders/comparisons/florist_roofs_compare.png",
+      "comparison_sha256": "194a0a7e3a492ad8f312a59c8f5b7abe497055ba0c5506817fef38bd91462c66",
+      "identical_camera_lighting_resolution_and_placements": true,
+      "intentional_color_difference": {
+        "mean_png_code_rgb_abs_error": 0.0015011028153821826,
+        "mean_display_linear_rgb_abs_error": 0.0013613651972264051,
+        "png_code_rgb_rmse": 0.009657013230025768,
+        "max_png_code_channel_difference": 0.09019610285758972,
+        "p99_max_channel_difference": 0.08235293626785278,
+        "percent_pixels_over_0_01": 2.5576041666666667,
+        "percent_pixels_over_0_003": 3.618916666666667,
+        "difference_over_0_01_bbox_bottom_left": [
+          158,
+          846,
+          2699,
+          1206
+        ]
+      }
+    },
+    "house_roofs": {
+      "before": "renders/models/house_roofs_before.png",
+      "after": "renders/models/house_roofs_after.png",
+      "before_sha256": "d6768c069118ad9af62b0157336558725829a511c4f94f09acf5aadac45d5498",
+      "after_sha256": "c3fcf1de3aeea94a6ef049b6e9c4c65b24fd3ca8d768a681a062ab6b789a4fcb",
+      "comparison": "renders/comparisons/house_roofs_compare.png",
+      "comparison_sha256": "2da5252e1867ae0b5608bc430a70848cc22e6302d2af48380ea2d4d9f2367d4a",
+      "identical_camera_lighting_resolution_and_placements": true,
+      "intentional_color_difference": {
+        "mean_png_code_rgb_abs_error": 0.0018449517665430903,
+        "mean_display_linear_rgb_abs_error": 0.0018505662446841598,
+        "png_code_rgb_rmse": 0.01084616407752037,
+        "max_png_code_channel_difference": 0.09803923964500427,
+        "p99_max_channel_difference": 0.07843136787414551,
+        "percent_pixels_over_0_01": 3.194770833333333,
+        "percent_pixels_over_0_003": 5.26325,
+        "difference_over_0_01_bbox_bottom_left": [
+          165,
+          696,
+          2830,
+          1437
+        ]
+      }
+    },
+    "inn_roofs": {
+      "before": "renders/models/inn_roofs_before.png",
+      "after": "renders/models/inn_roofs_after.png",
+      "before_sha256": "67806c797d15015984e028c75e4675ee53ada9fe3683919445773db961eb9629",
+      "after_sha256": "991913465d055f6767b6513f7331410041748f40e0188d5dec7ab4f34696c99b",
+      "comparison": "renders/comparisons/inn_roofs_compare.png",
+      "comparison_sha256": "b4b162a7c78ee35267d4ee3d828473866cfd617a6d0c49823002f5e4f3442492",
+      "identical_camera_lighting_resolution_and_placements": true,
+      "intentional_color_difference": {
+        "mean_png_code_rgb_abs_error": 0.001082876231521368,
+        "mean_display_linear_rgb_abs_error": 0.0011425846023485065,
+        "png_code_rgb_rmse": 0.007529464550316334,
+        "max_png_code_channel_difference": 0.07450979948043823,
+        "p99_max_channel_difference": 0.0627450942993164,
+        "percent_pixels_over_0_01": 2.0466041666666666,
+        "percent_pixels_over_0_003": 3.5515416666666666,
+        "difference_over_0_01_bbox_bottom_left": [
+          132,
+          695,
+          2854,
+          1273
+        ]
+      }
+    },
+    "town_hall_roofs": {
+      "before": "renders/models/town_hall_roofs_before.png",
+      "after": "renders/models/town_hall_roofs_after.png",
+      "before_sha256": "4000bf9cfdeaec451c8e32cb45a6a4d0fe0fa0e26aba5a72609713050a94bbeb",
+      "after_sha256": "f0619bacff030b2a6cf3e5633500def2be343cac393a9e2811ca12175856cc2e",
+      "comparison": "renders/comparisons/town_hall_roofs_compare.png",
+      "comparison_sha256": "a6a940d1fbcdab35d4eee5d2d0df4f5900c8ca270b7d833b0cb44ba30efafb1a",
+      "identical_camera_lighting_resolution_and_placements": true,
+      "intentional_color_difference": {
+        "mean_png_code_rgb_abs_error": 0.0017262690234929323,
+        "mean_display_linear_rgb_abs_error": 0.00212925230152905,
+        "png_code_rgb_rmse": 0.012829598039388657,
+        "max_png_code_channel_difference": 0.14901962876319885,
+        "p99_max_channel_difference": 0.12156862020492554,
+        "percent_pixels_over_0_01": 2.0336666666666665,
+        "percent_pixels_over_0_003": 3.9814583333333333,
+        "difference_over_0_01_bbox_bottom_left": [
+          127,
+          667,
+          2844,
+          1349
+        ]
+      }
+    },
+    "watermill_roofs": {
+      "before": "renders/models/watermill_roofs_before.png",
+      "after": "renders/models/watermill_roofs_after.png",
+      "before_sha256": "955bac75236a3589c642f4b5aa164105f757ccd1646f24a58370bbabb72a59aa",
+      "after_sha256": "18ca92dc6a71187918396e504883a24392778ac4aebecf355f0730c27b66c52d",
+      "comparison": "renders/comparisons/watermill_roofs_compare.png",
+      "comparison_sha256": "60d706ea2a5eae001629a774ba910047cda23ee772ffd96306af23001e9d96b8",
+      "identical_camera_lighting_resolution_and_placements": true,
+      "intentional_color_difference": {
+        "mean_png_code_rgb_abs_error": 0.0014788322150707245,
+        "mean_display_linear_rgb_abs_error": 0.0014949158066883683,
+        "png_code_rgb_rmse": 0.009754674509167671,
+        "max_png_code_channel_difference": 0.09411764144897461,
+        "p99_max_channel_difference": 0.08235293626785278,
+        "percent_pixels_over_0_01": 2.340395833333333,
+        "percent_pixels_over_0_003": 3.960645833333333,
+        "difference_over_0_01_bbox_bottom_left": [
+          154,
+          662,
+          2754,
+          1234
+        ]
+      }
+    },
+    "whole_beginning": {
+      "before": "renders/whole/beginning_before.png",
+      "after": "renders/whole/beginning_after.png",
+      "before_sha256": "3408a1850b5b5de0df00a2c7980bb74fa94c2de74f9e460bc2d927d59e2a8ac6",
+      "after_sha256": "98adb9fee138f2f53dba3c27425c6d8606b907e2d06d2901dd51aae87878f785",
+      "comparison": "renders/comparisons/whole_beginning_compare.png",
+      "comparison_sha256": "74400d7a775831b19ca0c03ba2968b2287d31f253cdc0a41d54acda0a489d7f5",
+      "identical_camera_lighting_resolution_and_placements": true,
+      "intentional_color_difference": {
+        "mean_png_code_rgb_abs_error": 0.00013147386198397726,
+        "mean_display_linear_rgb_abs_error": 0.00013858276361133903,
+        "png_code_rgb_rmse": 0.0029389236588031054,
+        "max_png_code_channel_difference": 0.14901962876319885,
+        "p99_max_channel_difference": 0.0,
+        "percent_pixels_over_0_01": 0.2130277777777778,
+        "percent_pixels_over_0_003": 0.7770555555555556,
+        "difference_over_0_01_bbox_bottom_left": [
+          813,
+          421,
+          1668,
+          731
+        ]
+      }
+    },
+    "whole_final": {
+      "before": "renders/whole/final_before.png",
+      "after": "renders/whole/final_after.png",
+      "before_sha256": "4a75c2f98f264344c775066fd396a46ec742025b163bcdb5a23fc600eccae31f",
+      "after_sha256": "6d11215d412c37eb66a984184264dbc7c986a7cd4b2295eda9f0d2e919cf6e4b",
+      "comparison": "renders/comparisons/whole_final_compare.png",
+      "comparison_sha256": "f8c5cc555b7d1d07b9b8d9ca6efdf9b4242599ee9b0e1e7fd68e339625fe9c6a",
+      "identical_camera_lighting_resolution_and_placements": true,
+      "intentional_color_difference": {
+        "mean_png_code_rgb_abs_error": 0.0007243431755341589,
+        "mean_display_linear_rgb_abs_error": 0.0007046175305731595,
+        "png_code_rgb_rmse": 0.006617527920752764,
+        "max_png_code_channel_difference": 0.14901962876319885,
+        "p99_max_channel_difference": 0.05882352590560913,
+        "percent_pixels_over_0_01": 1.187861111111111,
+        "percent_pixels_over_0_003": 4.479833333333334,
+        "difference_over_0_01_bbox_bottom_left": [
+          468,
+          339,
+          1842,
+          1171
+        ]
+      }
+    },
+    "whole_final_top": {
+      "before": "renders/whole/final_top_before.png",
+      "after": "renders/whole/final_top_after.png",
+      "before_sha256": "a433a959e402f6ff98009f3505c7f1aa00bdc994d5835d8f77856500afbd75fc",
+      "after_sha256": "251b97c4101759334569e9f041ce4b21797a9e1fdd6f88865d3ac29e171c86d7",
+      "comparison": "renders/comparisons/whole_final_top_compare.png",
+      "comparison_sha256": "c6295de6e9525e8cd4dcdd7684f2178767258992f8ce55bdbcb4f2ad6603edf7",
+      "identical_camera_lighting_resolution_and_placements": true,
+      "intentional_color_difference": {
+        "mean_png_code_rgb_abs_error": 0.000989612191915512,
+        "mean_display_linear_rgb_abs_error": 0.0009577975142747164,
+        "png_code_rgb_rmse": 0.00811560358852148,
+        "max_png_code_channel_difference": 0.1450980305671692,
+        "p99_max_channel_difference": 0.07450979948043823,
+        "percent_pixels_over_0_01": 1.5550555555555556,
+        "percent_pixels_over_0_003": 4.1306666666666665,
+        "difference_over_0_01_bbox_bottom_left": [
+          527,
+          242,
+          1885,
+          1268
+        ]
+      }
+    },
+    "whole_middle": {
+      "before": "renders/whole/middle_before.png",
+      "after": "renders/whole/middle_after.png",
+      "before_sha256": "5553d6619de51a3a02666a47630b4d1fa9a7e2fe328b2fe783fc960c2119213f",
+      "after_sha256": "a8e9f677dc7d0ce49ef035e0b4bb19c904781f0e5f152a7c601702a50845c474",
+      "comparison": "renders/comparisons/whole_middle_compare.png",
+      "comparison_sha256": "4aa8b9cec9334b795c3762bc78d73f7c9210ee8c092acd66256b31ed71762243",
+      "identical_camera_lighting_resolution_and_placements": true,
+      "intentional_color_difference": {
+        "mean_png_code_rgb_abs_error": 0.0005501681007444859,
+        "mean_display_linear_rgb_abs_error": 0.0005363448290154338,
+        "png_code_rgb_rmse": 0.005824622232466936,
+        "max_png_code_channel_difference": 0.14509806036949158,
+        "p99_max_channel_difference": 0.003921568393707275,
+        "percent_pixels_over_0_01": 0.9013888888888889,
+        "percent_pixels_over_0_003": 3.085166666666667,
+        "difference_over_0_01_bbox_bottom_left": [
+          468,
+          272,
+          1694,
+          1095
+        ]
+      }
+    }
+  },
+  "roof_crops": {
+    "bakery": {
+      "path": "renders/comparisons/roof_detail_bakery.png",
+      "sha256": "7ae988bb2a827b896ccdc7dccf5391e0503a49bbbd91c8a3a0be12cee2a96d72",
+      "case": "bakery_roofs",
+      "stage": 3,
+      "same_source_pixel_roi_bottom_left": [
+        2009,
+        492,
+        2919,
+        1400
+      ]
+    },
+    "cathedral": {
+      "path": "renders/comparisons/roof_detail_cathedral.png",
+      "sha256": "23de009d470054934861a9e913be2df39ace6a839c31f0b866cbde2c71cc8664",
+      "case": "cathedral_roofs",
+      "stage": 3,
+      "same_source_pixel_roi_bottom_left": [
+        1939,
+        484,
+        2919,
+        1416
+      ]
+    },
+    "farmstead": {
+      "path": "renders/comparisons/roof_detail_farmstead.png",
+      "sha256": "4d63bf907fe42013bb69164ad617ffcc4f1df47318482aceade338d0b5dd32d4",
+      "case": "farmstead_roofs",
+      "stage": 3,
+      "same_source_pixel_roi_bottom_left": [
+        1995,
+        579,
+        2919,
+        1225
+      ]
+    },
+    "florist": {
+      "path": "renders/comparisons/roof_detail_florist.png",
+      "sha256": "e1d7d47735ab71ac38c498e93d5fd22a7d7758630b4d1d5950693774cec57293",
+      "case": "florist_roofs",
+      "stage": 3,
+      "same_source_pixel_roi_bottom_left": [
+        2035,
+        565,
+        2919,
+        1253
+      ]
+    },
+    "house": {
+      "path": "renders/comparisons/roof_detail_house.png",
+      "sha256": "ceef7f9d167249d6e2e94ef64a1083826c3db2b61ff43c49a6411eed8da630c2",
+      "case": "house_roofs",
+      "stage": 3,
+      "same_source_pixel_roi_bottom_left": [
+        2038,
+        448,
+        2919,
+        1487
+      ]
+    },
+    "inn": {
+      "path": "renders/comparisons/roof_detail_inn.png",
+      "sha256": "86bc3062ccbb8184ef95e729712e28a6244d9c2bdc07065061144012ab35bbbf",
+      "case": "inn_roofs",
+      "stage": 3,
+      "same_source_pixel_roi_bottom_left": [
+        1927,
+        534,
+        2919,
+        1316
+      ]
+    },
+    "town_hall": {
+      "path": "renders/comparisons/roof_detail_town_hall.png",
+      "sha256": "ee8d6de53d6a186bd8decbefdc4584142cd020741e45aa58eb008be4d16189ce",
+      "case": "town_hall_roofs",
+      "stage": 3,
+      "same_source_pixel_roi_bottom_left": [
+        2037,
+        454,
+        2919,
+        1475
+      ]
+    },
+    "watermill": {
+      "path": "renders/comparisons/roof_detail_watermill.png",
+      "sha256": "6f62daaf6ee9edd60693a5028235f890824a635f7d343c9cfc262d1e0c2e14b0",
+      "case": "watermill_roofs",
+      "stage": 3,
+      "same_source_pixel_roi_bottom_left": [
+        1949,
+        547,
+        2919,
+        1289
+      ]
+    }
+  },
+  "intentional_change": "Bright roof tile RGB only. This is not pixel-equality testing of the v003 hidden-face optimization.",
+  "plate_order": "Before v003 above; roof tones below; L1 L2 L3 left to right. Crops and overview: before left, after right.",
+  "comparison_color": "Original normalized RGBA8 PNG code bytes, no view transform or gamma correction applied.",
+  "overview": {
+    "path": "renders/comparisons/whole_final_overview.png",
+    "sha256": "fa300ccb5fbe224c36a7bf9a19a2d06adeba3de91b15eeaf515e427c067ab103",
+    "sampling": "same 4x4 PNG-code box average, before left / after right"
+  },
+  "pair_count": 12,
+  "all_required_pairs_present": true,
+  "source_render_records": {
+    "renders_preview.json": "c5a703b8e14daabeb69086056385dd11156529e321984126f7f052f854f6b0c2",
+    "renders_roofs_a.json": "9632a2757580310a4f833590e0f345d778844155a957bb6d03baf32b7093c9b0",
+    "renders_roofs_b.json": "0205914bf6146961bed454b8d4fcdd05be9a350c66e39078c7651e9a63abdfca",
+    "renders_whole.json": "955a66e9659627df5b9727f4b1c31a67a94806e1b51d11964f8143c06f7d2d22"
+  }
+}

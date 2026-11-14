@@ -1,0 +1,16 @@
+{
+  "protectedBuildings": 36,
+  "sourceBlendSha256": "d6c4128a395d4afa9409a53a7863144de7751c3979df3460c312a7c92786340c",
+  "allTrianglesAndAppearancePreserved": true,
+  "appearanceComparisonPrecision": "0.0001",
+  "cameraPlotsTransformsAndCostsPreserved": true,
+  "roadGroups": 28,
+  "initialHomeRoadGroups": 2,
+  "allRoadGroups": 28,
+  "environmentTriangles": 37787,
+  "environmentMeshes": 34,
+  "apkAssetBytesVerified": [
+    "android\\app\\build\\outputs\\apk\\demo\\debug\\app-demo-debug.apk",
+    "android\\app\\build\\outputs\\apk\\vehicle\\debug\\app-vehicle-debug.apk"
+  ]
+}

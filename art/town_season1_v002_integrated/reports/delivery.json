@@ -1,0 +1,76 @@
+{
+  "status": "Art implementation and Blender verification complete; user selection pending",
+  "types": 12,
+  "plots": 14,
+  "changed_glbs": 24,
+  "unchanged_referenced_glbs": 12,
+  "all_building_world_scales": [
+    1,
+    1,
+    1
+  ],
+  "primary_door_stage_cases": 42,
+  "maximum_stage_overlap_pairs": 0,
+  "minimum_maximum_hull_gap_m": 0.4056338699151665,
+  "reused_trees": 8,
+  "new_trees": 0,
+  "protected_old_files": 259,
+  "images": [
+    {
+      "path": "renders/01_beginning.png",
+      "sha256": "3c52d20034dd20a8b0ed5bccc4f833bf7c14a383bd6440fd269f149149b66627"
+    },
+    {
+      "path": "renders/02_middle.png",
+      "sha256": "af85ae67f2c33d61b64a7b6e88edb223c924ab0c13b2726e27a8ece728e850d7"
+    },
+    {
+      "path": "renders/03_final_oblique.png",
+      "sha256": "14dbdf3cc47264bb45b313c48017be7c42b18715e9c973c89a9fb0f6f701b1be"
+    },
+    {
+      "path": "renders/04_final_top.png",
+      "sha256": "52b124725206c4d8251f26e00e244fbc028e1b612d99140406f6f6cd770f4ca4"
+    },
+    {
+      "path": "renders/05_v001_before_oblique.png",
+      "sha256": "5828b146dde9e144592fc5de93c0d75a684ca7869954ee8e7953223189a4fe2b"
+    },
+    {
+      "path": "renders/06_v001_before_top.png",
+      "sha256": "0b0c8cf0699ae5bf53702af6c7ef869a2df1e04aa11efb4ec48ec14d9764c8b1"
+    },
+    {
+      "path": "renders/07_cafe_levels.png",
+      "sha256": "a59e21a023ee6d17131c9121b44efbe25371848e18d54f040eb10d7c3a093ed2"
+    },
+    {
+      "path": "renders/07_house_levels.png",
+      "sha256": "a3d3f868eda5f295008d173b9e26c03ea180c0a989e49e5c68dcfa03ca815f1d"
+    },
+    {
+      "path": "renders/07_florist_levels.png",
+      "sha256": "e081730d1f84af5be22af870299a9caa09e2fc35796c3ccecda7685352301d48"
+    },
+    {
+      "path": "renders/07_bakery_levels.png",
+      "sha256": "f7f9fd67cdac65cd33222f2d0bbf0f84d34d99eb4d83d62172ad0da09b3925f4"
+    },
+    {
+      "path": "renders/07_bookshop_levels.png",
+      "sha256": "5a4d26d3a03a440fc5ab122904cb0c5058d47a01185cc76e5219be0123d9b342"
+    },
+    {
+      "path": "renders/07_town_hall_levels.png",
+      "sha256": "de20c2062647428c36b9259fe759bc37797b17f9ad33168caf62361fce60ea66"
+    },
+    {
+      "path": "renders/07_grocer_levels.png",
+      "sha256": "35dd70e48706bea4053172d78431f92e3d39e40168b59e8b5d4c12e48d3c6bc6"
+    },
+    {
+      "path": "renders/07_workshop_levels.png",
+      "sha256": "af23aa024506c7ed18417619f5ecbd43a407968ae82dbf596bea0ccff2e142b5"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "status": "Provisional sampled colors for this concept only; not a project palette or a remapping target.",
+  "source": "art\\export\\moka\\moka_concept_v002.png",
+  "note": "Single sampled pixels; nearby pixels vary. No quantization, recoloring, palette application, or Indexed conversion was performed.",
+  "colors": {
+    "outline": {
+      "position": [
+        512,
+        250
+      ],
+      "hex": "#1C130D",
+      "alpha": 253
+    },
+    "beret_base": {
+      "position": [
+        512,
+        300
+      ],
+      "hex": "#B64940",
+      "alpha": 254
+    },
+    "beret_shadow": {
+      "position": [
+        665,
+        366
+      ],
+      "hex": "#7C2D2A",
+      "alpha": 254
+    },
+    "skin_base": {
+      "position": [
+        512,
+        700
+      ],
+      "hex": "#FDC9A3",
+      "alpha": 254
+    },
+    "hair_base": {
+      "position": [
+        300,
+        700
+      ],
+      "hex": "#754B3C",
+      "alpha": 253
+    },
+    "jacket_base": {
+      "position": [
+        601,
+        1100
+      ],
+      "hex": "#8C543F",
+      "alpha": 254
+    },
+    "shirt_base": {
+      "position": [
+        497,
+        945
+      ],
+      "hex": "#F5D7BA",
+      "alpha": 253
+    },
+    "map_paper": {
+      "position": [
+        364,
+        867
+      ],
+      "hex": "#F1D1B1",
+      "alpha": 254
+    },
+    "trousers_base": {
+      "position": [
+        430,
+        1175
+      ],
+      "hex": "#8A6E51",
+      "alpha": 254
+    },
+    "boots_base": {
+      "position": [
+        405,
+        1362
+      ],
+      "hex": "#61433D",
+      "alpha": 254
+    }
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "version": "season1-v004-runtime-v001",
+  "costsAreTemporaryDemoValues": true,
+  "environmentModel": "models/season1_v001/town_environment.glb",
+  "camera": {
+    "target": [
+      1.8,
+      6.9,
+      1.6
+    ],
+    "offset": [
+      24.5,
+      28.0,
+      35.0
+    ],
+    "verticalSpan": 40.0
+  },
+  "plots": [
+    {
+      "id": "home",
+      "sourcePlotId": "home_entry",
+      "name": "작은 집",
+      "models": [
+        "models/season1_v001/house_level_1.glb",
+        "models/season1_v001/house_level_2.glb",
+        "models/season1_v001/house_level_3.glb"
+      ],
+      "costs": [
+        3,
+        3,
+        6
+      ],
+      "x": -1.0,
+      "y": 0,
+      "z": 8.8,
+      "rotationY": 10,
+      "width": 2.3481692910194396,
+      "depth": 2.294499981403351,
+      "padOffsetX": 0.03091585636138916,
+      "padOffsetZ": 0.30000007152557373
+    },
+    {
+      "id": "cafe",
+      "sourcePlotId": "cafe",
+      "name": "골목 카페",
+      "models": [
+        "models/season1_v001/cafe_level_1.glb",
+        "models/season1_v001/cafe_level_2.glb",
+        "models/season1_v001/cafe_level_3.glb"
+      ],
+      "costs": [
+        3,
+        3,
+        6
+      ],
+      "x": -4.4,
+      "y": 0,
+      "z": 4.1,
+      "rotationY": 85,
+      "width": 2.737523150444031,
+      "depth": 2.908731496334076,
+      "padOffsetX": 0.055787086486816406,
+      "padOffsetZ": 0.8625141382217407
+    },
+    {
+      "id": "cathedral",
+      "sourcePlotId": "cathedral",
+      "name": "언덕 성당",
+      "models": [
+        "models/season1_v001/cathedral_level_1.glb",
+        "models/season1_v001/cathedral_level_2.glb",
+        "models/season1_v001/cathedral_level_3.glb"
+      ],
+      "costs": [
+        6,
+        6,
+        9
+      ],
+      "x": 0.0,
+      "y": 1.2,
+      "z": -10.2,
+      "rotationY": 5,
+      "width": 3.2,
+      "depth": 3.2,
+      "padOffsetX": -0.14075005054473877,
+      "padOffsetZ": -0.14499998092651367
+    },
+    {
+      "id": "bakery",
+      "sourcePlotId": "bakery",
+      "name": "빵집",
+      "models": [
+        "models/season1_v001/bakery_level_1.glb",
+        "models/season1_v001/bakery_level_2.glb",
+        "models/season1_v001/bakery_level_3.glb"
+      ],
+      "costs": [
+        3,
+        3,
+        6
+      ],
+      "x": 3.95,
+      "y": 0,
+      "z": 4.55,
+      "rotationY": -8,
+      "width": 2.625739777088165,
+      "depth": 2.7365000247955322,
+      "padOffsetX": 0.11019980907440186,
+      "padOffsetZ": 0.5950000286102295
+    },
+    {
+      "id": "bookshop",
+      "sourcePlotId": "bookshop",
+      "name": "골목 책방",
+      "models": [
+        "models/season1_v001/bookshop_level_1.glb",
+        "models/season1_v001/bookshop_level_2.glb",
+        "models/season1_v001/bookshop_level_3.glb"
+      ],
+      "costs": [
+        3,
+        3,
+        6
+      ],
+      "x": 3.8,
+      "y": 0.35,
+      "z": -1.0,
+      "rotationY": -30,
+      "width": 2.3767481565475466,
+      "depth": 2.853499913215637,
+      "padOffsetX": 0.09013223648071289,
+      "padOffsetZ": 0.684999942779541
+    },
+    {
+      "id": "florist",
+      "sourcePlotId": "florist",
+      "name": "꽃가게",
+      "models": [
+        "models/season1_v001/florist_level_1.glb",
+        "models/season1_v001/florist_level_2.glb",
+        "models/season1_v001/florist_level_3.glb"
+      ],
+      "costs": [
+        3,
+        3,
+        6
+      ],
+      "x": 7.75,
+      "y": 0,
+      "z": 1.05,
+      "rotationY": -85,
+      "width": 2.611602294445038,
+      "depth": 2.112239956855774,
+      "padOffsetX": 0.38357508182525635,
+      "padOffsetZ": 0.22979998588562012
+    },
+    {
+      "id": "grocer",
+      "sourcePlotId": "grocer",
+      "name": "식료품점",
+      "models": [
+        "models/season1_v001/grocer_level_1.glb",
+        "models/season1_v001/grocer_level_2.glb",
+        "models/season1_v001/grocer_level_3.glb"
+      ],
+      "costs": [
+        3,
+        3,
+        6
+      ],
+      "x": -9.4,
+      "y": 0,
+      "z": 4.5,
+      "rotationY": 55,
+      "width": 2.512250006198883,
+      "depth": 2.632500046491623,
+      "padOffsetX": 0.04250001907348633,
+      "padOffsetZ": 0.5649998784065247
+    },
+    {
+      "id": "workshop",
+      "sourcePlotId": "workshop",
+      "name": "공방",
+      "models": [
+        "models/season1_v001/workshop_level_1.glb",
+        "models/season1_v001/workshop_level_2.glb",
+        "models/season1_v001/workshop_level_3.glb"
+      ],
+      "costs": [
+        3,
+        3,
+        6
+      ],
+      "x": 4.15,
+      "y": 0,
+      "z": 10.05,
+      "rotationY": -80,
+      "width": 2.75925008058548,
+      "depth": 2.5837500929832458,
+      "padOffsetX": 0.15749990940093994,
+      "padOffsetZ": 0.5175000429153442
+    },
+    {
+      "id": "inn",
+      "sourcePlotId": "inn",
+      "name": "마을 여관",
+      "models": [
+        "models/season1_v001/inn_level_1.glb",
+        "models/season1_v001/inn_level_2.glb",
+        "models/season1_v001/inn_level_3.glb"
+      ],
+      "costs": [
+        6,
+        6,
+        9
+      ],
+      "x": -5.0,
+      "y": 0.25,
+      "z": -2.55,
+      "rotationY": 0,
+      "width": 3.2,
+      "depth": 3.2,
+      "padOffsetX": 0.001291513442993164,
+      "padOffsetZ": 0.6050002574920654
+    },
+    {
+      "id": "town_hall",
+      "sourcePlotId": "town_hall",
+      "name": "마을 회관",
+      "models": [
+        "models/season1_v001/town_hall_level_1.glb",
+        "models/season1_v001/town_hall_level_2.glb",
+        "models/season1_v001/town_hall_level_3.glb"
+      ],
+      "costs": [
+        3,
+        3,
+        6
+      ],
+      "x": 7.0,
+      "y": 0.8,
+      "z": -5.7,
+      "rotationY": -38,
+      "width": 2.5057500898838043,
+      "depth": 2.440750151872635,
+      "padOffsetX": 0.037499964237213135,
+      "padOffsetZ": 0.4074999690055847
+    },
+    {
+      "id": "farmstead",
+      "sourcePlotId": "farmstead",
+      "name": "농가",
+      "models": [
+        "models/season1_v001/farmstead_level_1.glb",
+        "models/season1_v001/farmstead_level_2.glb",
+        "models/season1_v001/farmstead_level_3.glb"
+      ],
+      "costs": [
+        3,
+        3,
+        6
+      ],
+      "x": -13.95,
+      "y": 0,
+      "z": -1.5,
+      "rotationY": 25,
+      "width": 3.2,
+      "depth": 3.2,
+      "padOffsetX": 0.3713575601577759,
+      "padOffsetZ": 0.17875003814697266
+    },
+    {
+      "id": "watermill",
+      "sourcePlotId": "watermill",
+      "name": "물레방앗간",
+      "models": [
+        "models/season1_v001/watermill_level_1.glb",
+        "models/season1_v001/watermill_level_2.glb",
+        "models/season1_v001/watermill_level_3.glb"
+      ],
+      "costs": [
+        6,
+        6,
+        9
+      ],
+      "x": 12.85,
+      "y": -0.15,
+      "z": 4.5,
+      "rotationY": -15,
+      "width": 3.2,
+      "depth": 3.01716685295105,
+      "padOffsetX": -0.1340944766998291,
+      "padOffsetZ": -0.17910242080688477
+    },
+    {
+      "id": "home_upper_west",
+      "sourcePlotId": "home_upper_west",
+      "name": "언덕 서쪽 집",
+      "models": [
+        "models/season1_v001/house_level_1.glb",
+        "models/season1_v001/house_level_2.glb",
+        "models/season1_v001/house_level_3.glb"
+      ],
+      "costs": [
+        3,
+        3,
+        6
+      ],
+      "x": -6.3,
+      "y": 0.8,
+      "z": -9.0,
+      "rotationY": 80,
+      "width": 2.3481692910194396,
+      "depth": 2.294499981403351,
+      "padOffsetX": 0.03091585636138916,
+      "padOffsetZ": 0.30000007152557373
+    },
+    {
+      "id": "home_upper_east",
+      "sourcePlotId": "home_upper_east",
+      "name": "언덕 동쪽 집",
+      "models": [
+        "models/season1_v001/house_level_1.glb",
+        "models/season1_v001/house_level_2.glb",
+        "models/season1_v001/house_level_3.glb"
+      ],
+      "costs": [
+        3,
+        3,
+        6
+      ],
+      "x": 7.4,
+      "y": 1.0,
+      "z": -10.3,
+      "rotationY": -18,
+      "width": 2.3481692910194396,
+      "depth": 2.294499981403351,
+      "padOffsetX": 0.03091585636138916,
+      "padOffsetZ": 0.30000007152557373
+    }
+  ]
+}

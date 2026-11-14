@@ -1,0 +1,11 @@
+00:00.688  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_house_florist_v001\blend\chagok_house_florist_v001.blend"
+00:01.219  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:05.985  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_house_florist_v001\renders\preview_01_house_levels.png'
+BlenderMCP addon registered
+RENDERED preview_01_house_levels.png
+00:10.516  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_house_florist_v001\renders\preview_02_florist_levels.png'
+RENDERED preview_02_florist_levels.png
+00:15.063  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_house_florist_v001\renders\preview_03_style_with_cafe_v003.png'
+RENDERED preview_03_style_with_cafe_v003.png
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+BlenderMCP addon unregistered

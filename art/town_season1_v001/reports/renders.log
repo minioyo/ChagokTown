@@ -1,0 +1,16 @@
+00:01.187  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v001\blend\season1_map.blend"
+00:01.468  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:10.359  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v001\renders\preview_qa_back_cathedral.png'
+BlenderMCP addon registered
+RENDERED qa_back_cathedral
+00:19.218  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v001\renders\preview_qa_back_inn.png'
+RENDERED qa_back_inn
+00:27.843  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v001\renders\preview_qa_back_watermill.png'
+RENDERED qa_back_watermill
+00:36.500  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v001\renders\preview_qa_back_farmstead.png'
+RENDERED qa_back_farmstead
+SEASON_RENDERS_COMPLETE
+BlenderMCP addon unregistered
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

@@ -1,0 +1,51 @@
+{
+  "renderer": "Blender 5.2.3 LTS Cycles GPU",
+  "size_px": 320,
+  "models": {
+    "house_level_1": {
+      "source": "art/runtime_samples_v001/exports/house_level_1.glb",
+      "source_sha256": "99c0262a63cdf07906b01026a8f3162a71877bfeca7f43977ec8f343a0e54eff",
+      "output": "art/ui_thumbnails_v001/exports/house_level_1.png"
+    },
+    "house_level_2": {
+      "source": "art/runtime_samples_v001/exports/house_level_2.glb",
+      "source_sha256": "3091c4ea3d36df724421f75c0cdea04b8ca635cd4dadfbeb4efb2ffcc8309cdd",
+      "output": "art/ui_thumbnails_v001/exports/house_level_2.png"
+    },
+    "house_level_3": {
+      "source": "art/runtime_samples_v001/exports/house_level_3.glb",
+      "source_sha256": "4bb6e3a5c5792d776f3249616bd2077f56863905834a5facbac9ceba928b74c8",
+      "output": "art/ui_thumbnails_v001/exports/house_level_3.png"
+    },
+    "cafe_level_1": {
+      "source": "art/runtime_samples_v001/exports/cafe_level_1.glb",
+      "source_sha256": "42258e14a3829c425361433dce8a7677d2817268ce71be154a7e97e8e362f0b1",
+      "output": "art/ui_thumbnails_v001/exports/cafe_level_1.png"
+    },
+    "cafe_level_2": {
+      "source": "art/runtime_samples_v001/exports/cafe_level_2.glb",
+      "source_sha256": "f7fdcf503e0c19cbb4d483c0b29998f5976d909a7f5743749b6c369aea87cf68",
+      "output": "art/ui_thumbnails_v001/exports/cafe_level_2.png"
+    },
+    "cafe_level_3": {
+      "source": "art/runtime_samples_v001/exports/cafe_level_3.glb",
+      "source_sha256": "ac041e8d7f3772ba13902269dc840a879463b53112a9717ca9408eddbe66c5e3",
+      "output": "art/ui_thumbnails_v001/exports/cafe_level_3.png"
+    },
+    "cathedral_level_1": {
+      "source": "art/runtime_samples_v001/exports/cathedral_level_1.glb",
+      "source_sha256": "948184e553cc17135ff811288faf9af0c5a994068c00ab31b2a7d731272feb95",
+      "output": "art/ui_thumbnails_v001/exports/cathedral_level_1.png"
+    },
+    "cathedral_level_2": {
+      "source": "art/runtime_samples_v001/exports/cathedral_level_2.glb",
+      "source_sha256": "2e3bfbf62b6597d2e1687b28e5b7895be1f2474717944e141c61784f6760221d",
+      "output": "art/ui_thumbnails_v001/exports/cathedral_level_2.png"
+    },
+    "cathedral_level_3": {
+      "source": "art/runtime_samples_v001/exports/cathedral_level_3.glb",
+      "source_sha256": "05c39e4f6c39375c9901f40e8250e38c75d73107d2be82158e111a2a977ab2e2",
+      "output": "art/ui_thumbnails_v001/exports/cathedral_level_3.png"
+    }
+  }
+}

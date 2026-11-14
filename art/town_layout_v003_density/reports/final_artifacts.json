@@ -1,0 +1,58 @@
+{
+  "checks_passed": true,
+  "previous_files_unchanged": 34,
+  "artifacts": {
+    "renders\\baseline_oblique.png": {
+      "sha256": "d644d3de76cce9349e093da6121be08eab2f92048375a8b62bec0de8b29f46d9",
+      "bytes": 2108246,
+      "resolution": [
+        1920,
+        1080
+      ]
+    },
+    "renders\\baseline_top.png": {
+      "sha256": "dfe43e032d502c48ca3c6161ca0a73b297bfddd04f0f8ceb5df28dd2a15c8020",
+      "bytes": 1940265,
+      "resolution": [
+        1920,
+        1080
+      ]
+    },
+    "renders\\compact_oblique.png": {
+      "sha256": "49f535beb3f8b17f58e99aea79dde0c253560c880166936b07825774d76bcb2f",
+      "bytes": 2083427,
+      "resolution": [
+        1920,
+        1080
+      ]
+    },
+    "renders\\compact_top.png": {
+      "sha256": "cc5b6fe81181334f754d1463854ffbaa128241a94aa5e44ab0d5370d2ec692a6",
+      "bytes": 1914231,
+      "resolution": [
+        1920,
+        1080
+      ]
+    },
+    "renders\\dense_oblique.png": {
+      "sha256": "47d0b33de67b83d0db8ec9a21fc03d9516964e947cc87f0536f41fc38bab9a95",
+      "bytes": 2150430,
+      "resolution": [
+        1920,
+        1080
+      ]
+    },
+    "renders\\dense_top.png": {
+      "sha256": "c9b5d616abba7219e0cba15088ba25a3228af7430524b47e19a8f1abfa51dbe3",
+      "bytes": 1986897,
+      "resolution": [
+        1920,
+        1080
+      ]
+    },
+    "blend\\chagok_density_comparison.blend": {
+      "sha256": "0ba56b70ede2f3ed940cf695e5f5b74df1633eeb7b946cbf5ac0eb83c9d6d447",
+      "bytes": 5743963
+    }
+  }
+}

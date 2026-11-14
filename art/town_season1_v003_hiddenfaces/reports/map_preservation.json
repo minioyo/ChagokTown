@@ -1,0 +1,26 @@
+{
+  "source_map_sha256": "06b5e9d606c5655dd7604974cc8b96ffc65850b758c1d2ee177b931df2eca00f",
+  "scenes": {
+    "beginning": {
+      "environment_sha256": "d561f602c0053d52a314ca7edcbb967fd355be4af475fd7fcc18a4dd44c3d6d7",
+      "presentation_sha256": "e5f3004846f6db9bc12b643422cf766b86ed2e3893bdcd4937b12d96e0749382",
+      "plot_count": 8,
+      "exact_environment_preserved": true,
+      "exact_plot_matrices_preserved": true
+    },
+    "middle": {
+      "environment_sha256": "0db75d720afd514815d21287e4da421f2163de2ff4ce6e4b4ddffaf30df55963",
+      "presentation_sha256": "5f7be83362f6bdbde65f80047583843be5c01ea1ae5e50b24d52e2945fa96bb6",
+      "plot_count": 12,
+      "exact_environment_preserved": true,
+      "exact_plot_matrices_preserved": true
+    },
+    "final": {
+      "environment_sha256": "e93a28076a068b6f247a726c80b3cb40359bf8688e2440f61ad7696d9c065ac3",
+      "presentation_sha256": "0eb192d52ce61badf3d9b9945b45cb3bf35c7a346685b07bd98387b16b5f2661",
+      "plot_count": 14,
+      "exact_environment_preserved": true,
+      "exact_plot_matrices_preserved": true
+    }
+  }
+}

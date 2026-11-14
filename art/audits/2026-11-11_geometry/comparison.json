@@ -1,0 +1,145 @@
+{
+  "source_blend_unchanged": true,
+  "candidate_glb_checks": {
+    "bakery_level_3": {
+      "reimport_passed": true,
+      "triangles": 4807,
+      "color_attributes": 1,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0
+    },
+    "bookshop_level_3": {
+      "reimport_passed": true,
+      "triangles": 5086,
+      "color_attributes": 1,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0
+    },
+    "cafe_level_3": {
+      "reimport_passed": true,
+      "triangles": 5561,
+      "color_attributes": 1,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0
+    },
+    "cathedral_level_3": {
+      "reimport_passed": true,
+      "triangles": 4468,
+      "color_attributes": 1,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0
+    },
+    "farmstead_level_3": {
+      "reimport_passed": true,
+      "triangles": 5027,
+      "color_attributes": 1,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0
+    },
+    "florist_level_3": {
+      "reimport_passed": true,
+      "triangles": 5543,
+      "color_attributes": 1,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0
+    },
+    "grocer_level_3": {
+      "reimport_passed": true,
+      "triangles": 3974,
+      "color_attributes": 1,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0
+    },
+    "house_level_3": {
+      "reimport_passed": true,
+      "triangles": 3357,
+      "color_attributes": 1,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0
+    },
+    "inn_level_3": {
+      "reimport_passed": true,
+      "triangles": 3738,
+      "color_attributes": 1,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0
+    },
+    "town_hall_level_3": {
+      "reimport_passed": true,
+      "triangles": 4128,
+      "color_attributes": 1,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0
+    },
+    "watermill_level_3": {
+      "reimport_passed": true,
+      "triangles": 3896,
+      "color_attributes": 1,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0
+    },
+    "workshop_level_3": {
+      "reimport_passed": true,
+      "triangles": 2915,
+      "color_attributes": 1,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0
+    }
+  },
+  "terrain_trials": {
+    "0.5": {
+      "before_triangles": 26400,
+      "after_triangles": 13199,
+      "sample_count": 39600,
+      "reference_ray_misses": 231,
+      "ray_misses": 0,
+      "max_abs_height_error_m": 0.28082275390625,
+      "p99_abs_height_error_m": 0.014209747314453125,
+      "max_upward_height_error_m": 0.28082275390625,
+      "max_downward_height_error_m": -0.2805747985839844
+    },
+    "0.25": {
+      "before_triangles": 26400,
+      "after_triangles": 6600,
+      "sample_count": 39600,
+      "reference_ray_misses": 231,
+      "ray_misses": 0,
+      "max_abs_height_error_m": 0.28082275390625,
+      "p99_abs_height_error_m": 0.014225006103515625,
+      "max_upward_height_error_m": 0.28082275390625,
+      "max_downward_height_error_m": -0.2805747985839844
+    },
+    "0.1": {
+      "before_triangles": 26400,
+      "after_triangles": 2640,
+      "sample_count": 39600,
+      "reference_ray_misses": 231,
+      "ray_misses": 93,
+      "max_abs_height_error_m": 0.2805747985839844,
+      "p99_abs_height_error_m": 0.0124969482421875,
+      "max_upward_height_error_m": 0.19650650024414062,
+      "max_downward_height_error_m": -0.2805747985839844
+    }
+  },
+  "terrain_render_ratio": 0.25,
+  "render_resolution": [
+    1440,
+    900
+  ],
+  "render_samples": 64,
+  "pixel_differences": {
+    "01_original -> 01b_original_glbs_reimported": {
+      "mean_linear_rgb_abs_error": 1.563382454605744e-07,
+      "percent_pixels_with_any_channel_difference_over_0_01": 0.0
+    },
+    "01b_original_glbs_reimported -> 02_hidden_faces_removed": {
+      "mean_linear_rgb_abs_error": 1.9458566384855658e-05,
+      "percent_pixels_with_any_channel_difference_over_0_01": 0.03117283950617284
+    },
+    "02_hidden_faces_removed -> 03_hidden_faces_and_quarter_terrain": {
+      "mean_linear_rgb_abs_error": 0.00019691560009960085,
+      "percent_pixels_with_any_channel_difference_over_0_01": 0.12075617283950617
+    }
+  },
+  "limits": "Visual candidate and sampled height checks; all-stage and runtime performance untested."
+}

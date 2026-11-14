@@ -1,0 +1,44 @@
+00:01.094  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v002_integrated\blend\integrated_models.blend"
+BlenderMCP addon registered
+OPTIMIZED bakery_level_1 2536 -> 2237 vertices 3222 -> 2940
+OPTIMIZED bakery_level_2 3936 -> 3510 vertices 4844 -> 4432
+OPTIMIZED bakery_level_3 5560 -> 4807 vertices 6767 -> 5935
+OPTIMIZED bookshop_level_1 1816 -> 1598 vertices 2588 -> 2375
+OPTIMIZED bookshop_level_2 4060 -> 3671 vertices 5417 -> 5013
+OPTIMIZED bookshop_level_3 5862 -> 5086 vertices 7713 -> 6950
+OPTIMIZED cafe_level_1 2460 -> 2309 vertices 2802 -> 2628
+OPTIMIZED cafe_level_2 4256 -> 3900 vertices 4725 -> 4369
+OPTIMIZED cafe_level_3 6056 -> 5561 vertices 6812 -> 6278
+OPTIMIZED florist_level_1 2584 -> 2283 vertices 3354 -> 3042
+OPTIMIZED florist_level_2 5172 -> 4746 vertices 6072 -> 5595
+OPTIMIZED florist_level_3 6120 -> 5543 vertices 7286 -> 6684
+OPTIMIZED grocer_level_1 2056 -> 1810 vertices 2539 -> 2345
+OPTIMIZED grocer_level_2 3588 -> 3136 vertices 4206 -> 3818
+OPTIMIZED grocer_level_3 4688 -> 3974 vertices 5572 -> 4959
+OPTIMIZED house_level_1 2296 -> 2012 vertices 2968 -> 2664
+OPTIMIZED house_level_2 3000 -> 2532 vertices 3872 -> 3394
+OPTIMIZED house_level_3 3856 -> 3357 vertices 4940 -> 4427
+OPTIMIZED town_hall_level_1 2232 -> 1960 vertices 3031 -> 2777
+OPTIMIZED town_hall_level_2 3020 -> 2463 vertices 3993 -> 3423
+OPTIMIZED town_hall_level_3 4988 -> 4128 vertices 6371 -> 5584
+OPTIMIZED workshop_level_1 1736 -> 1496 vertices 2405 -> 2192
+OPTIMIZED workshop_level_2 2396 -> 2046 vertices 3215 -> 2915
+OPTIMIZED workshop_level_3 3484 -> 2915 vertices 4826 -> 4223
+00:06.422  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v001\blend\season1_models.blend"
+OPTIMIZED cathedral_level_1 2100 -> 1801 vertices 2921 -> 2586
+OPTIMIZED cathedral_level_2 5718 -> 3912 vertices 8474 -> 5901
+OPTIMIZED cathedral_level_3 6730 -> 4468 vertices 10093 -> 6895
+OPTIMIZED inn_level_1 2316 -> 1993 vertices 3373 -> 3091
+OPTIMIZED inn_level_2 4140 -> 3293 vertices 6246 -> 5216
+OPTIMIZED inn_level_3 4532 -> 3738 vertices 6764 -> 5842
+OPTIMIZED watermill_level_1 2580 -> 2234 vertices 3570 -> 3191
+OPTIMIZED watermill_level_2 3944 -> 3134 vertices 5504 -> 4549
+OPTIMIZED watermill_level_3 4776 -> 3896 vertices 6904 -> 5849
+OPTIMIZED farmstead_level_1 2272 -> 2007 vertices 3202 -> 2953
+OPTIMIZED farmstead_level_2 3824 -> 3294 vertices 5500 -> 4968
+OPTIMIZED farmstead_level_3 5884 -> 5027 vertices 8447 -> 7562
+ALL_STAGE_OPTIMIZATION_COMPLETE {'1': {'triangles_before': 31576, 'triangles_after': 27764, 'vertices_before': 41911, 'vertices_after': 38112, 'bytes_before': 2069420, 'bytes_after': 1879412}, '2': {'triangles_before': 53054, 'triangles_after': 44701, 'vertices_before': 69812, 'vertices_after': 60381, 'bytes_before': 3426144, 'bytes_after': 2961084}, '3': {'triangles_before': 70248, 'triangles_after': 59214, 'vertices_before': 92375, 'vertices_after': 80042, 'bytes_before': 4522240, 'bytes_after': 3913416}}
+BlenderMCP addon unregistered
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

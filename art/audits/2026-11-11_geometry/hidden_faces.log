@@ -1,0 +1,20 @@
+00:01.094  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v002_integrated\blend\integrated_models.blend"
+BlenderMCP addon registered
+CULLED bakery 5560 4807 6767 5935
+CULLED bookshop 5862 5086 7713 6950
+CULLED cafe 6056 5561 6812 6278
+CULLED florist 6120 5543 7286 6684
+CULLED grocer 4688 3974 5572 4959
+CULLED house 3856 3357 4940 4427
+CULLED town_hall 4988 4128 6371 5584
+CULLED workshop 3484 2915 4826 4223
+00:01.922  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v001\blend\season1_models.blend"
+CULLED cathedral 6730 4468 10093 6895
+CULLED inn 4532 3738 6764 5842
+CULLED watermill 4776 3896 6904 5849
+CULLED farmstead 5884 5027 8447 7562
+HIDDEN_FACE_AUDIT_COMPLETE {'before_triangles': 70248, 'after_triangles': 59214, 'before_vertices': 92375, 'after_vertices': 80042, 'removed_triangles': 11034}
+BlenderMCP addon unregistered
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

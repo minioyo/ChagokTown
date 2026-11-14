@@ -1,0 +1,22 @@
+{
+  "renders/A_oblique.png": {
+    "bytes": 2108246,
+    "sha256": "d644d3de76cce9349e093da6121be08eab2f92048375a8b62bec0de8b29f46d9"
+  },
+  "renders/A_top.png": {
+    "bytes": 1940265,
+    "sha256": "dfe43e032d502c48ca3c6161ca0a73b297bfddd04f0f8ceb5df28dd2a15c8020"
+  },
+  "renders/B_oblique.png": {
+    "bytes": 2114183,
+    "sha256": "cdc51bf1e79d8dc94e55d82c8ae99d7640acc7525458a5ece3ba41d2b57f3f17"
+  },
+  "renders/B_top.png": {
+    "bytes": 1998769,
+    "sha256": "7cea13cec2ac0caf6385de1db277385ac27c4012c8ea5407fad577a0ac3151c6"
+  },
+  "blend/chagok_layout_v002_concepts.blend": {
+    "bytes": 4315440,
+    "sha256": "a0e61c8cfc34b8ad8fe42355d63220408889bc67d31978198f80d4d6371b8466"
+  }
+}

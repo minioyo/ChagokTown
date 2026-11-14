@@ -1,0 +1,43 @@
+# Local toolchains (JDK, Gradle, emulators), DB snapshots and scratch output
+.local-tools/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.iml
+
+# Gradle / Android build output
+.gradle/
+.kotlin/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+*.hprof
+android/*.log
+
+# Built packages and signing material. Only the submission APK under apk/ is tracked.
+*.apk
+!/apk/*.apk
+*.aab
+*.idsig
+*.jks
+*.keystore
+keystore.properties
+
+# Python / Blender scratch files
+__pycache__/
+*.py[cod]
+*.blend[0-9]
+
+# Large intermediate art renders: per-model shots and before/after comparison sheets (~840 MB)
+art/**/renders/models/
+art/**/renders/comparisons/
+
+# Third-party game screenshots kept only as private layout references, not ours to redistribute
+art/reference/**/*.png
+art/reference/**/*.jpg

@@ -1,0 +1,27 @@
+00:01.187  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_layout_v002_concepts\blend\chagok_layout_v002_concepts.blend"
+BlenderMCP addon registered
+22:09:25 | INFO: Data are loaded, start creating Blender stuff
+22:09:25 | INFO: Blender create Mesh node Cube.539
+22:09:25 | INFO: glTF import finished in 0.02s
+22:09:25 | INFO: Data are loaded, start creating Blender stuff
+22:09:25 | INFO: Blender create Mesh node Cube.032
+22:09:25 | INFO: glTF import finished in 0.02s
+22:09:25 | INFO: Data are loaded, start creating Blender stuff
+22:09:25 | INFO: Blender create Mesh node Cube.203
+22:09:25 | INFO: glTF import finished in 0.01s
+00:03.594  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:03.687  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_layout_v003_density\blend\chagok_density_comparison.blend"
+00:14.219  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_layout_v003_density\renders\compact_oblique.png'
+Info: Saved as "chagok_density_comparison.blend"
+RENDERED compact_oblique.png
+00:24.562  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_layout_v003_density\renders\compact_top.png'
+RENDERED compact_top.png
+00:35.187  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_layout_v003_density\renders\dense_oblique.png'
+RENDERED dense_oblique.png
+00:45.640  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_layout_v003_density\renders\dense_top.png'
+RENDERED dense_top.png
+DENSITY_COMPARISON_COMPLETE
+BlenderMCP addon unregistered
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

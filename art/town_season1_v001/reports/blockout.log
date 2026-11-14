@@ -1,0 +1,30 @@
+00:00.906  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_layout_v003_density\blend\chagok_density_comparison.blend"
+BlenderMCP addon registered
+22:52:02 | INFO: Data are loaded, start creating Blender stuff
+22:52:02 | INFO: Blender create Mesh node Cube.200
+22:52:02 | INFO: glTF import finished in 0.03s
+22:52:02 | INFO: Data are loaded, start creating Blender stuff
+22:52:02 | INFO: Blender create Mesh node Cube.835
+22:52:02 | INFO: glTF import finished in 0.03s
+22:52:02 | INFO: Data are loaded, start creating Blender stuff
+22:52:02 | INFO: Blender create Mesh node Cube.378
+22:52:02 | INFO: glTF import finished in 0.03s
+22:52:02 | INFO: Data are loaded, start creating Blender stuff
+22:52:02 | INFO: Blender create Mesh node Cube.1409
+22:52:03 | INFO: glTF import finished in 0.03s
+22:52:05 | INFO: Data are loaded, start creating Blender stuff
+22:52:05 | INFO: Blender create Mesh node Cube.1182
+22:52:05 | INFO: glTF import finished in 0.04s
+22:52:05 | INFO: Data are loaded, start creating Blender stuff
+22:52:05 | INFO: Blender create Mesh node Cube.956
+22:52:06 | INFO: glTF import finished in 0.05s
+LAYOUT blockout collisions []
+00:07.500  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:14.656  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v001\renders\00_max_stage_blockout.png'
+00:21.578  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v001\renders\00_max_stage_blockout_top.png'
+Info: Saved as "season1_blockout.blend"
+BLOCKOUT_COMPLETE
+BlenderMCP addon unregistered
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

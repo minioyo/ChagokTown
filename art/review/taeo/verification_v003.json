@@ -1,0 +1,219 @@
+{
+  "raw": "art\\raw\\taeo\\taeo_neutral_v003.png",
+  "export": "art\\export\\taeo\\taeo_neutral_v003.png",
+  "source": "art\\source\\taeo\\taeo_neutral_v003.aseprite",
+  "size": [
+    1024,
+    1536
+  ],
+  "png_mode": "RGBA",
+  "source_depth_bits": 32,
+  "intentional_framing": {
+    "scale": 0.875,
+    "method": "Aseprite bilinear",
+    "offset_xy": [
+      64,
+      96
+    ]
+  },
+  "raw_export_rgba_equal": false,
+  "framed_source_reopen_export_rgba_equal": true,
+  "aseprite_evidence": "Aseprite 1.3.8.1-dev\nRGB, 1024x1536, 1 layer, 1 frame\nsRGB assigned to untagged source, no color conversion\nUniform bilinear scale: 0.875; offset: (64,96)\nRGBA after framing = reopened Aseprite = exported PNG: PASS",
+  "v002_preserved_sha256": true,
+  "alpha_range": [
+    0,
+    254
+  ],
+  "distinct_alpha_values": 255,
+  "fully_transparent_pixels": 1258608,
+  "fully_opaque_pixels": 0,
+  "partly_transparent_pixels": 314256,
+  "alpha_counts_top": [
+    [
+      0,
+      1258608
+    ],
+    [
+      253,
+      250547
+    ],
+    [
+      252,
+      25679
+    ],
+    [
+      251,
+      5790
+    ],
+    [
+      1,
+      5650
+    ],
+    [
+      254,
+      4117
+    ]
+  ],
+  "alpha_bounds": {
+    "1": [
+      314,
+      116,
+      825,
+      1424
+    ],
+    "8": [
+      316,
+      117,
+      700,
+      1419
+    ],
+    "128": [
+      317,
+      118,
+      698,
+      1418
+    ],
+    "250": [
+      318,
+      132,
+      697,
+      1416
+    ]
+  },
+  "corner_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "png_metadata_keys": [
+    "srgb"
+  ],
+  "color_samples": {
+    "hair": {
+      "raw_xy": [
+        500,
+        125
+      ],
+      "export_xy": [
+        502,
+        205
+      ],
+      "rgba": [
+        83,
+        71,
+        81,
+        253
+      ],
+      "hex_rgb": "#534751"
+    },
+    "skin": {
+      "raw_xy": [
+        520,
+        255
+      ],
+      "export_xy": [
+        519,
+        319
+      ],
+      "rgba": [
+        198,
+        166,
+        151,
+        253
+      ],
+      "hex_rgb": "#C6A697"
+    },
+    "iris": {
+      "raw_xy": [
+        478,
+        230
+      ],
+      "export_xy": [
+        482,
+        297
+      ],
+      "rgba": [
+        113,
+        106,
+        110,
+        253
+      ],
+      "hex_rgb": "#716A6E"
+    },
+    "hoodie": {
+      "raw_xy": [
+        430,
+        530
+      ],
+      "export_xy": [
+        440,
+        560
+      ],
+      "rgba": [
+        65,
+        61,
+        84,
+        253
+      ],
+      "hex_rgb": "#413D54"
+    },
+    "headphones": {
+      "raw_xy": [
+        470,
+        385
+      ],
+      "export_xy": [
+        475,
+        433
+      ],
+      "rgba": [
+        124,
+        113,
+        122,
+        253
+      ],
+      "hex_rgb": "#7C717A"
+    },
+    "trousers": {
+      "raw_xy": [
+        420,
+        1000
+      ],
+      "export_xy": [
+        432,
+        971
+      ],
+      "rgba": [
+        100,
+        88,
+        98,
+        253
+      ],
+      "hex_rgb": "#645862"
+    },
+    "shoes": {
+      "raw_xy": [
+        370,
+        1460
+      ],
+      "export_xy": [
+        388,
+        1374
+      ],
+      "rgba": [
+        140,
+        128,
+        134,
+        253
+      ],
+      "hex_rgb": "#8C8086"
+    }
+  },
+  "sha256": {
+    "art\\raw\\taeo\\taeo_neutral_v003.png": "74f171f609e36548da5b331f704cbb08d839540c07d4abcfcfc5d5369604982d",
+    "art\\source\\taeo\\taeo_neutral_v003.aseprite": "2e1fd10aaf4f1c97d05f3c97315ff4654701f233a1ecd7b0e9d1249f924b546a",
+    "art\\export\\taeo\\taeo_neutral_v003.png": "5796a4d9c2dabda53a7b48025dabe19c9d7c8882cfef4aea877204608d5006c4",
+    "art\\reference\\shared\\user_style_1000023405.jpg": "daaac13b6fb2bccb8baeb12748296d7cd9bc532a37274742d18cd205fcdf9994"
+  }
+}

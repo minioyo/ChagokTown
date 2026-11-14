@@ -1,0 +1,947 @@
+{
+  "Baseline": {
+    "instances": 8,
+    "center_convex_hull_area_m2": 116.84,
+    "instances_per_100_m2": 6.847,
+    "center_aabb_area_m2": 179.08,
+    "max_stage_hull_sum_area_m2": 72.589,
+    "max_stage_cluster_hull_area_m2": 195.001,
+    "max_stage_xy_coverage_percent": 37.22,
+    "max_stage_pairs": [
+      {
+        "a": "cafe",
+        "b": "bakery",
+        "gap_m": 0.49997
+      },
+      {
+        "a": "cafe",
+        "b": "florist",
+        "gap_m": 5.46311
+      },
+      {
+        "a": "cafe",
+        "b": "home",
+        "gap_m": 2.05166
+      },
+      {
+        "a": "cafe",
+        "b": "bookshop",
+        "gap_m": 6.22428
+      },
+      {
+        "a": "cafe",
+        "b": "workshop",
+        "gap_m": 2.34024
+      },
+      {
+        "a": "cafe",
+        "b": "upper_cottage",
+        "gap_m": 4.03377
+      },
+      {
+        "a": "cafe",
+        "b": "lane_cottage",
+        "gap_m": 0.06701
+      },
+      {
+        "a": "bakery",
+        "b": "florist",
+        "gap_m": 2.03147
+      },
+      {
+        "a": "bakery",
+        "b": "home",
+        "gap_m": 0.67714
+      },
+      {
+        "a": "bakery",
+        "b": "bookshop",
+        "gap_m": 1.74462
+      },
+      {
+        "a": "bakery",
+        "b": "workshop",
+        "gap_m": 5.94363
+      },
+      {
+        "a": "bakery",
+        "b": "upper_cottage",
+        "gap_m": 4.71259
+      },
+      {
+        "a": "bakery",
+        "b": "lane_cottage",
+        "gap_m": 3.44132
+      },
+      {
+        "a": "florist",
+        "b": "home",
+        "gap_m": 6.93259
+      },
+      {
+        "a": "florist",
+        "b": "bookshop",
+        "gap_m": 5.63664
+      },
+      {
+        "a": "florist",
+        "b": "workshop",
+        "gap_m": 8.74898
+      },
+      {
+        "a": "florist",
+        "b": "upper_cottage",
+        "gap_m": 11.00181
+      },
+      {
+        "a": "florist",
+        "b": "lane_cottage",
+        "gap_m": 5.96974
+      },
+      {
+        "a": "home",
+        "b": "bookshop",
+        "gap_m": 1.9726
+      },
+      {
+        "a": "home",
+        "b": "workshop",
+        "gap_m": 8.03086
+      },
+      {
+        "a": "home",
+        "b": "upper_cottage",
+        "gap_m": 0.69312
+      },
+      {
+        "a": "home",
+        "b": "lane_cottage",
+        "gap_m": 5.9506
+      },
+      {
+        "a": "bookshop",
+        "b": "workshop",
+        "gap_m": 11.78257
+      },
+      {
+        "a": "bookshop",
+        "b": "upper_cottage",
+        "gap_m": 4.8914
+      },
+      {
+        "a": "bookshop",
+        "b": "lane_cottage",
+        "gap_m": 9.15013
+      },
+      {
+        "a": "workshop",
+        "b": "upper_cottage",
+        "gap_m": 10.15564
+      },
+      {
+        "a": "workshop",
+        "b": "lane_cottage",
+        "gap_m": 0.10084
+      },
+      {
+        "a": "upper_cottage",
+        "b": "lane_cottage",
+        "gap_m": 8.59534
+      }
+    ],
+    "minimum_separating_axis_gap_m": 0.06701,
+    "building_triangles": 39656,
+    "environment_triangles": 55516,
+    "total_visible_scene_triangles": 95172,
+    "tree_count": 15,
+    "calibration_matches_baseline": true
+  },
+  "Compact": {
+    "instances": 8,
+    "center_convex_hull_area_m2": 57.825,
+    "instances_per_100_m2": 13.835,
+    "center_aabb_area_m2": 87.84,
+    "max_stage_hull_sum_area_m2": 72.589,
+    "max_stage_cluster_hull_area_m2": 114.353,
+    "max_stage_xy_coverage_percent": 63.48,
+    "max_stage_pairs": [
+      {
+        "a": "bakery",
+        "b": "cafe",
+        "gap_m": 0.10464
+      },
+      {
+        "a": "bakery",
+        "b": "florist",
+        "gap_m": 0.06225
+      },
+      {
+        "a": "bakery",
+        "b": "home",
+        "gap_m": 0.13357
+      },
+      {
+        "a": "bakery",
+        "b": "bookshop",
+        "gap_m": 0.10924
+      },
+      {
+        "a": "bakery",
+        "b": "upper_cottage",
+        "gap_m": 3.75304
+      },
+      {
+        "a": "bakery",
+        "b": "workshop",
+        "gap_m": 1.40045
+      },
+      {
+        "a": "bakery",
+        "b": "lane_cottage",
+        "gap_m": 0.14751
+      },
+      {
+        "a": "cafe",
+        "b": "florist",
+        "gap_m": 3.59807
+      },
+      {
+        "a": "cafe",
+        "b": "home",
+        "gap_m": 0.13812
+      },
+      {
+        "a": "cafe",
+        "b": "bookshop",
+        "gap_m": 2.98665
+      },
+      {
+        "a": "cafe",
+        "b": "upper_cottage",
+        "gap_m": 1.12787
+      },
+      {
+        "a": "cafe",
+        "b": "workshop",
+        "gap_m": 0.14505
+      },
+      {
+        "a": "cafe",
+        "b": "lane_cottage",
+        "gap_m": 0.25863
+      },
+      {
+        "a": "florist",
+        "b": "home",
+        "gap_m": 4.04766
+      },
+      {
+        "a": "florist",
+        "b": "bookshop",
+        "gap_m": 2.6209
+      },
+      {
+        "a": "florist",
+        "b": "upper_cottage",
+        "gap_m": 7.7351
+      },
+      {
+        "a": "florist",
+        "b": "workshop",
+        "gap_m": 3.66302
+      },
+      {
+        "a": "florist",
+        "b": "lane_cottage",
+        "gap_m": 1.26963
+      },
+      {
+        "a": "home",
+        "b": "bookshop",
+        "gap_m": 0.14008
+      },
+      {
+        "a": "home",
+        "b": "upper_cottage",
+        "gap_m": 0.06196
+      },
+      {
+        "a": "home",
+        "b": "workshop",
+        "gap_m": 3.96406
+      },
+      {
+        "a": "home",
+        "b": "lane_cottage",
+        "gap_m": 3.72667
+      },
+      {
+        "a": "bookshop",
+        "b": "upper_cottage",
+        "gap_m": 4.03374
+      },
+      {
+        "a": "bookshop",
+        "b": "workshop",
+        "gap_m": 5.87038
+      },
+      {
+        "a": "bookshop",
+        "b": "lane_cottage",
+        "gap_m": 3.84797
+      },
+      {
+        "a": "upper_cottage",
+        "b": "workshop",
+        "gap_m": 5.1612
+      },
+      {
+        "a": "upper_cottage",
+        "b": "lane_cottage",
+        "gap_m": 5.78943
+      },
+      {
+        "a": "workshop",
+        "b": "lane_cottage",
+        "gap_m": 0.12017
+      }
+    ],
+    "minimum_separating_axis_gap_m": 0.06196,
+    "building_triangles": 39656,
+    "environment_triangles": 55628,
+    "total_visible_scene_triangles": 95284,
+    "tree_count": 15,
+    "calibration_matches_baseline": true
+  },
+  "Dense": {
+    "instances": 16,
+    "center_convex_hull_area_m2": 108.094,
+    "instances_per_100_m2": 14.802,
+    "center_aabb_area_m2": 149.435,
+    "max_stage_hull_sum_area_m2": 100.649,
+    "max_stage_cluster_hull_area_m2": 155.42,
+    "max_stage_xy_coverage_percent": 64.76,
+    "max_stage_pairs": [
+      {
+        "a": "bakery",
+        "b": "cafe",
+        "gap_m": 0.10464
+      },
+      {
+        "a": "bakery",
+        "b": "florist",
+        "gap_m": 0.06225
+      },
+      {
+        "a": "bakery",
+        "b": "home",
+        "gap_m": 0.13357
+      },
+      {
+        "a": "bakery",
+        "b": "bookshop",
+        "gap_m": 0.10924
+      },
+      {
+        "a": "bakery",
+        "b": "upper_cottage",
+        "gap_m": 3.75304
+      },
+      {
+        "a": "bakery",
+        "b": "workshop",
+        "gap_m": 1.40045
+      },
+      {
+        "a": "bakery",
+        "b": "lane_cottage",
+        "gap_m": 0.14751
+      },
+      {
+        "a": "bakery",
+        "b": "infill_west",
+        "gap_m": 3.98329
+      },
+      {
+        "a": "bakery",
+        "b": "infill_court",
+        "gap_m": 2.36033
+      },
+      {
+        "a": "bakery",
+        "b": "infill_upper",
+        "gap_m": 2.86131
+      },
+      {
+        "a": "bakery",
+        "b": "infill_back",
+        "gap_m": 3.61457
+      },
+      {
+        "a": "bakery",
+        "b": "infill_east",
+        "gap_m": 0.07035
+      },
+      {
+        "a": "bakery",
+        "b": "infill_work",
+        "gap_m": 3.83825
+      },
+      {
+        "a": "bakery",
+        "b": "infill_lower_west",
+        "gap_m": 5.15753
+      },
+      {
+        "a": "bakery",
+        "b": "infill_lower_east",
+        "gap_m": 3.28845
+      },
+      {
+        "a": "cafe",
+        "b": "florist",
+        "gap_m": 3.59807
+      },
+      {
+        "a": "cafe",
+        "b": "home",
+        "gap_m": 0.13812
+      },
+      {
+        "a": "cafe",
+        "b": "bookshop",
+        "gap_m": 2.98665
+      },
+      {
+        "a": "cafe",
+        "b": "upper_cottage",
+        "gap_m": 1.12787
+      },
+      {
+        "a": "cafe",
+        "b": "workshop",
+        "gap_m": 0.14505
+      },
+      {
+        "a": "cafe",
+        "b": "lane_cottage",
+        "gap_m": 0.25863
+      },
+      {
+        "a": "cafe",
+        "b": "infill_west",
+        "gap_m": 0.07352
+      },
+      {
+        "a": "cafe",
+        "b": "infill_court",
+        "gap_m": 4.13637
+      },
+      {
+        "a": "cafe",
+        "b": "infill_upper",
+        "gap_m": 4.1824
+      },
+      {
+        "a": "cafe",
+        "b": "infill_back",
+        "gap_m": 3.08408
+      },
+      {
+        "a": "cafe",
+        "b": "infill_east",
+        "gap_m": 3.75487
+      },
+      {
+        "a": "cafe",
+        "b": "infill_work",
+        "gap_m": 0.09655
+      },
+      {
+        "a": "cafe",
+        "b": "infill_lower_west",
+        "gap_m": 3.02026
+      },
+      {
+        "a": "cafe",
+        "b": "infill_lower_east",
+        "gap_m": 6.43933
+      },
+      {
+        "a": "florist",
+        "b": "home",
+        "gap_m": 4.04766
+      },
+      {
+        "a": "florist",
+        "b": "bookshop",
+        "gap_m": 2.6209
+      },
+      {
+        "a": "florist",
+        "b": "upper_cottage",
+        "gap_m": 7.7351
+      },
+      {
+        "a": "florist",
+        "b": "workshop",
+        "gap_m": 3.66302
+      },
+      {
+        "a": "florist",
+        "b": "lane_cottage",
+        "gap_m": 1.26963
+      },
+      {
+        "a": "florist",
+        "b": "infill_west",
+        "gap_m": 7.54742
+      },
+      {
+        "a": "florist",
+        "b": "infill_court",
+        "gap_m": 0.1078
+      },
+      {
+        "a": "florist",
+        "b": "infill_upper",
+        "gap_m": 5.67075
+      },
+      {
+        "a": "florist",
+        "b": "infill_back",
+        "gap_m": 7.74562
+      },
+      {
+        "a": "florist",
+        "b": "infill_east",
+        "gap_m": 0.71605
+      },
+      {
+        "a": "florist",
+        "b": "infill_work",
+        "gap_m": 6.9059
+      },
+      {
+        "a": "florist",
+        "b": "infill_lower_west",
+        "gap_m": 7.3414
+      },
+      {
+        "a": "florist",
+        "b": "infill_lower_east",
+        "gap_m": 0.0601
+      },
+      {
+        "a": "home",
+        "b": "bookshop",
+        "gap_m": 0.14008
+      },
+      {
+        "a": "home",
+        "b": "upper_cottage",
+        "gap_m": 0.06196
+      },
+      {
+        "a": "home",
+        "b": "workshop",
+        "gap_m": 3.96406
+      },
+      {
+        "a": "home",
+        "b": "lane_cottage",
+        "gap_m": 3.72667
+      },
+      {
+        "a": "home",
+        "b": "infill_west",
+        "gap_m": 1.92555
+      },
+      {
+        "a": "home",
+        "b": "infill_court",
+        "gap_m": 7.10607
+      },
+      {
+        "a": "home",
+        "b": "infill_upper",
+        "gap_m": 0.14186
+      },
+      {
+        "a": "home",
+        "b": "infill_back",
+        "gap_m": 0.09044
+      },
+      {
+        "a": "home",
+        "b": "infill_east",
+        "gap_m": 2.81284
+      },
+      {
+        "a": "home",
+        "b": "infill_work",
+        "gap_m": 3.91775
+      },
+      {
+        "a": "home",
+        "b": "infill_lower_west",
+        "gap_m": 6.64246
+      },
+      {
+        "a": "home",
+        "b": "infill_lower_east",
+        "gap_m": 7.19775
+      },
+      {
+        "a": "bookshop",
+        "b": "upper_cottage",
+        "gap_m": 4.03374
+      },
+      {
+        "a": "bookshop",
+        "b": "workshop",
+        "gap_m": 5.87038
+      },
+      {
+        "a": "bookshop",
+        "b": "lane_cottage",
+        "gap_m": 3.84797
+      },
+      {
+        "a": "bookshop",
+        "b": "infill_west",
+        "gap_m": 5.25854
+      },
+      {
+        "a": "bookshop",
+        "b": "infill_court",
+        "gap_m": 5.99105
+      },
+      {
+        "a": "bookshop",
+        "b": "infill_upper",
+        "gap_m": 0.10989
+      },
+      {
+        "a": "bookshop",
+        "b": "infill_back",
+        "gap_m": 3.28375
+      },
+      {
+        "a": "bookshop",
+        "b": "infill_east",
+        "gap_m": 0.42493
+      },
+      {
+        "a": "bookshop",
+        "b": "infill_work",
+        "gap_m": 7.1874
+      },
+      {
+        "a": "bookshop",
+        "b": "infill_lower_west",
+        "gap_m": 9.55633
+      },
+      {
+        "a": "bookshop",
+        "b": "infill_lower_east",
+        "gap_m": 5.79895
+      },
+      {
+        "a": "upper_cottage",
+        "b": "workshop",
+        "gap_m": 5.1612
+      },
+      {
+        "a": "upper_cottage",
+        "b": "lane_cottage",
+        "gap_m": 5.78943
+      },
+      {
+        "a": "upper_cottage",
+        "b": "infill_west",
+        "gap_m": 1.11914
+      },
+      {
+        "a": "upper_cottage",
+        "b": "infill_court",
+        "gap_m": 9.60322
+      },
+      {
+        "a": "upper_cottage",
+        "b": "infill_upper",
+        "gap_m": 3.32842
+      },
+      {
+        "a": "upper_cottage",
+        "b": "infill_back",
+        "gap_m": 0.46234
+      },
+      {
+        "a": "upper_cottage",
+        "b": "infill_east",
+        "gap_m": 7.17358
+      },
+      {
+        "a": "upper_cottage",
+        "b": "infill_work",
+        "gap_m": 4.25012
+      },
+      {
+        "a": "upper_cottage",
+        "b": "infill_lower_west",
+        "gap_m": 7.29382
+      },
+      {
+        "a": "upper_cottage",
+        "b": "infill_lower_east",
+        "gap_m": 11.19281
+      },
+      {
+        "a": "workshop",
+        "b": "lane_cottage",
+        "gap_m": 0.12017
+      },
+      {
+        "a": "workshop",
+        "b": "infill_west",
+        "gap_m": 2.57536
+      },
+      {
+        "a": "workshop",
+        "b": "infill_court",
+        "gap_m": 3.24189
+      },
+      {
+        "a": "workshop",
+        "b": "infill_upper",
+        "gap_m": 7.91318
+      },
+      {
+        "a": "workshop",
+        "b": "infill_back",
+        "gap_m": 7.0698
+      },
+      {
+        "a": "workshop",
+        "b": "infill_east",
+        "gap_m": 5.45298
+      },
+      {
+        "a": "workshop",
+        "b": "infill_work",
+        "gap_m": 0.09879
+      },
+      {
+        "a": "workshop",
+        "b": "infill_lower_west",
+        "gap_m": 0.08866
+      },
+      {
+        "a": "workshop",
+        "b": "infill_lower_east",
+        "gap_m": 5.91503
+      },
+      {
+        "a": "lane_cottage",
+        "b": "infill_west",
+        "gap_m": 4.37835
+      },
+      {
+        "a": "lane_cottage",
+        "b": "infill_court",
+        "gap_m": 1.02741
+      },
+      {
+        "a": "lane_cottage",
+        "b": "infill_upper",
+        "gap_m": 6.54996
+      },
+      {
+        "a": "lane_cottage",
+        "b": "infill_back",
+        "gap_m": 7.02473
+      },
+      {
+        "a": "lane_cottage",
+        "b": "infill_east",
+        "gap_m": 3.19524
+      },
+      {
+        "a": "lane_cottage",
+        "b": "infill_work",
+        "gap_m": 3.3188
+      },
+      {
+        "a": "lane_cottage",
+        "b": "infill_lower_west",
+        "gap_m": 3.93786
+      },
+      {
+        "a": "lane_cottage",
+        "b": "infill_lower_east",
+        "gap_m": 3.41959
+      },
+      {
+        "a": "infill_west",
+        "b": "infill_court",
+        "gap_m": 7.96164
+      },
+      {
+        "a": "infill_west",
+        "b": "infill_upper",
+        "gap_m": 5.58359
+      },
+      {
+        "a": "infill_west",
+        "b": "infill_back",
+        "gap_m": 3.52163
+      },
+      {
+        "a": "infill_west",
+        "b": "infill_east",
+        "gap_m": 7.54561
+      },
+      {
+        "a": "infill_west",
+        "b": "infill_work",
+        "gap_m": 1.55985
+      },
+      {
+        "a": "infill_west",
+        "b": "infill_lower_west",
+        "gap_m": 4.57417
+      },
+      {
+        "a": "infill_west",
+        "b": "infill_lower_east",
+        "gap_m": 10.58612
+      },
+      {
+        "a": "infill_court",
+        "b": "infill_upper",
+        "gap_m": 9.03616
+      },
+      {
+        "a": "infill_court",
+        "b": "infill_back",
+        "gap_m": 10.45933
+      },
+      {
+        "a": "infill_court",
+        "b": "infill_east",
+        "gap_m": 4.13427
+      },
+      {
+        "a": "infill_court",
+        "b": "infill_work",
+        "gap_m": 6.48321
+      },
+      {
+        "a": "infill_court",
+        "b": "infill_lower_west",
+        "gap_m": 6.55391
+      },
+      {
+        "a": "infill_court",
+        "b": "infill_lower_east",
+        "gap_m": 0.47675
+      },
+      {
+        "a": "infill_upper",
+        "b": "infill_back",
+        "gap_m": 1.60092
+      },
+      {
+        "a": "infill_upper",
+        "b": "infill_east",
+        "gap_m": 3.47695
+      },
+      {
+        "a": "infill_upper",
+        "b": "infill_work",
+        "gap_m": 8.00852
+      },
+      {
+        "a": "infill_upper",
+        "b": "infill_lower_west",
+        "gap_m": 10.67385
+      },
+      {
+        "a": "infill_upper",
+        "b": "infill_lower_east",
+        "gap_m": 8.93327
+      },
+      {
+        "a": "infill_back",
+        "b": "infill_east",
+        "gap_m": 6.54359
+      },
+      {
+        "a": "infill_back",
+        "b": "infill_work",
+        "gap_m": 6.46951
+      },
+      {
+        "a": "infill_back",
+        "b": "infill_lower_west",
+        "gap_m": 9.46321
+      },
+      {
+        "a": "infill_back",
+        "b": "infill_lower_east",
+        "gap_m": 11.23583
+      },
+      {
+        "a": "infill_east",
+        "b": "infill_work",
+        "gap_m": 7.91271
+      },
+      {
+        "a": "infill_east",
+        "b": "infill_lower_west",
+        "gap_m": 9.33841
+      },
+      {
+        "a": "infill_east",
+        "b": "infill_lower_east",
+        "gap_m": 3.23927
+      },
+      {
+        "a": "infill_work",
+        "b": "infill_lower_west",
+        "gap_m": 1.11036
+      },
+      {
+        "a": "infill_work",
+        "b": "infill_lower_east",
+        "gap_m": 9.12789
+      },
+      {
+        "a": "infill_lower_west",
+        "b": "infill_lower_east",
+        "gap_m": 9.25817
+      }
+    ],
+    "minimum_separating_axis_gap_m": 0.0601,
+    "building_triangles": 69028,
+    "environment_triangles": 56916,
+    "total_visible_scene_triangles": 125944,
+    "tree_count": 15,
+    "calibration_matches_baseline": true
+  },
+  "control": {
+    "camera_and_lights_identical": true,
+    "base_eight_collections_identical": true,
+    "base_eight_scales_identical": true,
+    "world_materials_and_colour_management_unchanged": true,
+    "warp_cells_no_folds": 28,
+    "oblique_ortho_m": 28,
+    "top_ortho_m": 35,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "depth_of_field": false
+  }
+}

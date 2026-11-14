@@ -1,0 +1,6 @@
+Aseprite 1.3.8.1-dev
+RGB/RGBA, sRGB assigned to untagged source, 1254x1254, 2 layers (Body, Eyes), 1 frame
+Integer translation: (1,-41); no rescaling/cropping of delivery canvas
+Body pixels: 316225; eye pixels: 5132
+Cleaned composite = reopened Aseprite = exported PNG RGBA: PASS
+No Indexed conversion. Distant alpha dust removed; opaque interiors normalized; edge partial alpha retained.

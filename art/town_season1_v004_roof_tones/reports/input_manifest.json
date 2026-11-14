@@ -1,0 +1,611 @@
+{
+  "revision": "town_season1_v003_hiddenfaces",
+  "types": 12,
+  "plots": 14,
+  "changed_assets": 36,
+  "unchanged_assets": 0,
+  "instances_world_scale": [
+    1,
+    1,
+    1
+  ],
+  "assets": [
+    {
+      "type": "bakery",
+      "level": 1,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/bakery_level_1.glb",
+      "sha256": "42e005d424c5a0dd1a4fa36696c4ecdcfab8befdf93a93ad4cd56d3f33076863",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 bakery_level_1",
+      "source_path": "town_season1_v002_integrated/exports/bakery_level_1.glb",
+      "source_sha256": "2af8e1712ea9a6b5b09f024a201a23b65e099632c503e6995fa84674c1e8451f",
+      "mapping": "reports/mappings/bakery_level_1.json.gz"
+    },
+    {
+      "type": "bakery",
+      "level": 2,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/bakery_level_2.glb",
+      "sha256": "71a68209c3c64c236e1828ca465be7ab13a9c6b85ab1943912e28c9756f70dc1",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 bakery_level_2",
+      "source_path": "town_season1_v002_integrated/exports/bakery_level_2.glb",
+      "source_sha256": "37f74b4b74e4995ef1e118545bfd8e6bd16bd9abbb99473be5957a49e2c3cd68",
+      "mapping": "reports/mappings/bakery_level_2.json.gz"
+    },
+    {
+      "type": "bakery",
+      "level": 3,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/bakery_level_3.glb",
+      "sha256": "1da1e767f5c345d5a26312fb3a0a3adf5713531c18d98e34448c8ae56a1075d4",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 bakery_level_3",
+      "source_path": "town_season1_v002_integrated/exports/bakery_level_3.glb",
+      "source_sha256": "19eb97d74ca179e8821d561edbebd4a5a391bb91f0f0b72e61dc872c23d026a1",
+      "mapping": "reports/mappings/bakery_level_3.json.gz"
+    },
+    {
+      "type": "bookshop",
+      "level": 1,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/bookshop_level_1.glb",
+      "sha256": "3fa8d6dba62b672469e90938b92b85bbd3995e0c710b416cef36362af59b0444",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 bookshop_level_1",
+      "source_path": "town_season1_v002_integrated/exports/bookshop_level_1.glb",
+      "source_sha256": "894108102bdcbca74687a74ba3249643075a3260356508b7b7a96c8d2d64c32c",
+      "mapping": "reports/mappings/bookshop_level_1.json.gz"
+    },
+    {
+      "type": "bookshop",
+      "level": 2,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/bookshop_level_2.glb",
+      "sha256": "2ace3f0b4dbf3d74c4924a3793efa8188be7e0a9fc82954a67b1fe8cb0f290b4",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 bookshop_level_2",
+      "source_path": "town_season1_v002_integrated/exports/bookshop_level_2.glb",
+      "source_sha256": "3d69f99a8555a8edb070f413fab89073f8a01535a9823a1611291a20df3a59c4",
+      "mapping": "reports/mappings/bookshop_level_2.json.gz"
+    },
+    {
+      "type": "bookshop",
+      "level": 3,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/bookshop_level_3.glb",
+      "sha256": "7c1ba786fb243b89c6817dae41610907e2eeed5a688971a57e0b9f8e08e41dd6",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 bookshop_level_3",
+      "source_path": "town_season1_v002_integrated/exports/bookshop_level_3.glb",
+      "source_sha256": "70d7fe1d42f38c4ea514ca2ffcd615ceb5f5255264c8e3b8278e8227bae5f844",
+      "mapping": "reports/mappings/bookshop_level_3.json.gz"
+    },
+    {
+      "type": "cafe",
+      "level": 1,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/cafe_level_1.glb",
+      "sha256": "8155082268acf45ba659abad04ca70c7b352840a98d9421d63b34ebc215d3479",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 cafe_level_1",
+      "source_path": "town_season1_v002_integrated/exports/cafe_level_1.glb",
+      "source_sha256": "b113fe8fde73ca07d2e1bfbd3a221c48d69099fe4d3189221293c7f82986f485",
+      "mapping": "reports/mappings/cafe_level_1.json.gz"
+    },
+    {
+      "type": "cafe",
+      "level": 2,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/cafe_level_2.glb",
+      "sha256": "8bdfa2ee1ec81bdd25095cb39f162d3100d4c8858fdd9c45ff8053b57343c974",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 cafe_level_2",
+      "source_path": "town_season1_v002_integrated/exports/cafe_level_2.glb",
+      "source_sha256": "fc320645f3e68f0a30428fb3a7538598a53592e742dd49ea09160445046aa6c9",
+      "mapping": "reports/mappings/cafe_level_2.json.gz"
+    },
+    {
+      "type": "cafe",
+      "level": 3,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/cafe_level_3.glb",
+      "sha256": "86e32b221fd91dc2ab2680a6629e80a023af670592c0c4847a9e3349d433e856",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 cafe_level_3",
+      "source_path": "town_season1_v002_integrated/exports/cafe_level_3.glb",
+      "source_sha256": "70791188702ddcc1c8304817cdd402da9f07de8d26c081ed9e11796e4be03d6a",
+      "mapping": "reports/mappings/cafe_level_3.json.gz"
+    },
+    {
+      "type": "florist",
+      "level": 1,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/florist_level_1.glb",
+      "sha256": "66ef4a9ec32843f41231fd07d3c6ec417d289c46c65ec250c7dcc5c1338c65d9",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 florist_level_1",
+      "source_path": "town_season1_v002_integrated/exports/florist_level_1.glb",
+      "source_sha256": "1655fbeb6a9b5c53f90d8a6e19c1334e0b1b95992af4213237071c76d365e770",
+      "mapping": "reports/mappings/florist_level_1.json.gz"
+    },
+    {
+      "type": "florist",
+      "level": 2,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/florist_level_2.glb",
+      "sha256": "f26eb7f92ffd3999e54208cf095febe39907d805a8b5716bbb7ad98586649951",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 florist_level_2",
+      "source_path": "town_season1_v002_integrated/exports/florist_level_2.glb",
+      "source_sha256": "d85747f37de110557ca2b48667a36de8f44a3abc9d542b1059ebc561540f4f88",
+      "mapping": "reports/mappings/florist_level_2.json.gz"
+    },
+    {
+      "type": "florist",
+      "level": 3,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/florist_level_3.glb",
+      "sha256": "5755118eacb68eb3115a654140ebe4239d4f08e22220daa0133c095646b3e49e",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 florist_level_3",
+      "source_path": "town_season1_v002_integrated/exports/florist_level_3.glb",
+      "source_sha256": "97c3f0f105ef44f8e16c19ffccce01758c034c1437014b0db328b3be8e89b750",
+      "mapping": "reports/mappings/florist_level_3.json.gz"
+    },
+    {
+      "type": "grocer",
+      "level": 1,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/grocer_level_1.glb",
+      "sha256": "dd6b180d6061b491fea651f4c63edf67707c5c7f9e84423737fe8cdae290b998",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 grocer_level_1",
+      "source_path": "town_season1_v002_integrated/exports/grocer_level_1.glb",
+      "source_sha256": "9fe96d5d6e00b7c24aa4c45691ff91de2d04f951d371fc8ed40993cdfa5a5fce",
+      "mapping": "reports/mappings/grocer_level_1.json.gz"
+    },
+    {
+      "type": "grocer",
+      "level": 2,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/grocer_level_2.glb",
+      "sha256": "734694965b20eddb07e072298ce41cacd9591cae9ba768d485edd27433fe86b6",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 grocer_level_2",
+      "source_path": "town_season1_v002_integrated/exports/grocer_level_2.glb",
+      "source_sha256": "b780ffc5914e7ea99d81dfd9e12f036977e5b87fd663fa89b7c050550fcff603",
+      "mapping": "reports/mappings/grocer_level_2.json.gz"
+    },
+    {
+      "type": "grocer",
+      "level": 3,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/grocer_level_3.glb",
+      "sha256": "4797151d21d93c0301c750dab347040df1d5207f0bb3d05ca9368608df23a2b4",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 grocer_level_3",
+      "source_path": "town_season1_v002_integrated/exports/grocer_level_3.glb",
+      "source_sha256": "5a0b35e35229fbd6cdea8383e2c0f1a28cbc96e0ba5e6340ebb61de250b854a4",
+      "mapping": "reports/mappings/grocer_level_3.json.gz"
+    },
+    {
+      "type": "house",
+      "level": 1,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/house_level_1.glb",
+      "sha256": "b58b392304ec4799f47ab2b537bdce4e676fc616ba5779fa7a3f4fd74dcebde5",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 house_level_1",
+      "source_path": "town_season1_v002_integrated/exports/house_level_1.glb",
+      "source_sha256": "2e515b17f5cb5a5ffa8300a79d36519fdf7bfdfbbd737aba70ab6971ad49b392",
+      "mapping": "reports/mappings/house_level_1.json.gz"
+    },
+    {
+      "type": "house",
+      "level": 2,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/house_level_2.glb",
+      "sha256": "885ec105b6aa7f948e28ea42639c59844174315f19c3acb664a266cbc6ed203d",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 house_level_2",
+      "source_path": "town_season1_v002_integrated/exports/house_level_2.glb",
+      "source_sha256": "a1838b7548124e49c8901ad8a07d16bf4e0d9c21f8f776a1b453295fa9dd2385",
+      "mapping": "reports/mappings/house_level_2.json.gz"
+    },
+    {
+      "type": "house",
+      "level": 3,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/house_level_3.glb",
+      "sha256": "fe4e6b68a16dc53f38daa1d077000f2885d9cf11377465252cc9d2cd977befef",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 house_level_3",
+      "source_path": "town_season1_v002_integrated/exports/house_level_3.glb",
+      "source_sha256": "412ed73b0007a46602a59f137dda70c9f1ad3ec042fe1e24391affdd2857e832",
+      "mapping": "reports/mappings/house_level_3.json.gz"
+    },
+    {
+      "type": "town_hall",
+      "level": 1,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/town_hall_level_1.glb",
+      "sha256": "a5ef838832f2d84ff647ed4a64c5b1205c1b2b26f411a773be6f5d252fb16703",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 town_hall_level_1",
+      "source_path": "town_season1_v002_integrated/exports/town_hall_level_1.glb",
+      "source_sha256": "1ff5bec5c9d690a0d961f255664f3c367f0d0ee127aa5acd63e125c0a1ebe799",
+      "mapping": "reports/mappings/town_hall_level_1.json.gz"
+    },
+    {
+      "type": "town_hall",
+      "level": 2,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/town_hall_level_2.glb",
+      "sha256": "5e5befa569ed80b866e299c21b51d5446fb0b427adb79ca84b069328bbbc0979",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 town_hall_level_2",
+      "source_path": "town_season1_v002_integrated/exports/town_hall_level_2.glb",
+      "source_sha256": "c24def5f86fcb8b4735f8ad6a361fa1285976136d71cd684eb00390e7a424e0b",
+      "mapping": "reports/mappings/town_hall_level_2.json.gz"
+    },
+    {
+      "type": "town_hall",
+      "level": 3,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/town_hall_level_3.glb",
+      "sha256": "dff435042305ae721ca6a102a5dd76e87abcbd171016db254fe7722eb57ab99c",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 town_hall_level_3",
+      "source_path": "town_season1_v002_integrated/exports/town_hall_level_3.glb",
+      "source_sha256": "f4948897da9bf855753098c32769c90e97dbbc93b704fd08c114a4fc232aa8c0",
+      "mapping": "reports/mappings/town_hall_level_3.json.gz"
+    },
+    {
+      "type": "workshop",
+      "level": 1,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/workshop_level_1.glb",
+      "sha256": "986caefb4193d7fa323be7413d6f5d9371acb19619caf8258f16ddb8b0c4975f",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 workshop_level_1",
+      "source_path": "town_season1_v002_integrated/exports/workshop_level_1.glb",
+      "source_sha256": "da8f4a6ea336106e0e7ffa3cd51c85f2ad2b47c36ff78420cf4cec4110d55644",
+      "mapping": "reports/mappings/workshop_level_1.json.gz"
+    },
+    {
+      "type": "workshop",
+      "level": 2,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/workshop_level_2.glb",
+      "sha256": "c0cfdb57895e3b5a7975f5b49f10e28c178dd17cff7ed6711c9674d6da171a66",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 workshop_level_2",
+      "source_path": "town_season1_v002_integrated/exports/workshop_level_2.glb",
+      "source_sha256": "e496433750693190c7eafc2f71ad9f661b6d6bc3120b7f73653e3755f347271f",
+      "mapping": "reports/mappings/workshop_level_2.json.gz"
+    },
+    {
+      "type": "workshop",
+      "level": 3,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/workshop_level_3.glb",
+      "sha256": "d1fa5c1938ad42dc11aa6b82d95dde1dc5d3fde16d8c1ec4b3f57c5254da00fa",
+      "editable_blend": "town_season1_v002_integrated/blend/integrated_models.blend",
+      "editable_scene": "EDIT \u2022 workshop_level_3",
+      "source_path": "town_season1_v002_integrated/exports/workshop_level_3.glb",
+      "source_sha256": "0c61728024b3790b643636dfe307f8a77883f2be0e498214ee573f5621495e13",
+      "mapping": "reports/mappings/workshop_level_3.json.gz"
+    },
+    {
+      "type": "cathedral",
+      "level": 1,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/cathedral_level_1.glb",
+      "sha256": "5c0b5d5d5b3817c6470be991d541040b241a25204edf73d1022a40b61d6e5aa6",
+      "editable_blend": "town_season1_v001/blend/season1_models.blend",
+      "editable_scene": "EDIT \u2022 cathedral_level_1",
+      "source_path": "town_season1_v001/exports/cathedral_level_1.glb",
+      "source_sha256": "948184e553cc17135ff811288faf9af0c5a994068c00ab31b2a7d731272feb95",
+      "mapping": "reports/mappings/cathedral_level_1.json.gz"
+    },
+    {
+      "type": "cathedral",
+      "level": 2,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/cathedral_level_2.glb",
+      "sha256": "4841983a5fd72eea703abc74f9ec00b65944718466f61ebcd2abfeec1cedb66d",
+      "editable_blend": "town_season1_v001/blend/season1_models.blend",
+      "editable_scene": "EDIT \u2022 cathedral_level_2",
+      "source_path": "town_season1_v001/exports/cathedral_level_2.glb",
+      "source_sha256": "2e3bfbf62b6597d2e1687b28e5b7895be1f2474717944e141c61784f6760221d",
+      "mapping": "reports/mappings/cathedral_level_2.json.gz"
+    },
+    {
+      "type": "cathedral",
+      "level": 3,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/cathedral_level_3.glb",
+      "sha256": "e417462a3fe3db7fdef102037f3d1aecf04aadea83ddc01fc2385e850af9b96c",
+      "editable_blend": "town_season1_v001/blend/season1_models.blend",
+      "editable_scene": "EDIT \u2022 cathedral_level_3",
+      "source_path": "town_season1_v001/exports/cathedral_level_3.glb",
+      "source_sha256": "05c39e4f6c39375c9901f40e8250e38c75d73107d2be82158e111a2a977ab2e2",
+      "mapping": "reports/mappings/cathedral_level_3.json.gz"
+    },
+    {
+      "type": "inn",
+      "level": 1,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/inn_level_1.glb",
+      "sha256": "893897f7de50cb00765d078a369ecf37c5674b1dc2e81edc9b8cf20448e11cdc",
+      "editable_blend": "town_season1_v001/blend/season1_models.blend",
+      "editable_scene": "EDIT \u2022 inn_level_1",
+      "source_path": "town_season1_v001/exports/inn_level_1.glb",
+      "source_sha256": "cb39cf6d6293449780e5439309c707d50b678407beddb958e98cf9bc25517dd7",
+      "mapping": "reports/mappings/inn_level_1.json.gz"
+    },
+    {
+      "type": "inn",
+      "level": 2,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/inn_level_2.glb",
+      "sha256": "e273b993f68e51e3195b6ba5a09b816f24590a2bcf4d3a114aa9c0149af1b35b",
+      "editable_blend": "town_season1_v001/blend/season1_models.blend",
+      "editable_scene": "EDIT \u2022 inn_level_2",
+      "source_path": "town_season1_v001/exports/inn_level_2.glb",
+      "source_sha256": "60e633f2223fada69f1df4c60c66cb901b3a86070135fac66b527797926891e5",
+      "mapping": "reports/mappings/inn_level_2.json.gz"
+    },
+    {
+      "type": "inn",
+      "level": 3,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/inn_level_3.glb",
+      "sha256": "3377ec621e95f1f2c1df57f4de026d52d04f36f55f31daa22e6e07875639af29",
+      "editable_blend": "town_season1_v001/blend/season1_models.blend",
+      "editable_scene": "EDIT \u2022 inn_level_3",
+      "source_path": "town_season1_v001/exports/inn_level_3.glb",
+      "source_sha256": "34f058ce7e5d59f5a0c9641f84c62a57cee9a0319e0032de3ec717d0b6074895",
+      "mapping": "reports/mappings/inn_level_3.json.gz"
+    },
+    {
+      "type": "watermill",
+      "level": 1,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/watermill_level_1.glb",
+      "sha256": "3d9be918c7e6a1809ad001327b3ad9ee824f0184f347afbebfd9512fc4292ead",
+      "editable_blend": "town_season1_v001/blend/season1_models.blend",
+      "editable_scene": "EDIT \u2022 watermill_level_1",
+      "source_path": "town_season1_v001/exports/watermill_level_1.glb",
+      "source_sha256": "88db81f8835baa63f9efd0082a50d5da99052e652669ff718b33f5ed3f86f69a",
+      "mapping": "reports/mappings/watermill_level_1.json.gz"
+    },
+    {
+      "type": "watermill",
+      "level": 2,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/watermill_level_2.glb",
+      "sha256": "bd2f5545b06b012f1b999846b5fa9dab8986f9bbadf9cf857472980f539e3ab3",
+      "editable_blend": "town_season1_v001/blend/season1_models.blend",
+      "editable_scene": "EDIT \u2022 watermill_level_2",
+      "source_path": "town_season1_v001/exports/watermill_level_2.glb",
+      "source_sha256": "976d4f7fb29b4f5b516810080a5dde919b6af949da666dfe1d43095b566a6ca6",
+      "mapping": "reports/mappings/watermill_level_2.json.gz"
+    },
+    {
+      "type": "watermill",
+      "level": 3,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/watermill_level_3.glb",
+      "sha256": "a1b80434d5e54c4c2676da762637c466a913941e6869f01d42d83b652537f547",
+      "editable_blend": "town_season1_v001/blend/season1_models.blend",
+      "editable_scene": "EDIT \u2022 watermill_level_3",
+      "source_path": "town_season1_v001/exports/watermill_level_3.glb",
+      "source_sha256": "94b1e1482f39c2e76e172ea14394bb4148a5b186fa0a3c84b77474f415c35595",
+      "mapping": "reports/mappings/watermill_level_3.json.gz"
+    },
+    {
+      "type": "farmstead",
+      "level": 1,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/farmstead_level_1.glb",
+      "sha256": "7fa02e2dbb122243cfb46c390b62e42990e0eae6a676b9cbfe47faff8337ed2c",
+      "editable_blend": "town_season1_v001/blend/season1_models.blend",
+      "editable_scene": "EDIT \u2022 farmstead_level_1",
+      "source_path": "town_season1_v001/exports/farmstead_level_1.glb",
+      "source_sha256": "7e41502bf9af00dd5bbf85c7cbc146f7fbd49183fd4c25b9c5d142ad53dd66bb",
+      "mapping": "reports/mappings/farmstead_level_1.json.gz"
+    },
+    {
+      "type": "farmstead",
+      "level": 2,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/farmstead_level_2.glb",
+      "sha256": "122719eecd1920204282faa269ec74fb8d6cfba0d191fe8097420130a727fc39",
+      "editable_blend": "town_season1_v001/blend/season1_models.blend",
+      "editable_scene": "EDIT \u2022 farmstead_level_2",
+      "source_path": "town_season1_v001/exports/farmstead_level_2.glb",
+      "source_sha256": "7ac1fc3324e72a56a54b564bc87eea8b403a239ae4c5bd6608935da3c539db4e",
+      "mapping": "reports/mappings/farmstead_level_2.json.gz"
+    },
+    {
+      "type": "farmstead",
+      "level": 3,
+      "changed": true,
+      "path": "town_season1_v003_hiddenfaces/exports/farmstead_level_3.glb",
+      "sha256": "f0471994a5caf6fb9238bb3c21b9f6b970fab1d0824600ed5a1a7f927bd61a59",
+      "editable_blend": "town_season1_v001/blend/season1_models.blend",
+      "editable_scene": "EDIT \u2022 farmstead_level_3",
+      "source_path": "town_season1_v001/exports/farmstead_level_3.glb",
+      "source_sha256": "1df1ead8d660f4068ac90bca79a12c73b10541cbef6969d009ddb11c8657516f",
+      "mapping": "reports/mappings/farmstead_level_3.json.gz"
+    }
+  ],
+  "layout": [
+    {
+      "id": "cathedral",
+      "kind": "cathedral",
+      "xy": [
+        0.0,
+        10.2
+      ],
+      "yaw": 5,
+      "ground": 1.2,
+      "scale": 1.0
+    },
+    {
+      "id": "inn",
+      "kind": "inn",
+      "xy": [
+        -5.0,
+        2.55
+      ],
+      "yaw": 0,
+      "ground": 0.25,
+      "scale": 1.0
+    },
+    {
+      "id": "home_upper_west",
+      "kind": "house",
+      "xy": [
+        -6.3,
+        9.0
+      ],
+      "yaw": 80,
+      "ground": 0.8,
+      "scale": 1.0
+    },
+    {
+      "id": "town_hall",
+      "kind": "town_hall",
+      "xy": [
+        7.0,
+        5.7
+      ],
+      "yaw": -38,
+      "ground": 0.8,
+      "scale": 1.0
+    },
+    {
+      "id": "home_upper_east",
+      "kind": "house",
+      "xy": [
+        7.4,
+        10.3
+      ],
+      "yaw": -18,
+      "ground": 1.0,
+      "scale": 1.0
+    },
+    {
+      "id": "bookshop",
+      "kind": "bookshop",
+      "xy": [
+        3.8,
+        1.0
+      ],
+      "yaw": -30,
+      "ground": 0.35,
+      "scale": 1.0
+    },
+    {
+      "id": "cafe",
+      "kind": "cafe",
+      "xy": [
+        -4.4,
+        -4.1
+      ],
+      "yaw": 85,
+      "ground": 0,
+      "scale": 1.0
+    },
+    {
+      "id": "bakery",
+      "kind": "bakery",
+      "xy": [
+        3.95,
+        -4.55
+      ],
+      "yaw": -8,
+      "ground": 0,
+      "scale": 1.0
+    },
+    {
+      "id": "florist",
+      "kind": "florist",
+      "xy": [
+        7.75,
+        -1.05
+      ],
+      "yaw": -85,
+      "ground": 0,
+      "scale": 1.0
+    },
+    {
+      "id": "grocer",
+      "kind": "grocer",
+      "xy": [
+        -9.4,
+        -4.5
+      ],
+      "yaw": 55,
+      "ground": 0,
+      "scale": 1.0
+    },
+    {
+      "id": "home_entry",
+      "kind": "house",
+      "xy": [
+        -1.0,
+        -8.8
+      ],
+      "yaw": 10,
+      "ground": 0,
+      "scale": 1.0
+    },
+    {
+      "id": "workshop",
+      "kind": "workshop",
+      "xy": [
+        4.15,
+        -10.05
+      ],
+      "yaw": -80,
+      "ground": 0,
+      "scale": 1.0
+    },
+    {
+      "id": "farmstead",
+      "kind": "farmstead",
+      "xy": [
+        -13.95,
+        1.5
+      ],
+      "yaw": 25,
+      "ground": 0,
+      "scale": 1.0
+    },
+    {
+      "id": "watermill",
+      "kind": "watermill",
+      "xy": [
+        12.85,
+        -4.5
+      ],
+      "yaw": -15,
+      "ground": -0.15,
+      "scale": 1.0
+    }
+  ],
+  "coordinate_system": {
+    "units": "metres",
+    "blend_up": "+Z",
+    "blend_front": "-Y",
+    "glb_up": "+Y",
+    "glb_front": "+Z",
+    "layout": "Blender XY; glTF coordinates are (layout_x, elevation, -layout_y)"
+  },
+  "optimization": "strictly hidden triangles only"
+}

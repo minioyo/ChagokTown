@@ -1,0 +1,172 @@
+{
+  "blend_reopened": true,
+  "source_scenes": 15,
+  "previous_files_unchanged": 75,
+  "font_objects": 0,
+  "brown_window_backings": 0,
+  "models": {
+    "house_level_1": {
+      "reimport_passed": true,
+      "triangles": 3104,
+      "mesh_objects": 1,
+      "materials": 1,
+      "primitives": 1,
+      "vertex_colors": 12,
+      "palette_matches_source": true,
+      "triangle_winding_matches_source": true,
+      "normals_finite_and_unit": true,
+      "degenerate_triangles": 0,
+      "source_outward_closed_components": 78,
+      "bounds_error_m": 0.0,
+      "ground_error_m": 0.0,
+      "common_lot_passed": true,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        2.9104607105255127,
+        2.9800000190734863,
+        3.325000047683716
+      ],
+      "glb_bytes": 182604
+    },
+    "house_level_2": {
+      "reimport_passed": true,
+      "triangles": 3872,
+      "mesh_objects": 1,
+      "materials": 1,
+      "primitives": 1,
+      "vertex_colors": 16,
+      "palette_matches_source": true,
+      "triangle_winding_matches_source": true,
+      "normals_finite_and_unit": true,
+      "degenerate_triangles": 0,
+      "source_outward_closed_components": 98,
+      "bounds_error_m": 0.0,
+      "ground_error_m": 0.0,
+      "common_lot_passed": true,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        3.3330237865448,
+        3.380000114440918,
+        3.5840001106262207
+      ],
+      "glb_bytes": 228840
+    },
+    "house_level_3": {
+      "reimport_passed": true,
+      "triangles": 5264,
+      "mesh_objects": 1,
+      "materials": 1,
+      "primitives": 1,
+      "vertex_colors": 15,
+      "palette_matches_source": true,
+      "triangle_winding_matches_source": true,
+      "normals_finite_and_unit": true,
+      "degenerate_triangles": 0,
+      "source_outward_closed_components": 129,
+      "bounds_error_m": 0.0,
+      "ground_error_m": 0.0,
+      "common_lot_passed": true,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        3.6125681400299072,
+        3.5299999713897705,
+        4.613999843597412
+      ],
+      "glb_bytes": 306972
+    },
+    "florist_level_1": {
+      "reimport_passed": true,
+      "triangles": 3456,
+      "mesh_objects": 1,
+      "materials": 1,
+      "primitives": 1,
+      "vertex_colors": 16,
+      "palette_matches_source": true,
+      "triangle_winding_matches_source": true,
+      "normals_finite_and_unit": true,
+      "degenerate_triangles": 0,
+      "source_outward_closed_components": 100,
+      "bounds_error_m": 0.0,
+      "ground_error_m": 0.0,
+      "common_lot_passed": true,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        2.840198040008545,
+        2.859999895095825,
+        3.184999942779541
+      ],
+      "glb_bytes": 203556
+    },
+    "florist_level_2": {
+      "reimport_passed": true,
+      "triangles": 5980,
+      "mesh_objects": 1,
+      "materials": 1,
+      "primitives": 1,
+      "vertex_colors": 20,
+      "palette_matches_source": true,
+      "triangle_winding_matches_source": true,
+      "normals_finite_and_unit": true,
+      "degenerate_triangles": 0,
+      "source_outward_closed_components": 159,
+      "bounds_error_m": 0.0,
+      "ground_error_m": 7.450580596923828e-09,
+      "common_lot_passed": true,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        3.2432122230529785,
+        3.17959988117218,
+        3.6749999597668648
+      ],
+      "glb_bytes": 336464
+    },
+    "florist_level_3": {
+      "reimport_passed": true,
+      "triangles": 6820,
+      "mesh_objects": 1,
+      "materials": 1,
+      "primitives": 1,
+      "vertex_colors": 21,
+      "palette_matches_source": true,
+      "triangle_winding_matches_source": true,
+      "normals_finite_and_unit": true,
+      "degenerate_triangles": 0,
+      "source_outward_closed_components": 190,
+      "bounds_error_m": 0.0,
+      "ground_error_m": 7.450580596923828e-09,
+      "common_lot_passed": true,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        4.017849683761597,
+        3.2495999336242676,
+        3.8250000551342964
+      ],
+      "glb_bytes": 388232
+    }
+  },
+  "all_passed": true
+}

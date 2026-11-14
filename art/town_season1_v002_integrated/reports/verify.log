@@ -1,0 +1,104 @@
+00:01.187  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v002_integrated\blend\integrated_models.blend"
+BlenderMCP addon registered
+BlenderMCP addon unregistered
+02:12:47 | INFO: Data are loaded, start creating Blender stuff
+02:12:47 | INFO: Blender create Mesh node Cube.1204
+02:12:47 | INFO: glTF import finished in 0.01s
+VERIFIED_GLB bakery_level_1
+02:12:47 | INFO: Data are loaded, start creating Blender stuff
+02:12:47 | INFO: Blender create Mesh node Cube.1359
+02:12:47 | INFO: glTF import finished in 0.02s
+VERIFIED_GLB bakery_level_2
+02:12:47 | INFO: Data are loaded, start creating Blender stuff
+02:12:47 | INFO: Blender create Mesh node Cube.1561
+02:12:47 | INFO: glTF import finished in 0.02s
+VERIFIED_GLB bakery_level_3
+02:12:47 | INFO: Data are loaded, start creating Blender stuff
+02:12:47 | INFO: Blender create Mesh node Cube.1741
+02:12:47 | INFO: glTF import finished in 0.01s
+VERIFIED_GLB bookshop_level_1
+02:12:47 | INFO: Data are loaded, start creating Blender stuff
+02:12:47 | INFO: Blender create Mesh node Cube.1914
+02:12:47 | INFO: glTF import finished in 0.02s
+VERIFIED_GLB bookshop_level_2
+02:12:47 | INFO: Data are loaded, start creating Blender stuff
+02:12:47 | INFO: Blender create Mesh node Cube.2182
+02:12:47 | INFO: glTF import finished in 0.03s
+VERIFIED_GLB bookshop_level_3
+02:12:47 | INFO: Data are loaded, start creating Blender stuff
+02:12:47 | INFO: Blender create Mesh node Cube.030
+02:12:47 | INFO: glTF import finished in 0.01s
+VERIFIED_GLB cafe_level_1
+02:12:47 | INFO: Data are loaded, start creating Blender stuff
+02:12:47 | INFO: Blender create Mesh node Cube.098
+02:12:47 | INFO: glTF import finished in 0.02s
+VERIFIED_GLB cafe_level_2
+02:12:47 | INFO: Data are loaded, start creating Blender stuff
+02:12:47 | INFO: Blender create Mesh node Cube.189
+02:12:47 | INFO: glTF import finished in 0.02s
+VERIFIED_GLB cafe_level_3
+02:12:48 | INFO: Data are loaded, start creating Blender stuff
+02:12:48 | INFO: Blender create Mesh node Cube.763
+02:12:48 | INFO: glTF import finished in 0.02s
+VERIFIED_GLB florist_level_1
+02:12:48 | INFO: Data are loaded, start creating Blender stuff
+02:12:48 | INFO: Blender create Mesh node Cube.896
+02:12:48 | INFO: glTF import finished in 0.03s
+VERIFIED_GLB florist_level_2
+02:12:48 | INFO: Data are loaded, start creating Blender stuff
+02:12:48 | INFO: Blender create Mesh node Cube.1052
+02:12:48 | INFO: glTF import finished in 0.03s
+VERIFIED_GLB florist_level_3
+02:12:48 | INFO: Data are loaded, start creating Blender stuff
+02:12:48 | INFO: Blender create Mesh node Cube.2921
+02:12:48 | INFO: glTF import finished in 0.02s
+VERIFIED_GLB grocer_level_1
+02:12:48 | INFO: Data are loaded, start creating Blender stuff
+02:12:48 | INFO: Blender create Mesh node Cube.3041
+02:12:48 | INFO: glTF import finished in 0.03s
+VERIFIED_GLB grocer_level_2
+02:12:48 | INFO: Data are loaded, start creating Blender stuff
+02:12:48 | INFO: Blender create Mesh node Cube.3212
+02:12:48 | INFO: glTF import finished in 0.03s
+VERIFIED_GLB grocer_level_3
+02:12:48 | INFO: Data are loaded, start creating Blender stuff
+02:12:48 | INFO: Blender create Mesh node Cube.304
+02:12:48 | INFO: glTF import finished in 0.03s
+VERIFIED_GLB house_level_1
+02:12:49 | INFO: Data are loaded, start creating Blender stuff
+02:12:49 | INFO: Blender create Mesh node Cube.440
+02:12:49 | INFO: glTF import finished in 0.03s
+VERIFIED_GLB house_level_2
+02:12:49 | INFO: Data are loaded, start creating Blender stuff
+02:12:49 | INFO: Blender create Mesh node Cube.608
+02:12:49 | INFO: glTF import finished in 0.04s
+VERIFIED_GLB house_level_3
+02:12:49 | INFO: Data are loaded, start creating Blender stuff
+02:12:49 | INFO: Blender create Mesh node Cube.2413
+02:12:49 | INFO: glTF import finished in 0.04s
+VERIFIED_GLB town_hall_level_1
+02:12:49 | INFO: Data are loaded, start creating Blender stuff
+02:12:49 | INFO: Blender create Mesh node Cube.2564
+02:12:49 | INFO: glTF import finished in 0.04s
+VERIFIED_GLB town_hall_level_2
+02:12:49 | INFO: Data are loaded, start creating Blender stuff
+02:12:49 | INFO: Blender create Mesh node Cube.2758
+02:12:49 | INFO: glTF import finished in 0.05s
+VERIFIED_GLB town_hall_level_3
+02:12:49 | INFO: Data are loaded, start creating Blender stuff
+02:12:49 | INFO: Blender create Mesh node Cube.3367
+02:12:49 | INFO: glTF import finished in 0.04s
+VERIFIED_GLB workshop_level_1
+02:12:49 | INFO: Data are loaded, start creating Blender stuff
+02:12:49 | INFO: Blender create Mesh node Cube.3492
+02:12:49 | INFO: glTF import finished in 0.05s
+VERIFIED_GLB workshop_level_2
+02:12:49 | INFO: Data are loaded, start creating Blender stuff
+02:12:49 | INFO: Blender create Mesh node Cube.3676
+02:12:50 | INFO: glTF import finished in 0.06s
+VERIFIED_GLB workshop_level_3
+00:04.969  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v002_integrated\blend\integrated_village.blend"
+INTEGRATED_VALIDATION_COMPLETE
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

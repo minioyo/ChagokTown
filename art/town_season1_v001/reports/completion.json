@@ -1,0 +1,13 @@
+{
+  "completed_at": "2026-11-10T00:10:22.853155+09:00",
+  "steps_1_to_4_complete": true,
+  "new_glbs": 12,
+  "reused_compact_variant_glbs": 2,
+  "final_pngs": 9,
+  "next_steps": [
+    5,
+    6
+  ],
+  "protected_art_files_unchanged": 197,
+  "scope": "season-one art composition prototype; no app or vehicle validation"
+}

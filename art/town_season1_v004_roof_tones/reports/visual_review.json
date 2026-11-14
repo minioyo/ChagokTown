@@ -1,0 +1,191 @@
+{
+  "date": "2026-11-11",
+  "intentional_roof_color_change": true,
+  "method": "Agent opened the actual paired renders, crops and overview. Geometry preservation was independently checked at raw byte level.",
+  "cases": {
+    "bakery_roofs": {
+      "note": "L1~L3의 밝은 올리브 칸이 기본색에 가까워지고 기와 선·용마루·굴뚝·별채는 유지됨.",
+      "before_sha256": "61a6c2f65d901f360c53183fe5b5251afa6f68700919d4f930038aee3082d13e",
+      "after_sha256": "2c0eb9559be1b9e019adeb43e0733750d25b0578de082912834c50a7dd7f7a46",
+      "comparison_sha256": "a8f644b885d8faf53ed530852a6a78f4a5f5789f27687777c7e9644273fa79f8"
+    },
+    "cathedral_roofs": {
+      "note": "L1~L3의 큰 밝은 청록 패치가 거의 튀지 않음. 기와 분할·종탑·처마·측랑의 형상이 유지됨.",
+      "before_sha256": "8f0ed970a2f750678f86391e909a98cd71c30c39f1e357b2ed66c145ec6248c3",
+      "after_sha256": "fb039e259eba1ea03a3e74c9546df01a466d91c23923689934a3ccb1e004d4ae",
+      "comparison_sha256": "54fc8d78bd782476ca17ce57ad37839d51145a141eb895028ac5ba2792389ac6"
+    },
+    "farmstead_roofs": {
+      "note": "L1~L3의 갈색 집과 올리브 헛간·별채가 각 기본색을 유지하며 패치 대비가 낮아짐. 밭·울타리·문·창은 유지됨.",
+      "before_sha256": "e0bf99226e2d929c0e89a2915d286984fa0820363a8462de811b6e8cdb9098cf",
+      "after_sha256": "5688834aab61935898bc2a230ac7ea7a80ae91f7fafaae09bd4402f0644d5c1d",
+      "comparison_sha256": "a0a172317b60d304f63d4a61e502d3cd0aefc6c1ca8d8fa00203f8e768fa7b03"
+    },
+    "florist_roofs": {
+      "note": "L1~L3 청록 기와의 밝은 칸이 잦아들고 분할선은 읽힘. 꽃·차양·벽·온실을 유지함.",
+      "before_sha256": "8fade9f099f0ed6b98e7bef9858646b885e174c4bbf034f3e70b6cfdb5947f07",
+      "after_sha256": "0192312c590cb5775af70f8db3fd12d9b5287dc6c26e9f32763cb88f2177bf48",
+      "comparison_sha256": "194a0a7e3a492ad8f312a59c8f5b7abe497055ba0c5506817fef38bd91462c66"
+    },
+    "house_roofs": {
+      "note": "L1~L3 살구 기와 패치가 거의 같은 톤으로 정리됨. 굴뚝·창·차양·발코니 실루엣은 유지됨.",
+      "before_sha256": "d6768c069118ad9af62b0157336558725829a511c4f94f09acf5aadac45d5498",
+      "after_sha256": "c3fcf1de3aeea94a6ef049b6e9c4c65b24fd3ca8d768a681a062ab6b789a4fcb",
+      "comparison_sha256": "2da5252e1867ae0b5608bc430a70848cc22e6302d2af48380ea2d4d9f2367d4a"
+    },
+    "inn_roofs": {
+      "note": "L1~L3 큰 갈색 지붕의 밝은 사각형이 기본색과 가까워짐. 주 지붕·L자 별채·처마·기둥과 기와 선은 유지됨.",
+      "before_sha256": "67806c797d15015984e028c75e4675ee53ada9fe3683919445773db961eb9629",
+      "after_sha256": "991913465d055f6767b6513f7331410041748f40e0188d5dec7ab4f34696c99b",
+      "comparison_sha256": "b4b162a7c78ee35267d4ee3d828473866cfd617a6d0c49823002f5e4f3442492"
+    },
+    "town_hall_roofs": {
+      "note": "L1~L3 황갈색 기본색은 유지하며 밝은 기와 패치만 낮아짐. 종탑·처마·창·차양과 기와 경계는 유지됨.",
+      "before_sha256": "4000bf9cfdeaec451c8e32cb45a6a4d0fe0fa0e26aba5a72609713050a94bbeb",
+      "after_sha256": "f0619bacff030b2a6cf3e5633500def2be343cac393a9e2811ca12175856cc2e",
+      "comparison_sha256": "a6a940d1fbcdab35d4eee5d2d0df4f5900c8ca270b7d833b0cb44ba30efafb1a"
+    },
+    "watermill_roofs": {
+      "note": "L1~L3 올리브 지붕 패치가 잦아들고 기와 경계는 유지됨. 별채·상층·굴뚝·물레바퀴 실루엣도 유지됨.",
+      "before_sha256": "955bac75236a3589c642f4b5aa164105f757ccd1646f24a58370bbabb72a59aa",
+      "after_sha256": "18ca92dc6a71187918396e504883a24392778ac4aebecf355f0730c27b66c52d",
+      "comparison_sha256": "60d706ea2a5eae001629a774ba910047cda23ee772ffd96306af23001e9d96b8"
+    },
+    "whole_beginning": {
+      "note": "시작 8채에서 주택·꽃집·빵집·회관의 지붕 패치가 덜 튀며 미수정 지붕과 지형·길·강·나무는 유지됨.",
+      "before_sha256": "3408a1850b5b5de0df00a2c7980bb74fa94c2de74f9e460bc2d927d59e2a8ac6",
+      "after_sha256": "98adb9fee138f2f53dba3c27425c6d8606b907e2d06d2901dd51aae87878f785",
+      "comparison_sha256": "74400d7a775831b19ca0c03ba2968b2287d31f253cdc0a41d54acda0a489d7f5"
+    },
+    "whole_final": {
+      "note": "최종 14채에서 큰 지붕의 사각 패치가 먼저 보이던 현상이 줄어듦. 기와 선과 건물별 청록·살구·갈색·올리브·보라 구분, 기존 군집·환경이 유지됨.",
+      "before_sha256": "4a75c2f98f264344c775066fd396a46ec742025b163bcdb5a23fc600eccae31f",
+      "after_sha256": "6d11215d412c37eb66a984184264dbc7c986a7cd4b2295eda9f0d2e919cf6e4b",
+      "comparison_sha256": "f8c5cc555b7d1d07b9b8d9ca6efdf9b4242599ee9b0e1e7fd68e339625fe9c6a"
+    },
+    "whole_final_top": {
+      "note": "최종 평면에서도 지붕 앞뒤의 밝은 패치 대비가 낮아짐. 지붕 윤곽·건물 간격·길·수로·나무 배치는 유지됨.",
+      "before_sha256": "a433a959e402f6ff98009f3505c7f1aa00bdc994d5835d8f77856500afbd75fc",
+      "after_sha256": "251b97c4101759334569e9f041ce4b21797a9e1fdd6f88865d3ac29e171c86d7",
+      "comparison_sha256": "c6295de6e9525e8cd4dcdd7684f2178767258992f8ce55bdbcb4f2ad6603edf7"
+    },
+    "whole_middle": {
+      "note": "중간 12채에서 성당·여관·농가·방앗간 지붕의 밝은 사각형이 잦아들며 건물별 색 구분과 성장 실루엣이 유지됨.",
+      "before_sha256": "5553d6619de51a3a02666a47630b4d1fa9a7e2fe328b2fe783fc960c2119213f",
+      "after_sha256": "a8e9f677dc7d0ce49ef035e0b4bb19c904781f0e5f152a7c601702a50845c474",
+      "comparison_sha256": "4aa8b9cec9334b795c3762bc78d73f7c9210ee8c092acd66256b31ed71762243"
+    }
+  },
+  "roof_crops": {
+    "bakery": {
+      "note": "L3 올리브 밝은 낱장이 기본색에 가까워졌고 입체 기와 선·용마루·굴뚝·별채·상층 창이 유지됨.",
+      "path": "renders/comparisons/roof_detail_bakery.png",
+      "sha256": "7ae988bb2a827b896ccdc7dccf5391e0503a49bbbd91c8a3a0be12cee2a96d72",
+      "case": "bakery_roofs",
+      "stage": 3,
+      "same_source_pixel_roi_bottom_left": [
+        2009,
+        492,
+        2919,
+        1400
+      ]
+    },
+    "cathedral": {
+      "note": "L3 큰 청록 주 지붕에서 밝은 패치 대비가 매우 은은해졌고 기와 선·두께·처마·종탑과 측랑 접합은 유지됨.",
+      "path": "renders/comparisons/roof_detail_cathedral.png",
+      "sha256": "23de009d470054934861a9e913be2df39ace6a839c31f0b866cbde2c71cc8664",
+      "case": "cathedral_roofs",
+      "stage": 3,
+      "same_source_pixel_roi_bottom_left": [
+        1939,
+        484,
+        2919,
+        1416
+      ]
+    },
+    "farmstead": {
+      "note": "L3 갈색 집과 올리브 헛간·별채의 지붕색 다양성은 남고 밝은 사각 패치만 낮아짐. 기와 경계·굴뚝·문·창을 유지함.",
+      "path": "renders/comparisons/roof_detail_farmstead.png",
+      "sha256": "4d63bf907fe42013bb69164ad617ffcc4f1df47318482aceade338d0b5dd32d4",
+      "case": "farmstead_roofs",
+      "stage": 3,
+      "same_source_pixel_roi_bottom_left": [
+        1995,
+        579,
+        2919,
+        1225
+      ]
+    },
+    "florist": {
+      "note": "L3 청록 패치 대비가 낮아진 상태에서도 기와 틈·처마·용마루가 읽힘. 온실·꽃 표식·차양·벽은 유지됨.",
+      "path": "renders/comparisons/roof_detail_florist.png",
+      "sha256": "e1d7d47735ab71ac38c498e93d5fd22a7d7758630b4d1d5950693774cec57293",
+      "case": "florist_roofs",
+      "stage": 3,
+      "same_source_pixel_roi_bottom_left": [
+        2035,
+        565,
+        2919,
+        1253
+      ]
+    },
+    "house": {
+      "note": "L3 살구 기와에서 밝은 낱장이 거의 튀지 않으며 기와 틈·굴뚝·처마·상층 창과 발코니가 유지됨.",
+      "path": "renders/comparisons/roof_detail_house.png",
+      "sha256": "ceef7f9d167249d6e2e94ef64a1083826c3db2b61ff43c49a6411eed8da630c2",
+      "case": "house_roofs",
+      "stage": 3,
+      "same_source_pixel_roi_bottom_left": [
+        2038,
+        448,
+        2919,
+        1487
+      ]
+    },
+    "inn": {
+      "note": "L3 갈색 지붕에서 보수 패치처럼 보이던 밝은 사각형이 잦아듦. 기와 선·용마루·굴뚝·별채 지붕과 창틀은 유지됨.",
+      "path": "renders/comparisons/roof_detail_inn.png",
+      "sha256": "86bc3062ccbb8184ef95e729712e28a6244d9c2bdc07065061144012ab35bbbf",
+      "case": "inn_roofs",
+      "stage": 3,
+      "same_source_pixel_roi_bottom_left": [
+        1927,
+        534,
+        2919,
+        1316
+      ]
+    },
+    "town_hall": {
+      "note": "L3 황갈색 기와의 밝은 칸이 기본색과 가까워지고 분할선·종탑·종·처마·상층 창은 유지됨.",
+      "path": "renders/comparisons/roof_detail_town_hall.png",
+      "sha256": "ee8d6de53d6a186bd8decbefdc4584142cd020741e45aa58eb008be4d16189ce",
+      "case": "town_hall_roofs",
+      "stage": 3,
+      "same_source_pixel_roi_bottom_left": [
+        2037,
+        454,
+        2919,
+        1475
+      ]
+    },
+    "watermill": {
+      "note": "L3 올리브 주 지붕과 낮은 별채에서 패치 대비가 낮아지며 기와 선·용마루·굴뚝·처마·바퀴가 유지됨.",
+      "path": "renders/comparisons/roof_detail_watermill.png",
+      "sha256": "6f62daaf6ee9edd60693a5028235f890824a635f7d343c9cfc262d1e0c2e14b0",
+      "case": "watermill_roofs",
+      "stage": 3,
+      "same_source_pixel_roi_bottom_left": [
+        1949,
+        547,
+        2919,
+        1289
+      ]
+    }
+  },
+  "overview": {
+    "note": "양쪽 동일한 600px 너비로 축소한 전체 비교에서, 이전의 성당·여관·농가·방앗간의 밝은 사각 패치가 수정본에서 거의 먼저 튀지 않음. 건물마다 다른 지붕색과 마을 군집의 가독성은 유지됨.",
+    "path": "renders/comparisons/whole_final_overview.png",
+    "sha256": "fa300ccb5fbe224c36a7bf9a19a2d06adeba3de91b15eeaf515e427c067ab103",
+    "sampling": "same 4x4 PNG-code box average, before left / after right"
+  }
+}

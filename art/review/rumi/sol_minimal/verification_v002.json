@@ -1,0 +1,81 @@
+{
+  "source": "D:\\Project\\Etc\\LiarRide\\art\\source\\rumi\\sol_minimal_v002.aseprite",
+  "export": "D:\\Project\\Etc\\LiarRide\\art\\export\\rumi\\sol_minimal_v002.png",
+  "frames": 1,
+  "size": [
+    1254,
+    1254
+  ],
+  "aseprite_color_depth": 32,
+  "layers": [
+    "Body - white FFFFFF",
+    "Eye left - 292733",
+    "Eye right - 292733"
+  ],
+  "layer_pixel_checks": {
+    "body": {
+      "image_size": [
+        1254,
+        1254
+      ],
+      "visible_rgb": [
+        255,
+        255,
+        255
+      ],
+      "single_flat_rgb": true
+    },
+    "eye_left": {
+      "image_size": [
+        1254,
+        1254
+      ],
+      "visible_rgb": [
+        41,
+        39,
+        51
+      ],
+      "single_flat_rgb": true
+    },
+    "eye_right": {
+      "image_size": [
+        1254,
+        1254
+      ],
+      "visible_rgb": [
+        41,
+        39,
+        51
+      ],
+      "single_flat_rgb": true
+    }
+  },
+  "png_mode": "RGBA",
+  "png_metadata_keys": [
+    "srgb"
+  ],
+  "alpha_bbox_exclusive": [
+    226,
+    210,
+    1000,
+    1116
+  ],
+  "transparent_pixels": 1020511,
+  "opaque_pixels": 548933,
+  "partially_transparent_pixels": 3072,
+  "alpha_levels": 256,
+  "canvas_border_transparent": true,
+  "only_two_role_colors_plus_antialiasing": true,
+  "reopened_source_layer_composite_equals_export": "asserted in Aseprite prepare_v002.lua",
+  "visual_review": {
+    "single_body_two_eyes_no_accessory": true,
+    "no_outline_shading_texture_or_stray_alpha_specks": true,
+    "light_and_dark_background_at_256_canvas": "visually inspected",
+    "64_canvas": "visually inspected; two eyes remain readable",
+    "notes": "White silhouette is naturally lower contrast on light backgrounds; no outline added."
+  },
+  "sha256": {
+    "sol_minimal_v002.aseprite": "c56eaa3782edc8dcaf08689a43e3889b929f30900e52612f3ffec774a3111b85",
+    "sol_minimal_v002.png": "acf7544820aa5906599ec2a8d66b83f716a1971738d88fb5c9b71e40ac90e6b3"
+  }
+}

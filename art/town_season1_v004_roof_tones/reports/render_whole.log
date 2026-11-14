@@ -1,0 +1,236 @@
+00:00.906  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_season1_v004_roof_tones\blend\roof_tones_review.blend"
+BlenderMCP addon registered
+04:03:09 | INFO: Data are loaded, start creating Blender stuff
+04:03:09 | INFO: Blender create Mesh node Cube.1204
+04:03:10 | INFO: glTF import finished in 0.49s
+04:03:10 | INFO: Data are loaded, start creating Blender stuff
+04:03:10 | INFO: Blender create Mesh node Cube.1204
+04:03:10 | INFO: glTF import finished in 0.51s
+04:03:10 | INFO: Data are loaded, start creating Blender stuff
+04:03:10 | INFO: Blender create Mesh node Cube.1359
+04:03:11 | INFO: glTF import finished in 0.51s
+04:03:11 | INFO: Data are loaded, start creating Blender stuff
+04:03:11 | INFO: Blender create Mesh node Cube.1359
+04:03:12 | INFO: glTF import finished in 0.47s
+04:03:12 | INFO: Data are loaded, start creating Blender stuff
+04:03:12 | INFO: Blender create Mesh node Cube.1561
+04:03:12 | INFO: glTF import finished in 0.52s
+04:03:12 | INFO: Data are loaded, start creating Blender stuff
+04:03:12 | INFO: Blender create Mesh node Cube.1561
+04:03:13 | INFO: glTF import finished in 0.48s
+04:03:13 | INFO: Data are loaded, start creating Blender stuff
+04:03:13 | INFO: Blender create Mesh node Cube.1741
+04:03:13 | INFO: glTF import finished in 0.49s
+04:03:13 | INFO: Data are loaded, start creating Blender stuff
+04:03:13 | INFO: Blender create Mesh node Cube.1741
+04:03:14 | INFO: glTF import finished in 0.52s
+04:03:14 | INFO: Data are loaded, start creating Blender stuff
+04:03:14 | INFO: Blender create Mesh node Cube.1914
+04:03:15 | INFO: glTF import finished in 0.52s
+04:03:15 | INFO: Data are loaded, start creating Blender stuff
+04:03:15 | INFO: Blender create Mesh node Cube.1914
+04:03:15 | INFO: glTF import finished in 0.53s
+04:03:15 | INFO: Data are loaded, start creating Blender stuff
+04:03:15 | INFO: Blender create Mesh node Cube.2182
+04:03:16 | INFO: glTF import finished in 0.52s
+04:03:16 | INFO: Data are loaded, start creating Blender stuff
+04:03:16 | INFO: Blender create Mesh node Cube.2182
+04:03:16 | INFO: glTF import finished in 0.53s
+04:03:17 | INFO: Data are loaded, start creating Blender stuff
+04:03:17 | INFO: Blender create Mesh node Cube.030
+04:03:18 | INFO: glTF import finished in 1.11s
+04:03:18 | INFO: Data are loaded, start creating Blender stuff
+04:03:18 | INFO: Blender create Mesh node Cube.030
+04:03:19 | INFO: glTF import finished in 1.25s
+04:03:19 | INFO: Data are loaded, start creating Blender stuff
+04:03:19 | INFO: Blender create Mesh node Cube.098
+04:03:21 | INFO: glTF import finished in 1.49s
+04:03:21 | INFO: Data are loaded, start creating Blender stuff
+04:03:21 | INFO: Blender create Mesh node Cube.098
+04:03:22 | INFO: glTF import finished in 1.34s
+04:03:22 | INFO: Data are loaded, start creating Blender stuff
+04:03:22 | INFO: Blender create Mesh node Cube.189
+04:03:24 | INFO: glTF import finished in 1.26s
+04:03:24 | INFO: Data are loaded, start creating Blender stuff
+04:03:24 | INFO: Blender create Mesh node Cube.189
+04:03:25 | INFO: glTF import finished in 1.16s
+04:03:25 | INFO: Data are loaded, start creating Blender stuff
+04:03:25 | INFO: Blender create Mesh node Cube.763
+04:03:27 | INFO: glTF import finished in 1.44s
+04:03:27 | INFO: Data are loaded, start creating Blender stuff
+04:03:27 | INFO: Blender create Mesh node Cube.763
+04:03:28 | INFO: glTF import finished in 1.06s
+04:03:28 | INFO: Data are loaded, start creating Blender stuff
+04:03:28 | INFO: Blender create Mesh node Cube.896
+04:03:29 | INFO: glTF import finished in 0.65s
+04:03:29 | INFO: Data are loaded, start creating Blender stuff
+04:03:29 | INFO: Blender create Mesh node Cube.896
+04:03:29 | INFO: glTF import finished in 0.60s
+04:03:29 | INFO: Data are loaded, start creating Blender stuff
+04:03:29 | INFO: Blender create Mesh node Cube.1052
+04:03:30 | INFO: glTF import finished in 0.61s
+04:03:30 | INFO: Data are loaded, start creating Blender stuff
+04:03:30 | INFO: Blender create Mesh node Cube.1052
+04:03:31 | INFO: glTF import finished in 0.60s
+04:03:31 | INFO: Data are loaded, start creating Blender stuff
+04:03:31 | INFO: Blender create Mesh node Cube.2921
+04:03:32 | INFO: glTF import finished in 0.66s
+04:03:32 | INFO: Data are loaded, start creating Blender stuff
+04:03:32 | INFO: Blender create Mesh node Cube.2921
+04:03:32 | INFO: glTF import finished in 0.64s
+04:03:32 | INFO: Data are loaded, start creating Blender stuff
+04:03:32 | INFO: Blender create Mesh node Cube.3041
+04:03:33 | INFO: glTF import finished in 0.64s
+04:03:33 | INFO: Data are loaded, start creating Blender stuff
+04:03:33 | INFO: Blender create Mesh node Cube.3041
+04:03:34 | INFO: glTF import finished in 0.64s
+04:03:34 | INFO: Data are loaded, start creating Blender stuff
+04:03:34 | INFO: Blender create Mesh node Cube.3212
+04:03:34 | INFO: glTF import finished in 0.67s
+04:03:35 | INFO: Data are loaded, start creating Blender stuff
+04:03:35 | INFO: Blender create Mesh node Cube.3212
+04:03:35 | INFO: glTF import finished in 0.72s
+04:03:35 | INFO: Data are loaded, start creating Blender stuff
+04:03:35 | INFO: Blender create Mesh node Cube.304
+04:03:36 | INFO: glTF import finished in 0.66s
+04:03:36 | INFO: Data are loaded, start creating Blender stuff
+04:03:36 | INFO: Blender create Mesh node Cube.304
+04:03:37 | INFO: glTF import finished in 0.69s
+04:03:37 | INFO: Data are loaded, start creating Blender stuff
+04:03:37 | INFO: Blender create Mesh node Cube.440
+04:03:38 | INFO: glTF import finished in 0.71s
+04:03:38 | INFO: Data are loaded, start creating Blender stuff
+04:03:38 | INFO: Blender create Mesh node Cube.440
+04:03:39 | INFO: glTF import finished in 1.31s
+04:03:39 | INFO: Data are loaded, start creating Blender stuff
+04:03:39 | INFO: Blender create Mesh node Cube.608
+04:03:41 | INFO: glTF import finished in 1.55s
+04:03:41 | INFO: Data are loaded, start creating Blender stuff
+04:03:41 | INFO: Blender create Mesh node Cube.608
+04:03:43 | INFO: glTF import finished in 1.62s
+04:03:43 | INFO: Data are loaded, start creating Blender stuff
+04:03:43 | INFO: Blender create Mesh node Cube.2413
+04:03:45 | INFO: glTF import finished in 1.82s
+04:03:45 | INFO: Data are loaded, start creating Blender stuff
+04:03:45 | INFO: Blender create Mesh node Cube.2413
+04:03:46 | INFO: glTF import finished in 1.40s
+04:03:46 | INFO: Data are loaded, start creating Blender stuff
+04:03:46 | INFO: Blender create Mesh node Cube.2564
+04:03:48 | INFO: glTF import finished in 1.85s
+04:03:48 | INFO: Data are loaded, start creating Blender stuff
+04:03:48 | INFO: Blender create Mesh node Cube.2564
+04:03:50 | INFO: glTF import finished in 1.22s
+04:03:50 | INFO: Data are loaded, start creating Blender stuff
+04:03:50 | INFO: Blender create Mesh node Cube.2758
+04:03:50 | INFO: glTF import finished in 0.83s
+04:03:51 | INFO: Data are loaded, start creating Blender stuff
+04:03:51 | INFO: Blender create Mesh node Cube.2758
+04:03:51 | INFO: glTF import finished in 0.82s
+04:03:52 | INFO: Data are loaded, start creating Blender stuff
+04:03:52 | INFO: Blender create Mesh node Cube.3367
+04:03:52 | INFO: glTF import finished in 0.82s
+04:03:52 | INFO: Data are loaded, start creating Blender stuff
+04:03:52 | INFO: Blender create Mesh node Cube.3367
+04:03:53 | INFO: glTF import finished in 0.79s
+04:03:53 | INFO: Data are loaded, start creating Blender stuff
+04:03:53 | INFO: Blender create Mesh node Cube.3492
+04:03:54 | INFO: glTF import finished in 0.83s
+04:03:54 | INFO: Data are loaded, start creating Blender stuff
+04:03:54 | INFO: Blender create Mesh node Cube.3492
+04:03:55 | INFO: glTF import finished in 0.87s
+04:03:55 | INFO: Data are loaded, start creating Blender stuff
+04:03:55 | INFO: Blender create Mesh node Cube.3676
+04:03:56 | INFO: glTF import finished in 0.81s
+04:03:56 | INFO: Data are loaded, start creating Blender stuff
+04:03:56 | INFO: Blender create Mesh node Cube.3676
+04:03:57 | INFO: glTF import finished in 0.93s
+04:03:57 | INFO: Data are loaded, start creating Blender stuff
+04:03:57 | INFO: Blender create Mesh node Cube.054
+04:03:58 | INFO: glTF import finished in 0.80s
+04:03:58 | INFO: Data are loaded, start creating Blender stuff
+04:03:58 | INFO: Blender create Mesh node Cube.054
+04:03:59 | INFO: glTF import finished in 0.74s
+04:03:59 | INFO: Data are loaded, start creating Blender stuff
+04:03:59 | INFO: Blender create Mesh node Cube.290
+04:04:00 | INFO: glTF import finished in 1.36s
+04:04:00 | INFO: Data are loaded, start creating Blender stuff
+04:04:00 | INFO: Blender create Mesh node Cube.290
+04:04:02 | INFO: glTF import finished in 1.89s
+04:04:03 | INFO: Data are loaded, start creating Blender stuff
+04:04:03 | INFO: Blender create Mesh node Cube.696
+04:04:04 | INFO: glTF import finished in 1.87s
+04:04:05 | INFO: Data are loaded, start creating Blender stuff
+04:04:05 | INFO: Blender create Mesh node Cube.696
+04:04:06 | INFO: glTF import finished in 1.76s
+04:04:07 | INFO: Data are loaded, start creating Blender stuff
+04:04:07 | INFO: Blender create Mesh node Cube.1005
+04:04:09 | INFO: glTF import finished in 1.82s
+04:04:09 | INFO: Data are loaded, start creating Blender stuff
+04:04:09 | INFO: Blender create Mesh node Cube.1005
+04:04:11 | INFO: glTF import finished in 1.78s
+04:04:11 | INFO: Data are loaded, start creating Blender stuff
+04:04:11 | INFO: Blender create Mesh node Cube.1266
+04:04:12 | INFO: glTF import finished in 0.89s
+04:04:12 | INFO: Data are loaded, start creating Blender stuff
+04:04:12 | INFO: Blender create Mesh node Cube.1266
+04:04:12 | INFO: glTF import finished in 0.81s
+04:04:13 | INFO: Data are loaded, start creating Blender stuff
+04:04:13 | INFO: Blender create Mesh node Cube.1632
+04:04:13 | INFO: glTF import finished in 0.81s
+04:04:14 | INFO: Data are loaded, start creating Blender stuff
+04:04:14 | INFO: Blender create Mesh node Cube.1632
+04:04:14 | INFO: glTF import finished in 0.80s
+04:04:14 | INFO: Data are loaded, start creating Blender stuff
+04:04:14 | INFO: Blender create Mesh node Cube.1900
+04:04:15 | INFO: glTF import finished in 0.79s
+04:04:15 | INFO: Data are loaded, start creating Blender stuff
+04:04:15 | INFO: Blender create Mesh node Cube.1900
+04:04:16 | INFO: glTF import finished in 0.79s
+04:04:16 | INFO: Data are loaded, start creating Blender stuff
+04:04:16 | INFO: Blender create Mesh node Cube.2103
+04:04:17 | INFO: glTF import finished in 0.78s
+04:04:17 | INFO: Data are loaded, start creating Blender stuff
+04:04:17 | INFO: Blender create Mesh node Cube.2103
+04:04:18 | INFO: glTF import finished in 0.86s
+04:04:18 | INFO: Data are loaded, start creating Blender stuff
+04:04:18 | INFO: Blender create Mesh node Cube.2393
+04:04:19 | INFO: glTF import finished in 0.81s
+04:04:19 | INFO: Data are loaded, start creating Blender stuff
+04:04:19 | INFO: Blender create Mesh node Cube.2393
+04:04:20 | INFO: glTF import finished in 0.81s
+04:04:20 | INFO: Data are loaded, start creating Blender stuff
+04:04:20 | INFO: Blender create Mesh node Cube.2634
+04:04:21 | INFO: glTF import finished in 0.96s
+04:04:21 | INFO: Data are loaded, start creating Blender stuff
+04:04:21 | INFO: Blender create Mesh node Cube.2634
+04:04:23 | INFO: glTF import finished in 2.01s
+04:04:23 | INFO: Data are loaded, start creating Blender stuff
+04:04:23 | INFO: Blender create Mesh node Cube.2844
+04:04:25 | INFO: glTF import finished in 1.84s
+04:04:25 | INFO: Data are loaded, start creating Blender stuff
+04:04:25 | INFO: Blender create Mesh node Cube.2844
+04:04:27 | INFO: glTF import finished in 1.73s
+04:04:27 | INFO: Data are loaded, start creating Blender stuff
+04:04:27 | INFO: Blender create Mesh node Cube.3181
+04:04:29 | INFO: glTF import finished in 1.57s
+04:04:29 | INFO: Data are loaded, start creating Blender stuff
+04:04:29 | INFO: Blender create Mesh node Cube.3181
+04:04:31 | INFO: glTF import finished in 1.74s
+01:23.203  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+01:48.281  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v004_roof_tones\renders\whole\beginning_before.png'
+FRESH_RENDER 1 renders/whole/beginning_before.png
+02:03.859  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v004_roof_tones\renders\whole\beginning_after.png'
+FRESH_RENDER 2 renders/whole/beginning_after.png
+02:18.406  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v004_roof_tones\renders\whole\middle_before.png'
+FRESH_RENDER 3 renders/whole/middle_before.png
+02:32.890  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v004_roof_tones\renders\whole\middle_after.png'
+FRESH_RENDER 4 renders/whole/middle_after.png
+02:47.687  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v004_roof_tones\renders\whole\final_top_before.png'
+FRESH_RENDER 5 renders/whole/final_top_before.png
+03:02.312  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_season1_v004_roof_tones\renders\whole\final_top_after.png'
+FRESH_RENDER 6 renders/whole/final_top_after.png
+ROOF_RENDER_BATCH_COMPLETE whole 6
+BlenderMCP addon unregistered
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

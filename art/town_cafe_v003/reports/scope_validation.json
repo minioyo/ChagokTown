@@ -1,0 +1,23 @@
+{
+  "levels": {
+    "1": {
+      "removed_backing_count": 2,
+      "remaining_semantic_meshes": 57,
+      "all_remaining_geometry_materials_transforms_identical": true
+    },
+    "2": {
+      "removed_backing_count": 2,
+      "remaining_semantic_meshes": 87,
+      "all_remaining_geometry_materials_transforms_identical": true
+    },
+    "3": {
+      "removed_backing_count": 3,
+      "remaining_semantic_meshes": 144,
+      "all_remaining_geometry_materials_transforms_identical": true
+    }
+  },
+  "camera_unchanged": true,
+  "lights_unchanged": true,
+  "placements_unchanged": true,
+  "all_passed": true
+}

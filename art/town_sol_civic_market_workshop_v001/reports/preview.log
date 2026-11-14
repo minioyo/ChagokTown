@@ -1,0 +1,56 @@
+00:00.766  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_sol_civic_market_workshop_v001\blend\chagok_sol_civic_market_workshop_v001.blend"
+BlenderMCP addon registered
+18:54:10 | INFO: Data are loaded, start creating Blender stuff
+18:54:10 | INFO: Blender create Mesh node Cube.075
+18:54:10 | INFO: glTF import finished in 0.01s
+VERIFIED town_hall_level_1
+18:54:10 | INFO: Data are loaded, start creating Blender stuff
+18:54:10 | INFO: Blender create Mesh node Cube.203
+18:54:10 | INFO: glTF import finished in 0.01s
+VERIFIED grocer_level_1
+18:54:11 | INFO: Data are loaded, start creating Blender stuff
+18:54:11 | INFO: Blender create Mesh node Cube.314
+18:54:11 | INFO: glTF import finished in 0.01s
+VERIFIED workshop_level_1
+18:54:11 | INFO: Data are loaded, start creating Blender stuff
+18:54:11 | INFO: Blender create Mesh node Cube.456
+18:54:11 | INFO: glTF import finished in 0.01s
+VERIFIED town_hall_level_2
+18:54:11 | INFO: Data are loaded, start creating Blender stuff
+18:54:11 | INFO: Blender create Mesh node Cube.615
+18:54:11 | INFO: glTF import finished in 0.02s
+VERIFIED grocer_level_2
+18:54:12 | INFO: Data are loaded, start creating Blender stuff
+18:54:12 | INFO: Blender create Mesh node Cube.763
+18:54:12 | INFO: glTF import finished in 0.02s
+VERIFIED workshop_level_2
+18:54:12 | INFO: Data are loaded, start creating Blender stuff
+18:54:12 | INFO: Blender create Mesh node Cube.956
+18:54:12 | INFO: glTF import finished in 0.03s
+VERIFIED town_hall_level_3
+18:54:13 | INFO: Data are loaded, start creating Blender stuff
+18:54:13 | INFO: Blender create Mesh node Cube.1182
+18:54:13 | INFO: glTF import finished in 0.03s
+VERIFIED grocer_level_3
+18:54:14 | INFO: Data are loaded, start creating Blender stuff
+18:54:14 | INFO: Blender create Mesh node Cube.1409
+18:54:14 | INFO: glTF import finished in 0.03s
+VERIFIED workshop_level_3
+00:06.594  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:10.844  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_sol_civic_market_workshop_v001\renders\preview_01_town_hall_levels.png'
+RENDERED preview_01_town_hall_levels.png
+00:14.891  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_sol_civic_market_workshop_v001\renders\preview_02_grocer_levels.png'
+RENDERED preview_02_grocer_levels.png
+00:18.782  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_sol_civic_market_workshop_v001\renders\preview_03_workshop_levels.png'
+RENDERED preview_03_workshop_levels.png
+00:22.735  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_sol_civic_market_workshop_v001\renders\preview_style_town_hall_with_cafe.png'
+RENDERED preview_style_town_hall_with_cafe.png
+00:27.016  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_sol_civic_market_workshop_v001\renders\preview_style_grocer_with_cafe.png'
+RENDERED preview_style_grocer_with_cafe.png
+00:31.157  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_sol_civic_market_workshop_v001\renders\preview_style_workshop_with_cafe.png'
+RENDERED preview_style_workshop_with_cafe.png
+VALIDATION_COMPLETE
+BlenderMCP addon unregistered
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

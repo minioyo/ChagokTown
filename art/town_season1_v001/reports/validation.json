@@ -1,0 +1,620 @@
+{
+  "models": {
+    "cathedral_level_1": {
+      "named_editable_components": 77,
+      "actual_door_panels_m": [
+        {
+          "width": 0.8999999761581421,
+          "height": 1.8999999463558197
+        }
+      ],
+      "reimported": true,
+      "bounds_min": [
+        -1.8532109260559082,
+        -4.039999961853027,
+        -2.9802322387695312e-08
+      ],
+      "bounds_max": [
+        1.8532109260559082,
+        0.8399999141693115,
+        4.78000020980835
+      ],
+      "triangle_count": 2100,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colour_values": 12,
+      "one_mesh_material_primitive": true,
+      "opaque": true,
+      "textures": 0,
+      "sha256": "948184e553cc17135ff811288faf9af0c5a994068c00ab31b2a7d731272feb95"
+    },
+    "cathedral_level_2": {
+      "named_editable_components": 237,
+      "actual_door_panels_m": [
+        {
+          "width": 1.2999999523162842,
+          "height": 2.500000089406967
+        },
+        {
+          "width": 0.800000011920929,
+          "height": 1.5999999940395355
+        }
+      ],
+      "reimported": true,
+      "bounds_min": [
+        -3.548799991607666,
+        -4.0400004386901855,
+        -2.9802322387695312e-08
+      ],
+      "bounds_max": [
+        3.430000066757202,
+        2.390000104904175,
+        8.389999389648438
+      ],
+      "triangle_count": 5718,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colour_values": 12,
+      "one_mesh_material_primitive": true,
+      "opaque": true,
+      "textures": 0,
+      "sha256": "2e3bfbf62b6597d2e1687b28e5b7895be1f2474717944e141c61784f6760221d"
+    },
+    "cathedral_level_3": {
+      "named_editable_components": 281,
+      "actual_door_panels_m": [
+        {
+          "width": 1.2999999523162842,
+          "height": 2.500000089406967
+        },
+        {
+          "width": 0.800000011920929,
+          "height": 1.5999999940395355
+        }
+      ],
+      "reimported": true,
+      "bounds_min": [
+        -3.8365001678466797,
+        -4.039999961853027,
+        -2.9802322387695312e-08
+      ],
+      "bounds_max": [
+        3.555000066757202,
+        4.329999923706055,
+        11.089999198913574
+      ],
+      "triangle_count": 6730,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colour_values": 12,
+      "one_mesh_material_primitive": true,
+      "opaque": true,
+      "textures": 0,
+      "sha256": "05c39e4f6c39375c9901f40e8250e38c75d73107d2be82158e111a2a977ab2e2"
+    },
+    "inn_level_1": {
+      "named_editable_components": 90,
+      "actual_door_panels_m": [
+        {
+          "width": 0.8000000417232513,
+          "height": 1.5999999940395355
+        }
+      ],
+      "reimported": true,
+      "bounds_min": [
+        -1.9200000762939453,
+        -1.4416241645812988,
+        -2.9802322387695312e-08
+      ],
+      "bounds_max": [
+        2.5250000953674316,
+        2.7899999618530273,
+        3.748000144958496
+      ],
+      "triangle_count": 2316,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colour_values": 15,
+      "one_mesh_material_primitive": true,
+      "opaque": true,
+      "textures": 0,
+      "sha256": "cb39cf6d6293449780e5439309c707d50b678407beddb958e98cf9bc25517dd7"
+    },
+    "inn_level_2": {
+      "named_editable_components": 183,
+      "actual_door_panels_m": [
+        {
+          "width": 0.8000000417232513,
+          "height": 1.5999999940395355
+        }
+      ],
+      "reimported": true,
+      "bounds_min": [
+        -3.087416887283325,
+        -3.1000001430511475,
+        -2.9802322387695312e-08
+      ],
+      "bounds_max": [
+        2.7899999618530273,
+        3.190000057220459,
+        5.748000144958496
+      ],
+      "triangle_count": 4140,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colour_values": 15,
+      "one_mesh_material_primitive": true,
+      "opaque": true,
+      "textures": 0,
+      "sha256": "60e633f2223fada69f1df4c60c66cb901b3a86070135fac66b527797926891e5"
+    },
+    "inn_level_3": {
+      "named_editable_components": 197,
+      "actual_door_panels_m": [
+        {
+          "width": 0.8000000417232513,
+          "height": 1.5999999940395355
+        }
+      ],
+      "reimported": true,
+      "bounds_min": [
+        -3.3874170780181885,
+        -4.40000057220459,
+        -2.9802322387695312e-08
+      ],
+      "bounds_max": [
+        3.390000104904175,
+        3.190000057220459,
+        5.748000144958496
+      ],
+      "triangle_count": 4532,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colour_values": 15,
+      "one_mesh_material_primitive": true,
+      "opaque": true,
+      "textures": 0,
+      "sha256": "34f058ce7e5d59f5a0c9641f84c62a57cee9a0319e0032de3ec717d0b6074895"
+    },
+    "watermill_level_1": {
+      "named_editable_components": 102,
+      "actual_door_panels_m": [
+        {
+          "width": 0.7999999523162842,
+          "height": 1.5999999940395355
+        }
+      ],
+      "reimported": true,
+      "bounds_min": [
+        -1.8149999380111694,
+        -2.0399999618530273,
+        -2.9802322387695312e-08
+      ],
+      "bounds_max": [
+        2.744999885559082,
+        1.7999999523162842,
+        3.5270884037017822
+      ],
+      "triangle_count": 2580,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colour_values": 15,
+      "one_mesh_material_primitive": true,
+      "opaque": true,
+      "textures": 0,
+      "sha256": "88db81f8835baa63f9efd0082a50d5da99052e652669ff718b33f5ed3f86f69a"
+    },
+    "watermill_level_2": {
+      "named_editable_components": 154,
+      "actual_door_panels_m": [
+        {
+          "width": 0.7999999523162842,
+          "height": 1.5999999940395355
+        },
+        {
+          "width": 0.8000000715255737,
+          "height": 1.5999999940395355
+        }
+      ],
+      "reimported": true,
+      "bounds_min": [
+        -3.3881888389587402,
+        -2.063500165939331,
+        -2.9802322387695312e-08
+      ],
+      "bounds_max": [
+        3.0199999809265137,
+        2.299999952316284,
+        3.5270884037017822
+      ],
+      "triangle_count": 3944,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colour_values": 16,
+      "one_mesh_material_primitive": true,
+      "opaque": true,
+      "textures": 0,
+      "sha256": "976d4f7fb29b4f5b516810080a5dde919b6af949da666dfe1d43095b566a6ca6"
+    },
+    "watermill_level_3": {
+      "named_editable_components": 194,
+      "actual_door_panels_m": [
+        {
+          "width": 0.7999999523162842,
+          "height": 1.5999999940395355
+        },
+        {
+          "width": 0.8000000715255737,
+          "height": 1.5999999940395355
+        }
+      ],
+      "reimported": true,
+      "bounds_min": [
+        -3.3881888389587402,
+        -2.1417951583862305,
+        -2.9802322387695312e-08
+      ],
+      "bounds_max": [
+        3.119999885559082,
+        2.5,
+        5.618000030517578
+      ],
+      "triangle_count": 4776,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colour_values": 16,
+      "one_mesh_material_primitive": true,
+      "opaque": true,
+      "textures": 0,
+      "sha256": "94b1e1482f39c2e76e172ea14394bb4148a5b186fa0a3c84b77474f415c35595"
+    },
+    "farmstead_level_1": {
+      "named_editable_components": 89,
+      "actual_door_panels_m": [
+        {
+          "width": 0.7999999523162842,
+          "height": 1.5999999940395355
+        }
+      ],
+      "reimported": true,
+      "bounds_min": [
+        -3.7149999141693115,
+        -3.2175002098083496,
+        0.0
+      ],
+      "bounds_max": [
+        2.0,
+        2.4549999237060547,
+        3.578000068664551
+      ],
+      "triangle_count": 2272,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colour_values": 17,
+      "one_mesh_material_primitive": true,
+      "opaque": true,
+      "textures": 0,
+      "sha256": "7e41502bf9af00dd5bbf85c7cbc146f7fbd49183fd4c25b9c5d142ad53dd66bb"
+    },
+    "farmstead_level_2": {
+      "named_editable_components": 154,
+      "actual_door_panels_m": [
+        {
+          "width": 0.7999999523162842,
+          "height": 1.5999999940395355
+        }
+      ],
+      "reimported": true,
+      "bounds_min": [
+        -3.7149999141693115,
+        -3.2175002098083496,
+        0.0
+      ],
+      "bounds_max": [
+        2.942936420440674,
+        2.8600001335144043,
+        4.03000020980835
+      ],
+      "triangle_count": 3824,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colour_values": 20,
+      "one_mesh_material_primitive": true,
+      "opaque": true,
+      "textures": 0,
+      "sha256": "7ac1fc3324e72a56a54b564bc87eea8b403a239ae4c5bd6608935da3c539db4e"
+    },
+    "farmstead_level_3": {
+      "named_editable_components": 240,
+      "actual_door_panels_m": [
+        {
+          "width": 0.7999999523162842,
+          "height": 1.5999999940395355
+        },
+        {
+          "width": 0.8000001907348633,
+          "height": 1.5999999940395355
+        }
+      ],
+      "reimported": true,
+      "bounds_min": [
+        -3.7149999141693115,
+        -3.2175002098083496,
+        0.0
+      ],
+      "bounds_max": [
+        4.457715034484863,
+        2.8600001335144043,
+        5.578000068664551
+      ],
+      "triangle_count": 5884,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0,
+      "vertex_colour_values": 20,
+      "one_mesh_material_primitive": true,
+      "opaque": true,
+      "textures": 0,
+      "sha256": "1df1ead8d660f4068ac90bca79a12c73b10541cbef6969d009ddb11c8657516f"
+    }
+  },
+  "models_blend_reopened": true,
+  "map_blend_reopened": true,
+  "reused_compact_variants": {
+    "bakery": {
+      "reimported": true,
+      "geometry_matches_compact": true,
+      "triangles": 7172,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0
+    },
+    "bookshop": {
+      "reimported": true,
+      "geometry_matches_compact": true,
+      "triangles": 7920,
+      "finite_unit_normals": true,
+      "degenerate_triangles": 0
+    }
+  },
+  "scene_counts_and_cameras": {
+    "Season 1 \u2022 beginning": {
+      "count": 8,
+      "camera_matrix_matches": true,
+      "ortho": 48,
+      "unit_scale": 1.0
+    },
+    "Season 1 \u2022 middle": {
+      "count": 12,
+      "camera_matrix_matches": true,
+      "ortho": 48,
+      "unit_scale": 1.0
+    },
+    "Season 1 \u2022 final": {
+      "count": 14,
+      "camera_matrix_matches": true,
+      "ortho": 48,
+      "unit_scale": 1.0
+    }
+  },
+  "ground_contacts": {
+    "cafe": {
+      "ground_at_root": 0.0,
+      "declared_ground": 0.0,
+      "difference": 0.0
+    },
+    "bakery": {
+      "ground_at_root": 0.0,
+      "declared_ground": 0.0,
+      "difference": 0.0
+    },
+    "florist": {
+      "ground_at_root": 0.0,
+      "declared_ground": 0.0,
+      "difference": 0.0
+    },
+    "home": {
+      "ground_at_root": 1.6500015258789062,
+      "declared_ground": 1.65,
+      "difference": 1.5258789063388178e-06
+    },
+    "bookshop": {
+      "ground_at_root": 1.6500015258789062,
+      "declared_ground": 1.65,
+      "difference": 1.5258789063388178e-06
+    },
+    "workshop": {
+      "ground_at_root": -0.4500007629394531,
+      "declared_ground": -0.45,
+      "difference": -7.629394531138978e-07
+    },
+    "upper_cottage": {
+      "ground_at_root": 1.6500015258789062,
+      "declared_ground": 1.65,
+      "difference": 1.5258789063388178e-06
+    },
+    "lane_cottage": {
+      "ground_at_root": -3.814697265625e-06,
+      "declared_ground": 0.0,
+      "difference": -3.814697265625e-06
+    },
+    "cathedral": {
+      "ground_at_root": 2.8499984741210938,
+      "declared_ground": 2.85,
+      "difference": -1.5258789063388178e-06
+    },
+    "inn": {
+      "ground_at_root": -0.4499969482421875,
+      "declared_ground": -0.45,
+      "difference": 3.0517578125111022e-06
+    },
+    "watermill": {
+      "ground_at_root": -0.44770050048828125,
+      "declared_ground": -0.45,
+      "difference": 0.002299499511718761
+    },
+    "farmstead": {
+      "ground_at_root": 0.350006103515625,
+      "declared_ground": 0.35,
+      "difference": 6.1035156250222045e-06
+    },
+    "grocer": {
+      "ground_at_root": 0.0,
+      "declared_ground": 0,
+      "difference": 0.0
+    },
+    "town_hall": {
+      "ground_at_root": 1.6499977111816406,
+      "declared_ground": 1.65,
+      "difference": -2.288818359286182e-06
+    }
+  },
+  "wide_frame_projection": {
+    "cafe": {
+      "x": [
+        0.3853890895843506,
+        0.48354560136795044
+      ],
+      "y": [
+        0.37289664149284363,
+        0.5619730353355408
+      ]
+    },
+    "bakery": {
+      "x": [
+        0.4634658396244049,
+        0.5608221292495728
+      ],
+      "y": [
+        0.3457599878311157,
+        0.5218097567558289
+      ]
+    },
+    "florist": {
+      "x": [
+        0.5019575953483582,
+        0.5807830095291138
+      ],
+      "y": [
+        0.28881996870040894,
+        0.42641013860702515
+      ]
+    },
+    "home": {
+      "x": [
+        0.4650876820087433,
+        0.5373401641845703
+      ],
+      "y": [
+        0.47859975695610046,
+        0.6494206786155701
+      ]
+    },
+    "bookshop": {
+      "x": [
+        0.5357950925827026,
+        0.6188164949417114
+      ],
+      "y": [
+        0.45193466544151306,
+        0.6403499245643616
+      ]
+    },
+    "workshop": {
+      "x": [
+        0.3497125208377838,
+        0.4393823742866516
+      ],
+      "y": [
+        0.30275246500968933,
+        0.44248273968696594
+      ]
+    },
+    "upper_cottage": {
+      "x": [
+        0.41544419527053833,
+        0.4732067883014679
+      ],
+      "y": [
+        0.5241871476173401,
+        0.6384497284889221
+      ]
+    },
+    "lane_cottage": {
+      "x": [
+        0.43324583768844604,
+        0.48704028129577637
+      ],
+      "y": [
+        0.3260798156261444,
+        0.4359472393989563
+      ]
+    },
+    "cathedral": {
+      "x": [
+        0.5508416891098022,
+        0.7312501072883606
+      ],
+      "y": [
+        0.5804879665374756,
+        0.9383400082588196
+      ]
+    },
+    "inn": {
+      "x": [
+        0.14026403427124023,
+        0.34790724515914917
+      ],
+      "y": [
+        0.19007699191570282,
+        0.4887227714061737
+      ]
+    },
+    "watermill": {
+      "x": [
+        0.5280610918998718,
+        0.673213005065918
+      ],
+      "y": [
+        0.12344544380903244,
+        0.3494592010974884
+      ]
+    },
+    "farmstead": {
+      "x": [
+        0.2428504079580307,
+        0.4217109680175781
+      ],
+      "y": [
+        0.5206423997879028,
+        0.7857561707496643
+      ]
+    },
+    "grocer": {
+      "x": [
+        0.2441670149564743,
+        0.34984493255615234
+      ],
+      "y": [
+        0.3757646679878235,
+        0.5584134459495544
+      ]
+    },
+    "town_hall": {
+      "x": [
+        0.6337010264396667,
+        0.7358283996582031
+      ],
+      "y": [
+        0.37939849495887756,
+        0.583712100982666
+      ]
+    }
+  },
+  "max_stage_overlap_pairs": 0,
+  "new_building_scale": [
+    1,
+    1,
+    1
+  ],
+  "protected_art_files_unchanged": 197,
+  "passed": true
+}

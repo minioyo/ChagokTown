@@ -1,0 +1,38 @@
+00:00.828  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_sol_bakery_bookshop_v001\blend\chagok_sol_bakery_bookshop_v001.blend"
+BlenderMCP addon registered
+18:12:29 | INFO: Data are loaded, start creating Blender stuff
+18:12:29 | INFO: Blender create Mesh node Cube.071
+18:12:29 | INFO: glTF import finished in 0.01s
+VERIFIED bakery_level_1
+18:12:29 | INFO: Data are loaded, start creating Blender stuff
+18:12:29 | INFO: Blender create Mesh node Cube.232
+18:12:29 | INFO: glTF import finished in 0.02s
+VERIFIED bakery_level_2
+18:12:29 | INFO: Data are loaded, start creating Blender stuff
+18:12:29 | INFO: Blender create Mesh node Cube.442
+18:12:29 | INFO: glTF import finished in 0.02s
+VERIFIED bakery_level_3
+18:12:29 | INFO: Data are loaded, start creating Blender stuff
+18:12:29 | INFO: Blender create Mesh node Cube.630
+18:12:29 | INFO: glTF import finished in 0.01s
+VERIFIED bookshop_level_1
+18:12:29 | INFO: Data are loaded, start creating Blender stuff
+18:12:29 | INFO: Blender create Mesh node Cube.809
+18:12:29 | INFO: glTF import finished in 0.02s
+VERIFIED bookshop_level_2
+18:12:30 | INFO: Data are loaded, start creating Blender stuff
+18:12:30 | INFO: Blender create Mesh node Cube.1070
+18:12:30 | INFO: glTF import finished in 0.02s
+VERIFIED bookshop_level_3
+00:02.875  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:07.047  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_sol_bakery_bookshop_v001\renders\preview_01_bakery_levels.png'
+RENDERED preview_01_bakery_levels.png
+00:10.984  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_sol_bakery_bookshop_v001\renders\preview_02_bookshop_levels.png'
+RENDERED preview_02_bookshop_levels.png
+00:15.156  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_sol_bakery_bookshop_v001\renders\preview_03_style_with_cafe_v003.png'
+RENDERED preview_03_style_with_cafe_v003.png
+VALIDATION_COMPLETE
+BlenderMCP addon unregistered
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

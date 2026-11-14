@@ -1,0 +1,70 @@
+D:\Project\Etc\ChagokTown\art\town_layout_v002_concepts\source\build_concepts.py:29: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(name);m.use_nodes=True;m.diffuse_color=G.linear(h)
+BlenderMCP addon registered
+BlenderMCP addon unregistered
+20:08:43 | INFO: Data are loaded, start creating Blender stuff
+20:08:43 | INFO: Blender create Mesh node Cube.104
+20:08:43 | INFO: glTF import finished in 0.02s
+20:08:43 | INFO: Data are loaded, start creating Blender stuff
+20:08:43 | INFO: Blender create Mesh node Cube.200
+20:08:43 | INFO: glTF import finished in 0.02s
+20:08:43 | INFO: Data are loaded, start creating Blender stuff
+20:08:43 | INFO: Blender create Mesh node Cube.442
+20:08:43 | INFO: glTF import finished in 0.02s
+20:08:43 | INFO: Data are loaded, start creating Blender stuff
+20:08:43 | INFO: Blender create Mesh node Cube.676
+20:08:43 | INFO: glTF import finished in 0.02s
+20:08:43 | INFO: Data are loaded, start creating Blender stuff
+20:08:43 | INFO: Blender create Mesh node Cube.835
+20:08:43 | INFO: glTF import finished in 0.02s
+20:08:43 | INFO: Data are loaded, start creating Blender stuff
+20:08:43 | INFO: Blender create Mesh node Cube.204
+20:08:43 | INFO: glTF import finished in 0.01s
+20:08:43 | INFO: Data are loaded, start creating Blender stuff
+20:08:43 | INFO: Blender create Mesh node Cube.378
+20:08:43 | INFO: glTF import finished in 0.02s
+20:08:43 | INFO: Data are loaded, start creating Blender stuff
+20:08:43 | INFO: Blender create Mesh node Cube.1070
+20:08:43 | INFO: glTF import finished in 0.03s
+20:08:43 | INFO: Data are loaded, start creating Blender stuff
+20:08:43 | INFO: Blender create Mesh node Cube.763
+20:08:43 | INFO: glTF import finished in 0.01s
+20:08:43 | INFO: Data are loaded, start creating Blender stuff
+20:08:43 | INFO: Blender create Mesh node Cube.1409
+20:08:43 | INFO: glTF import finished in 0.02s
+20:08:43 | INFO: Data are loaded, start creating Blender stuff
+20:08:43 | INFO: Blender create Mesh node Cube.064
+20:08:43 | INFO: glTF import finished in 0.01s
+PLACEMENT_CHECK A []
+20:08:43 | INFO: Data are loaded, start creating Blender stuff
+20:08:43 | INFO: Blender create Mesh node Cube.232
+20:08:43 | INFO: glTF import finished in 0.02s
+20:08:43 | INFO: Data are loaded, start creating Blender stuff
+20:08:43 | INFO: Blender create Mesh node Cube.615
+20:08:43 | INFO: glTF import finished in 0.02s
+20:08:43 | INFO: Data are loaded, start creating Blender stuff
+20:08:43 | INFO: Blender create Mesh node Cube.1182
+20:08:43 | INFO: glTF import finished in 0.02s
+20:08:43 | INFO: Data are loaded, start creating Blender stuff
+20:08:43 | INFO: Blender create Mesh node Cube.314
+20:08:43 | INFO: glTF import finished in 0.01s
+PLACEMENT_CHECK B []
+D:\Project\Etc\ChagokTown\art\town_layout_v002_concepts\source\build_concepts.py:417: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world=bpy.data.worlds.new('Soft daylight • same comparison light');world.use_nodes=True
+D:\Project\Etc\ChagokTown\art\town_layout_v002_concepts\source\build_concepts.py:203: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat=bpy.data.materials.new(label+' • blended ground');mat.use_nodes=True
+00:12.094  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:12.203  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_layout_v002_concepts\blend\chagok_layout_v002_concepts.blend"
+00:21.937  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_layout_v002_concepts\renders\A_oblique.png'
+Info: Saved as "chagok_layout_v002_concepts.blend"
+RENDERED A_oblique.png
+00:31.062  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_layout_v002_concepts\renders\A_top.png'
+RENDERED A_top.png
+00:40.297  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_layout_v002_concepts\renders\B_oblique.png'
+RENDERED B_oblique.png
+00:49.703  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_layout_v002_concepts\renders\B_top.png'
+RENDERED B_top.png
+CONCEPTS_COMPLETE
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

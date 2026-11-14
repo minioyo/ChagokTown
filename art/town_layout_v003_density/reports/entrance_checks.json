@@ -1,0 +1,410 @@
+{
+  "Compact": {
+    "bakery": {
+      "points": [
+        [
+          -1.248924,
+          1.4724
+        ],
+        [
+          -1.5048,
+          0.819
+        ]
+      ],
+      "three_ray_half_width_m": 0.24,
+      "height_above_terrain_m": 0.55,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "cafe": {
+      "points": [
+        [
+          -3.1151831558309926,
+          2.157480247501699
+        ],
+        [
+          -3.1675,
+          1.4842
+        ]
+      ],
+      "three_ray_half_width_m": 0.24,
+      "height_above_terrain_m": 0.55,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "florist": {
+      "points": [
+        [
+          1.675881877264476,
+          1.150505161773738
+        ],
+        [
+          1.6899,
+          1.0595
+        ]
+      ],
+      "three_ray_half_width_m": 0.24,
+      "height_above_terrain_m": 0.55,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "home": {
+      "points": [
+        [
+          -2.0415435510943842,
+          4.711646818643038
+        ],
+        [
+          -2.0575,
+          4.7679
+        ]
+      ],
+      "three_ray_half_width_m": 0.24,
+      "height_above_terrain_m": 0.55,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "bookshop": {
+      "points": [
+        [
+          0.7881079774891442,
+          5.399536754761808
+        ],
+        [
+          0.8244,
+          5.3797
+        ]
+      ],
+      "three_ray_half_width_m": 0.24,
+      "height_above_terrain_m": 0.55,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "upper_cottage": {
+      "points": [
+        [
+          -5.710975185943501,
+          5.8225051777932535
+        ],
+        [
+          -5.7006,
+          5.8259
+        ]
+      ],
+      "three_ray_half_width_m": 0.1856,
+      "height_above_terrain_m": 0.49299999999999994,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "workshop": {
+      "points": [
+        [
+          -3.084664671608814,
+          -2.848718397058189
+        ],
+        [
+          -3.0023,
+          -2.9211
+        ]
+      ],
+      "three_ray_half_width_m": 0.24,
+      "height_above_terrain_m": 0.55,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "lane_cottage": {
+      "points": [
+        [
+          -1.5179425159949755,
+          -0.20179620489169758
+        ],
+        [
+          -1.3744,
+          0.0968
+        ]
+      ],
+      "three_ray_half_width_m": 0.192,
+      "height_above_terrain_m": 0.51,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    }
+  },
+  "Dense": {
+    "bakery": {
+      "points": [
+        [
+          -1.248924,
+          1.4724
+        ],
+        [
+          -1.2489,
+          1.4724
+        ]
+      ],
+      "three_ray_half_width_m": 0.24,
+      "height_above_terrain_m": 0.55,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "cafe": {
+      "points": [
+        [
+          -3.1151831558309926,
+          2.157480247501699
+        ],
+        [
+          -3.1152,
+          2.1575
+        ]
+      ],
+      "three_ray_half_width_m": 0.24,
+      "height_above_terrain_m": 0.55,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "florist": {
+      "points": [
+        [
+          1.675881877264476,
+          1.150505161773738
+        ],
+        [
+          1.6759,
+          1.1505
+        ]
+      ],
+      "three_ray_half_width_m": 0.24,
+      "height_above_terrain_m": 0.55,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "home": {
+      "points": [
+        [
+          -2.0415435510943842,
+          4.711646818643038
+        ],
+        [
+          -2.0575,
+          4.7679
+        ]
+      ],
+      "three_ray_half_width_m": 0.24,
+      "height_above_terrain_m": 0.55,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "bookshop": {
+      "points": [
+        [
+          0.7881079774891442,
+          5.399536754761808
+        ],
+        [
+          0.8244,
+          5.3797
+        ]
+      ],
+      "three_ray_half_width_m": 0.24,
+      "height_above_terrain_m": 0.55,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "upper_cottage": {
+      "points": [
+        [
+          -5.710975185943501,
+          5.8225051777932535
+        ],
+        [
+          -5.7006,
+          5.8259
+        ]
+      ],
+      "three_ray_half_width_m": 0.1856,
+      "height_above_terrain_m": 0.49299999999999994,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "workshop": {
+      "points": [
+        [
+          -3.084664671608814,
+          -2.848718397058189
+        ],
+        [
+          -3.0847,
+          -2.8487
+        ]
+      ],
+      "three_ray_half_width_m": 0.24,
+      "height_above_terrain_m": 0.55,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "lane_cottage": {
+      "points": [
+        [
+          -1.5179425159949755,
+          -0.20179620489169758
+        ],
+        [
+          -1.5179,
+          -0.2018
+        ]
+      ],
+      "three_ray_half_width_m": 0.192,
+      "height_above_terrain_m": 0.51,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "infill_west": {
+      "points": [
+        [
+          -6.216558146147953,
+          2.8116982591683457
+        ],
+        [
+          -5.806587165688944,
+          2.7540805953708785
+        ],
+        [
+          -6.566587165688944,
+          0.4740805953708782
+        ],
+        [
+          -3.906587165688944,
+          -0.2859194046291216
+        ],
+        [
+          -3.1465871656889437,
+          0.4740805953708782
+        ],
+        [
+          -3.0478,
+          0.7002
+        ]
+      ],
+      "three_ray_half_width_m": 0.1472,
+      "height_above_terrain_m": 0.391,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "infill_court": {
+      "points": [
+        [
+          2.1329774941164095,
+          -1.8073110741805933
+        ],
+        [
+          1.0215,
+          -0.1266
+        ]
+      ],
+      "three_ray_half_width_m": 0.16,
+      "height_above_terrain_m": 0.425,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "infill_upper": {
+      "points": [
+        [
+          -0.9837738707684281,
+          7.331454514122874
+        ],
+        [
+          -1.6912,
+          5.5975
+        ]
+      ],
+      "three_ray_half_width_m": 0.16,
+      "height_above_terrain_m": 0.425,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "infill_back": {
+      "points": [
+        [
+          -5.660320323027551,
+          7.809881489732213
+        ],
+        [
+          -6.050031754730548,
+          8.034881489732213
+        ],
+        [
+          -5.5285,
+          5.8077
+        ]
+      ],
+      "three_ray_half_width_m": 0.16,
+      "height_above_terrain_m": 0.425,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "infill_east": {
+      "points": [
+        [
+          2.27040657878895,
+          3.331413343649721
+        ],
+        [
+          1.3991,
+          1.1079
+        ]
+      ],
+      "three_ray_half_width_m": 0.1536,
+      "height_above_terrain_m": 0.408,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "infill_work": {
+      "points": [
+        [
+          -5.896111799580735,
+          -0.3864889344763191
+        ],
+        [
+          -1.8409,
+          0.2952
+        ]
+      ],
+      "three_ray_half_width_m": 0.16,
+      "height_above_terrain_m": 0.425,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "infill_lower_west": {
+      "points": [
+        [
+          -5.8401103851887175,
+          -3.4481362037740753
+        ],
+        [
+          -2.041,
+          -4.0483
+        ]
+      ],
+      "three_ray_half_width_m": 0.17920000000000003,
+      "height_above_terrain_m": 0.47600000000000003,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    },
+    "infill_lower_east": {
+      "points": [
+        [
+          4.538865682311794,
+          -1.586572740656357
+        ],
+        [
+          0.8296,
+          -0.256
+        ]
+      ],
+      "three_ray_half_width_m": 0.1856,
+      "height_above_terrain_m": 0.49299999999999994,
+      "sampled_ground_grade_limit": 0.7,
+      "clear_of_current_building_meshes": true
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "Season 1 \u2022 beginning": {
+    "buildings": 8,
+    "building_triangles": 21904,
+    "environment_triangles": 68212,
+    "total_scene_triangles": 90116,
+    "camera_matrix": [
+      [
+        0.8192318081855774,
+        -0.3143438994884491,
+        0.47963225841522217,
+        26.299999237060547
+      ],
+      [
+        0.5734624862670898,
+        0.4490625560283661,
+        -0.6851887106895447,
+        -36.599998474121094
+      ],
+      [
+        6.239979200017842e-09,
+        0.8363794684410095,
+        0.5481508374214172,
+        34.900001525878906
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "ortho_scale": 48.0,
+    "level_assignments": {
+      "cafe": 1,
+      "bakery": 1,
+      "home": 1,
+      "workshop": 1,
+      "cathedral": 1,
+      "inn": 1,
+      "watermill": 1,
+      "farmstead": 1
+    }
+  },
+  "Season 1 \u2022 middle": {
+    "buildings": 12,
+    "building_triangles": 53682,
+    "environment_triangles": 68212,
+    "total_scene_triangles": 121894,
+    "camera_matrix": [
+      [
+        0.8192318081855774,
+        -0.3143438994884491,
+        0.47963225841522217,
+        26.299999237060547
+      ],
+      [
+        0.5734624862670898,
+        0.4490625560283661,
+        -0.6851887106895447,
+        -36.599998474121094
+      ],
+      [
+        6.239979200017842e-09,
+        0.8363794684410095,
+        0.5481508374214172,
+        34.900001525878906
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "ortho_scale": 48.0,
+    "level_assignments": {
+      "cafe": 2,
+      "bakery": 2,
+      "florist": 2,
+      "home": 2,
+      "bookshop": 2,
+      "workshop": 2,
+      "upper_cottage": 2,
+      "lane_cottage": 2,
+      "cathedral": 2,
+      "inn": 2,
+      "watermill": 2,
+      "farmstead": 2
+    }
+  },
+  "Season 1 \u2022 final": {
+    "buildings": 14,
+    "building_triangles": 85762,
+    "environment_triangles": 68212,
+    "total_scene_triangles": 153974,
+    "camera_matrix": [
+      [
+        0.8192318081855774,
+        -0.3143438994884491,
+        0.47963225841522217,
+        26.299999237060547
+      ],
+      [
+        0.5734624862670898,
+        0.4490625560283661,
+        -0.6851887106895447,
+        -36.599998474121094
+      ],
+      [
+        6.239979200017842e-09,
+        0.8363794684410095,
+        0.5481508374214172,
+        34.900001525878906
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "ortho_scale": 48.0,
+    "level_assignments": {
+      "cafe": 3,
+      "bakery": 3,
+      "florist": 3,
+      "home": 3,
+      "bookshop": 3,
+      "workshop": 3,
+      "upper_cottage": 3,
+      "lane_cottage": 3,
+      "cathedral": 3,
+      "inn": 3,
+      "watermill": 3,
+      "farmstead": 3,
+      "grocer": 3,
+      "town_hall": 3
+    }
+  }
+}

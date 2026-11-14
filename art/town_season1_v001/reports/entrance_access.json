@@ -1,0 +1,268 @@
+{
+  "bakery": {
+    "local_primary_door": [
+      -1.1034,
+      -1.66
+    ],
+    "path_xy": [
+      [
+        -1.248924,
+        1.4724
+      ],
+      [
+        -1.2489,
+        1.4724
+      ]
+    ],
+    "three_ray_half_width": 0.25,
+    "ray_height": 0.65,
+    "clear": true
+  },
+  "cafe": {
+    "local_primary_door": [
+      1,
+      -1.75
+    ],
+    "path_xy": [
+      [
+        -3.0540545250756046,
+        2.14223916807892
+      ],
+      [
+        -3.1152,
+        2.1575
+      ]
+    ],
+    "three_ray_half_width": 0.25,
+    "ray_height": 0.65,
+    "clear": true
+  },
+  "florist": {
+    "local_primary_door": [
+      -0.65,
+      -1.63
+    ],
+    "path_xy": [
+      [
+        1.643126828524526,
+        1.1522217811385067
+      ],
+      [
+        1.6759,
+        1.1505
+      ]
+    ],
+    "three_ray_half_width": 0.24599999999999997,
+    "ray_height": 0.65,
+    "clear": true
+  },
+  "home": {
+    "local_primary_door": [
+      0.67,
+      -1.66
+    ],
+    "path_xy": [
+      [
+        -2.0161920867039465,
+        4.663967648628655
+      ],
+      [
+        -2.0575,
+        4.7679
+      ]
+    ],
+    "three_ray_half_width": 0.25,
+    "ray_height": 0.65,
+    "clear": true
+  },
+  "bookshop": {
+    "local_primary_door": [
+      0.7803,
+      -1.64
+    ],
+    "path_xy": [
+      [
+        0.7881079774891442,
+        5.399536754761808
+      ],
+      [
+        0.8244,
+        5.3797
+      ]
+    ],
+    "three_ray_half_width": 0.237,
+    "ray_height": 0.65,
+    "clear": true
+  },
+  "upper_cottage": {
+    "local_primary_door": [
+      0.67,
+      -1.66
+    ],
+    "path_xy": [
+      [
+        -5.62446052190675,
+        5.862057332053269
+      ],
+      [
+        -5.6534,
+        5.8209
+      ]
+    ],
+    "three_ray_half_width": 0.174,
+    "ray_height": 0.49299999999999994,
+    "clear": true
+  },
+  "workshop": {
+    "local_primary_door": [
+      -1.0,
+      -1.65
+    ],
+    "path_xy": [
+      [
+        -3.008723705696794,
+        -3.1955799972625782
+      ],
+      [
+        -2.9548,
+        -3.1342
+      ]
+    ],
+    "three_ray_half_width": 0.24,
+    "ray_height": 0.65,
+    "clear": true
+  },
+  "lane_cottage": {
+    "local_primary_door": [
+      0.67,
+      -1.66
+    ],
+    "path_xy": [
+      [
+        -1.5960859510903163,
+        -0.1419831331473017
+      ],
+      [
+        -1.6225,
+        -0.1515
+      ]
+    ],
+    "three_ray_half_width": 0.18,
+    "ray_height": 0.51,
+    "clear": true
+  },
+  "cathedral": {
+    "local_primary_door": [
+      0,
+      -3.87
+    ],
+    "path_xy": [
+      [
+        0.004618243464728611,
+        10.41456878516017
+      ],
+      [
+        -0.0405,
+        10.1306
+      ]
+    ],
+    "three_ray_half_width": 0.25,
+    "ray_height": 0.65,
+    "clear": true
+  },
+  "inn": {
+    "local_primary_door": [
+      0.8,
+      -0.91
+    ],
+    "path_xy": [
+      [
+        -6.620360251845079,
+        -10.612675025328548
+      ],
+      [
+        -6.6204,
+        -10.6127
+      ]
+    ],
+    "three_ray_half_width": 0.25,
+    "ray_height": 0.65,
+    "clear": true
+  },
+  "watermill": {
+    "local_primary_door": [
+      -0.65,
+      -1.84
+    ],
+    "path_xy": [
+      [
+        8.895921169923467,
+        -6.109071141055248
+      ],
+      [
+        8.8959,
+        -6.1091
+      ]
+    ],
+    "three_ray_half_width": 0.25,
+    "ray_height": 0.65,
+    "clear": true
+  },
+  "farmstead": {
+    "local_primary_door": [
+      -2.1,
+      -1.25
+    ],
+    "path_xy": [
+      [
+        -14.97497352560109,
+        3.4796169165487187
+      ],
+      [
+        -14.975,
+        3.4796
+      ]
+    ],
+    "three_ray_half_width": 0.25,
+    "ray_height": 0.65,
+    "clear": true
+  },
+  "grocer": {
+    "local_primary_door": [
+      0,
+      -1.65
+    ],
+    "path_xy": [
+      [
+        -8.84313647178277,
+        -2.57462807859672
+      ],
+      [
+        -8.975,
+        -2.5727
+      ]
+    ],
+    "three_ray_half_width": 0.25,
+    "ray_height": 0.65,
+    "clear": true
+  },
+  "town_hall": {
+    "local_primary_door": [
+      0,
+      -1.65
+    ],
+    "path_xy": [
+      [
+        6.3253719214032795,
+        5.443136471782771
+      ],
+      [
+        5.675,
+        5.5067
+      ]
+    ],
+    "three_ray_half_width": 0.25,
+    "ray_height": 0.65,
+    "clear": true
+  }
+}

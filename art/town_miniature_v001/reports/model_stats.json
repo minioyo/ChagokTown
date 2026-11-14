@@ -1,0 +1,213 @@
+{
+  "house": {
+    "mesh_objects": 186,
+    "evaluated_vertices": 19230,
+    "triangles": 36748,
+    "materials": 20,
+    "material_names": [
+      "Brass",
+      "Brick",
+      "Clay light",
+      "Cream",
+      "Dark wood",
+      "Earth",
+      "Flower cream",
+      "Flower pink",
+      "Glass",
+      "Glass glint",
+      "Ink",
+      "Leaf",
+      "Leaf dark",
+      "Leaf light",
+      "Stone",
+      "Teal roof",
+      "Terracotta",
+      "Warm plaster",
+      "Wood",
+      "Wood light"
+    ],
+    "bounds_min": [
+      -1.6735564470291138,
+      -1.9240269660949707,
+      0.0
+    ],
+    "bounds_max": [
+      1.7100000381469727,
+      1.5150001049041748,
+      4.184999942779541
+    ],
+    "dimensions": [
+      3.3835564851760864,
+      3.4390270709991455,
+      4.184999942779541
+    ]
+  },
+  "cafe": {
+    "mesh_objects": 97,
+    "evaluated_vertices": 14158,
+    "triangles": 26232,
+    "materials": 17,
+    "material_names": [
+      "Brass",
+      "Butter plaster",
+      "Chalk",
+      "Clay light",
+      "Cream",
+      "Dark wood",
+      "Earth",
+      "Glass",
+      "Glass glint",
+      "Ink",
+      "Leaf light",
+      "Stone",
+      "Teal dark",
+      "Teal roof",
+      "Teal tile",
+      "Terracotta",
+      "Wood light"
+    ],
+    "bounds_min": [
+      -1.6502373218536377,
+      -2.380000114440918,
+      0.0
+    ],
+    "bounds_max": [
+      2.190000057220459,
+      1.390553593635559,
+      3.309999942779541
+    ],
+    "dimensions": [
+      3.8402373790740967,
+      3.770553708076477,
+      3.309999942779541
+    ]
+  },
+  "flower_shop": {
+    "mesh_objects": 303,
+    "evaluated_vertices": 27532,
+    "triangles": 52792,
+    "materials": 23,
+    "material_names": [
+      "Brass",
+      "Clay light",
+      "Cream",
+      "Dark wood",
+      "Earth",
+      "Flower cream",
+      "Flower pink",
+      "Flower plum",
+      "Glass",
+      "Glass glint",
+      "Glass light",
+      "Leaf",
+      "Leaf dark",
+      "Leaf light",
+      "Rose canopy",
+      "Sage plaster",
+      "Stone",
+      "Teal dark",
+      "Teal roof",
+      "Teal tile",
+      "Terracotta",
+      "Wood",
+      "Wood light"
+    ],
+    "bounds_min": [
+      -1.652474284172058,
+      -1.875,
+      0.0
+    ],
+    "bounds_max": [
+      2.009999990463257,
+      1.475000023841858,
+      3.8000001907348633
+    ],
+    "dimensions": [
+      3.662474274635315,
+      3.350000023841858,
+      3.8000001907348633
+    ]
+  },
+  "round_tree": {
+    "mesh_objects": 15,
+    "evaluated_vertices": 2338,
+    "triangles": 4616,
+    "materials": 5,
+    "material_names": [
+      "Grass",
+      "Leaf",
+      "Leaf dark",
+      "Leaf light",
+      "Wood"
+    ],
+    "bounds_min": [
+      -1.0965521335601807,
+      -0.8490638732910156,
+      -5.551115123125783e-17
+    ],
+    "bounds_max": [
+      1.1009788513183594,
+      1.0744479894638062,
+      3.1900534629821777
+    ],
+    "dimensions": [
+      2.19753098487854,
+      1.9235118627548218,
+      3.1900534629821777
+    ]
+  },
+  "wood_bench": {
+    "mesh_objects": 26,
+    "evaluated_vertices": 2032,
+    "triangles": 3960,
+    "materials": 4,
+    "material_names": [
+      "Brass",
+      "Teal dark",
+      "Wood",
+      "Wood light"
+    ],
+    "bounds_min": [
+      -0.824999988079071,
+      -0.30000001192092896,
+      -5.122274160385132e-09
+    ],
+    "bounds_max": [
+      0.824999988079071,
+      0.4185495674610138,
+      1.1346280574798584
+    ],
+    "dimensions": [
+      1.649999976158142,
+      0.7185495793819427,
+      1.1346280626021326
+    ]
+  },
+  "street_lamp": {
+    "mesh_objects": 14,
+    "evaluated_vertices": 1398,
+    "triangles": 2740,
+    "materials": 4,
+    "material_names": [
+      "Brass",
+      "Lamp glow",
+      "Teal dark",
+      "Teal roof"
+    ],
+    "bounds_min": [
+      -0.249479740858078,
+      -0.249479740858078,
+      0.0
+    ],
+    "bounds_max": [
+      0.249479740858078,
+      0.249479740858078,
+      2.8499999046325684
+    ],
+    "dimensions": [
+      0.498959481716156,
+      0.498959481716156,
+      2.8499999046325684
+    ]
+  }
+}

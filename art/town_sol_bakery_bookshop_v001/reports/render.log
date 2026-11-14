@@ -1,0 +1,54 @@
+00:00.813  blend            | Read blend: "D:\Project\Etc\ChagokTown\art\town_sol_bakery_bookshop_v001\blend\chagok_sol_bakery_bookshop_v001.blend"
+BlenderMCP addon registered
+18:32:27 | INFO: Data are loaded, start creating Blender stuff
+18:32:27 | INFO: Blender create Mesh node Cube.071
+18:32:27 | INFO: glTF import finished in 0.01s
+VERIFIED bakery_level_1
+18:32:27 | INFO: Data are loaded, start creating Blender stuff
+18:32:27 | INFO: Blender create Mesh node Cube.232
+18:32:27 | INFO: glTF import finished in 0.02s
+VERIFIED bakery_level_2
+18:32:27 | INFO: Data are loaded, start creating Blender stuff
+18:32:27 | INFO: Blender create Mesh node Cube.442
+18:32:27 | INFO: glTF import finished in 0.02s
+VERIFIED bakery_level_3
+18:32:27 | INFO: Data are loaded, start creating Blender stuff
+18:32:27 | INFO: Blender create Mesh node Cube.630
+18:32:27 | INFO: glTF import finished in 0.01s
+VERIFIED bookshop_level_1
+18:32:28 | INFO: Data are loaded, start creating Blender stuff
+18:32:28 | INFO: Blender create Mesh node Cube.809
+18:32:28 | INFO: glTF import finished in 0.02s
+VERIFIED bookshop_level_2
+18:32:28 | INFO: Data are loaded, start creating Blender stuff
+18:32:28 | INFO: Blender create Mesh node Cube.1070
+18:32:28 | INFO: glTF import finished in 0.02s
+VERIFIED bookshop_level_3
+00:02.906  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:17.063  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_sol_bakery_bookshop_v001\renders\01_bakery_levels.png'
+RENDERED 01_bakery_levels.png
+00:30.188  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_sol_bakery_bookshop_v001\renders\02_bookshop_levels.png'
+RENDERED 02_bookshop_levels.png
+00:43.031  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_sol_bakery_bookshop_v001\renders\03_style_with_cafe_v003.png'
+RENDERED 03_style_with_cafe_v003.png
+00:49.094  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_sol_bakery_bookshop_v001\renders\bakery_level_1.png'
+RENDERED bakery_level_1.png
+00:55.188  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_sol_bakery_bookshop_v001\renders\bakery_level_2.png'
+RENDERED bakery_level_2.png
+01:01.406  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_sol_bakery_bookshop_v001\renders\bakery_level_3.png'
+RENDERED bakery_level_3.png
+01:07.453  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_sol_bakery_bookshop_v001\renders\bakery_level_3_back.png'
+RENDERED bakery_level_3_back.png
+01:13.406  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_sol_bakery_bookshop_v001\renders\bookshop_level_1.png'
+RENDERED bookshop_level_1.png
+01:19.360  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_sol_bakery_bookshop_v001\renders\bookshop_level_2.png'
+RENDERED bookshop_level_2.png
+01:25.422  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_sol_bakery_bookshop_v001\renders\bookshop_level_3.png'
+RENDERED bookshop_level_3.png
+01:31.750  render           | Saved: 'D:\Project\Etc\ChagokTown\art\town_sol_bakery_bookshop_v001\renders\bookshop_level_3_back.png'
+RENDERED bookshop_level_3_back.png
+VALIDATION_COMPLETE
+BlenderMCP addon unregistered
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit
